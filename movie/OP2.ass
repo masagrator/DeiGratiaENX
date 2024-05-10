@@ -16,7 +16,9 @@ Video File: OP2.avi
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Video Position: 235
+Scroll Position: 136
+Active Line: 145
+Video Position: 457
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -57,32 +59,32 @@ Dialogue: 0,0:00:09.60,0:00:09.64,Default,,0,0,0,,{=18}{\frz-0.07\fscx43.16\fscy
 Dialogue: 0,0:00:09.64,0:00:09.68,Default,,0,0,0,,{=18}{\frz-0.09\fscx41.91\fscy52.39\alpha&H00&\fs72\b1\blur0.31\c&H2D2D2D&\pos(627.9,498.57)}Rows of White\NWindmills\Nline the\N<Isle of Wind>\Nin Kurama Bay
 Dialogue: 0,0:00:09.68,0:00:09.72,Default,,0,0,0,,{=18}{\frz-0.11\fscx40.75\fscy50.93\alpha&H00&\fs72\b1\blur0.31\c&H2D2D2D&\pos(624.61,502.26)}Rows of White\NWindmills\Nline the\N<Isle of Wind>\Nin Kurama Bay
 Dialogue: 0,0:00:09.72,0:00:09.77,Default,,0,0,0,,{=18}{\frz-0.12\fscx39.63\fscy49.54\alpha&H00&\fs72\b1\blur0.3\c&H2D2D2D&\pos(621.5,505.66)}Rows of White\NWindmills\Nline the\N<Isle of Wind>\Nin Kurama Bay
-Dialogue: 1,0:00:10.39,0:00:10.43,Default,,0,0,0,,{=23}{\frz0\fscy100\alpha&H00&\q2\b1\fscx100\blur0.6\pos(512,429)}Carrying 50 passengers
-Dialogue: 1,0:00:10.43,0:00:10.47,Default,,0,0,0,,{=23}{\frz0.01\fscy105.95\alpha&H00&\q2\b1\fscx105.95\blur0.64\pos(512.75,437.48)}Carrying 50 passengers
-Dialogue: 1,0:00:10.47,0:00:10.52,Default,,0,0,0,,{=23}{\frz-0.01\fscy112.7\alpha&H00&\q2\b1\fscx112.7\blur0.68\pos(513.57,447.13)}Carrying 50 passengers
-Dialogue: 1,0:00:10.52,0:00:10.56,Default,,0,0,0,,{=23}{\frz-0.01\fscy120.31\alpha&H00&\q2\b1\fscx120.31\blur0.72\pos(514.48,458.02)}Carrying 50 passengers
-Dialogue: 1,0:00:10.56,0:00:10.60,Default,,0,0,0,,{=23}{\frz-0.02\fscy129.09\alpha&H00&\q2\b1\fscx129.09\blur0.77\pos(515.54,470.57)}Carrying 50 passengers
-Dialogue: 1,0:00:10.60,0:00:10.64,Default,,0,0,0,,{=23}{\frz-0.01\fscy139.2\alpha&H00&\q2\b1\fscx139.2\blur0.84\pos(516.76,485)}Carrying 50 passengers
-Dialogue: 1,0:00:10.64,0:00:10.68,Default,,0,0,0,,{=23}{\frz-0.02\fscy151.04\alpha&H00&\q2\b1\fscx151.04\blur0.91\pos(518.14,501.93)}Carrying 50 passengers
-Dialogue: 1,0:00:10.68,0:00:10.72,Default,,0,0,0,,{=23}{\frz-0.01\fscy165.07\alpha&H00&\q2\b1\fscx165.07\blur0.99\pos(519.78,521.97)}Carrying 50 passengers
-Dialogue: 1,0:00:10.72,0:00:10.77,Default,,0,0,0,,{=23}{\frz-0.01\fscy181.96\alpha&H00&\q2\b1\fscx181.96\blur1.09\pos(521.74,546.11)}Carrying 50 passengers
-Dialogue: 1,0:00:10.77,0:00:10.81,Default,,0,0,0,,{=23}{\frz-0.03\fscy202.76\alpha&H00&\q2\b1\fscx202.76\blur1.22\pos(524.14,575.9)}Carrying 50 passengers
-Dialogue: 1,0:00:10.81,0:00:10.85,Default,,0,0,0,,{=23}{\frz-0.02\fscy228.85\alpha&H00&\q2\b1\fscx228.85\blur1.37\pos(527.2,613.17)}Carrying 50 passengers
-Dialogue: 1,0:00:10.85,0:00:10.89,Default,,0,0,0,,{=23}{\frz-0.03\fscy262.63\alpha&H00&\q2\b1\fscx262.63\blur1.58\pos(531.03,661.55)}Carrying 50 passengers
-Dialogue: 1,0:00:10.89,0:00:10.93,Default,,0,0,0,,{=23}{\frz0.51\fscy304.69\alpha&H00&\q2\b1\fscx304.69\blur1.83\pos(535.99,721.31)}Carrying 50 passengers
-Dialogue: 0,0:00:10.39,0:00:10.43,Default,,0,0,0,,{=22}{\frz0\fscy100\alpha&H00&\q2\b1\fscx100\bord1\1aff\3c&HC6C6C6&\pos(512,429)}Carrying 50 passengers
-Dialogue: 0,0:00:10.43,0:00:10.47,Default,,0,0,0,,{=22}{\frz0.01\fscy105.95\alpha&H00&\q2\b1\fscx105.95\bord1\1aff\3c&HC6C6C6&\pos(512.75,437.48)}Carrying 50 passengers
-Dialogue: 0,0:00:10.47,0:00:10.52,Default,,0,0,0,,{=22}{\frz-0.01\fscy112.7\alpha&H00&\q2\b1\fscx112.7\bord1\1aff\3c&HC6C6C6&\pos(513.57,447.13)}Carrying 50 passengers
-Dialogue: 0,0:00:10.52,0:00:10.56,Default,,0,0,0,,{=22}{\frz-0.01\fscy120.31\alpha&H00&\q2\b1\fscx120.31\bord1\1aff\3c&HC6C6C6&\pos(514.48,458.02)}Carrying 50 passengers
-Dialogue: 0,0:00:10.56,0:00:10.60,Default,,0,0,0,,{=22}{\frz-0.02\fscy129.09\alpha&H00&\q2\b1\fscx129.09\bord1\1aff\3c&HC6C6C6&\pos(515.54,470.57)}Carrying 50 passengers
-Dialogue: 0,0:00:10.60,0:00:10.64,Default,,0,0,0,,{=22}{\frz-0.01\fscy139.2\alpha&H00&\q2\b1\fscx139.2\bord1\1aff\3c&HC6C6C6&\pos(516.76,485)}Carrying 50 passengers
-Dialogue: 0,0:00:10.64,0:00:10.68,Default,,0,0,0,,{=22}{\frz-0.02\fscy151.04\alpha&H00&\q2\b1\fscx151.04\bord1\1aff\3c&HC6C6C6&\pos(518.14,501.93)}Carrying 50 passengers
-Dialogue: 0,0:00:10.68,0:00:10.72,Default,,0,0,0,,{=22}{\frz-0.01\fscy165.07\alpha&H00&\q2\b1\fscx165.07\bord1\1aff\3c&HC6C6C6&\pos(519.78,521.97)}Carrying 50 passengers
-Dialogue: 0,0:00:10.72,0:00:10.77,Default,,0,0,0,,{=22}{\frz-0.01\fscy181.96\alpha&H00&\q2\b1\fscx181.96\bord1\1aff\3c&HC6C6C6&\pos(521.74,546.11)}Carrying 50 passengers
-Dialogue: 0,0:00:10.77,0:00:10.81,Default,,0,0,0,,{=22}{\frz-0.03\fscy202.76\alpha&H00&\q2\b1\fscx202.76\bord1\1aff\3c&HC6C6C6&\pos(524.14,575.9)}Carrying 50 passengers
-Dialogue: 0,0:00:10.81,0:00:10.85,Default,,0,0,0,,{=22}{\frz-0.02\fscy228.85\alpha&H00&\q2\b1\fscx228.85\bord1\1aff\3c&HC6C6C6&\pos(527.2,613.17)}Carrying 50 passengers
-Dialogue: 0,0:00:10.85,0:00:10.89,Default,,0,0,0,,{=22}{\frz-0.03\fscy262.63\alpha&H00&\q2\b1\fscx262.63\bord1\1aff\3c&HC6C6C6&\pos(531.03,661.55)}Carrying 50 passengers
-Dialogue: 0,0:00:10.89,0:00:10.93,Default,,0,0,0,,{=22}{\frz0.51\fscy304.69\alpha&H00&\q2\b1\fscx304.69\bord1\1aff\3c&HC6C6C6&\pos(535.99,721.31)}Carrying 50 passengers
+Dialogue: 1,0:00:10.39,0:00:10.43,Default,,0,0,0,,{=23}{\frz0\fscy100\alpha&H00&\q2\b1\fscx100\blur0.6\pos(512,429)}While carrying 50 passengers
+Dialogue: 1,0:00:10.43,0:00:10.47,Default,,0,0,0,,{=23}{\frz0.01\fscy105.95\alpha&H00&\q2\b1\fscx105.95\blur0.64\pos(512.75,437.48)}While carrying 50 passengers
+Dialogue: 1,0:00:10.47,0:00:10.52,Default,,0,0,0,,{=23}{\frz-0.01\fscy112.7\alpha&H00&\q2\b1\fscx112.7\blur0.68\pos(513.57,447.13)}While carrying 50 passengers
+Dialogue: 1,0:00:10.52,0:00:10.56,Default,,0,0,0,,{=23}{\frz-0.01\fscy120.31\alpha&H00&\q2\b1\fscx120.31\blur0.72\pos(514.48,458.02)}While carrying 50 passengers
+Dialogue: 1,0:00:10.56,0:00:10.60,Default,,0,0,0,,{=23}{\frz-0.02\fscy129.09\alpha&H00&\q2\b1\fscx129.09\blur0.77\pos(515.54,470.57)}While carrying 50 passengers
+Dialogue: 1,0:00:10.60,0:00:10.64,Default,,0,0,0,,{=23}{\frz-0.01\fscy139.2\alpha&H00&\q2\b1\fscx139.2\blur0.84\pos(516.76,485)}While carrying 50 passengers
+Dialogue: 1,0:00:10.64,0:00:10.68,Default,,0,0,0,,{=23}{\frz-0.02\fscy151.04\alpha&H00&\q2\b1\fscx151.04\blur0.91\pos(518.14,501.93)}While carrying 50 passengers
+Dialogue: 1,0:00:10.68,0:00:10.72,Default,,0,0,0,,{=23}{\frz-0.01\fscy165.07\alpha&H00&\q2\b1\fscx165.07\blur0.99\pos(519.78,521.97)}While carrying 50 passengers
+Dialogue: 1,0:00:10.72,0:00:10.77,Default,,0,0,0,,{=23}{\frz-0.01\fscy181.96\alpha&H00&\q2\b1\fscx181.96\blur1.09\pos(521.74,546.11)}While carrying 50 passengers
+Dialogue: 1,0:00:10.77,0:00:10.81,Default,,0,0,0,,{=23}{\frz-0.03\fscy202.76\alpha&H00&\q2\b1\fscx202.76\blur1.22\pos(524.14,575.9)}While carrying 50 passengers
+Dialogue: 1,0:00:10.81,0:00:10.85,Default,,0,0,0,,{=23}{\frz-0.02\fscy228.85\alpha&H00&\q2\b1\fscx228.85\blur1.37\pos(527.2,613.17)}While carrying 50 passengers
+Dialogue: 1,0:00:10.85,0:00:10.89,Default,,0,0,0,,{=23}{\frz-0.03\fscy262.63\alpha&H00&\q2\b1\fscx262.63\blur1.58\pos(531.03,661.55)}While carrying 50 passengers
+Dialogue: 1,0:00:10.89,0:00:10.93,Default,,0,0,0,,{=23}{\frz0.51\fscy304.69\alpha&H00&\q2\b1\fscx304.69\blur1.83\pos(535.99,721.31)}While carrying 50 passengers
+Dialogue: 0,0:00:10.39,0:00:10.43,Default,,0,0,0,,{=22}{\frz0\fscy100\alpha&H00&\q2\b1\fscx100\bord1\1aff\3c&HC6C6C6&\pos(512,429)}While carrying 50 passengers
+Dialogue: 0,0:00:10.43,0:00:10.47,Default,,0,0,0,,{=22}{\frz0.01\fscy105.95\alpha&H00&\q2\b1\fscx105.95\bord1\1aff\3c&HC6C6C6&\pos(512.75,437.48)}While carrying 50 passengers
+Dialogue: 0,0:00:10.47,0:00:10.52,Default,,0,0,0,,{=22}{\frz-0.01\fscy112.7\alpha&H00&\q2\b1\fscx112.7\bord1\1aff\3c&HC6C6C6&\pos(513.57,447.13)}While carrying 50 passengers
+Dialogue: 0,0:00:10.52,0:00:10.56,Default,,0,0,0,,{=22}{\frz-0.01\fscy120.31\alpha&H00&\q2\b1\fscx120.31\bord1\1aff\3c&HC6C6C6&\pos(514.48,458.02)}While carrying 50 passengers
+Dialogue: 0,0:00:10.56,0:00:10.60,Default,,0,0,0,,{=22}{\frz-0.02\fscy129.09\alpha&H00&\q2\b1\fscx129.09\bord1\1aff\3c&HC6C6C6&\pos(515.54,470.57)}While carrying 50 passengers
+Dialogue: 0,0:00:10.60,0:00:10.64,Default,,0,0,0,,{=22}{\frz-0.01\fscy139.2\alpha&H00&\q2\b1\fscx139.2\bord1\1aff\3c&HC6C6C6&\pos(516.76,485)}While carrying 50 passengers
+Dialogue: 0,0:00:10.64,0:00:10.68,Default,,0,0,0,,{=22}{\frz-0.02\fscy151.04\alpha&H00&\q2\b1\fscx151.04\bord1\1aff\3c&HC6C6C6&\pos(518.14,501.93)}While carrying 50 passengers
+Dialogue: 0,0:00:10.68,0:00:10.72,Default,,0,0,0,,{=22}{\frz-0.01\fscy165.07\alpha&H00&\q2\b1\fscx165.07\bord1\1aff\3c&HC6C6C6&\pos(519.78,521.97)}While carrying 50 passengers
+Dialogue: 0,0:00:10.72,0:00:10.77,Default,,0,0,0,,{=22}{\frz-0.01\fscy181.96\alpha&H00&\q2\b1\fscx181.96\bord1\1aff\3c&HC6C6C6&\pos(521.74,546.11)}While carrying 50 passengers
+Dialogue: 0,0:00:10.77,0:00:10.81,Default,,0,0,0,,{=22}{\frz-0.03\fscy202.76\alpha&H00&\q2\b1\fscx202.76\bord1\1aff\3c&HC6C6C6&\pos(524.14,575.9)}While carrying 50 passengers
+Dialogue: 0,0:00:10.81,0:00:10.85,Default,,0,0,0,,{=22}{\frz-0.02\fscy228.85\alpha&H00&\q2\b1\fscx228.85\bord1\1aff\3c&HC6C6C6&\pos(527.2,613.17)}While carrying 50 passengers
+Dialogue: 0,0:00:10.85,0:00:10.89,Default,,0,0,0,,{=22}{\frz-0.03\fscy262.63\alpha&H00&\q2\b1\fscx262.63\bord1\1aff\3c&HC6C6C6&\pos(531.03,661.55)}While carrying 50 passengers
+Dialogue: 0,0:00:10.89,0:00:10.93,Default,,0,0,0,,{=22}{\frz0.51\fscy304.69\alpha&H00&\q2\b1\fscx304.69\bord1\1aff\3c&HC6C6C6&\pos(535.99,721.31)}While carrying 50 passengers
 Dialogue: 1,0:00:11.02,0:00:11.06,Default,,0,0,0,,{=31}{\frz0\fscy64.64\alpha&HF8&\q2\b1\fscx64.64\blur0.39\pos(506.61,379.36)}Deep{\fnTimes New Roman}-{\fn}sea cruise ship <SHEEP III>
 Dialogue: 1,0:00:11.06,0:00:11.10,Default,,0,0,0,,{=31}{\frz0\fscy65.45\alpha&HEE&\q2\b1\fscx65.45\blur0.39\pos(506.66,380.47)}Deep{\fnTimes New Roman}-{\fn}sea cruise ship <SHEEP III>
 Dialogue: 1,0:00:11.10,0:00:11.14,Default,,0,0,0,,{=31}{\frz0\fscy66.29\alpha&HDD&\q2\b1\fscx66.29\blur0.4\pos(506.77,381.67)}Deep{\fnTimes New Roman}-{\fn}sea cruise ship <SHEEP III>
@@ -141,38 +143,38 @@ Dialogue: 0,0:00:12.06,0:00:12.10,Default,,0,0,0,,{=30}{\frz0\fscy94.45\alpha&H0
 Dialogue: 0,0:00:12.10,0:00:12.14,Default,,0,0,0,,{=30}{\frz0\fscy96.23\alpha&H00&\q2\b1\fscx96.23\bord0.96\1aff\3c&HC6C6C6&\pos(511.42,423.7)}Deep{\fnTimes New Roman}-{\fn}sea cruise ship <SHEEP III>
 Dialogue: 0,0:00:12.14,0:00:12.18,Default,,0,0,0,,{=30}{\frz0\fscy98.08\alpha&H00&\q2\b1\fscx98.08\bord0.98\1aff\3c&HC6C6C6&\pos(511.71,426.3)}Deep{\fnTimes New Roman}-{\fn}sea cruise ship <SHEEP III>
 Dialogue: 0,0:00:12.18,0:00:12.22,Default,,0,0,0,,{=30}{\frz0\fscy100\alpha&H00&\q2\b1\fscx100\bord1\1aff\3c&HC6C6C6&\pos(512,429)}Deep{\fnTimes New Roman}-{\fn}sea cruise ship <SHEEP III>
-Dialogue: 0,0:00:13.06,0:00:13.10,Default,,0,0,0,,{=32}{\fscx76.04\fscy95.05\alpha&HFF&\b1\blur8.38\pos(262.03,174.65)\c&H444444&}On the maiden voyage
-Dialogue: 0,0:00:13.10,0:00:13.14,Default,,0,0,0,,{=32}{\fscx76.99\fscy96.24\alpha&HC7&\b1\blur6.41\pos(258.85,173.2)\c&H444444&}On the maiden voyage
-Dialogue: 0,0:00:13.14,0:00:13.18,Default,,0,0,0,,{=32}{\fscx77.88\fscy97.35\alpha&H90&\b1\blur4.43\pos(255.89,171.89)\c&H444444&}On the maiden voyage
-Dialogue: 0,0:00:13.18,0:00:13.22,Default,,0,0,0,,{=32}{\fscx78.7\fscy98.38\alpha&H58&\b1\blur2.36\pos(253.23,170.78)\c&H444444&}On the maiden voyage
-Dialogue: 0,0:00:13.22,0:00:13.27,Default,,0,0,0,,{=32}{\fscx79.36\fscy99.2\alpha&H20&\b1\blur0.6\pos(251.07,169.86)\c&H444444&}On the maiden voyage
-Dialogue: 0,0:00:13.27,0:00:13.31,Default,,0,0,0,,{=32}{\fscx79.81\fscy99.76\alpha&H00&\b1\blur0.6\pos(249.6,169.22)\c&H444444&}On the maiden voyage
-Dialogue: 1,0:00:13.31,0:00:14.81,Default,,0,0,0,,{=32}{\fscx80\fscy100\alpha&H00&\b1\blur0.6\pos(249,169)\c&H444444&\t(23,1500,\1a7f)}On the maiden voyage
-Dialogue: 1,0:00:13.06,0:00:13.10,Default,,0,0,0,,{=32}{\fscx76.04\fscy95.05\alpha&HFF&\b1\blur8.12\c&H444444&\pos(353.28,443.63)}700m underwater
-Dialogue: 1,0:00:13.10,0:00:13.14,Default,,0,0,0,,{=32}{\fscx76.99\fscy96.24\alpha&HDA&\b1\blur5.65\c&H444444&\pos(351.24,445.55)}700m underwater
-Dialogue: 1,0:00:13.14,0:00:13.18,Default,,0,0,0,,{=32}{\fscx77.88\fscy97.35\alpha&HB4&\b1\blur3.18\c&H444444&\pos(349.35,447.39)}700m underwater
-Dialogue: 1,0:00:13.18,0:00:13.22,Default,,0,0,0,,{=32}{\fscx78.7\fscy98.38\alpha&H8F&\b1\blur0.59\c&H444444&\pos(347.67,449.18)}700m underwater
-Dialogue: 1,0:00:13.22,0:00:13.27,Default,,0,0,0,,{=32}{\fscx79.36\fscy99.2\alpha&H6A&\b1\blur0.6\c&H444444&\pos(346.31,450.61)}700m underwater
-Dialogue: 1,0:00:13.27,0:00:13.31,Default,,0,0,0,,{=32}{\fscx79.81\fscy99.76\alpha&H2B&\b1\blur0.6\c&H444444&\pos(345.37,451.55)}700m underwater
-Dialogue: 1,0:00:13.31,0:00:14.81,Default,,0,0,0,,{=32}{\fscx80\fscy100\alpha&H09&\b1\blur0.6\c&H444444&\pos(345,452)\t(23,1500,\1a7f)}700m underwater
-Dialogue: 1,0:00:13.06,0:00:13.10,Default,,0,0,0,,{=32}{\fscx76.04\fscy95.05\alpha&HFF&\b1\blur8.12\c&H444444&\pos(873.2,203.16)}Deep sea
-Dialogue: 1,0:00:13.10,0:00:13.14,Default,,0,0,0,,{=32}{\fscx76.99\fscy96.24\alpha&HDA&\b1\blur5.65\c&H444444&\pos(877.66,202.07)}Deep sea
-Dialogue: 1,0:00:13.14,0:00:13.18,Default,,0,0,0,,{=32}{\fscx77.88\fscy97.35\alpha&HB4&\b1\blur3.18\c&H444444&\pos(881.86,201.09)}Deep sea
-Dialogue: 1,0:00:13.18,0:00:13.22,Default,,0,0,0,,{=32}{\fscx78.7\fscy98.38\alpha&H8F&\b1\blur0.59\c&H444444&\pos(885.79,200.29)}Deep sea
-Dialogue: 1,0:00:13.22,0:00:13.27,Default,,0,0,0,,{=32}{\fscx79.36\fscy99.2\alpha&H6A&\b1\blur0.6\c&H444444&\pos(888.95,199.63)}Deep sea
-Dialogue: 1,0:00:13.27,0:00:13.31,Default,,0,0,0,,{=32}{\fscx79.81\fscy99.76\alpha&H2B&\b1\blur0.6\c&H444444&\pos(891.07,199.15)}Deep sea
-Dialogue: 1,0:00:13.31,0:00:14.81,Default,,0,0,0,,{=32}{\fscx80\fscy100\alpha&H10&\b1\blur0.6\c&H444444&\pos(892,199)\t(23,1500,\1a7f)}Deep sea
-Dialogue: 1,0:00:13.06,0:00:13.10,Default,,0,0,0,,{=32}{\blur8.12\fscx76.04\fscy95.05\alpha&HFF&\b1\c&H444444&\pos(848.48,465.49)}Sunk
-Dialogue: 1,0:00:13.10,0:00:13.14,Default,,0,0,0,,{=32}{\blur5.65\fscx76.99\fscy96.24\alpha&HDD&\b1\c&H444444&\pos(852.63,467.69)}Sunk
-Dialogue: 1,0:00:13.14,0:00:13.18,Default,,0,0,0,,{=32}{\blur3.18\fscx77.88\fscy97.35\alpha&HBA&\b1\c&H444444&\pos(856.55,469.78)}Sunk
-Dialogue: 1,0:00:13.18,0:00:13.22,Default,,0,0,0,,{=32}{\blur0.59\fscx78.7\fscy98.38\alpha&H98&\b1\c&H444444&\pos(860.21,471.81)}Sunk
-Dialogue: 1,0:00:13.22,0:00:13.27,Default,,0,0,0,,{=32}{\blur0.6\fscx79.36\fscy99.2\alpha&H76&\b1\c&H444444&\pos(863.16,473.43)}Sunk
-Dialogue: 1,0:00:13.27,0:00:13.31,Default,,0,0,0,,{=32}{\blur0.6\fscx79.81\fscy99.76\alpha&H2B&\b1\c&H444444&\pos(865.14,474.5)}Sunk
-Dialogue: 1,0:00:13.31,0:00:14.81,Default,,0,0,0,,{=32}{\blur0.6\fscx80\fscy100\alpha&H19&\b1\c&H383838&\pos(866,475)\t(23,1500,\1a7f)}Sunk
-Dialogue: 1,0:00:15.52,0:00:18.98,Imie1,,0,0,0,,{\pos(532,197)\bord0\blur1}One of the rescued “two survivors” once again searches for a way to survive in a closed cage.
-Dialogue: 0,0:00:15.52,0:00:18.98,Imie1,,0,0,0,,{\pos(532,197)\1aff\bord3}One of the rescued “two survivors” once again searches for a way to survive in a closed cage.
-Dialogue: 1,0:00:19.02,0:00:22.10,Imie1,,0,0,0,,{\pos(532,197)\bord0\blur1}Past recreated, lost memories\NIs there the best choice out there?
-Dialogue: 0,0:00:19.02,0:00:22.10,Imie1,,0,0,0,,{\pos(532,197)\1aff\bord3}Past recreated, lost memories\NIs there the best choice out there?
+Dialogue: 0,0:00:13.06,0:00:13.10,Default,,0,0,0,,{=32}{\fscx76.04\fscy95.05\alpha&HFF&\b1\blur8.38\pos(262.03,174.65)\c&H444444&}On its maiden voyage
+Dialogue: 0,0:00:13.10,0:00:13.14,Default,,0,0,0,,{=32}{\fscx76.99\fscy96.24\alpha&HC7&\b1\blur6.41\pos(258.85,173.2)\c&H444444&}On its maiden voyage
+Dialogue: 0,0:00:13.14,0:00:13.18,Default,,0,0,0,,{=32}{\fscx77.88\fscy97.35\alpha&H90&\b1\blur4.43\pos(255.89,171.89)\c&H444444&}On its maiden voyage
+Dialogue: 0,0:00:13.18,0:00:13.22,Default,,0,0,0,,{=32}{\fscx78.7\fscy98.38\alpha&H58&\b1\blur2.36\pos(253.23,170.78)\c&H444444&}On its maiden voyage
+Dialogue: 0,0:00:13.22,0:00:13.27,Default,,0,0,0,,{=32}{\fscx79.36\fscy99.2\alpha&H20&\b1\blur0.6\pos(251.07,169.86)\c&H444444&}On its maiden voyage
+Dialogue: 0,0:00:13.27,0:00:13.31,Default,,0,0,0,,{=32}{\fscx79.81\fscy99.76\alpha&H00&\b1\blur0.6\pos(249.6,169.22)\c&H444444&}On its maiden voyage
+Dialogue: 1,0:00:13.31,0:00:14.81,Default,,0,0,0,,{=32}{\fscx80\fscy100\alpha&H00&\b1\blur0.6\pos(249,169)\c&H444444&\t(23,1500,\1a7f)}On its maiden voyage
+Dialogue: 1,0:00:13.06,0:00:13.10,Default,,0,0,0,,{=32}{\fscx76.04\fscy95.05\alpha&HFF&\b1\blur8.12\c&H444444&\pos(353.28,443.63)}sunk 700m
+Dialogue: 1,0:00:13.10,0:00:13.14,Default,,0,0,0,,{=32}{\fscx76.99\fscy96.24\alpha&HDA&\b1\blur5.65\c&H444444&\pos(351.24,445.55)}sunk 700m
+Dialogue: 1,0:00:13.14,0:00:13.18,Default,,0,0,0,,{=32}{\fscx77.88\fscy97.35\alpha&HB4&\b1\blur3.18\c&H444444&\pos(349.35,447.39)}sunk 700m
+Dialogue: 1,0:00:13.18,0:00:13.22,Default,,0,0,0,,{=32}{\fscx78.7\fscy98.38\alpha&H8F&\b1\blur0.59\c&H444444&\pos(347.67,449.18)}sunk 700m
+Dialogue: 1,0:00:13.22,0:00:13.27,Default,,0,0,0,,{=32}{\fscx79.36\fscy99.2\alpha&H6A&\b1\blur0.6\c&H444444&\pos(346.31,450.61)}sunk 700m
+Dialogue: 1,0:00:13.27,0:00:13.31,Default,,0,0,0,,{=32}{\fscx79.81\fscy99.76\alpha&H2B&\b1\blur0.6\c&H444444&\pos(345.37,451.55)}sunk 700m
+Dialogue: 1,0:00:13.31,0:00:14.81,Default,,0,0,0,,{=32}{\fscx80\fscy100\alpha&H09&\b1\blur0.6\c&H444444&\pos(345,452)\t(23,1500,\1a7f)}sunk 700m
+Dialogue: 1,0:00:13.06,0:00:13.10,Default,,0,0,0,,{=32}{\fscx76.04\fscy95.05\alpha&HFF&\b1\blur8.12\c&H444444&\pos(873.2,203.16)}into
+Dialogue: 1,0:00:13.10,0:00:13.14,Default,,0,0,0,,{=32}{\fscx76.99\fscy96.24\alpha&HDA&\b1\blur5.65\c&H444444&\pos(877.66,202.07)}into
+Dialogue: 1,0:00:13.14,0:00:13.18,Default,,0,0,0,,{=32}{\fscx77.88\fscy97.35\alpha&HB4&\b1\blur3.18\c&H444444&\pos(881.86,201.09)}into
+Dialogue: 1,0:00:13.18,0:00:13.22,Default,,0,0,0,,{=32}{\fscx78.7\fscy98.38\alpha&H8F&\b1\blur0.59\c&H444444&\pos(885.79,200.29)}into
+Dialogue: 1,0:00:13.22,0:00:13.27,Default,,0,0,0,,{=32}{\fscx79.36\fscy99.2\alpha&H6A&\b1\blur0.6\c&H444444&\pos(888.95,199.63)}into
+Dialogue: 1,0:00:13.27,0:00:13.31,Default,,0,0,0,,{=32}{\fscx79.81\fscy99.76\alpha&H2B&\b1\blur0.6\c&H444444&\pos(891.07,199.15)}into
+Dialogue: 1,0:00:13.31,0:00:14.81,Default,,0,0,0,,{=32}{\fscx80\fscy100\alpha&H10&\b1\blur0.6\c&H444444&\pos(892,199)\t(23,1500,\1a7f)}into
+Dialogue: 1,0:00:13.06,0:00:13.10,Default,,0,0,0,,{=32}{\blur8.12\fscx76.04\fscy95.05\alpha&HFF&\b1\c&H444444&\pos(848.48,465.49)}the Deep Sea
+Dialogue: 1,0:00:13.10,0:00:13.14,Default,,0,0,0,,{=32}{\blur5.65\fscx76.99\fscy96.24\alpha&HDD&\b1\c&H444444&\pos(852.63,467.69)}the Deep Sea
+Dialogue: 1,0:00:13.14,0:00:13.18,Default,,0,0,0,,{=32}{\blur3.18\fscx77.88\fscy97.35\alpha&HBA&\b1\c&H444444&\pos(856.55,469.78)}the Deep Sea
+Dialogue: 1,0:00:13.18,0:00:13.22,Default,,0,0,0,,{=32}{\blur0.59\fscx78.7\fscy98.38\alpha&H98&\b1\c&H444444&\pos(860.21,471.81)}the Deep Sea
+Dialogue: 1,0:00:13.22,0:00:13.27,Default,,0,0,0,,{=32}{\blur0.6\fscx79.36\fscy99.2\alpha&H76&\b1\c&H444444&\pos(863.16,473.43)}the Deep Sea
+Dialogue: 1,0:00:13.27,0:00:13.31,Default,,0,0,0,,{=32}{\blur0.6\fscx79.81\fscy99.76\alpha&H2B&\b1\c&H444444&\pos(865.14,474.5)}the Deep Sea
+Dialogue: 1,0:00:13.31,0:00:14.81,Default,,0,0,0,,{=32}{\blur0.6\fscx80\fscy100\alpha&H19&\b1\c&H383838&\pos(866,475)\t(23,1500,\1a7f)}the Deep Sea
+Dialogue: 1,0:00:15.52,0:00:18.98,Imie1,,0,0,0,,{\pos(532,197)\bord0\blur1}One of the rescued “two survivors” once again searches for a way to survive within a closed cage.
+Dialogue: 0,0:00:15.52,0:00:18.98,Imie1,,0,0,0,,{\pos(532,197)\1aff\bord3}One of the rescued “two survivors” once again searches for a way to survive within a closed cage.
+Dialogue: 1,0:00:19.02,0:00:22.10,Imie1,,0,0,0,,{\pos(532,197)\bord0\blur1}The past returns. Lost memories.\NDoes the best choice lie there?
+Dialogue: 0,0:00:19.02,0:00:22.10,Imie1,,0,0,0,,{\pos(532,197)\1aff\bord3}The past returns. Lost memories.\NDoes the best choice lie there?
 Dialogue: 0,0:01:01.31,0:01:03.10,Cytat,,0,0,0,,{\fad(350,500)\blur0.6\pos(508,370)}The ship that have been found was called Mary Celeste.
 Dialogue: 0,0:01:03.69,0:01:05.81,Cytat,,0,0,0,,{\fad(350,640)\blur0.6\pos(508,370)}There was no crew on board at the time of discovery.
 Dialogue: 0,0:01:06.56,0:01:09.52,Cytat,,0,0,0,,{\fad(1000,430)\blur0.6\pos(508,370)}What if the compass had been pointing in the direction of the Mary Celeste from the start?
