@@ -16,9 +16,9 @@ Video File: ED2.avi
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 51
-Active Line: 61
-Video Position: 1784
+Scroll Position: 29
+Active Line: 39
+Video Position: 972
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -44,8 +44,8 @@ Dialogue: 1,0:00:21.54,0:00:25.98,Default,,0,0,0,,{\fad(440,500)\fs48\move(315,4
 Dialogue: 0,0:00:21.54,0:00:25.98,Default,,0,0,0,,{\fad(440,500)\fs48\move(317,492,217,492,0,460)\bord0\blur10\t(0,460,\blur0.6)\c&H000000&\t(3960,4418,\frx-90)}Fujita Kyouhei
 Dialogue: 1,0:00:26.02,0:00:32.98,Default,,0,0,0,,{\fad(480,500)\move(277,180,177,180,0,480)\bord0\blur10\t(0,480,\blur0.6)\t(6480,6960,\frx-90)}Video Animation
 Dialogue: 0,0:00:26.02,0:00:32.98,Default,,0,0,0,,{\fad(480,500)\move(279,182,179,182,0,480)\bord0\blur10\t(0,480,\blur0.6)\c&H000000&\t(6480,6960,\frx-90)}Video Animation
-Dialogue: 1,0:00:26.56,0:00:32.98,Default,,0,0,0,,{\fad(440,500)\fs48\move(310,230,210,230,0,440)\bord0\blur10\t(0,440,\blur0.6)\t(5940,6398,\frx-90)}Atomu Nakazawa
-Dialogue: 0,0:00:26.56,0:00:32.98,Default,,0,0,0,,{\fad(440,500)\fs48\move(312,232,212,232,0,440)\bord0\blur10\t(0,440,\blur0.6)\c&H000000&\t(5940,6398,\frx-90)}Atomu Nakazawa
+Dialogue: 1,0:00:26.56,0:00:32.98,Default,,0,0,0,,{\fad(440,500)\fs48\move(310,230,210,230,0,440)\bord0\blur10\t(0,440,\blur0.6)\t(5940,6398,\frx-90)}Nakazawa Atomu
+Dialogue: 0,0:00:26.56,0:00:32.98,Default,,0,0,0,,{\fad(440,500)\fs48\move(312,232,212,232,0,440)\bord0\blur10\t(0,440,\blur0.6)\c&H000000&\t(5940,6398,\frx-90)}Nakazawa Atomu
 Dialogue: 1,0:00:27.04,0:00:32.98,Default,,0,0,0,,{\fad(460,500)\move(275,310,175,310,0,460)\bord0\blur10\t(0,460,\blur0.6)\t(5460,5918,\frx-90)}Direction/Script
 Dialogue: 0,0:00:27.04,0:00:32.98,Default,,0,0,0,,{\fad(460,500)\move(277,312,177,312,0,460)\bord0\blur10\t(0,460,\blur0.6)\c&H000000&\t(5460,5918,\frx-90)}Direction/Script
 Dialogue: 1,0:00:27.52,0:00:32.98,Default,,0,0,0,,{\fad(480,500)\fs48\move(236,360,136,360,0,480)\bord0\blur10\t(0,480,\blur0.6)\t(4980,5438,\frx-90)}Hagitsuki
@@ -68,8 +68,8 @@ Dialogue: 1,0:00:35.54,0:00:39.98,Default,,0,0,0,,{\fad(460,500)\fs48\move(181,4
 Dialogue: 0,0:00:35.54,0:00:39.98,Default,,0,0,0,,{\fad(460,500)\fs48\move(183,492,83,492,0,460)\bord0\blur10\t(0,460,\blur0.6)\c&H000000&\t(3960,4418,\frx-90)}Ash
 Dialogue: 1,0:00:40.02,0:00:45.52,Default,,0,0,0,,{\fad(480,500)\move(340,285,240,285,0,480)\bord0\blur10\t(0,480,\blur0.6)\t(4980,5480,\frx-90)}Original idea/Producer
 Dialogue: 0,0:00:40.02,0:00:45.52,Default,,0,0,0,,{\fad(480,500)\move(342,287,242,287,0,480)\bord0\blur10\t(0,480,\blur0.6)\c&H000000&\t(4980,5480,\frx-90)}Original idea/Producer
-Dialogue: 1,0:00:40.50,0:00:45.52,Default,,0,0,0,,{\fad(480,500)\fs48\move(290,335,190,335,0,480)\bord0\blur10\t(0,480,\blur0.6)\t(4500,5000,\frx-90)}Seiji Hinohara
-Dialogue: 0,0:00:40.50,0:00:45.52,Default,,0,0,0,,{\fad(480,500)\fs48\move(292,337,192,337,0,480)\bord0\blur10\t(0,480,\blur0.6)\c&H000000&\t(4500,5000,\frx-90)}Seiji Hinohara
+Dialogue: 1,0:00:40.50,0:00:45.52,Default,,0,0,0,,{\fad(480,500)\fs48\move(290,335,190,335,0,480)\bord0\blur10\t(0,480,\blur0.6)\t(4500,5000,\frx-90)}Hinohara Seiji
+Dialogue: 0,0:00:40.50,0:00:45.52,Default,,0,0,0,,{\fad(480,500)\fs48\move(292,337,192,337,0,480)\bord0\blur10\t(0,480,\blur0.6)\c&H000000&\t(4500,5000,\frx-90)}Hinohara Seiji
 Dialogue: 1,0:00:45.52,0:00:51.52,Default,,0,0,0,,{\fad(480,500)\move(275,234,175,234,0,480)\bord0\blur10\t(0,480,\blur0.6)\t(5480,5980,\frx-90)}Special Thanks
 Dialogue: 0,0:00:45.52,0:00:51.52,Default,,0,0,0,,{\fad(480,500)\move(277,236,177,236,0,480)\bord0\blur10\t(0,480,\blur0.6)\c&H000000&\t(5480,5980,\frx-90)}Special Thanks
 Dialogue: 1,0:00:46.00,0:00:51.52,Default,,0,0,0,,{\fad(480,500)\fs48\move(237,284,137,284,0,480)\bord0\blur10\t(0,480,\blur0.6)\t(5000,5500,\frx-90)}Natsuno
@@ -121,7 +121,7 @@ Dialogue: 0,0:01:39.48,0:01:56.27,Default - Copy,,0,0,0,,{\b1\move(348,368,348,0
 Dialogue: 1,0:01:40.18,0:01:40.85,Default - Copy - Copy,,0,0,0,,{\move(372,438,372,0,0,16500)\clip(80,120,105,581)\t(20,1065,\clip(1105,120,1125,581))}███████████████████████████████████████████████████████████████████████████████
 Dialogue: 0,0:01:40.18,0:01:56.97,Default - Copy,,0,0,0,,{\b1\move(400,438,400,0,0,16500)\fscx79\clip(85,0,105,519)\t(20,1065,\clip(35,0,1125,519))\i1}whose whereabouts became unknown around 17:00 on August 2nd.
 Dialogue: 1,0:01:42.48,0:01:43.23,Default - Copy - Copy,,0,0,0,,{\move(372,408,372,0,0,16500)\clip(80,120,105,581)\t(20,1065,\clip(1105,120,1125,581))}███████████████████████████████████████████████████████████████████████████████
-Dialogue: 0,0:01:42.48,0:01:59.27,Default - Copy,,0,0,0,,{\b1\move(434,408,434,0,0,15200)\fscx79\clip(85,0,105,519)\t(20,1065,\clip(35,0,1125,519))\i1}Inside the discovered submarine were two girls lying on top of each other. 
+Dialogue: 0,0:01:42.48,0:01:59.27,Default - Copy,,0,0,0,,{\b1\move(434,408,434,0,0,15200)\fscx79\clip(85,0,105,519)\t(20,1065,\clip(35,0,1125,519))\i1}Inside the discovered submarine were two girls lying on top of each other.
 Dialogue: 1,0:01:45.98,0:01:46.90,Default - Copy - Copy,,0,0,0,,{\move(372,448,372,0,0,16500)\clip(80,120,105,581)\t(20,1065,\clip(1105,120,1125,581))}██████████████████████████████████████████████████████████████████████████████████████████
 Dialogue: 0,0:01:45.98,0:02:02.77,Default - Copy,,0,0,0,,{\b1\move(512,450,512,0,0,16700)\fscx79\clip(85,0,105,519)\t(20,1065,\clip(35,0,1125,519))\i1}Rescue was carried out immediately, but they were confirmed to be dead at hospital where
 Dialogue: 1,0:01:46.98,0:01:47.90,Default - Copy - Copy,,0,0,0,,{\move(372,448,372,0,0,16500)\clip(80,120,105,581)\t(20,1065,\clip(1105,120,1125,581))}██████████████████████████████████████████████████████████████████████████████████████████

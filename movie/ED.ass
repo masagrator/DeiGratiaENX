@@ -16,9 +16,9 @@ Video File: ED.avi
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 21
-Active Line: 31
-Video Position: 3458
+Scroll Position: 4
+Active Line: 14
+Video Position: 1018
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,14 +36,14 @@ Dialogue: 0,0:00:28.15,0:00:32.15,Default,,0,0,0,,{\fad(200,500)\move(814,470,81
 Dialogue: 0,0:00:29.21,0:00:33.21,Default,,0,0,0,,{\fad(200,500)\move(814,470,814,90)}Composer
 Dialogue: 0,0:00:30.50,0:00:34.50,Default,,0,0,0,,{\fad(200,500)\move(814,470,814,90)}Fujita Kyouhei
 Dialogue: 0,0:00:31.55,0:00:35.55,Default,,0,0,0,,{\fad(200,500)\move(814,470,814,90)}Video animation
-Dialogue: 0,0:00:32.90,0:00:36.95,Default,,0,0,0,,{\fad(200,500)\move(814,470,814,90)}Atomu Nakazawa
+Dialogue: 0,0:00:32.90,0:00:36.95,Default,,0,0,0,,{\fad(200,500)\move(814,470,814,90)}Nakazawa Atomu
 Dialogue: 0,0:00:33.90,0:00:37.90,Default,,0,0,0,,{\fad(200,500)\move(804,470,804,90)}Direction/Script
 Dialogue: 0,0:00:35.31,0:00:39.31,Default,,0,0,0,,{\fad(200,500)\move(814,470,814,90)}Hagitsuki
 Dialogue: 0,0:00:36.26,0:00:40.26,Default,,0,0,0,,{\fad(200,500)\move(814,470,814,90)}Programming/Web
 Dialogue: 0,0:00:37.65,0:00:41.65,Default,,0,0,0,,{\fad(200,500)\move(814,470,814,90)}Neuma John
 Dialogue: 0,0:00:38.71,0:00:42.71,Default,,0,0,0,,{\fad(200,500)\move(814,470,814,90)}Background art assitant
 Dialogue: 0,0:00:41.01,0:00:45.01,Default,,0,0,0,,{\fad(200,500)\move(814,470,814,90)}Original idea/Producer
-Dialogue: 0,0:00:42.40,0:00:46.40,Default,,0,0,0,,{\fad(200,500)\move(814,470,814,90)}Seiji Hinohara
+Dialogue: 0,0:00:42.40,0:00:46.40,Default,,0,0,0,,{\fad(200,500)\move(814,470,814,90)}Hinohara Seiji
 Dialogue: 0,0:00:44.35,0:00:47.90,Default,,0,0,0,,{\fad(200,500)\move(914,470,914,90,0,3970)}Natsuno
 Dialogue: 0,0:00:44.94,0:00:48.60,Default,,0,0,0,,{\fad(200,500)\a1\move(869,490,869,90,0,4200)}Kumada\NNekomaru
 Dialogue: 0,0:00:50.14,0:00:51.02,Default - Copy,,0,0,0,,{\pos(512,330)\fad(100,0)}Deep-sea Cruise Submarine <SHEEP III> Accident Investigation Report
