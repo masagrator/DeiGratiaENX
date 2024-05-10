@@ -1,4 +1,4 @@
-# SPRB-ENX
+# DeiGratiaENX
 Dei Gratia no Rashinban / Compass of Dei Gratia English translation mod for Nintendo Switch
 
 Translation mod is based on mod for PC release from `kalitsu` that you can find here:<br>
