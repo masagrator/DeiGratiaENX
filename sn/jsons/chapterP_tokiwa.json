@@ -1,0 +1,11294 @@
+{
+	"HEADER": [],
+	"COMMANDS": [
+		{
+			"LABEL": "0x4",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x9",
+			"CMD": "43",
+			"DATA": "07000000"
+		},
+		{
+			"LABEL": "0xE",
+			"CMD": "1E",
+			"DATA": "07008000800080008000"
+		},
+		{
+			"LABEL": "0x19",
+			"CMD": "1A",
+			"DATA": "07004700"
+		},
+		{
+			"LABEL": "0x1E",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x1F",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x20",
+			"CMD": "1D",
+			"DATA": "070000000000"
+		},
+		{
+			"LABEL": "0x27",
+			"CMD": "1F",
+			"DATA": "070000000000000000010001"
+		},
+		{
+			"LABEL": "0x34",
+			"CMD": "20",
+			"DATA": "0700e0010e01"
+		},
+		{
+			"LABEL": "0x3B",
+			"CMD": "21",
+			"DATA": "070000010001"
+		},
+		{
+			"LABEL": "0x42",
+			"CMD": "22",
+			"DATA": "07000e00"
+		},
+		{
+			"LABEL": "0x47",
+			"CMD": "25",
+			"DATA": "07000100"
+		},
+		{
+			"LABEL": "0x4C",
+			"CMD": "6E",
+			"DATA": "0a000200"
+		},
+		{
+			"LABEL": "0x51",
+			"CMD": "4F",
+			"DATA": "0a000100"
+		},
+		{
+			"LABEL": "0x56",
+			"CMD": "4C",
+			"DATA": "0a0000000000"
+		},
+		{
+			"LABEL": "0x5D",
+			"CMD": "68",
+			"DATA": "0a002f003c0097041001"
+		},
+		{
+			"LABEL": "0x68",
+			"CMD": "69",
+			"DATA": "0200"
+		},
+		{
+			"LABEL": "0x6B",
+			"CMD": "PAIR",
+			"ID": 32982,
+			"VALUE1": 60,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x70",
+			"CMD": "PAIR",
+			"ID": 32983,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x75",
+			"CMD": "PAIR",
+			"ID": 32984,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x7A",
+			"CMD": "JMP4",
+			"ID": 65536
+		},
+		{
+			"LABEL": "0x7F",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x80",
+			"CMD": "7A",
+			"DATA": "ffffffffffffffffffff"
+		},
+		{
+			"LABEL": "0x8B",
+			"CMD": "5F"
+		},
+		{
+			"LABEL": "0x8C",
+			"CMD": "IFGOTO6",
+			"DATA": "6900d980",
+			"TO_LABEL": "0xA2"
+		},
+		{
+			"LABEL": "0x95",
+			"CMD": "PAIR",
+			"ID": 32985,
+			"VALUE1": 105,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x9A",
+			"CMD": "3B",
+			"DATA": "6900"
+		},
+		{
+			"LABEL": "0x9D",
+			"CMD": "7B",
+			"DATA": "00007800"
+		},
+		{
+			"LABEL": "0xA2",
+			"CMD": "IFGOTO6",
+			"DATA": "1d008a80",
+			"TO_LABEL": "0xC2"
+		},
+		{
+			"LABEL": "0xAB",
+			"CMD": "PAIR",
+			"ID": 32906,
+			"VALUE1": 29,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0xB0",
+			"CMD": "36",
+			"DATA": "ffff37"
+		},
+		{
+			"LABEL": "0xB4",
+			"CMD": "75",
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0xB9",
+			"CMD": "36",
+			"DATA": "1d0037"
+		},
+		{
+			"LABEL": "0xBD",
+			"CMD": "75",
+			"DATA": "64000000"
+		},
+		{
+			"LABEL": "0xC2",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「深海にはロマンが満ち溢れています！　スケーリーフットは、鋼鉄の身体で……」"
+		},
+		{
+			"LABEL": "0x114",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x117",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x11A",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x11D",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「おねえちゃん！　かっこいーです！」"
+		},
+		{
+			"LABEL": "0x147",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x14A",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x14D",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x150",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「では、わたくしのことは今後、西芳寺スケーリーフットときわとお呼びください」"
+		},
+		{
+			"LABEL": "0x1A2",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1A5",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1A8",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1AB",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「いやです！」"
+		},
+		{
+			"LABEL": "0x1BF",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1C2",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1C5",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1C8",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "海の色は紫陽花。"
+		},
+		{
+			"LABEL": "0x1DE",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1E1",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1E4",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1E7",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "消えかかった記憶という理解しがたい概念の生成を試みて生じた、"
+		},
+		{
+			"LABEL": "0x229",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x22C",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x22F",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "断片的な想い出のコラージュがわたくしの左右の視界を順に掠めてゆきました。"
+		},
+		{
+			"LABEL": "0x27D",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x280",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x285",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「わたくしは科学者になるのです」"
+		},
+		{
+			"LABEL": "0x2AB",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2AE",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2B1",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2B4",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "星空の下、船の上、揺れる柳、小川のせせらぎ。"
+		},
+		{
+			"LABEL": "0x2E6",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2E9",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2EC",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2EF",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "いつも何度でも繰り返される「夢」への問いかけ。"
+		},
+		{
+			"LABEL": "0x323",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x326",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x329",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "夢は口から出ることで飲み込まれ、遺伝子に染み渡り、%N人々の心を侵して侵して……"
+		},
+		{
+			"LABEL": "0x37D",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x380",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x383",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x386",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "わたくしの答えは決まっていました――父上のような科学者、と。"
+		},
+		{
+			"LABEL": "0x3C8",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3CB",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3CE",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3D1",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「るみちゃんは大人になったら何になりたいのですか」"
+		},
+		{
+			"LABEL": "0x409",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x40C",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x40F",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x412",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「詩人です！」"
+		},
+		{
+			"LABEL": "0x426",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x429",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x42E",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「おお、難しい単語を知っていますね。%N詩人にはペンネームが必要なのをご存知ですか？」"
+		},
+		{
+			"LABEL": "0x488",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x48B",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x48E",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x491",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「はい、たった今知りました！」"
+		},
+		{
+			"LABEL": "0x4B5",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4B8",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4BB",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4BE",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「それでは今後、ヒッキーと名乗りましょう。"
+		},
+		{
+			"LABEL": "0x4EE",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4F1",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4F4",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "トッキーとセットで売り出しましょう」"
+		},
+		{
+			"LABEL": "0x51E",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x521",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x524",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x527",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「いやです！」"
+		},
+		{
+			"LABEL": "0x53B",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x53E",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x541",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x544",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "名前――それは、わたくしたちに初めて与えられる祝いであり、呪い。"
+		},
+		{
+			"LABEL": "0x58A",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x58D",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x590",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "それは道しるべとしてわたくしたちを導き、%N定義としてわたくしたちを枷するのです。"
+		},
+		{
+			"LABEL": "0x5E6",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5E9",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x5EE",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「ちょっと待って下さい、もう少しまじめに考えますから"
+		},
+		{
+			"LABEL": "0x628",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x62B",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x62E",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "るみ……るみ……るみ……るみ……高橋……るみ……"
+		},
+		{
+			"LABEL": "0x664",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x667",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x66A",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "――リュミエール！」"
+		},
+		{
+			"LABEL": "0x684",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x687",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x68A",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x68D",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「かっこいーです！　……で、どういう意味なんですかおねえちゃん」"
+		},
+		{
+			"LABEL": "0x6D3",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6D6",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6D9",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6DC",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「光です！」"
+		},
+		{
+			"LABEL": "0x6EE",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6F1",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6F4",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6F7",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「わかりました！　リュミエール＝光ですね」"
+		},
+		{
+			"LABEL": "0x727",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x72A",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x72D",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x730",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "早速目の前の壁に人差し指で文字を書くるみちゃん。"
+		},
+		{
+			"LABEL": "0x766",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x769",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x76C",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "網膜だけに焼き付く軌跡はけれど、等式であって名前ではありません。"
+		},
+		{
+			"LABEL": "0x7B2",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x7B5",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x7BA",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「それじゃあ、全く同じ意味じゃないですか。%N例えて言うならサハラ砂漠でありIC回路でありハングル文字です。"
+		},
+		{
+			"LABEL": "0x828",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x82B",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x82E",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "……しかし、そうですね。%Nサハラ砂漠のように広い砂漠になりたいというのでしたら――」"
+		},
+		{
+			"LABEL": "0x888",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x88B",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x88E",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x891",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「乾燥肌はいやです！」"
+		},
+		{
+			"LABEL": "0x8AD",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x8B0",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x8B3",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x8B6",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「それではボッシュートです」"
+		},
+		{
+			"LABEL": "0x8D8",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x8DB",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x8DE",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x8E1",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "波間に漂う探検家の人形が、ひとつふたつと消えさりました。"
+		},
+		{
+			"LABEL": "0x91F",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x922",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x927",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「うわわ……"
+		},
+		{
+			"LABEL": "0x939",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x93C",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "じゃあ、おねえちゃんが好きな漢字を教えてください」"
+		},
+		{
+			"LABEL": "0x974",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x977",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x97A",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x97D",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「好きな感じ……使命感に燃える薄幸そうなどこか影のある優しいお医者さん」"
+		},
+		{
+			"LABEL": "0x9CB",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x9CE",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x9D1",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x9D4",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「Chinese charactersです！」"
+		},
+		{
+			"LABEL": "0x9F6",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x9F9",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x9FC",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x9FF",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "素敵な発音で訴えるるみちゃん。"
+		},
+		{
+			"LABEL": "0xA23",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xA26",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0xA2B",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "わたくしの好きな漢字――漢字というのは表意文字。"
+		},
+		{
+			"LABEL": "0xA61",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xA64",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xA67",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xA6A",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「鮟%R(1,なまず)」"
+		},
+		{
+			"LABEL": "0xA82",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xA85",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xA88",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xA8B",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「いやです！」"
+		},
+		{
+			"LABEL": "0xA9F",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xAA2",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xAA5",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xAA8",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「鯰%R(1,なまず)」"
+		},
+		{
+			"LABEL": "0xAC0",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xAC3",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xAC6",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xAC9",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「おなじです！」"
+		},
+		{
+			"LABEL": "0xADF",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xAE2",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xAE5",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xAE8",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「鱠%R(1,なます)」"
+		},
+		{
+			"LABEL": "0xB00",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xB03",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xB06",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xB09",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「それもう魚じゃなくなりました！」"
+		},
+		{
+			"LABEL": "0xB31",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xB34",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0xB39",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "ポンからポンと、非常に良いテンポで相槌を打つるみちゃん。"
+		},
+		{
+			"LABEL": "0xB77",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xB7A",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xB7D",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xB80",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "楽しげに、軽やかに、笑う彼女に応えようと、%Nわたくしの頭脳はかつてない速さで地平を駆け巡ります。"
+		},
+		{
+			"LABEL": "0xBE6",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xBE9",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xBEC",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xBEF",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「んーーーー……"
+		},
+		{
+			"LABEL": "0xC05",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xC08",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xC0B",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "……それでは、"
+		},
+		{
+			"LABEL": "0xC1F",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xC22",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "“理”はどうでしょう」"
+		},
+		{
+			"LABEL": "0xC3E",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xC41",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xC44",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xC47",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「理科の理、ですか？」"
+		},
+		{
+			"LABEL": "0xC63",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xC66",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xC69",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xC6C",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「ことわり、ですよ――全てを正しく導くもの」"
+		},
+		{
+			"LABEL": "0xC9E",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xCA1",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xCA4",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xCA7",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "その瞬間の、彼女の顔の輝きを、%Nわたくしは、忘れようにも忘れることができないでしょう。"
+		},
+		{
+			"LABEL": "0xD03",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xD06",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0xD0B",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xD0E",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xD11",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xD14",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xD17",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xD1A",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xD1D",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「かっこいーです！%Nそれではわたしのペンネームは、リュミエール=光理としましょう！」"
+		},
+		{
+			"LABEL": "0xD76",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xD79",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0xD7E",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0xD83",
+			"CMD": "43",
+			"DATA": "07000000"
+		},
+		{
+			"LABEL": "0xD88",
+			"CMD": "1E",
+			"DATA": "07008000800080008000"
+		},
+		{
+			"LABEL": "0xD93",
+			"CMD": "1A",
+			"DATA": "07004e00"
+		},
+		{
+			"LABEL": "0xD98",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0xD99",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0xD9A",
+			"CMD": "1D",
+			"DATA": "070000000000"
+		},
+		{
+			"LABEL": "0xDA1",
+			"CMD": "1F",
+			"DATA": "070000000000000000010001"
+		},
+		{
+			"LABEL": "0xDAE",
+			"CMD": "20",
+			"DATA": "0700e0010e01"
+		},
+		{
+			"LABEL": "0xDB5",
+			"CMD": "21",
+			"DATA": "070000010001"
+		},
+		{
+			"LABEL": "0xDBC",
+			"CMD": "22",
+			"DATA": "07000e00"
+		},
+		{
+			"LABEL": "0xDC1",
+			"CMD": "25",
+			"DATA": "07000100"
+		},
+		{
+			"LABEL": "0xDC6",
+			"CMD": "PAIR",
+			"ID": 32982,
+			"VALUE1": 60,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0xDCB",
+			"CMD": "PAIR",
+			"ID": 32983,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0xDD0",
+			"CMD": "PAIR",
+			"ID": 32984,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0xDD5",
+			"CMD": "JMP4",
+			"ID": 65536
+		},
+		{
+			"LABEL": "0xDDA",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0xDDB",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0xDE0",
+			"CMD": "43",
+			"DATA": "07000000"
+		},
+		{
+			"LABEL": "0xDE5",
+			"CMD": "1E",
+			"DATA": "07008000800080008000"
+		},
+		{
+			"LABEL": "0xDF0",
+			"CMD": "1A",
+			"DATA": "07004700"
+		},
+		{
+			"LABEL": "0xDF5",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0xDF6",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0xDF7",
+			"CMD": "1D",
+			"DATA": "070000000000"
+		},
+		{
+			"LABEL": "0xDFE",
+			"CMD": "1F",
+			"DATA": "070000000000000000010001"
+		},
+		{
+			"LABEL": "0xE0B",
+			"CMD": "20",
+			"DATA": "0700e0010e01"
+		},
+		{
+			"LABEL": "0xE12",
+			"CMD": "21",
+			"DATA": "070000010001"
+		},
+		{
+			"LABEL": "0xE19",
+			"CMD": "22",
+			"DATA": "07000e00"
+		},
+		{
+			"LABEL": "0xE1E",
+			"CMD": "25",
+			"DATA": "07000100"
+		},
+		{
+			"LABEL": "0xE23",
+			"CMD": "PAIR",
+			"ID": 32982,
+			"VALUE1": 60,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0xE28",
+			"CMD": "PAIR",
+			"ID": 32983,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0xE2D",
+			"CMD": "PAIR",
+			"ID": 32984,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0xE32",
+			"CMD": "JMP4",
+			"ID": 65536
+		},
+		{
+			"LABEL": "0xE37",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0xE38",
+			"CMD": "IFGOTO6",
+			"DATA": "0b008a80",
+			"TO_LABEL": "0xE58"
+		},
+		{
+			"LABEL": "0xE41",
+			"CMD": "PAIR",
+			"ID": 32906,
+			"VALUE1": 11,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0xE46",
+			"CMD": "36",
+			"DATA": "ffff37"
+		},
+		{
+			"LABEL": "0xE4A",
+			"CMD": "75",
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0xE4F",
+			"CMD": "36",
+			"DATA": "0b0037"
+		},
+		{
+			"LABEL": "0xE53",
+			"CMD": "75",
+			"DATA": "64003c00"
+		},
+		{
+			"LABEL": "0xE58",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「……で、ときわ、どう思う」"
+		},
+		{
+			"LABEL": "0xE7A",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xE7D",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xE80",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xE83",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「＜風の島＞でどうでしょう」"
+		},
+		{
+			"LABEL": "0xEA5",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xEA8",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xEAB",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xEAE",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「ネーミングを聞いているんじゃない。……まあでも、悪くないな。%N＜風の島＞か、提案しておこう」"
+		},
+		{
+			"LABEL": "0xF12",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xF15",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xF18",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xF1B",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "父上の書斎。"
+		},
+		{
+			"LABEL": "0xF2D",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xF30",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xF33",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "ひんやりとした床に仰向けに大の字で横たわり、その幽かな振動を、近くて遠い、生命が息づいているのを背中に感じます。"
+		},
+		{
+			"LABEL": "0xFA9",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xFAC",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xFAF",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "つまりこう、ひんやり is God。"
+		},
+		{
+			"LABEL": "0xFD2",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0xFD5",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0xFDA",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "意味もなく開かれた目に映る照明は、木張りの空に浮かぶ電気じかけの太陽、%Nなんて、"
+		},
+		{
+			"LABEL": "0x1030",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1033",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "そんなことを言ったら、%N生まれたばかりのアウストラロピテクスおじさんはどう思うのでしょう。"
+		},
+		{
+			"LABEL": "0x1093",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1096",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1099",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x109C",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「思うのですが、どうしても風力発電にこだわらないといけないのでしょうか？"
+		},
+		{
+			"LABEL": "0x10EA",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x10ED",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x10F0",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "風車が見た目にグッジョブなのはわかりますが、%Nエネルギー効率の面ではガッデムです」"
+		},
+		{
+			"LABEL": "0x1148",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x114B",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x114E",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1151",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「一体今度は何の影響を受けたんだ、君は……"
+		},
+		{
+			"LABEL": "0x1181",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1184",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1187",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "――波力発電フロートを乗せるというんんだろう。%Nそれくらい僕でも考えているさ。"
+		},
+		{
+			"LABEL": "0x11DB",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x11DE",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x11E1",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "とはいえ、発電に使えるような波力を得られる海上で、%N立ち並ぶ風車を固定するのが困難でね」"
+		},
+		{
+			"LABEL": "0x123F",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1242",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x1247",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「いいえ、甘いです。波力と風力なんて、既にいくらでも実例がある。%N目指すは3つ乗せです」"
+		},
+		{
+			"LABEL": "0x12A4",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x12A7",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x12AA",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x12AD",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "言いながら翳%R(1,かざ)したフレミングの左手――FBI。"
+		},
+		{
+			"LABEL": "0x12E6",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x12E9",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x12EC",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x12EF",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "ほうほう、とか、ふむふむ、とか、そういった類の無意味な鳴き声は、"
+		},
+		{
+			"LABEL": "0x1335",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1338",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x133B",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "わたくしの話を聞き流しているのではなく、%N続きを促す彼なりの気遣いなのでした。"
+		},
+		{
+			"LABEL": "0x138F",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1392",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x1397",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「三位一体、三原色、三種の神器、三人官女、三者面談……"
+		},
+		{
+			"LABEL": "0x13D3",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x13D6",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x13D9",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "古の昔より、三というのはパーフェクトな概念を表す数字です。"
+		},
+		{
+			"LABEL": "0x1419",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x141C",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x141F",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "わたくしが＜風の島＞にもう一つ加えようというのは――"
+		},
+		{
+			"LABEL": "0x1459",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x145C",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "人工光合成ですよ」"
+		},
+		{
+			"LABEL": "0x1474",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1477",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x147A",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x147D",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "つまり、風の力と波の力、%Nそれに加えて太陽の力でエネルギーを取り出してしまおうという、"
+		},
+		{
+			"LABEL": "0x14D9",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x14DC",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x14DF",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "エコノミックアニマルの権化が如きアイデアを、%N天上に向けてシャボン玉にして吐き出したのでした。"
+		},
+		{
+			"LABEL": "0x1543",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1546",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1549",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x154C",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "ぷっぷくぷーと浮かべた言葉は、天上にへばりつくイメージ。"
+		},
+		{
+			"LABEL": "0x158A",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x158D",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1593",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "そのまま、天井に並べた言葉を、父上は喜ばしげに見上げて、%N彼のカンバスに書き写すのです。"
+		},
+		{
+			"LABEL": "0x15F1",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x15F4",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x15F9",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「……うん。うんうん。――いいアイデアだ。良いぞときわ！」"
+		},
+		{
+			"LABEL": "0x1639",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x163C",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x163F",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1642",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "何度もかんども頷きながら、本当に嬉しそうに、誇らしげに、%N父上はわたくしの名を呼ぶので、"
+		},
+		{
+			"LABEL": "0x16A0",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x16A3",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x16A6",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "嬉しさのブリッジをしようと膝を曲げたその瞬間でした。"
+		},
+		{
+			"LABEL": "0x16E0",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x16E3",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x16E6",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x16E9",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「そうだ！　＜風の島＞のプロジェクトは、まだメンバーの募集が%N始まったばかりなんだ。どうだろう、ときわも参加してみては」"
+		},
+		{
+			"LABEL": "0x1767",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x176A",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x176D",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1770",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "まるで考えなく、幼い子どものように輝いた目で、思いつきを口にする父上に、"
+		},
+		{
+			"LABEL": "0x17BE",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x17C1",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x17C7",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「えー。おねえちゃんばかりずるいです」"
+		},
+		{
+			"LABEL": "0x17F3",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x17F6",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x17FC",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "抗議の声を上げるるみちゃんが、わたくしの視界のカンバスに映り込む。"
+		},
+		{
+			"LABEL": "0x1844",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1847",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x184C",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "あくまでイメージとはいえ、ひしゃげてしまった天井をもとに戻すのも面倒で、"
+		},
+		{
+			"LABEL": "0x189A",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x189D",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x18A0",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "わたくしはスッと目を閉じる。"
+		},
+		{
+			"LABEL": "0x18C2",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x18C5",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x18C8",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x18CB",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「るみちゃんは詩人さんになるのでしょう」"
+		},
+		{
+			"LABEL": "0x18F9",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x18FC",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x18FF",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1902",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「ああ！　父上には内緒だって……"
+		},
+		{
+			"LABEL": "0x1928",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x192B",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "言ってませんでした！　ああ！」"
+		},
+		{
+			"LABEL": "0x194F",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1952",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1955",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1958",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「詩は世界を解き明かすもの。目指すところは、物理と変わらないのですよ？」"
+		},
+		{
+			"LABEL": "0x19A6",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x19A9",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x19AC",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x19AF",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「ああ！　え？　ああ！　がんばります！」"
+		},
+		{
+			"LABEL": "0x19DD",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x19E0",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x19E6",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "目を閉じていても、いや、閉じているからこそ、"
+		},
+		{
+			"LABEL": "0x1A18",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1A1B",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1A1E",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "3D空間に困惑するるみちゃんをあらゆる角度から愛でることが可能になるのです。"
+		},
+		{
+			"LABEL": "0x1A6E",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1A71",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x1A76",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「実はここだけの話、次のポストが決まってね。"
+		},
+		{
+			"LABEL": "0x1AA8",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1AAB",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1AAE",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "僕も、このプロジェクトにあまり時間を割けそうにないから、人を探してたんだ。"
+		},
+		{
+			"LABEL": "0x1AFE",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1B01",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1B04",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "理事、だってさ、理事。どうだい？　すごくない？」"
+		},
+		{
+			"LABEL": "0x1B3A",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1B3D",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1B40",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1B43",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「まるでおじさんのようです。%N若々しい見た目の父上にはバイトリーダー以上のポストなど似合いません」"
+		},
+		{
+			"LABEL": "0x1BAB",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1BAE",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1BB1",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1BB4",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「君の語彙は一体どこから補充されているんだい？"
+		},
+		{
+			"LABEL": "0x1BE8",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1BEB",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1BEE",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "もしかして、僕、育て方間違えたかな？」"
+		},
+		{
+			"LABEL": "0x1C1A",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1C1D",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x1C22",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「いいえ。見てくださいこの美少女姉妹を。%N育てられ方を間違った覚えなどございません」"
+		},
+		{
+			"LABEL": "0x1C7C",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1C7F",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1C82",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1C85",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「ございません！」"
+		},
+		{
+			"LABEL": "0x1C9D",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1CA0",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1CA3",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1CA6",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "背中から身体の熱が床へと広がってゆくのが感じられ、"
+		},
+		{
+			"LABEL": "0x1CDE",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1CE1",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1CE4",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "偏在する熱量としてのわたくしは、いずれこの部屋を満たすのでしょう。"
+		},
+		{
+			"LABEL": "0x1D2C",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1D2F",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1D32",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1D35",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "飲み込み、飲み込まれ、不可逆なる反応は、けれど、始点と終点が重なりあった、蛇リング。"
+		},
+		{
+			"LABEL": "0x1D8F",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1D92",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1D95",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1D98",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "瞼を上げると、父上の顔が目の前に生えていました。"
+		},
+		{
+			"LABEL": "0x1DCE",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1DD1",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x1DD6",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "まるで就活生のように切り揃えられた髪や、正された襟。"
+		},
+		{
+			"LABEL": "0x1E10",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1E13",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1E16",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1E19",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "温和な笑みは、幼くも見え、けれど、どこか達観したようでもあり――"
+		},
+		{
+			"LABEL": "0x1E5F",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1E62",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1E65",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "わたくしが目指すべき理想として、網膜に刻みつけてゆきます。"
+		},
+		{
+			"LABEL": "0x1EA5",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1EA8",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1EAB",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1EAE",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「気は早いけれど、理事として、君をプロジェクトに推薦しよう。"
+		},
+		{
+			"LABEL": "0x1EF0",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1EF3",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1EF6",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "ただし……僕の娘だとか、若いとか、そういうのは関係ないからね。"
+		},
+		{
+			"LABEL": "0x1F3A",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1F3D",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1F40",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "正面から、採用試験を突破しなさい」"
+		},
+		{
+			"LABEL": "0x1F68",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1F6B",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1F6E",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1F71",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「もちです」"
+		},
+		{
+			"LABEL": "0x1F83",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1F86",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1F89",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1F8C",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "わたくしは胸に手を当てて感じ取りました。"
+		},
+		{
+			"LABEL": "0x1FBA",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1FBD",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1FC0",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "この鼓動が、即ち、我が内なる道徳律――"
+		},
+		{
+			"LABEL": "0x1FEC",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x1FEF",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x1FF4",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x1FF9",
+			"CMD": "43",
+			"DATA": "07000000"
+		},
+		{
+			"LABEL": "0x1FFE",
+			"CMD": "1E",
+			"DATA": "07008000800080008000"
+		},
+		{
+			"LABEL": "0x2009",
+			"CMD": "1A",
+			"DATA": "07004e00"
+		},
+		{
+			"LABEL": "0x200E",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x200F",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x2010",
+			"CMD": "1D",
+			"DATA": "070000000000"
+		},
+		{
+			"LABEL": "0x2017",
+			"CMD": "1F",
+			"DATA": "070000000000000000010001"
+		},
+		{
+			"LABEL": "0x2024",
+			"CMD": "20",
+			"DATA": "0700e0010e01"
+		},
+		{
+			"LABEL": "0x202B",
+			"CMD": "21",
+			"DATA": "070000010001"
+		},
+		{
+			"LABEL": "0x2032",
+			"CMD": "22",
+			"DATA": "07000e00"
+		},
+		{
+			"LABEL": "0x2037",
+			"CMD": "25",
+			"DATA": "07000100"
+		},
+		{
+			"LABEL": "0x203C",
+			"CMD": "PAIR",
+			"ID": 32982,
+			"VALUE1": 60,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x2041",
+			"CMD": "PAIR",
+			"ID": 32983,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x2046",
+			"CMD": "PAIR",
+			"ID": 32984,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x204B",
+			"CMD": "JMP4",
+			"ID": 65536
+		},
+		{
+			"LABEL": "0x2050",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x2051",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x2056",
+			"CMD": "43",
+			"DATA": "07000000"
+		},
+		{
+			"LABEL": "0x205B",
+			"CMD": "1E",
+			"DATA": "07008000800080008000"
+		},
+		{
+			"LABEL": "0x2066",
+			"CMD": "1A",
+			"DATA": "07004700"
+		},
+		{
+			"LABEL": "0x206B",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x206C",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x206D",
+			"CMD": "1D",
+			"DATA": "070000000000"
+		},
+		{
+			"LABEL": "0x2074",
+			"CMD": "1F",
+			"DATA": "070000000000000000010001"
+		},
+		{
+			"LABEL": "0x2081",
+			"CMD": "20",
+			"DATA": "0700e0010e01"
+		},
+		{
+			"LABEL": "0x2088",
+			"CMD": "21",
+			"DATA": "070000010001"
+		},
+		{
+			"LABEL": "0x208F",
+			"CMD": "22",
+			"DATA": "07000e00"
+		},
+		{
+			"LABEL": "0x2094",
+			"CMD": "25",
+			"DATA": "07000100"
+		},
+		{
+			"LABEL": "0x2099",
+			"CMD": "PAIR",
+			"ID": 32982,
+			"VALUE1": 60,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x209E",
+			"CMD": "PAIR",
+			"ID": 32983,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x20A3",
+			"CMD": "PAIR",
+			"ID": 32984,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x20A8",
+			"CMD": "JMP4",
+			"ID": 65536
+		},
+		{
+			"LABEL": "0x20AD",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x20AE",
+			"CMD": "IFGOTO6",
+			"DATA": "11008a80",
+			"TO_LABEL": "0x20CE"
+		},
+		{
+			"LABEL": "0x20B7",
+			"CMD": "PAIR",
+			"ID": 32906,
+			"VALUE1": 17,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x20BC",
+			"CMD": "36",
+			"DATA": "ffff37"
+		},
+		{
+			"LABEL": "0x20C0",
+			"CMD": "75",
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x20C5",
+			"CMD": "36",
+			"DATA": "110037"
+		},
+		{
+			"LABEL": "0x20C9",
+			"CMD": "75",
+			"DATA": "64003c00"
+		},
+		{
+			"LABEL": "0x20CE",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "揺らぐ視界の導きは、それほど遠くない数ヶ月後にフォーカスチェンジ。"
+		},
+		{
+			"LABEL": "0x2116",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2119",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x211C",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "再び見上げた天井は、硬質なコンクリート――"
+		},
+		{
+			"LABEL": "0x214C",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x214F",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2152",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "今はここが、わたくしの住まいでした。"
+		},
+		{
+			"LABEL": "0x217C",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x217F",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2182",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2185",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "ROMLESという組織に関わることになり、既にどれだけの時が過ぎたでしょう。"
+		},
+		{
+			"LABEL": "0x21D1",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x21D4",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x21D7",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x21DA",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "わたくしに与えられた個室は地下にあり、%Nなにひとつ不自由することはないものの、けれど、そこは地下。"
+		},
+		{
+			"LABEL": "0x2242",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2245",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2248",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "地上の法の適用範囲をじわじわと広げる人間の営為の切っ先。"
+		},
+		{
+			"LABEL": "0x2286",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2289",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x228F",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "そこでは時の流れは何の意味も持たず、%Nただ、基準としての計測時間が流れるのみ。"
+		},
+		{
+			"LABEL": "0x22E3",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x22E6",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x22EC",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "そして何より――プロジェクトが終わるまでは、家に帰れないのでした。"
+		},
+		{
+			"LABEL": "0x2334",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2337",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x233C",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「あの西芳寺さんの娘さんなんだって」"
+		},
+		{
+			"LABEL": "0x2366",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2369",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x236C",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x236F",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「へえ、あんなに大きいお子さんがいるようには見えないけどな」"
+		},
+		{
+			"LABEL": "0x23B1",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x23B4",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x23B7",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x23BA",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "地底人たちは、みんながみんな、わたくしの父上を知っているようでした。"
+		},
+		{
+			"LABEL": "0x2404",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2407",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x240A",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x240D",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "わたくしを見る際には必ず父上が先ず浮かびます。"
+		},
+		{
+			"LABEL": "0x2441",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2444",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2447",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x244A",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "それはヴェールというよりは、エーテルのように、研究施設を覆い、"
+		},
+		{
+			"LABEL": "0x248E",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2491",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2494",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "決してそれから逃れることを許しません。"
+		},
+		{
+			"LABEL": "0x24C0",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x24C3",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x24C8",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "父上 is Great、 故に、娘のわたくし is ――"
+		},
+		{
+			"LABEL": "0x24F8",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x24FB",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x24FE",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2501",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "哀しいかな、彼らは科学の徒である前に、人の子でした。"
+		},
+		{
+			"LABEL": "0x253B",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x253E",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2541",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2544",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「恐縮ながら、そこにはどのような因果関係があるのでしょう。"
+		},
+		{
+			"LABEL": "0x2584",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2587",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x258A",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "父上のことと、わたくしのこと。それとこれとは関係ありません」"
+		},
+		{
+			"LABEL": "0x25CC",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x25CF",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x25D2",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x25D5",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "言葉を尽くして語ろうにも、語られようとすることのない人々に、%Nわたくしの論理は無力でした。"
+		},
+		{
+			"LABEL": "0x2635",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2638",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x263B",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x263E",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "流れる時、わたくしに声をかける人の逆数。"
+		},
+		{
+			"LABEL": "0x266C",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x266F",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2675",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "ROMLES地下の、閉塞した空間で、時の流れは加速し、%Nやがて、定常状態へと至ります。"
+		},
+		{
+			"LABEL": "0x26CB",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x26CE",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x26D3",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「そして、わたくしは――」"
+		},
+		{
+			"LABEL": "0x26F3",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x26F6",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x26F9",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x26FC",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "いつしか一人きり――。"
+		},
+		{
+			"LABEL": "0x2718",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x271B",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x271E",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2721",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "瞳を閉じれば、るみちゃんの姿。"
+		},
+		{
+			"LABEL": "0x2745",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2748",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x274B",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "彼女がもし、わたくしと同じ科学者を志していたら、%Nこうして、遠ざかってしまったのでしょうか。"
+		},
+		{
+			"LABEL": "0x27AD",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x27B0",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x27B3",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "無意味な問いは、ただ、無意味な答えを導くばかり。"
+		},
+		{
+			"LABEL": "0x27E9",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x27EC",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x27EF",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x27F2",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "スッキリと、並ぶもののない天井と、空間――"
+		},
+		{
+			"LABEL": "0x2822",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2825",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2828",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "そこで、わたくしのするべきことは過剰に明確でした。"
+		},
+		{
+			"LABEL": "0x2860",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2863",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x2868",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x286D",
+			"CMD": "43",
+			"DATA": "07000000"
+		},
+		{
+			"LABEL": "0x2872",
+			"CMD": "1E",
+			"DATA": "07008000800080008000"
+		},
+		{
+			"LABEL": "0x287D",
+			"CMD": "1A",
+			"DATA": "07004e00"
+		},
+		{
+			"LABEL": "0x2882",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x2883",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x2884",
+			"CMD": "1D",
+			"DATA": "070000000000"
+		},
+		{
+			"LABEL": "0x288B",
+			"CMD": "1F",
+			"DATA": "070000000000000000010001"
+		},
+		{
+			"LABEL": "0x2898",
+			"CMD": "20",
+			"DATA": "0700e0010e01"
+		},
+		{
+			"LABEL": "0x289F",
+			"CMD": "21",
+			"DATA": "070000010001"
+		},
+		{
+			"LABEL": "0x28A6",
+			"CMD": "22",
+			"DATA": "07000e00"
+		},
+		{
+			"LABEL": "0x28AB",
+			"CMD": "25",
+			"DATA": "07000100"
+		},
+		{
+			"LABEL": "0x28B0",
+			"CMD": "PAIR",
+			"ID": 32982,
+			"VALUE1": 60,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x28B5",
+			"CMD": "PAIR",
+			"ID": 32983,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x28BA",
+			"CMD": "PAIR",
+			"ID": 32984,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x28BF",
+			"CMD": "JMP4",
+			"ID": 65536
+		},
+		{
+			"LABEL": "0x28C4",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x28C5",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x28CA",
+			"CMD": "43",
+			"DATA": "07000000"
+		},
+		{
+			"LABEL": "0x28CF",
+			"CMD": "1E",
+			"DATA": "07008000800080008000"
+		},
+		{
+			"LABEL": "0x28DA",
+			"CMD": "1A",
+			"DATA": "07004e00"
+		},
+		{
+			"LABEL": "0x28DF",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x28E0",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x28E1",
+			"CMD": "1D",
+			"DATA": "070000000000"
+		},
+		{
+			"LABEL": "0x28E8",
+			"CMD": "1F",
+			"DATA": "070000000000000000010001"
+		},
+		{
+			"LABEL": "0x28F5",
+			"CMD": "20",
+			"DATA": "0700e0010e01"
+		},
+		{
+			"LABEL": "0x28FC",
+			"CMD": "21",
+			"DATA": "070000010001"
+		},
+		{
+			"LABEL": "0x2903",
+			"CMD": "22",
+			"DATA": "07000e00"
+		},
+		{
+			"LABEL": "0x2908",
+			"CMD": "25",
+			"DATA": "07000100"
+		},
+		{
+			"LABEL": "0x290D",
+			"CMD": "PAIR",
+			"ID": 32982,
+			"VALUE1": 60,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x2912",
+			"CMD": "PAIR",
+			"ID": 32983,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x2917",
+			"CMD": "PAIR",
+			"ID": 32984,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x291C",
+			"CMD": "JMP4",
+			"ID": 65536
+		},
+		{
+			"LABEL": "0x2921",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x2922",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2925",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2928",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x292B",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x292E",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2931",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "流転する記憶は、春の風のように穏やかに頬を撫ぜてゆくのです。"
+		},
+		{
+			"LABEL": "0x2973",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2976",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2979",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "目の前に待つ、荒れ狂う嵐に向けて、歩き出す足を止めるすべを、%Nもはやわたくしたちは持たないのです。"
+		},
+		{
+			"LABEL": "0x29E1",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x29E4",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x29E9",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x29EE",
+			"CMD": "43",
+			"DATA": "07000000"
+		},
+		{
+			"LABEL": "0x29F3",
+			"CMD": "1E",
+			"DATA": "07008000800080008000"
+		},
+		{
+			"LABEL": "0x29FE",
+			"CMD": "1A",
+			"DATA": "07004e00"
+		},
+		{
+			"LABEL": "0x2A03",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x2A04",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x2A05",
+			"CMD": "1D",
+			"DATA": "070000000000"
+		},
+		{
+			"LABEL": "0x2A0C",
+			"CMD": "1F",
+			"DATA": "070000000000000000010001"
+		},
+		{
+			"LABEL": "0x2A19",
+			"CMD": "20",
+			"DATA": "0700e0010e01"
+		},
+		{
+			"LABEL": "0x2A20",
+			"CMD": "21",
+			"DATA": "070000010001"
+		},
+		{
+			"LABEL": "0x2A27",
+			"CMD": "22",
+			"DATA": "07000e00"
+		},
+		{
+			"LABEL": "0x2A2C",
+			"CMD": "25",
+			"DATA": "07000100"
+		},
+		{
+			"LABEL": "0x2A31",
+			"CMD": "PAIR",
+			"ID": 32982,
+			"VALUE1": 60,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x2A36",
+			"CMD": "PAIR",
+			"ID": 32983,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x2A3B",
+			"CMD": "PAIR",
+			"ID": 32984,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x2A40",
+			"CMD": "JMP4",
+			"ID": 65536
+		},
+		{
+			"LABEL": "0x2A45",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x2A46",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x2A4B",
+			"CMD": "43",
+			"DATA": "07000000"
+		},
+		{
+			"LABEL": "0x2A50",
+			"CMD": "1E",
+			"DATA": "07008000800080008000"
+		},
+		{
+			"LABEL": "0x2A5B",
+			"CMD": "1A",
+			"DATA": "07004700"
+		},
+		{
+			"LABEL": "0x2A60",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x2A61",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x2A62",
+			"CMD": "1D",
+			"DATA": "070000000000"
+		},
+		{
+			"LABEL": "0x2A69",
+			"CMD": "1F",
+			"DATA": "070000000000000000010001"
+		},
+		{
+			"LABEL": "0x2A76",
+			"CMD": "20",
+			"DATA": "0700e0010e01"
+		},
+		{
+			"LABEL": "0x2A7D",
+			"CMD": "21",
+			"DATA": "070000010001"
+		},
+		{
+			"LABEL": "0x2A84",
+			"CMD": "22",
+			"DATA": "07000e00"
+		},
+		{
+			"LABEL": "0x2A89",
+			"CMD": "25",
+			"DATA": "07000100"
+		},
+		{
+			"LABEL": "0x2A8E",
+			"CMD": "PAIR",
+			"ID": 32982,
+			"VALUE1": 60,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x2A93",
+			"CMD": "PAIR",
+			"ID": 32983,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x2A98",
+			"CMD": "PAIR",
+			"ID": 32984,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x2A9D",
+			"CMD": "JMP4",
+			"ID": 65536
+		},
+		{
+			"LABEL": "0x2AA2",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x2AA3",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "その日のわたくしは、毎日がそうであるように、実験の真っ最中でした。"
+		},
+		{
+			"LABEL": "0x2AEB",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2AEE",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2AF1",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "均質で空虚な時間とともにパラメータ化された事象の記録を積み上げる作業。"
+		},
+		{
+			"LABEL": "0x2B3D",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2B40",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2B43",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "それは丁度、ひとつの大きな石材に彫像を見出すがごとくに。"
+		},
+		{
+			"LABEL": "0x2B81",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2B84",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2B87",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "終わるまで、観測の結末に至るまで、まっすぐに続く単純作業%N――そのはずでした。"
+		},
+		{
+			"LABEL": "0x2BDB",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2BDE",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2BE1",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2BE4",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "ふっと、消える照明。"
+		},
+		{
+			"LABEL": "0x2BFE",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2C01",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2C04",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2C07",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「停電――？」"
+		},
+		{
+			"LABEL": "0x2C1B",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2C1E",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2C24",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "暗くなる視界――時刻はまだ夕刻だというのに、見事なまでの暗転。"
+		},
+		{
+			"LABEL": "0x2C68",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2C6B",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2C6E",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "否が応でもそこがアンダーダークであることが思い出されます。"
+		},
+		{
+			"LABEL": "0x2CAE",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2CB1",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x2CB6",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "一ミリ先すら見えない真っ暗闇。"
+		},
+		{
+			"LABEL": "0x2CDA",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2CDD",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2CE0",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "であれば――わたくしは、目を開けたままで、%N彼女や彼の像を結ぶことにしました。"
+		},
+		{
+			"LABEL": "0x2D34",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2D37",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2D3A",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2D3D",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "るみちゃん、そして、父上。"
+		},
+		{
+			"LABEL": "0x2D5D",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2D60",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2D63",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "懐かしの我が家をも作り上げ、目の前に立ち上がるあの日の風景。"
+		},
+		{
+			"LABEL": "0x2DA5",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2DA8",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2DAB",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2DAE",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "――ああ、やっと帰ってこれました。"
+		},
+		{
+			"LABEL": "0x2DD6",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2DD9",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x2DDE",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「るみちゃん、お元気でしたか？」"
+		},
+		{
+			"LABEL": "0x2E04",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2E07",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2E0A",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2E0D",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「おねえちゃん、おひさしぶりです！」"
+		},
+		{
+			"LABEL": "0x2E37",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2E3A",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2E3D",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2E40",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "目を輝かせる彼女は、決して変わることなく、%Nかつてのままの姿でわたくしを迎え入れてくれます。"
+		},
+		{
+			"LABEL": "0x2EA2",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2EA5",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2EA8",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "抱きついて来ようとする妹を受け止めようと腕を広げ――"
+		},
+		{
+			"LABEL": "0x2EE2",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2EE5",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x2EEA",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "非常灯が点り、ぼんやりとした実験室が浮かび上がりました。"
+		},
+		{
+			"LABEL": "0x2F28",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2F2B",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2F2E",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2F31",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "立ち消える懐かしの我が家。"
+		},
+		{
+			"LABEL": "0x2F51",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2F54",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2F57",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2F5A",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "実験室の通路が薄らぼんやりと浮かび上がると、%N廊下からは人々の足音が聞こえてきます。"
+		},
+		{
+			"LABEL": "0x2FB4",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2FB7",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2FBA",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2FBD",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "どこへ行くのだろう――まだ、実験の最中なのに。"
+		},
+		{
+			"LABEL": "0x2FF1",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2FF4",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2FF7",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x2FFA",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "相変わらずの暗がりは、けれど、作業ができないと言い張るには%Nやや乏しいような？"
+		},
+		{
+			"LABEL": "0x304E",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3051",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x3056",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「全く……こういうときは、ですよ」"
+		},
+		{
+			"LABEL": "0x307E",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3081",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3084",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3087",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「ふふんふん　ふふんふんふん　ふふんふふんふんふん」"
+		},
+		{
+			"LABEL": "0x30C1",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x30C4",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x30C7",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x30CA",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "11拍子の鼻歌とともに、取り出したるは二つの薬品。"
+		},
+		{
+			"LABEL": "0x3100",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3103",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3106",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3109",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "ルミノール溶液と、オキシドールを、手早くその場で撹拌%R(2,かくはん)すると――"
+		},
+		{
+			"LABEL": "0x315B",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x315E",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3161",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3164",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "ぼんやりとした、光が、浮かび上がるのでした。"
+		},
+		{
+			"LABEL": "0x3196",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3199",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x319E",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「科学は、役に立ってこその科学ですよ」"
+		},
+		{
+			"LABEL": "0x31CA",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x31CD",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x31D0",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x31D3",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "生物発光を思わせる光。"
+		},
+		{
+			"LABEL": "0x31EF",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x31F2",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x31F5",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x31F8",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "ゆらゆらと、流れ移ろいながら、清らかに輝くそれがただの液体だなんて。"
+		},
+		{
+			"LABEL": "0x3242",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3245",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3248",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x324B",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "――生命の神秘。"
+		},
+		{
+			"LABEL": "0x3261",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3264",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3267",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x326A",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "安らぎの色彩に、心が洗われてゆくのです。"
+		},
+		{
+			"LABEL": "0x3298",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x329B",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x329E",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x32A1",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "穏やかな微睡みは、けれど、最早遠く。"
+		},
+		{
+			"LABEL": "0x32CB",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x32CE",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x32D3",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "世界が、わたくしを待っているのです――"
+		},
+		{
+			"LABEL": "0x32FF",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3302",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3305",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3308",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「おっと、滴定の最中でしたね"
+		},
+		{
+			"LABEL": "0x332A",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x332D",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3330",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "……って、もう当量点過ぎちゃってるじゃないですか！」"
+		},
+		{
+			"LABEL": "0x336A",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x336D",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3370",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3373",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "……まあでも。"
+		},
+		{
+			"LABEL": "0x3387",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x338A",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x338D",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "この光を眺められただけでも、良しとしましょう。"
+		},
+		{
+			"LABEL": "0x33C1",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x33C4",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x33C7",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x33CA",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "ルミノール反応は静かに収束して。"
+		},
+		{
+			"LABEL": "0x33F0",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x33F3",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x33F6",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x33F9",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "わたくしは再び、実験機材に手を伸ばしました。"
+		},
+		{
+			"LABEL": "0x342B",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x342E",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x3433",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x3438",
+			"CMD": "43",
+			"DATA": "07000000"
+		},
+		{
+			"LABEL": "0x343D",
+			"CMD": "1E",
+			"DATA": "07008000800080008000"
+		},
+		{
+			"LABEL": "0x3448",
+			"CMD": "1A",
+			"DATA": "07004e00"
+		},
+		{
+			"LABEL": "0x344D",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x344E",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x344F",
+			"CMD": "1D",
+			"DATA": "070000000000"
+		},
+		{
+			"LABEL": "0x3456",
+			"CMD": "1F",
+			"DATA": "070000000000000000010001"
+		},
+		{
+			"LABEL": "0x3463",
+			"CMD": "20",
+			"DATA": "0700e0010e01"
+		},
+		{
+			"LABEL": "0x346A",
+			"CMD": "21",
+			"DATA": "070000010001"
+		},
+		{
+			"LABEL": "0x3471",
+			"CMD": "22",
+			"DATA": "07000e00"
+		},
+		{
+			"LABEL": "0x3476",
+			"CMD": "25",
+			"DATA": "07000100"
+		},
+		{
+			"LABEL": "0x347B",
+			"CMD": "PAIR",
+			"ID": 32982,
+			"VALUE1": 60,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x3480",
+			"CMD": "PAIR",
+			"ID": 32983,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x3485",
+			"CMD": "PAIR",
+			"ID": 32984,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x348A",
+			"CMD": "JMP4",
+			"ID": 65536
+		},
+		{
+			"LABEL": "0x348F",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x3490",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x3495",
+			"CMD": "43",
+			"DATA": "07000000"
+		},
+		{
+			"LABEL": "0x349A",
+			"CMD": "1E",
+			"DATA": "07008000800080008000"
+		},
+		{
+			"LABEL": "0x34A5",
+			"CMD": "1A",
+			"DATA": "07004700"
+		},
+		{
+			"LABEL": "0x34AA",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x34AB",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x34AC",
+			"CMD": "1D",
+			"DATA": "070000000000"
+		},
+		{
+			"LABEL": "0x34B3",
+			"CMD": "1F",
+			"DATA": "070000000000000000010001"
+		},
+		{
+			"LABEL": "0x34C0",
+			"CMD": "20",
+			"DATA": "0700e0010e01"
+		},
+		{
+			"LABEL": "0x34C7",
+			"CMD": "21",
+			"DATA": "070000010001"
+		},
+		{
+			"LABEL": "0x34CE",
+			"CMD": "22",
+			"DATA": "07000e00"
+		},
+		{
+			"LABEL": "0x34D3",
+			"CMD": "25",
+			"DATA": "07000100"
+		},
+		{
+			"LABEL": "0x34D8",
+			"CMD": "PAIR",
+			"ID": 32982,
+			"VALUE1": 60,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x34DD",
+			"CMD": "PAIR",
+			"ID": 32983,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x34E2",
+			"CMD": "PAIR",
+			"ID": 32984,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x34E7",
+			"CMD": "JMP4",
+			"ID": 65536
+		},
+		{
+			"LABEL": "0x34EC",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x34ED",
+			"CMD": "IFGOTO6",
+			"DATA": "09008a80",
+			"TO_LABEL": "0x350D"
+		},
+		{
+			"LABEL": "0x34F6",
+			"CMD": "PAIR",
+			"ID": 32906,
+			"VALUE1": 9,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x34FB",
+			"CMD": "36",
+			"DATA": "ffff37"
+		},
+		{
+			"LABEL": "0x34FF",
+			"CMD": "75",
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x3504",
+			"CMD": "36",
+			"DATA": "090037"
+		},
+		{
+			"LABEL": "0x3508",
+			"CMD": "75",
+			"DATA": "64003c00"
+		},
+		{
+			"LABEL": "0x350D",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「……元気かい？」"
+		},
+		{
+			"LABEL": "0x3525",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3528",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x352B",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x352E",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「お久しぶりです、父上」"
+		},
+		{
+			"LABEL": "0x354C",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x354F",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3552",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3555",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「いや、本当に……びっくりするくらい久しぶりになってしまったね。"
+		},
+		{
+			"LABEL": "0x359B",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x359E",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x35A1",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "最近は、どんな調子かな？」"
+		},
+		{
+			"LABEL": "0x35C1",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x35C4",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x35C7",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x35CA",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「なぜかみんな実験設備にいないのでスペシウム楽ちんです」"
+		},
+		{
+			"LABEL": "0x3608",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x360B",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x3610",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "その事件からしばらくして、実験室に父上がやってきました。"
+		},
+		{
+			"LABEL": "0x364E",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3651",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3654",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3657",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "相変わらずの若々しい風貌は、けれど、少し見ない間に、%Nどこかやつれたようでもありました。"
+		},
+		{
+			"LABEL": "0x36B5",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x36B8",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x36BB",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x36BE",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "時は流れていらっしゃる――"
+		},
+		{
+			"LABEL": "0x36DE",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x36E1",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x36E4",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "改めてこの世の真理を胸のノートに刻むのでした。"
+		},
+		{
+			"LABEL": "0x3718",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x371B",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x3720",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「君はニュースを見ていないのか」"
+		},
+		{
+			"LABEL": "0x3746",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3749",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x374C",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x374F",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「すみません。ここ、そういうものがないので」"
+		},
+		{
+			"LABEL": "0x3781",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3784",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3787",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x378A",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "ROMLESでは厳重な情報管理のために、%N電子デバイス類は全て没収される決まりなのです。"
+		},
+		{
+			"LABEL": "0x37E2",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x37E5",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x37E8",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x37EB",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "研究で使う機材は別途支給され、%Nニュースは一日3回の定時報告によって知ることができましたが、"
+		},
+		{
+			"LABEL": "0x384C",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x384F",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3852",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "言われてみれば、例の日からそういった連絡の類は%Nまるきり途絶えてしまっていたのでした。"
+		},
+		{
+			"LABEL": "0x38AE",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x38B1",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x38B6",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「全くそういうところ、ストイックだなぁ。%Nしかしその様子を見ると、外にも出ていないのか……。"
+		},
+		{
+			"LABEL": "0x3918",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x391B",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x391E",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "ひとつのことに集中するのは美徳とはいえ、%Nその引きこもり体質はどうにかしたほうがいいな」"
+		},
+		{
+			"LABEL": "0x397C",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x397F",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3982",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3985",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「お言葉ですが、ひとりでお出かけしても、楽しくありませんですよ？」"
+		},
+		{
+			"LABEL": "0x39CD",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x39D0",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x39D3",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x39D6",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「君、いつも、出かけると勝手にひとりでどこかに行ってしまっていたじゃないか」"
+		},
+		{
+			"LABEL": "0x3A28",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3A2B",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3A2E",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3A31",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「それは、ひとりではないからです。%Nひとりでないから、ひとりになることができました」"
+		},
+		{
+			"LABEL": "0x3A8B",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3A8E",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3A91",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3A94",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「なるほど、とても良く分かるよ」"
+		},
+		{
+			"LABEL": "0x3ABA",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3ABD",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x3AC2",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "父上は、にっこりと笑い、わたくしの頭を撫ぜました。"
+		},
+		{
+			"LABEL": "0x3AFA",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3AFD",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3B00",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3B03",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "わたくしの話をきちんと聞いてくれる……ああ、やはり父上はいい人です。"
+		},
+		{
+			"LABEL": "0x3B4D",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3B50",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3B53",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3B56",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "やがて、撫でる手の平はいつの間にかメロイック・サインになり、%N二本の指先が額をついていました。"
+		},
+		{
+			"LABEL": "0x3BBA",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3BBD",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3BC0",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3BC3",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「父上、刺さっています」"
+		},
+		{
+			"LABEL": "0x3BE1",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3BE4",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3BE7",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3BEA",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「本当だ。とても刺さっている。可愛いなあ、ときわは」"
+		},
+		{
+			"LABEL": "0x3C24",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3C27",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3C2A",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3C2D",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "こういう時、わたくしは、父上のことが分からなくなるのですが、"
+		},
+		{
+			"LABEL": "0x3C6F",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3C72",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3C75",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "特に分かったところで得られるものはないような気もするのでした。"
+		},
+		{
+			"LABEL": "0x3CB9",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3CBC",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x3CC1",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x3CC6",
+			"CMD": "43",
+			"DATA": "01000000"
+		},
+		{
+			"LABEL": "0x3CCB",
+			"CMD": "1E",
+			"DATA": "01005000800080008000"
+		},
+		{
+			"LABEL": "0x3CD6",
+			"CMD": "1A",
+			"DATA": "01004700"
+		},
+		{
+			"LABEL": "0x3CDB",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x3CDC",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x3CDD",
+			"CMD": "1D",
+			"DATA": "010000000000"
+		},
+		{
+			"LABEL": "0x3CE4",
+			"CMD": "1F",
+			"DATA": "010000000000000000010001"
+		},
+		{
+			"LABEL": "0x3CF1",
+			"CMD": "20",
+			"DATA": "0100e0010e01"
+		},
+		{
+			"LABEL": "0x3CF8",
+			"CMD": "21",
+			"DATA": "010000010001"
+		},
+		{
+			"LABEL": "0x3CFF",
+			"CMD": "22",
+			"DATA": "01000c00"
+		},
+		{
+			"LABEL": "0x3D04",
+			"CMD": "25",
+			"DATA": "01000100"
+		},
+		{
+			"LABEL": "0x3D09",
+			"CMD": "43",
+			"DATA": "02000000"
+		},
+		{
+			"LABEL": "0x3D0E",
+			"CMD": "1E",
+			"DATA": "02002800800080008000"
+		},
+		{
+			"LABEL": "0x3D19",
+			"CMD": "1A",
+			"DATA": "02004800"
+		},
+		{
+			"LABEL": "0x3D1E",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x3D1F",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x3D20",
+			"CMD": "1D",
+			"DATA": "020000000000"
+		},
+		{
+			"LABEL": "0x3D27",
+			"CMD": "1F",
+			"DATA": "020000000000000000010001"
+		},
+		{
+			"LABEL": "0x3D34",
+			"CMD": "20",
+			"DATA": "0200e0010e01"
+		},
+		{
+			"LABEL": "0x3D3B",
+			"CMD": "21",
+			"DATA": "020000010001"
+		},
+		{
+			"LABEL": "0x3D42",
+			"CMD": "22",
+			"DATA": "02000a00"
+		},
+		{
+			"LABEL": "0x3D47",
+			"CMD": "25",
+			"DATA": "02000100"
+		},
+		{
+			"LABEL": "0x3D4C",
+			"CMD": "PAIR",
+			"ID": 32982,
+			"VALUE1": 60,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x3D51",
+			"CMD": "PAIR",
+			"ID": 32983,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x3D56",
+			"CMD": "PAIR",
+			"ID": 32984,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x3D5B",
+			"CMD": "JMP4",
+			"ID": 65536
+		},
+		{
+			"LABEL": "0x3D60",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x3D61",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「ところで……一つ、重要な任務だ」"
+		},
+		{
+			"LABEL": "0x3D89",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3D8C",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3D8F",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3D92",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "そう言って、父上は語りました。"
+		},
+		{
+			"LABEL": "0x3DB6",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3DB9",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3DBC",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3DBF",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "それは無理難題――"
+		},
+		{
+			"LABEL": "0x3DD7",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3DDA",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3DDD",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "ある海域を隔離する、それも、中の生物を傷つけずに。"
+		},
+		{
+			"LABEL": "0x3E15",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3E18",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3E1B",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3E1E",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「聞いたこともありませんよ？」"
+		},
+		{
+			"LABEL": "0x3E42",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3E45",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3E48",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3E4B",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「聞いたこともないだろう？"
+		},
+		{
+			"LABEL": "0x3E6B",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3E6E",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "　だから、君が成功させるんだ」"
+		},
+		{
+			"LABEL": "0x3E92",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3E95",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3E98",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3E9B",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "そう言って、父上はまた笑いました。"
+		},
+		{
+			"LABEL": "0x3EC3",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3EC6",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x3ECB",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3ECE",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3ED1",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3ED4",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3ED7",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「優しい君ならできるはずだ」"
+		},
+		{
+			"LABEL": "0x3EF9",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3EFC",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3EFF",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3F02",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「はい、父上――"
+		},
+		{
+			"LABEL": "0x3F18",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3F1B",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3F1E",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "あらゆる生物は、等しく価値があります。なにひとつ無駄な命などない。"
+		},
+		{
+			"LABEL": "0x3F66",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3F69",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3F6C",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "……きっとこの研究は、価値のあるものになるでしょう」"
+		},
+		{
+			"LABEL": "0x3FA6",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3FA9",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x3FAE",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「頼んだよ、ときわ。"
+		},
+		{
+			"LABEL": "0x3FC8",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x3FCB",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "本当は父さんがやるべきことなのだろうけれど、%N……最近は組織仕事で一杯一杯さ」"
+		},
+		{
+			"LABEL": "0x401F",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4022",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4025",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4028",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「まるで立派なおじさんですね」"
+		},
+		{
+			"LABEL": "0x404C",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x404F",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4052",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4055",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "くたびれた、という言葉が父上を形容する日が来るだなんて。"
+		},
+		{
+			"LABEL": "0x4093",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4096",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4099",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "さて、と立ち上がった彼は背中越しに言いました。"
+		},
+		{
+			"LABEL": "0x40CD",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x40D0",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x40D3",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x40D6",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「ああ、そうだ――"
+		},
+		{
+			"LABEL": "0x40EE",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x40F1",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "るみが会いたがっていたよ。今度連れてこさせる」"
+		},
+		{
+			"LABEL": "0x4125",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4128",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x412D",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x4132",
+			"CMD": "PAIR",
+			"ID": 33006,
+			"VALUE1": 1,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x4137",
+			"CMD": "JMP4",
+			"ID": 262144
+		},
+		{
+			"LABEL": "0x413C",
+			"CMD": "25",
+			"DATA": "01000000"
+		},
+		{
+			"LABEL": "0x4141",
+			"CMD": "PAIR",
+			"ID": 33006,
+			"VALUE1": 2,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x4146",
+			"CMD": "JMP4",
+			"ID": 262144
+		},
+		{
+			"LABEL": "0x414B",
+			"CMD": "25",
+			"DATA": "02000000"
+		},
+		{
+			"LABEL": "0x4150",
+			"CMD": "PAIR",
+			"ID": 32982,
+			"VALUE1": 60,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x4155",
+			"CMD": "PAIR",
+			"ID": 32983,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x415A",
+			"CMD": "PAIR",
+			"ID": 32984,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x415F",
+			"CMD": "JMP4",
+			"ID": 65536
+		},
+		{
+			"LABEL": "0x4164",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x4165",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x416A",
+			"CMD": "43",
+			"DATA": "07000000"
+		},
+		{
+			"LABEL": "0x416F",
+			"CMD": "1E",
+			"DATA": "07008000800080008000"
+		},
+		{
+			"LABEL": "0x417A",
+			"CMD": "1A",
+			"DATA": "07004e00"
+		},
+		{
+			"LABEL": "0x417F",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x4180",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x4181",
+			"CMD": "1D",
+			"DATA": "070000000000"
+		},
+		{
+			"LABEL": "0x4188",
+			"CMD": "1F",
+			"DATA": "070000000000000000010001"
+		},
+		{
+			"LABEL": "0x4195",
+			"CMD": "20",
+			"DATA": "0700e0010e01"
+		},
+		{
+			"LABEL": "0x419C",
+			"CMD": "21",
+			"DATA": "070000010001"
+		},
+		{
+			"LABEL": "0x41A3",
+			"CMD": "22",
+			"DATA": "07000e00"
+		},
+		{
+			"LABEL": "0x41A8",
+			"CMD": "25",
+			"DATA": "07000100"
+		},
+		{
+			"LABEL": "0x41AD",
+			"CMD": "PAIR",
+			"ID": 32982,
+			"VALUE1": 60,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x41B2",
+			"CMD": "PAIR",
+			"ID": 32983,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x41B7",
+			"CMD": "PAIR",
+			"ID": 32984,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x41BC",
+			"CMD": "JMP4",
+			"ID": 65536
+		},
+		{
+			"LABEL": "0x41C1",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x41C2",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x41C7",
+			"CMD": "43",
+			"DATA": "07000000"
+		},
+		{
+			"LABEL": "0x41CC",
+			"CMD": "1E",
+			"DATA": "07008000800080008000"
+		},
+		{
+			"LABEL": "0x41D7",
+			"CMD": "1A",
+			"DATA": "07004e00"
+		},
+		{
+			"LABEL": "0x41DC",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x41DD",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x41DE",
+			"CMD": "1D",
+			"DATA": "070000000000"
+		},
+		{
+			"LABEL": "0x41E5",
+			"CMD": "1F",
+			"DATA": "070000000000000000010001"
+		},
+		{
+			"LABEL": "0x41F2",
+			"CMD": "20",
+			"DATA": "0700e0010e01"
+		},
+		{
+			"LABEL": "0x41F9",
+			"CMD": "21",
+			"DATA": "070000010001"
+		},
+		{
+			"LABEL": "0x4200",
+			"CMD": "22",
+			"DATA": "07000e00"
+		},
+		{
+			"LABEL": "0x4205",
+			"CMD": "25",
+			"DATA": "07000100"
+		},
+		{
+			"LABEL": "0x420A",
+			"CMD": "PAIR",
+			"ID": 32982,
+			"VALUE1": 60,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x420F",
+			"CMD": "PAIR",
+			"ID": 32983,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x4214",
+			"CMD": "PAIR",
+			"ID": 32984,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x4219",
+			"CMD": "JMP4",
+			"ID": 65536
+		},
+		{
+			"LABEL": "0x421E",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x421F",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x4224",
+			"CMD": "43",
+			"DATA": "01000000"
+		},
+		{
+			"LABEL": "0x4229",
+			"CMD": "1E",
+			"DATA": "01005000800080008000"
+		},
+		{
+			"LABEL": "0x4234",
+			"CMD": "1A",
+			"DATA": "01004700"
+		},
+		{
+			"LABEL": "0x4239",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x423A",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x423B",
+			"CMD": "1D",
+			"DATA": "010000000000"
+		},
+		{
+			"LABEL": "0x4242",
+			"CMD": "1F",
+			"DATA": "010000000000000000010001"
+		},
+		{
+			"LABEL": "0x424F",
+			"CMD": "20",
+			"DATA": "0100e0010e01"
+		},
+		{
+			"LABEL": "0x4256",
+			"CMD": "21",
+			"DATA": "010000010001"
+		},
+		{
+			"LABEL": "0x425D",
+			"CMD": "22",
+			"DATA": "01000c00"
+		},
+		{
+			"LABEL": "0x4262",
+			"CMD": "25",
+			"DATA": "01000100"
+		},
+		{
+			"LABEL": "0x4267",
+			"CMD": "43",
+			"DATA": "02000000"
+		},
+		{
+			"LABEL": "0x426C",
+			"CMD": "1E",
+			"DATA": "02002800800080008000"
+		},
+		{
+			"LABEL": "0x4277",
+			"CMD": "1A",
+			"DATA": "02004800"
+		},
+		{
+			"LABEL": "0x427C",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x427D",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x427E",
+			"CMD": "1D",
+			"DATA": "020000000000"
+		},
+		{
+			"LABEL": "0x4285",
+			"CMD": "1F",
+			"DATA": "020000000000000000010001"
+		},
+		{
+			"LABEL": "0x4292",
+			"CMD": "20",
+			"DATA": "0200e0010e01"
+		},
+		{
+			"LABEL": "0x4299",
+			"CMD": "21",
+			"DATA": "020000010001"
+		},
+		{
+			"LABEL": "0x42A0",
+			"CMD": "22",
+			"DATA": "02000a00"
+		},
+		{
+			"LABEL": "0x42A5",
+			"CMD": "25",
+			"DATA": "02000100"
+		},
+		{
+			"LABEL": "0x42AA",
+			"CMD": "PAIR",
+			"ID": 32982,
+			"VALUE1": 60,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x42AF",
+			"CMD": "PAIR",
+			"ID": 32983,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x42B4",
+			"CMD": "PAIR",
+			"ID": 32984,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x42B9",
+			"CMD": "JMP4",
+			"ID": 65536
+		},
+		{
+			"LABEL": "0x42BE",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x42BF",
+			"CMD": "IFGOTO6",
+			"DATA": "0b008a80",
+			"TO_LABEL": "0x42DF"
+		},
+		{
+			"LABEL": "0x42C8",
+			"CMD": "PAIR",
+			"ID": 32906,
+			"VALUE1": 11,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x42CD",
+			"CMD": "36",
+			"DATA": "ffff37"
+		},
+		{
+			"LABEL": "0x42D1",
+			"CMD": "75",
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x42D6",
+			"CMD": "36",
+			"DATA": "0b0037"
+		},
+		{
+			"LABEL": "0x42DA",
+			"CMD": "75",
+			"DATA": "64003c00"
+		},
+		{
+			"LABEL": "0x42DF",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "父上は、決して約束を破る人ではありませんでした。"
+		},
+		{
+			"LABEL": "0x4315",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4318",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x431B",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x431E",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "他人に対しても、自分に対しても、もちろん、娘のわたくしたちに対しても。"
+		},
+		{
+			"LABEL": "0x436A",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x436D",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4370",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4373",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "るみちゃんが来る日を指折り数える日々の果てに、"
+		},
+		{
+			"LABEL": "0x43A7",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x43AA",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x43AD",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "数えた通りに、予定通りに、違うことなく、彼女は訪れたのでした。"
+		},
+		{
+			"LABEL": "0x43F1",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x43F4",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x43F9",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「お姉ちゃん！　るみです！　覚えていますか！？」"
+		},
+		{
+			"LABEL": "0x442F",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4432",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4435",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4438",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「忘れる筈が半木の道。そんなことよりも、るみちゃんは、お元気でしたか？」"
+		},
+		{
+			"LABEL": "0x4486",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4489",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x448C",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x448F",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「はい、本を読んでいます」"
+		},
+		{
+			"LABEL": "0x44AF",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x44B2",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x44B5",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x44B8",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "すばらしい！"
+		},
+		{
+			"LABEL": "0x44CA",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x44CD",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "　すばらしい！"
+		},
+		{
+			"LABEL": "0x44E1",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x44E4",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "　すばらしい！"
+		},
+		{
+			"LABEL": "0x44F8",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x44FB",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x44FE",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "元気かどうか聞かれて本を読んでいるだなんて、%N彼女はやっぱりわたくしの愛する妹です。"
+		},
+		{
+			"LABEL": "0x4558",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x455B",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x4560",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "そのまま、ずいと歩み寄るるみちゃんは、%N手にした本のページをわたくしの鼻に押し付けました。"
+		},
+		{
+			"LABEL": "0x45C0",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x45C3",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x45C6",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x45C9",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「おねえちゃん、これ、何て読むんですか」"
+		},
+		{
+			"LABEL": "0x45F7",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x45FA",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x45FD",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4600",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「室%R(1,むね)の裡%R(1,うち)と読むのですよ」"
+		},
+		{
+			"LABEL": "0x4632",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4635",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4638",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x463B",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "ふむふむ、と聞く光理は、そのまま中空に人差し指で文字を書くのでした。"
+		},
+		{
+			"LABEL": "0x4685",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4688",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x468B",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "脳内に刻みつけるように――"
+		},
+		{
+			"LABEL": "0x46AB",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x46AE",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x46B1",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x46B4",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "――ま・く・の・う・ち。"
+		},
+		{
+			"LABEL": "0x46D2",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x46D5",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x46DA",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「るみちゃん、それは、何の本でしたか？」"
+		},
+		{
+			"LABEL": "0x4708",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x470B",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x470E",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4711",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「はい。人魚の本です」"
+		},
+		{
+			"LABEL": "0x472D",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4730",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4733",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4736",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "そういえばアンデルセンは、彼女のお気に入りなのでしたっけ。"
+		},
+		{
+			"LABEL": "0x4776",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4779",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x477C",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x477F",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "……アンデルセンにしては随分、和な感じの表紙ですが。"
+		},
+		{
+			"LABEL": "0x47B9",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x47BC",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x47BF",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x47C2",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "本に目を落として、再び上げてを繰り返し、やがて、るみちゃんは問いました。"
+		},
+		{
+			"LABEL": "0x4810",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4813",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x4818",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「おねえちゃんは、人魚はいると思いますか」"
+		},
+		{
+			"LABEL": "0x4848",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x484B",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x484E",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4851",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「人魚、ですか。進化論的には、厳しいんじゃないですかね。"
+		},
+		{
+			"LABEL": "0x488F",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4892",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4895",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "どういう淘汰圧がかかったらそのフォルムになるのか想像できません。"
+		},
+		{
+			"LABEL": "0x48DB",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x48DE",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x48E1",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "もっとも実際には、クジラやイルカの見間違い、という話がよく聞かれますね。"
+		},
+		{
+			"LABEL": "0x492F",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4932",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4935",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "あとはマナティとかジュゴンとか」"
+		},
+		{
+			"LABEL": "0x495B",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x495E",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4961",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4964",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「そう、ですか……」"
+		},
+		{
+			"LABEL": "0x497E",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4981",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4987",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「あ」"
+		},
+		{
+			"LABEL": "0x4993",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4996",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4999",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x499C",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "やってしまいました。"
+		},
+		{
+			"LABEL": "0x49B6",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x49B9",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x49BC",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "考えなしに発した言葉に、るみちゃんの顔は世界を包むブリザード。"
+		},
+		{
+			"LABEL": "0x4A00",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4A03",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x4A08",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x4A0D",
+			"CMD": "43",
+			"DATA": "01000000"
+		},
+		{
+			"LABEL": "0x4A12",
+			"CMD": "1E",
+			"DATA": "01002800800080008000"
+		},
+		{
+			"LABEL": "0x4A1D",
+			"CMD": "1A",
+			"DATA": "01004700"
+		},
+		{
+			"LABEL": "0x4A22",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x4A23",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x4A24",
+			"CMD": "1D",
+			"DATA": "010000000000"
+		},
+		{
+			"LABEL": "0x4A2B",
+			"CMD": "1F",
+			"DATA": "010000000000000000010001"
+		},
+		{
+			"LABEL": "0x4A38",
+			"CMD": "20",
+			"DATA": "0100e0010e01"
+		},
+		{
+			"LABEL": "0x4A3F",
+			"CMD": "21",
+			"DATA": "010000010001"
+		},
+		{
+			"LABEL": "0x4A46",
+			"CMD": "22",
+			"DATA": "01000c00"
+		},
+		{
+			"LABEL": "0x4A4B",
+			"CMD": "25",
+			"DATA": "01000100"
+		},
+		{
+			"LABEL": "0x4A50",
+			"CMD": "43",
+			"DATA": "02000000"
+		},
+		{
+			"LABEL": "0x4A55",
+			"CMD": "1E",
+			"DATA": "02005000800080008000"
+		},
+		{
+			"LABEL": "0x4A60",
+			"CMD": "1A",
+			"DATA": "02004800"
+		},
+		{
+			"LABEL": "0x4A65",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x4A66",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x4A67",
+			"CMD": "1D",
+			"DATA": "020000000000"
+		},
+		{
+			"LABEL": "0x4A6E",
+			"CMD": "1F",
+			"DATA": "020000000000000000010001"
+		},
+		{
+			"LABEL": "0x4A7B",
+			"CMD": "20",
+			"DATA": "0200e0010e01"
+		},
+		{
+			"LABEL": "0x4A82",
+			"CMD": "21",
+			"DATA": "020000010001"
+		},
+		{
+			"LABEL": "0x4A89",
+			"CMD": "22",
+			"DATA": "02000a00"
+		},
+		{
+			"LABEL": "0x4A8E",
+			"CMD": "25",
+			"DATA": "02000100"
+		},
+		{
+			"LABEL": "0x4A93",
+			"CMD": "PAIR",
+			"ID": 32982,
+			"VALUE1": 60,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x4A98",
+			"CMD": "PAIR",
+			"ID": 32983,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x4A9D",
+			"CMD": "PAIR",
+			"ID": 32984,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x4AA2",
+			"CMD": "JMP4",
+			"ID": 65536
+		},
+		{
+			"LABEL": "0x4AA7",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x4AA8",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "はわわわわわいけないいけない。"
+		},
+		{
+			"LABEL": "0x4ACC",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4ACF",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4AD2",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4AD5",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "人魚を信じるるみちゃんを、わたくしは傷つけてしまった――！"
+		},
+		{
+			"LABEL": "0x4B15",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4B18",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4B1B",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4B1E",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "ここは――"
+		},
+		{
+			"LABEL": "0x4B2E",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4B31",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "――くじらの凄さをアピールしなくては！"
+		},
+		{
+			"LABEL": "0x4B5D",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4B60",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4B63",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4B66",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「るみちゃん、るみちゃん」"
+		},
+		{
+			"LABEL": "0x4B86",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4B89",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4B8C",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4B8F",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「……なんですか……人魚のいない世界の……おねえちゃん……」"
+		},
+		{
+			"LABEL": "0x4BD1",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4BD4",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4BD7",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4BDA",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "声も言葉も白く煙らせるるみちゃんに、わたくしは軽いバウンドでアピール。"
+		},
+		{
+			"LABEL": "0x4C26",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4C29",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x4C2E",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「クジラはすごいんですよ！ 人間と同じくらい頭がいいんです！"
+		},
+		{
+			"LABEL": "0x4C6F",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4C72",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4C75",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "例えば魚をとるときだってですね！"
+		},
+		{
+			"LABEL": "0x4C9B",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4C9E",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4CA1",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "魚の群れの下を螺旋を描くように泳ぎつつ、口から泡を吐き出すことで、%N円柱状の壁を作って群れを追い詰め……」"
+		},
+		{
+			"LABEL": "0x4D11",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4D14",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4D17",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4D1A",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "――生命を、傷つけずに、閉じ込める……"
+		},
+		{
+			"LABEL": "0x4D46",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4D49",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4D4C",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4D4F",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "すべてが、今、ひと繋がりに――"
+		},
+		{
+			"LABEL": "0x4D73",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4D76",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x4D7B",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「るみちゃん！"
+		},
+		{
+			"LABEL": "0x4D8F",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4D92",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4D95",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "クジラさんすごいです！ ありがとうございます！」"
+		},
+		{
+			"LABEL": "0x4DCA",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4DCD",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4DD0",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4DD3",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「ほえあ！？」"
+		},
+		{
+			"LABEL": "0x4DE7",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4DEA",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4DED",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4DF0",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "ぱっくりと開かれたるみちゃんの口に、%N躊躇うことすら出来ずに指を突っ込んでしまいました。"
+		},
+		{
+			"LABEL": "0x4E4E",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4E51",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4E54",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4E57",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「るみちゃんのおかげで、おねえちゃん、思いついてしまいました！」"
+		},
+		{
+			"LABEL": "0x4E9D",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4EA0",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4EA3",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4EA6",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「すごいです！　おねえちゃん、すごい！」"
+		},
+		{
+			"LABEL": "0x4ED4",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4ED7",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x4EDC",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「るみちゃん、御礼に今度、どこか連れていってあげましょう。"
+		},
+		{
+			"LABEL": "0x4F1C",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4F1F",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4F22",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "今ならばご希望を受け付けますよ？」"
+		},
+		{
+			"LABEL": "0x4F4A",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4F4D",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4F50",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4F53",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「うーん……"
+		},
+		{
+			"LABEL": "0x4F65",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4F68",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "わたし、星が見たいです」"
+		},
+		{
+			"LABEL": "0x4F86",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4F89",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4F8C",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4F8F",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「星？」"
+		},
+		{
+			"LABEL": "0x4F9D",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4FA0",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4FA3",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x4FA6",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "予想だにしない答えに問い返すと、%Nるみちゃんはブンブンと鬼のようなヘッドバンギング。"
+		},
+		{
+			"LABEL": "0x5000",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5003",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5006",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5009",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「はい、星です。せっかくおねえちゃんが、名前をつけてくれたので、%Nそれにちなんだ場所に行ければなと」"
+		},
+		{
+			"LABEL": "0x5073",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5076",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x507B",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "わたくしがつけた名前――ジャズ界のカメレオン、"
+		},
+		{
+			"LABEL": "0x50AF",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x50B2",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x50B5",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "ではなく、リュミエール＝光理。"
+		},
+		{
+			"LABEL": "0x50D9",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x50DC",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x50DF",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x50E2",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "すべてを導く光の理は、即ち、我が上なる星空……"
+		},
+		{
+			"LABEL": "0x5116",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5119",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x511C",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x511F",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「わかりました。行きましょう」"
+		},
+		{
+			"LABEL": "0x5143",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5146",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5149",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x514C",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「本当ですか！？」"
+		},
+		{
+			"LABEL": "0x5164",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5167",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x516A",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x516D",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「もちです」"
+		},
+		{
+			"LABEL": "0x517F",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5182",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5185",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5188",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "わたくしは決めました%N――真にすばらしい、あの景色を、るみちゃんに見せてあげようと。"
+		},
+		{
+			"LABEL": "0x51E2",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x51E5",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x51EA",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x51EF",
+			"CMD": "PAIR",
+			"ID": 33006,
+			"VALUE1": 1,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x51F4",
+			"CMD": "JMP4",
+			"ID": 262144
+		},
+		{
+			"LABEL": "0x51F9",
+			"CMD": "25",
+			"DATA": "01000000"
+		},
+		{
+			"LABEL": "0x51FE",
+			"CMD": "PAIR",
+			"ID": 33006,
+			"VALUE1": 2,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x5203",
+			"CMD": "JMP4",
+			"ID": 262144
+		},
+		{
+			"LABEL": "0x5208",
+			"CMD": "25",
+			"DATA": "02000000"
+		},
+		{
+			"LABEL": "0x520D",
+			"CMD": "PAIR",
+			"ID": 32982,
+			"VALUE1": 60,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x5212",
+			"CMD": "PAIR",
+			"ID": 32983,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x5217",
+			"CMD": "PAIR",
+			"ID": 32984,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x521C",
+			"CMD": "JMP4",
+			"ID": 65536
+		},
+		{
+			"LABEL": "0x5221",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x5222",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x5227",
+			"CMD": "43",
+			"DATA": "07000000"
+		},
+		{
+			"LABEL": "0x522C",
+			"CMD": "1E",
+			"DATA": "07008000800080008000"
+		},
+		{
+			"LABEL": "0x5237",
+			"CMD": "1A",
+			"DATA": "07004e00"
+		},
+		{
+			"LABEL": "0x523C",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x523D",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x523E",
+			"CMD": "1D",
+			"DATA": "070000000000"
+		},
+		{
+			"LABEL": "0x5245",
+			"CMD": "1F",
+			"DATA": "070000000000000000010001"
+		},
+		{
+			"LABEL": "0x5252",
+			"CMD": "20",
+			"DATA": "0700e0010e01"
+		},
+		{
+			"LABEL": "0x5259",
+			"CMD": "21",
+			"DATA": "070000010001"
+		},
+		{
+			"LABEL": "0x5260",
+			"CMD": "22",
+			"DATA": "07000e00"
+		},
+		{
+			"LABEL": "0x5265",
+			"CMD": "25",
+			"DATA": "07000100"
+		},
+		{
+			"LABEL": "0x526A",
+			"CMD": "PAIR",
+			"ID": 32982,
+			"VALUE1": 60,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x526F",
+			"CMD": "PAIR",
+			"ID": 32983,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x5274",
+			"CMD": "PAIR",
+			"ID": 32984,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x5279",
+			"CMD": "JMP4",
+			"ID": 65536
+		},
+		{
+			"LABEL": "0x527E",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x527F",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x5284",
+			"CMD": "43",
+			"DATA": "07000000"
+		},
+		{
+			"LABEL": "0x5289",
+			"CMD": "1E",
+			"DATA": "07008000800080008000"
+		},
+		{
+			"LABEL": "0x5294",
+			"CMD": "1A",
+			"DATA": "07004e00"
+		},
+		{
+			"LABEL": "0x5299",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x529A",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x529B",
+			"CMD": "1D",
+			"DATA": "070000000000"
+		},
+		{
+			"LABEL": "0x52A2",
+			"CMD": "1F",
+			"DATA": "070000000000000000010001"
+		},
+		{
+			"LABEL": "0x52AF",
+			"CMD": "20",
+			"DATA": "0700e0010e01"
+		},
+		{
+			"LABEL": "0x52B6",
+			"CMD": "21",
+			"DATA": "070000010001"
+		},
+		{
+			"LABEL": "0x52BD",
+			"CMD": "22",
+			"DATA": "07000e00"
+		},
+		{
+			"LABEL": "0x52C2",
+			"CMD": "25",
+			"DATA": "07000100"
+		},
+		{
+			"LABEL": "0x52C7",
+			"CMD": "PAIR",
+			"ID": 32982,
+			"VALUE1": 60,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x52CC",
+			"CMD": "PAIR",
+			"ID": 32983,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x52D1",
+			"CMD": "PAIR",
+			"ID": 32984,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x52D6",
+			"CMD": "JMP4",
+			"ID": 65536
+		},
+		{
+			"LABEL": "0x52DB",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x52DC",
+			"CMD": "IFGOTO6",
+			"DATA": "1c008a80",
+			"TO_LABEL": "0x52FC"
+		},
+		{
+			"LABEL": "0x52E5",
+			"CMD": "PAIR",
+			"ID": 32906,
+			"VALUE1": 28,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x52EA",
+			"CMD": "36",
+			"DATA": "ffff37"
+		},
+		{
+			"LABEL": "0x52EE",
+			"CMD": "75",
+			"DATA": "00000000"
+		},
+		{
+			"LABEL": "0x52F3",
+			"CMD": "36",
+			"DATA": "1c0037"
+		},
+		{
+			"LABEL": "0x52F7",
+			"CMD": "75",
+			"DATA": "64003c00"
+		},
+		{
+			"LABEL": "0x52FC",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "そうして、約束の夜がやってきました。"
+		},
+		{
+			"LABEL": "0x5326",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5329",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x532C",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x532F",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "空は晴れて、絶好の天体観測日和です。"
+		},
+		{
+			"LABEL": "0x5359",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x535C",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x535F",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5362",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "一人、施設にやってきたるみちゃんを前に、わたくしは言いました。"
+		},
+		{
+			"LABEL": "0x53A6",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x53A9",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x53AC",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x53AF",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「海に、行きましょう」"
+		},
+		{
+			"LABEL": "0x53CB",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x53CE",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x53D1",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x53D4",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "それがどんな結末を導くのか、知りもせずに、手を差し伸べて――"
+		},
+		{
+			"LABEL": "0x5416",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5419",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x541E",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x5423",
+			"CMD": "43",
+			"DATA": "07000000"
+		},
+		{
+			"LABEL": "0x5428",
+			"CMD": "1E",
+			"DATA": "07008000800080008000"
+		},
+		{
+			"LABEL": "0x5433",
+			"CMD": "1A",
+			"DATA": "07004e00"
+		},
+		{
+			"LABEL": "0x5438",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x5439",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x543A",
+			"CMD": "1D",
+			"DATA": "070000000000"
+		},
+		{
+			"LABEL": "0x5441",
+			"CMD": "1F",
+			"DATA": "070000000000000000010001"
+		},
+		{
+			"LABEL": "0x544E",
+			"CMD": "20",
+			"DATA": "0700e0010e01"
+		},
+		{
+			"LABEL": "0x5455",
+			"CMD": "21",
+			"DATA": "070000010001"
+		},
+		{
+			"LABEL": "0x545C",
+			"CMD": "22",
+			"DATA": "07000e00"
+		},
+		{
+			"LABEL": "0x5461",
+			"CMD": "25",
+			"DATA": "07000100"
+		},
+		{
+			"LABEL": "0x5466",
+			"CMD": "PAIR",
+			"ID": 32982,
+			"VALUE1": 60,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x546B",
+			"CMD": "PAIR",
+			"ID": 32983,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x5470",
+			"CMD": "PAIR",
+			"ID": 32984,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x5475",
+			"CMD": "JMP4",
+			"ID": 65536
+		},
+		{
+			"LABEL": "0x547A",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x547B",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x5480",
+			"CMD": "43",
+			"DATA": "07000000"
+		},
+		{
+			"LABEL": "0x5485",
+			"CMD": "1E",
+			"DATA": "07008000800080008000"
+		},
+		{
+			"LABEL": "0x5490",
+			"CMD": "1A",
+			"DATA": "07004800"
+		},
+		{
+			"LABEL": "0x5495",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x5496",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x5497",
+			"CMD": "1D",
+			"DATA": "070000000000"
+		},
+		{
+			"LABEL": "0x549E",
+			"CMD": "1F",
+			"DATA": "070000000000000000010001"
+		},
+		{
+			"LABEL": "0x54AB",
+			"CMD": "20",
+			"DATA": "0700e0010e01"
+		},
+		{
+			"LABEL": "0x54B2",
+			"CMD": "21",
+			"DATA": "070000010001"
+		},
+		{
+			"LABEL": "0x54B9",
+			"CMD": "22",
+			"DATA": "07000e00"
+		},
+		{
+			"LABEL": "0x54BE",
+			"CMD": "25",
+			"DATA": "07000100"
+		},
+		{
+			"LABEL": "0x54C3",
+			"CMD": "PAIR",
+			"ID": 32982,
+			"VALUE1": 60,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x54C8",
+			"CMD": "PAIR",
+			"ID": 32983,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x54CD",
+			"CMD": "PAIR",
+			"ID": 32984,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x54D2",
+			"CMD": "JMP4",
+			"ID": 65536
+		},
+		{
+			"LABEL": "0x54D7",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x54D8",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "――昏間湾。"
+		},
+		{
+			"LABEL": "0x54EA",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x54ED",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x54F0",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x54F3",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "訪れたのは、夜中の真っ黒な海。"
+		},
+		{
+			"LABEL": "0x5517",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x551A",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x551D",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5520",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "冷たい波が寄せては返す、流れるままに終わらない光景。"
+		},
+		{
+			"LABEL": "0x555A",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x555D",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5560",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5563",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "穏やかなリズムは大地の呼吸。"
+		},
+		{
+			"LABEL": "0x5585",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5588",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x558B",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x558E",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "その音色は、わたくしたちのすべてを浄化してくれるのです――"
+		},
+		{
+			"LABEL": "0x55CE",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x55D1",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x55D6",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「わあああああああ」"
+		},
+		{
+			"LABEL": "0x55F0",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x55F3",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x55F6",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x55F9",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "それは、空を見上げるるみちゃんの鳴き声。"
+		},
+		{
+			"LABEL": "0x5627",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x562A",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x562D",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5630",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「あれがデネブですよ、デネブ！」"
+		},
+		{
+			"LABEL": "0x5656",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5659",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x565C",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x565F",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「わかっています。ちなみにアルタイルとベガはどうでもいいです」"
+		},
+		{
+			"LABEL": "0x56A3",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x56A6",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x56A9",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x56AC",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「なんでですか！」"
+		},
+		{
+			"LABEL": "0x56C4",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x56C7",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x56CA",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x56CD",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「リアルが充実しているからです」"
+		},
+		{
+			"LABEL": "0x56F3",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x56F6",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x56FB",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "年に一度しか逢えない恋人――"
+		},
+		{
+			"LABEL": "0x571D",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5720",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5723",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "けれど、天の星のようなあまりに大きな存在にとっては、"
+		},
+		{
+			"LABEL": "0x575D",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5760",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5763",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "一年という時間もあっという間のことかもに違いありません。"
+		},
+		{
+			"LABEL": "0x57A1",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x57A4",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x57A7",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x57AA",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「ちょっといい話を教えてあげましょう、るみちゃん」"
+		},
+		{
+			"LABEL": "0x57E2",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x57E5",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x57E8",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x57EB",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「はくちょう座デネブ――"
+		},
+		{
+			"LABEL": "0x5809",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x580C",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x580F",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "あの方向に1400光年行った先に、ケプラー452という系外惑星があります。"
+		},
+		{
+			"LABEL": "0x5858",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x585B",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x585E",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "その直径は地球の1.6倍、ハビタブルゾーンに存在していまして、」"
+		},
+		{
+			"LABEL": "0x58A1",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x58A4",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x58AA",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「バスタブ……？」"
+		},
+		{
+			"LABEL": "0x58C2",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x58C5",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x58C8",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x58CB",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「簡単にまとめると、ケプラー452は“第二の地球”候補なのです」"
+		},
+		{
+			"LABEL": "0x590E",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5911",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x5916",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「つまり、あの星には、生き物がいるのかも知れないのです。"
+		},
+		{
+			"LABEL": "0x5954",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5957",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x595A",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "そして、わたくしたちと同じようにこちらを眺めているのかも」"
+		},
+		{
+			"LABEL": "0x599A",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x599D",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x59A0",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x59A3",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「あんなに遠くにも生命がいると思うとわくわくしますね！」"
+		},
+		{
+			"LABEL": "0x59E1",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x59E4",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x59E7",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x59EA",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "そう言って、手を伸ばするみちゃん。"
+		},
+		{
+			"LABEL": "0x5A12",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5A15",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5A18",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5A1B",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "小柄な彼女がぴょんぴょん跳ねても、ほんの僅かも届く気配がナッシング皆無。"
+		},
+		{
+			"LABEL": "0x5A69",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5A6C",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5A6F",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5A72",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "届かないからこそ、手を伸ばすことに、それ自体に意味があるのかも知れません。"
+		},
+		{
+			"LABEL": "0x5AC2",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5AC5",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x5ACA",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「そうです。人はみな、夜空の向こうに憧れる。%Nその遠く先の、未知なる生命を夢見て"
+		},
+		{
+			"LABEL": "0x5B20",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5B23",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5B26",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "でも――"
+		},
+		{
+			"LABEL": "0x5B34",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5B37",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "生命なら、この地球上にも、びっくりするくらいいるんですよ？"
+		},
+		{
+			"LABEL": "0x5B77",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5B7A",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5B7D",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "宇宙はロマンかもしれませんが、この海だって」"
+		},
+		{
+			"LABEL": "0x5BAF",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5BB2",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5BB5",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5BB8",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "傍らの石を拾い上げ……"
+		},
+		{
+			"LABEL": "0x5BD4",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5BD7",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5BDA",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5BDD",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「――未知のことばかりなんです」"
+		},
+		{
+			"LABEL": "0x5C03",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5C06",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5C09",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5C0C",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "昏い海に、石を――投げ入れました。"
+		},
+		{
+			"LABEL": "0x5C34",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5C37",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x5C3C",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「あっ……」"
+		},
+		{
+			"LABEL": "0x5C4E",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5C51",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5C54",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5C57",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "それは、あっという間の出来事でした。"
+		},
+		{
+			"LABEL": "0x5C81",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5C84",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5C87",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5C8A",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "漆黒の海に、光が、ポツリ。"
+		},
+		{
+			"LABEL": "0x5CAA",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5CAD",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5CB0",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5CB3",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "ポツリと灯った蒼は、やがてじわりと広がり、%N波を打つように死海の限りに広がって……"
+		},
+		{
+			"LABEL": "0x5D0B",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5D0E",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5D11",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5D14",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "それは、シャーレの中のルミノール反応にも似て、%Nそれよりもはるかに美しい――"
+		},
+		{
+			"LABEL": "0x5D66",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5D69",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5D6C",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "――生命の、神秘。"
+		},
+		{
+			"LABEL": "0x5D84",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5D87",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5D8A",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5D8D",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「ウミホタルです」"
+		},
+		{
+			"LABEL": "0x5DA5",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5DA8",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x5DAD",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "見惚れて言葉を失ったるみちゃんに、声をかける。"
+		},
+		{
+			"LABEL": "0x5DE1",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5DE4",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5DE7",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5DEA",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「ウミホタルですか！？」"
+		},
+		{
+			"LABEL": "0x5E08",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5E0B",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5E0E",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5E11",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「ウミホタルです！」"
+		},
+		{
+			"LABEL": "0x5E2B",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5E2E",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5E31",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5E34",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「ウミホタルですか！？」"
+		},
+		{
+			"LABEL": "0x5E52",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5E55",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5E58",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5E5B",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「ウミホタルです！！」"
+		},
+		{
+			"LABEL": "0x5E77",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5E7A",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5E7D",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5E80",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「ウミホ――"
+		},
+		{
+			"LABEL": "0x5E92",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5E95",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5E98",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5E9B",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "やめましょう。"
+		},
+		{
+			"LABEL": "0x5EAF",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5EB2",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5EB5",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "るみちゃんは静かに星の下で、笑いました。"
+		},
+		{
+			"LABEL": "0x5EE3",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5EE6",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x5EEB",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「海の星と、空の星に囲まれて、まるで、ステージダンサーのようですね」"
+		},
+		{
+			"LABEL": "0x5F35",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5F38",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5F3E",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「本当ですか？　それはとても――とても！」"
+		},
+		{
+			"LABEL": "0x5F6E",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5F71",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5F77",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "嬉しそうに、頬を上気させるるみちゃんは、本当に可愛らしく、"
+		},
+		{
+			"LABEL": "0x5FB7",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5FBA",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5FBD",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "わたくし譲りの美しい顔がキラキラと輝いているのでした。"
+		},
+		{
+			"LABEL": "0x5FF9",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x5FFC",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6002",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「ちなみにウミホタルはホタルではありません。"
+		},
+		{
+			"LABEL": "0x6034",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6037",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x603A",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "顎脚綱貝虫亜綱ミオドコパ上目ミオドコピダ目ウミホタル科ウミホタル属です」"
+		},
+		{
+			"LABEL": "0x6088",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x608B",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6091",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「わぁりまひぇん……」"
+		},
+		{
+			"LABEL": "0x60AD",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x60B0",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x60B6",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "無意識に口に突っ込んでいたわたくしの指を甘咬みしながら、"
+		},
+		{
+			"LABEL": "0x60F4",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x60F7",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x60FA",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "るみちゃんは海に囚われたように、目を離せずにいました。"
+		},
+		{
+			"LABEL": "0x6136",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6139",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x613E",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「……ねえ、るみちゃん」"
+		},
+		{
+			"LABEL": "0x615C",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x615F",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6162",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6165",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「ひゃい」"
+		},
+		{
+			"LABEL": "0x6175",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6178",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x617B",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x617E",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「見てください。"
+		},
+		{
+			"LABEL": "0x6194",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6197",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x619A",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "空を見上げなくても――"
+		},
+		{
+			"LABEL": "0x61B6",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x61B9",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "こんなに光は広がってますよ」"
+		},
+		{
+			"LABEL": "0x61DB",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x61DE",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x61E1",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x61E4",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "星が見たい、と言った少女だけれど――天上の星々と、海にきらめく光。"
+		},
+		{
+			"LABEL": "0x622C",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x622F",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6232",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6235",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "この光景こそが、きっと彼女に相応しいでしょう。"
+		},
+		{
+			"LABEL": "0x6269",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x626C",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x626F",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6272",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "導く、光――"
+		},
+		{
+			"LABEL": "0x6284",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6287",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x628C",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "そして――"
+		},
+		{
+			"LABEL": "0x629C",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x629F",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x62A2",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x62A5",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "三種の神器、三原色。"
+		},
+		{
+			"LABEL": "0x62BF",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x62C2",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x62C5",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x62C8",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "星の光と、ウミホタル。"
+		},
+		{
+			"LABEL": "0x62E4",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x62E7",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x62EA",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x62ED",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "わたくしの計算によれば、もう一つ。"
+		},
+		{
+			"LABEL": "0x6315",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6318",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x631B",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x631E",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「ほら、見てください、るみちゃん」"
+		},
+		{
+			"LABEL": "0x6346",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6349",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x634C",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x634F",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "海の向こう、指差した方角の空が、徐々に明らんで――"
+		},
+		{
+			"LABEL": "0x6387",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x638A",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x638F",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「わあああ――――」"
+		},
+		{
+			"LABEL": "0x63A9",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x63AC",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x63AF",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x63B2",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "日の出の方角に駆け出していく、るみちゃん。"
+		},
+		{
+			"LABEL": "0x63E2",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x63E5",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x63E8",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "白くなる空、新しい朝の入り口に、誰より先に駆け込もうと。"
+		},
+		{
+			"LABEL": "0x6426",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6429",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x642C",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x642F",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「危ないですよー」"
+		},
+		{
+			"LABEL": "0x6447",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x644A",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x644D",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6450",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「だいじょうぶです！」"
+		},
+		{
+			"LABEL": "0x646C",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x646F",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6472",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6475",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "その背中を見送って、やがてわたくしは星を見上げました。"
+		},
+		{
+			"LABEL": "0x64B1",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x64B4",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x64B9",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "天上の星々も、潮の満ち引きも、穏やかなそのリズムは、"
+		},
+		{
+			"LABEL": "0x64F3",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x64F6",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x64F9",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "わたくしたちを志向するものではなけれど、"
+		},
+		{
+			"LABEL": "0x6527",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x652A",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x652D",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "それでも、わたくしたちは、彼らに見守られていると信じるのです。"
+		},
+		{
+			"LABEL": "0x6571",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6574",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6577",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x657A",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "わたくしたちが星々に焦がれることを、星々もまた望んでいて欲しいと、"
+		},
+		{
+			"LABEL": "0x65C2",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x65C5",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x65C8",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "知り得ぬことには、想いを巡らせるほかありません。"
+		},
+		{
+			"LABEL": "0x65FE",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6601",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6604",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6607",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "想いを巡らせることを、拒むものはないのですから。"
+		},
+		{
+			"LABEL": "0x663D",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6640",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x6645",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "しばらくして、再び、朝日へと視線を戻す。"
+		},
+		{
+			"LABEL": "0x6673",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6676",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6679",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x667C",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "夜を駆逐した白が空を染めてゆく、その先に、走っていったるみちゃん。"
+		},
+		{
+			"LABEL": "0x66C4",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x66C7",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x66CA",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x66CD",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "くるりと、視線を下ろしてあたりを見渡しました。"
+		},
+		{
+			"LABEL": "0x6701",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6704",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6707",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x670A",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "海の側へ、山の側へ。"
+		},
+		{
+			"LABEL": "0x6724",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6727",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x672A",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x672D",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "そして、天の星の側へ――けれど。"
+		},
+		{
+			"LABEL": "0x6753",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6756",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x675B",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "ようやく見つけたるみちゃんの影は、海辺にありました。"
+		},
+		{
+			"LABEL": "0x6795",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6798",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x679B",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x679E",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「るみ、ちゃん……？」"
+		},
+		{
+			"LABEL": "0x67BA",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x67BD",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x67C0",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x67C3",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "朝日に照らされて、一瞬にして襲いかかる目眩。"
+		},
+		{
+			"LABEL": "0x67F5",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x67F8",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x67FB",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x67FE",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "そうして再び顔を上げると、遠くに見える彼女は、"
+		},
+		{
+			"LABEL": "0x6832",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6835",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6838",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x683B",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "うずくまって、動きません。"
+		},
+		{
+			"LABEL": "0x685B",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x685E",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x6863",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「るみちゃん――！」"
+		},
+		{
+			"LABEL": "0x687D",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6880",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6883",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6886",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "わたくしは、叫び声を上げたかどうか、定かではありませんでした。"
+		},
+		{
+			"LABEL": "0x68CA",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x68CD",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x68D0",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "駆けて、"
+		},
+		{
+			"LABEL": "0x68DE",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x68E1",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x68E4",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "転んで、"
+		},
+		{
+			"LABEL": "0x68F2",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x68F5",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x68F8",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "手を、膝を、擦りむき、再び駆け出して、"
+		},
+		{
+			"LABEL": "0x6924",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6927",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x692A",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "駆けて、"
+		},
+		{
+			"LABEL": "0x6938",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x693B",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x693E",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "腕を振り、"
+		},
+		{
+			"LABEL": "0x694E",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6951",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6954",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "転んで、"
+		},
+		{
+			"LABEL": "0x6962",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6965",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6968",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "立ち上がって、"
+		},
+		{
+			"LABEL": "0x697C",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x697F",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6982",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "駆け出して、"
+		},
+		{
+			"LABEL": "0x6994",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6997",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x699A",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "近寄って、"
+		},
+		{
+			"LABEL": "0x69AA",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x69AD",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x69B0",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "――るみちゃんは、腕から出血していたのです。"
+		},
+		{
+			"LABEL": "0x69E2",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x69E5",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x69EA",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "手についた砂利を払い、傷ついたるみちゃんの腕を掴みました。"
+		},
+		{
+			"LABEL": "0x6A2A",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6A2D",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6A30",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6A33",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "白く細くしなやかな腕に残る、痛ましい傷跡。"
+		},
+		{
+			"LABEL": "0x6A63",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6A66",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6A69",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6A6C",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "きれいな布で溢れる血を払うと、それは、深い、噛み傷。"
+		},
+		{
+			"LABEL": "0x6AA6",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6AA9",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6AAC",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6AAF",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "これは……何の生物の噛み傷でしょうか？"
+		},
+		{
+			"LABEL": "0x6ADB",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6ADE",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x6AE3",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「……っ」"
+		},
+		{
+			"LABEL": "0x6AF3",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6AF6",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6AF9",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6AFC",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "顔を歪めるるみちゃん。"
+		},
+		{
+			"LABEL": "0x6B18",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6B1B",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6B1E",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6B21",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「大丈夫ですか！　るみちゃん！？"
+		},
+		{
+			"LABEL": "0x6B47",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6B4A",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "　何に噛まれたんですか！！」"
+		},
+		{
+			"LABEL": "0x6B6C",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6B6F",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6B72",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6B75",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「――人魚」"
+		},
+		{
+			"LABEL": "0x6B87",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6B8A",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6B8D",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6B90",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「え？」"
+		},
+		{
+			"LABEL": "0x6B9E",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6BA1",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6BA4",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6BA7",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "るみちゃんの腕を肩に回し、そのまま立ち上がろうとして、%Nふらふらとよろめいてしまいます。"
+		},
+		{
+			"LABEL": "0x6C05",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6C08",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6C0B",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "その身体には、一切の力が入っていないのです。"
+		},
+		{
+			"LABEL": "0x6C3D",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6C40",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6C43",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "見れば、その顔も、どこか放心しているようで――"
+		},
+		{
+			"LABEL": "0x6C77",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6C7A",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x6C7F",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「ねえ、おねえちゃん。"
+		},
+		{
+			"LABEL": "0x6C9B",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6C9E",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "やっぱり……」"
+		},
+		{
+			"LABEL": "0x6CB2",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6CB5",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6CB8",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6CBB",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "荒い息の中、るみちゃんは、焦点の合わない目で、空と海の境目を見つめながら、"
+		},
+		{
+			"LABEL": "0x6D0B",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6D0E",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6D11",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6D14",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「……やっぱり人魚は、人間のことを恨んでるんでしょうか？」"
+		},
+		{
+			"LABEL": "0x6D54",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6D57",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6D5A",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6D5D",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "――ああ、"
+		},
+		{
+			"LABEL": "0x6D6D",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6D70",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6D73",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "人魚は人魚でも、彼女が読んでいたのはそちらだったのですか。"
+		},
+		{
+			"LABEL": "0x6DB3",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6DB6",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6DB9",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "そういえば、あの童話の結末は……"
+		},
+		{
+			"LABEL": "0x6DDF",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6DE2",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x6DE7",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「そんなことはないのです。"
+		},
+		{
+			"LABEL": "0x6E07",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6E0A",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6E0D",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "人間は、この世界の中うちで一番やさしいものだと、%N人魚も言っていたではないですか！」"
+		},
+		{
+			"LABEL": "0x6E67",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6E6A",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6E6D",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6E70",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "記憶の中の台詞を紡ぐと。"
+		},
+		{
+			"LABEL": "0x6E8E",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6E91",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6E94",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6E97",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「うん……」"
+		},
+		{
+			"LABEL": "0x6EA9",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6EAC",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6EAF",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6EB2",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "曖昧に笑うるみちゃんは、静かに目を閉じました。"
+		},
+		{
+			"LABEL": "0x6EE6",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6EE9",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6EEC",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6EEF",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "まるで、眠りに落ちるその瞬間のように、安らかに、穏やかに、"
+		},
+		{
+			"LABEL": "0x6F2F",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6F32",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6F35",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "けれど、その腕の傷跡は、相変わらず異様に黒ずみ――"
+		},
+		{
+			"LABEL": "0x6F6D",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6F70",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x6F75",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「るみちゃん、待っていて下さい。"
+		},
+		{
+			"LABEL": "0x6F9B",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6F9E",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "今すぐ――お医者さんを呼んできますから」"
+		},
+		{
+			"LABEL": "0x6FCC",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6FCF",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6FD2",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x6FD5",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "おねえちゃんが、助けてあげなければ。"
+		},
+		{
+			"LABEL": "0x6FFF",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x7002",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x7005",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x7008",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "るみちゃんを浜辺に置いて、駆け出して――"
+		},
+		{
+			"LABEL": "0x7036",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x7039",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x703C",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "――けれど、何処へ？"
+		},
+		{
+			"LABEL": "0x7056",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x7059",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x705E",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "こんな朝早くに空いている病院は？"
+		},
+		{
+			"LABEL": "0x7084",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x7087",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x708A",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x708D",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "ほとんど早歩きで、息を切らして走りました。"
+		},
+		{
+			"LABEL": "0x70BD",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x70C0",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x70C3",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x70C6",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "途中で、また転びました。"
+		},
+		{
+			"LABEL": "0x70E4",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x70E7",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x70EA",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x70ED",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "けれど、立ち止まっているような暇はないのです。"
+		},
+		{
+			"LABEL": "0x7121",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x7124",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x7127",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x712A",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "あてなんて、あるはずもない――けれど、"
+		},
+		{
+			"LABEL": "0x7156",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x7159",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x715C",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x715F",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "わたくしが、連れ出したせいで、るみちゃんが――"
+		},
+		{
+			"LABEL": "0x7193",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x7196",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x719B",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "そして……"
+		},
+		{
+			"LABEL": "0x71AB",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x71AE",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x71B1",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "わたくしはROMLESへと帰り着いていました。"
+		},
+		{
+			"LABEL": "0x71DF",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x71E2",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x71E5",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x71E8",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "施設のドアをガンガンと力任せに叩きました。"
+		},
+		{
+			"LABEL": "0x7218",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x721B",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x721E",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x7221",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「わたくしです！　西芳寺ときわです！」"
+		},
+		{
+			"LABEL": "0x724D",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x7250",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x7253",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x7256",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "ドアを叩き、"
+		},
+		{
+			"LABEL": "0x7268",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x726B",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x726E",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "叩いて、"
+		},
+		{
+			"LABEL": "0x727C",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x727F",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x7282",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "叩いたのです――けれど。"
+		},
+		{
+			"LABEL": "0x72A0",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x72A3",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x72A6",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x72A9",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "誰も出てはきませんでした。"
+		},
+		{
+			"LABEL": "0x72C9",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x72CC",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x72D1",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "「どうして――！」"
+		},
+		{
+			"LABEL": "0x72E9",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x72EC",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x72EF",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x72F2",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "どうして、開かないのでしょう？"
+		},
+		{
+			"LABEL": "0x7316",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x7319",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x731C",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x731F",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "開かないのならば、ここにとどまっていても意味がありません。"
+		},
+		{
+			"LABEL": "0x735F",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x7362",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x7365",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x7368",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "ここは……もう……"
+		},
+		{
+			"LABEL": "0x7380",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x7383",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x7386",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x7389",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "わたくしは再び歩き出し――瞬間に転んでしまいました。"
+		},
+		{
+			"LABEL": "0x73C3",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x73C6",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x73C9",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x73CC",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "なにもないところでこんなに躓くなんて、おかしいのでは――"
+		},
+		{
+			"LABEL": "0x740A",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x740D",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x7412",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "――そう、おかしかったのです。"
+		},
+		{
+			"LABEL": "0x7436",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x7439",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x743C",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x743F",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "立ち上がり、そのままフラフラと、寄る辺なく立ちながら、%Nようやく気づきました。"
+		},
+		{
+			"LABEL": "0x7493",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x7496",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x7499",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x749C",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "自分の、身体の異変に。"
+		},
+		{
+			"LABEL": "0x74B8",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x74BB",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x74BE",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x74C1",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "でも、それはもう、手遅れでした。"
+		},
+		{
+			"LABEL": "0x74E7",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x74EA",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x74EF",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x74F2",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x74F5",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x74F8",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x74FB",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x74FE",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "そうしてわたくしは――彼女は――西芳寺ときわは。"
+		},
+		{
+			"LABEL": "0x7534",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x7537",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x753A",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x753D",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "深い眠りに落ちたのです。"
+		},
+		{
+			"LABEL": "0x755B",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x755E",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x7563",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x7566",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x7569",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x756C",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x756F",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "――それから二日後。"
+		},
+		{
+			"LABEL": "0x7589",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x758C",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x758F",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x7592",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "前触れもなく空模様が変わり、近年稀に見る大暴風雨となりました。"
+		},
+		{
+			"LABEL": "0x75D6",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x75D9",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x75DC",
+			"CMD": "NEW_LINE",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x75DF",
+			"CMD": "TEXT2",
+			"TYPE": 10,
+			"STRING": "その事実の帰結を知るのは、ずっと先……七年後のことでした。"
+		},
+		{
+			"LABEL": "0x761F",
+			"CMD": "KEY_WAIT",
+			"DATA": "0a00"
+		},
+		{
+			"LABEL": "0x7622",
+			"CMD": "NEW_PAGE",
+			"DATA": "ffffffff"
+		},
+		{
+			"LABEL": "0x7627",
+			"CMD": "PAIR",
+			"ID": 32906,
+			"VALUE1": 255,
+			"VALUE2": 255
+		},
+		{
+			"LABEL": "0x762C",
+			"CMD": "75",
+			"DATA": "ffff3c00"
+		},
+		{
+			"LABEL": "0x7631",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x7636",
+			"CMD": "43",
+			"DATA": "07000000"
+		},
+		{
+			"LABEL": "0x763B",
+			"CMD": "1E",
+			"DATA": "07008000800080008000"
+		},
+		{
+			"LABEL": "0x7646",
+			"CMD": "1A",
+			"DATA": "07004e00"
+		},
+		{
+			"LABEL": "0x764B",
+			"CMD": "1B"
+		},
+		{
+			"LABEL": "0x764C",
+			"CMD": "1C"
+		},
+		{
+			"LABEL": "0x764D",
+			"CMD": "1D",
+			"DATA": "070000000000"
+		},
+		{
+			"LABEL": "0x7654",
+			"CMD": "1F",
+			"DATA": "070000000000000000010001"
+		},
+		{
+			"LABEL": "0x7661",
+			"CMD": "20",
+			"DATA": "0700e0010e01"
+		},
+		{
+			"LABEL": "0x7668",
+			"CMD": "21",
+			"DATA": "070000010001"
+		},
+		{
+			"LABEL": "0x766F",
+			"CMD": "22",
+			"DATA": "07000e00"
+		},
+		{
+			"LABEL": "0x7674",
+			"CMD": "25",
+			"DATA": "07000100"
+		},
+		{
+			"LABEL": "0x7679",
+			"CMD": "PAIR",
+			"ID": 32982,
+			"VALUE1": 60,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x767E",
+			"CMD": "PAIR",
+			"ID": 32983,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x7683",
+			"CMD": "PAIR",
+			"ID": 32984,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x7688",
+			"CMD": "JMP4",
+			"ID": 65536
+		},
+		{
+			"LABEL": "0x768D",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x768E",
+			"CMD": "2D",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x7693",
+			"CMD": "PAIR",
+			"ID": 32861,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x7698",
+			"CMD": "PAIR",
+			"ID": 32862,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x769D",
+			"CMD": "PAIR",
+			"ID": 32863,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x76A2",
+			"CMD": "PAIR",
+			"ID": 32864,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x76A7",
+			"CMD": "PAIR",
+			"ID": 32865,
+			"VALUE1": 0,
+			"VALUE2": 0
+		},
+		{
+			"LABEL": "0x76AC",
+			"CMD": "25",
+			"DATA": "01000000"
+		},
+		{
+			"LABEL": "0x76B1",
+			"CMD": "25",
+			"DATA": "02000000"
+		},
+		{
+			"LABEL": "0x76B6",
+			"CMD": "25",
+			"DATA": "03000000"
+		},
+		{
+			"LABEL": "0x76BB",
+			"CMD": "25",
+			"DATA": "04000000"
+		},
+		{
+			"LABEL": "0x76C0",
+			"CMD": "25",
+			"DATA": "05000000"
+		},
+		{
+			"LABEL": "0x76C5",
+			"CMD": "25",
+			"DATA": "06000000"
+		},
+		{
+			"LABEL": "0x76CA",
+			"CMD": "2D",
+			"DATA": "08000300"
+		},
+		{
+			"LABEL": "0x76CF",
+			"CMD": "2E"
+		},
+		{
+			"LABEL": "0x76D0",
+			"CMD": "3C",
+			"DATA": "1e00"
+		},
+		{
+			"LABEL": "0x76D3",
+			"CMD": "FACE_TEXT",
+			"DATA": "1a00",
+			"ID": 0
+		},
+		{
+			"LABEL": "0x76D8",
+			"CMD": "RETURN"
+		}
+	],
+	"FOOTER": "d3010000000000000000000069000000"
+}
