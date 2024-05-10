@@ -33,7 +33,7 @@ Copy `010071C00CBA4000` folder from `sn` folder to
 ```
 atmosphere/contents/
 ```
-Copy `subsdk9` from `plugin/deploy` folder and `main.npdm` from `plugin` folder to
+Copy `subsdk9` and `main.npdm` from `plugin/deploy` folder to:
 ```
 atmosphere/contents/010071C00CBA4000/exefs
 ```
