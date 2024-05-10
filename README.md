@@ -48,8 +48,8 @@ Assets are available only from Release page.
 - Why plugin is necessary:
     - Replacing XTX textures with PNG on the fly
     - Changed available input first and last name length from 5 to 17 characters each
-    - Change name input keyboard to use only ASCII characters to avoid possible encoding issues
-    - Change calculations for text position in menu prompts to allow better centering
+    - Changed name input keyboard to use only ASCII characters to avoid possible encoding issues
+    - Changed calculations for text position in menu prompts to allow better centering
     - Translate hardcoded chapter names, notifications, Playing Log texts, song names, settings descriptions, scenario endings names, MC name checks
 - Ported translation has some slight changes to better fit into how text is rendered in Regista engine + changed Saihoji to Saihouji to fit official romanization. Fixed also multiple typos from original mod.
 - On top of porting original translation I have also:
