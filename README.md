@@ -33,7 +33,7 @@ Copy `010071C00CBA4000` folder from `sn` folder to
 ```
 atmosphere/contents/
 ```
-Copy `subsdk9` and `main.npdm` from `plugin/deploy` folder to:
+Copy `subsdk9` and `main.npdm` from `plugin/deploy` folder to
 ```
 atmosphere/contents/010071C00CBA4000/exefs
 ```
@@ -51,8 +51,13 @@ Assets are available only from Release page.
     - Change name input keyboard to use only ASCII characters to avoid possible encoding issues
     - Change calculations for text position in menu prompts to allow better centering
     - Translate hardcoded chapter names, notifications, Playing Log texts, song names, settings descriptions, scenario endings names, MC name checks
-- Ported translation has some slight changes to better fit into how text is rendered in Regista engine. Fixed also multiple typos from original mod.
-- On top of porting original translation I have also redone subtitles for endings, translated texts in both openings, redone all scenario textures, translated Switch release specific textures.
+- Ported translation has some slight changes to better fit into how text is rendered in Regista engine + changed Saihoji to Saihouji to fit official romanization. Fixed also multiple typos from original mod.
+- On top of porting original translation I have also:
+    - redone subtitles for endings
+    - translated texts in both openings
+    - redone all scenario textures
+    - translated textures unique to Switch release
+    - replaced ascii glyphs in original font with glyphs rendered with Noto Sans Mono ExtraCondensed
 
 # Thanks to
 - `kalitsu` for making translation mod (not involved with this project)
