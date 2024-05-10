@@ -1,0 +1,1550 @@
+[
+	{
+		"LABEL": "0x25",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...So, I'm going to wear this, after all.」"
+	},
+	{
+		"LABEL": "0xF1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I muttered to myself and put on my costume."
+	},
+	{
+		"LABEL": "0x121",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Fluffy fabric."
+	},
+	{
+		"LABEL": "0x141",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The inside was made of rubber, and it seemed to be quite water-resistant."
+	},
+	{
+		"LABEL": "0x183",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Conversely, it was hard to breathe in. A person wearing such a thing in the middle of summer would certainly die..."
+	},
+	{
+		"LABEL": "0x1EB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was the macaroni penguin that had been abandoned in the warehouse."
+	},
+	{
+		"LABEL": "0x22B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I would breathe life into it by going inside."
+	},
+	{
+		"LABEL": "0x2D1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's in case of an emergency.」"
+	},
+	{
+		"LABEL": "0x2FB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That macaroni penguin is the pride and joy of ROMLES, so it's extremely water-resistant.」"
+	},
+	{
+		"LABEL": "0x349",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's surprisingly protective, you know?」"
+	},
+	{
+		"LABEL": "0x384",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As she spoke, Yukari slapped the penguin on the shoulder."
+	},
+	{
+		"LABEL": "0x3CC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...."
+	},
+	{
+		"LABEL": "0x450",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Katagiri-san, what are you doing?」"
+	},
+	{
+		"LABEL": "0x489",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She looked up at me."
+	},
+	{
+		"LABEL": "0x4B5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her upward glance was nice and all, but the crease between her eyebrows was a little scary."
+	},
+	{
+		"LABEL": "0x505",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Why was she looking at me like that, though? That's when I realized."
+	},
+	{
+		"LABEL": "0x545",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I had unconsciously patted Yukari's head."
+	},
+	{
+		"LABEL": "0x57D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「S-Sorry! I didn't mean to!」"
+	},
+	{
+		"LABEL": "0x617",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Are you of the same ilk as Hiragino-sensei, unconsciously patting people on the head?!」"
+	},
+	{
+		"LABEL": "0x66C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「No, that's not it! It's probably because I'm wearing this costume...」"
+	},
+	{
+		"LABEL": "0x6AC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I think it awakened my paternal instincts...」"
+	},
+	{
+		"LABEL": "0x6E8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「For penguins, that is.」"
+	},
+	{
+		"LABEL": "0x71D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What do you mean by \"paternal instincts\"?! Why are you my father?!」"
+	},
+	{
+		"LABEL": "0x76D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Didn't I tell you to stop treating me like a child?!」"
+	},
+	{
+		"LABEL": "0x7CE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I said it was unconscious. Sorry...」"
+	},
+	{
+		"LABEL": "0x878",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Besides! This isn't just a penguin. It's a macaroni penguin! It's totally different!」"
+	},
+	{
+		"LABEL": "0x8D3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She was like a middle schooler, no matter how you looked at it, casually dissing Hiragino and me with puffed cheeks."
+	},
+	{
+		"LABEL": "0x930",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I bet Hiragino would get a kick out of me calling Yukari that, instead of Tokiwa."
+	},
+	{
+		"LABEL": "0x992",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I knew that would only serve to anger Yukari more, so I stayed quiet..."
+	},
+	{
+		"LABEL": "0x9F8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Around the time I fully put on the macaroni penguin and awoke as a costume actor,"
+	},
+	{
+		"LABEL": "0xA52",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "the elevator arrived on the first floor."
+	},
+	{
+		"LABEL": "0xA80",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Inside the elevator was, of course, the MRI."
+	},
+	{
+		"LABEL": "0xAAF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino, who rode with it, carried that huge cylinder to the lobby and brought it directly in front of the bridge."
+	},
+	{
+		"LABEL": "0xB7D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「All right. I'll leave the rest to you.」"
+	},
+	{
+		"LABEL": "0xC02",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...You can carry it by yourself, right?」"
+	},
+	{
+		"LABEL": "0xC33",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yeah, I'll figure something out.」"
+	},
+	{
+		"LABEL": "0xC5D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The floor should be flooded in the rear section, so it might be a little more slippery than here.」"
+	},
+	{
+		"LABEL": "0xCCB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It'd be bad if something happened to Hiragino, a doctor――"
+	},
+	{
+		"LABEL": "0xCFF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I was allowed to head to the frontlines due to that reasoning."
+	},
+	{
+		"LABEL": "0xD45",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Everything was ready... From here on out, it was all me."
+	},
+	{
+		"LABEL": "0xDE7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I pushed the MRI I received from Hiragino toward the rear section."
+	},
+	{
+		"LABEL": "0xE36",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was an unreasonably heavy piece of equipment, but it slid across the wet floor easily enough."
+	},
+	{
+		"LABEL": "0xE8A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And so, I passed through the bridge and entered the rear section."
+	},
+	{
+		"LABEL": "0xECA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The water level was higher now, and I could feel myself walking through it."
+	},
+	{
+		"LABEL": "0xF10",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "After continuing on a little further, a light stirred in the distance."
+	},
+	{
+		"LABEL": "0xFA5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "<COOS> was there."
+	},
+	{
+		"LABEL": "0xFC9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was looking at me―at its prey―from close by."
+	},
+	{
+		"LABEL": "0x100B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I was in dire straits... but if I activated this, I could turn the tables in one fell swoop."
+	},
+	{
+		"LABEL": "0x1051",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I held my hand over the switch on the side of the device and..."
+	},
+	{
+		"LABEL": "0x10E0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Will this really work?」"
+	},
+	{
+		"LABEL": "0x1112",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I turned it on."
+	},
+	{
+		"LABEL": "0x1136",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The roaring began again."
+	},
+	{
+		"LABEL": "0x1158",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I could tell that the pendant in my pocket was shaking like it was being pulled toward the MRI."
+	},
+	{
+		"LABEL": "0x11B2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If I had Tokiwa's vision, I was sure my surroundings would look incredibly vivid."
+	},
+	{
+		"LABEL": "0x1200",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Right here and now, a magnetic field was being generated, centered around the powered-on MRI――"
+	},
+	{
+		"LABEL": "0x1334",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Ugh――」"
+	},
+	{
+		"LABEL": "0x134E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I looked straight ahead."
+	},
+	{
+		"LABEL": "0x1370",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "This appeared to be the home base of <COOS>, which had entered the interior of the <SHEEP III>."
+	},
+	{
+		"LABEL": "0x13C1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Amidst the thunderous roar, a large number of light particles rushed toward me."
+	},
+	{
+		"LABEL": "0x1403",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was a horrifyingly beautiful sight, but..."
+	},
+	{
+		"LABEL": "0x1435",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "For some reason, their glow... It was uncharacteristically chaotic."
+	},
+	{
+		"LABEL": "0x1471",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Although they were rushing toward me, only a few of the particles were actually heading straight for me,"
+	},
+	{
+		"LABEL": "0x14D9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "while the rest were moving around in disarray."
+	},
+	{
+		"LABEL": "0x1521",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Some of them were trying their best to move in a single direction, but it looked like they didn't recognize me at all."
+	},
+	{
+		"LABEL": "0x15F2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Success...」"
+	},
+	{
+		"LABEL": "0x160E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I put the MRI in its place and let go."
+	},
+	{
+		"LABEL": "0x163F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari's perfect strategy convinced me of my victory."
+	},
+	{
+		"LABEL": "0x16E1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "<COOS> was a magnetic bacteria."
+	},
+	{
+		"LABEL": "0x1705",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Which meant that generating a powerful magnetic field from the MRI"
+	},
+	{
+		"LABEL": "0x1740",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "would disrupt their \"network structure\" connecting them to each other."
+	},
+	{
+		"LABEL": "0x1778",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And above all, it could simultaneously disable their sense of direction."
+	},
+	{
+		"LABEL": "0x17CC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We'd be able to quell the threat of <COOS> without killing them using this method."
+	},
+	{
+		"LABEL": "0x1888",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I see...」"
+	},
+	{
+		"LABEL": "0x18AA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "<COOS> was completely neutralized by the powerful electromagnet."
+	},
+	{
+		"LABEL": "0x198C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In the meantime, I leisurely made my way to the warehouse while wearing my macaroni penguin costume."
+	},
+	{
+		"LABEL": "0x19E0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The warehouse in the rear section――"
+	},
+	{
+		"LABEL": "0x1A00",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Right... This was where Reiri had collapsed."
+	},
+	{
+		"LABEL": "0x1A38",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Just when we were convinced that everyone was dead, there she was――"
+	},
+	{
+		"LABEL": "0x1A92",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I naturally recalled the moment I'd discovered her, but this was no time for sentimentality."
+	},
+	{
+		"LABEL": "0x1AEC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The messenger buoy...」"
+	},
+	{
+		"LABEL": "0x1B14",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I pushed the cardboard boxes away and tried to find one――"
+	},
+	{
+		"LABEL": "0x1B42",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It immediately caught my eye."
+	},
+	{
+		"LABEL": "0x1B6A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was a long, slender, and sturdy-looking buoy."
+	},
+	{
+		"LABEL": "0x1B98",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A large lump of vivid orange. There was a thing wire wrapped around the cylinder."
+	},
+	{
+		"LABEL": "0x1BF0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Since it had to be visible while floating in the sea,"
+	},
+	{
+		"LABEL": "0x1C34",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "it had to have a presence that was striking from any angle."
+	},
+	{
+		"LABEL": "0x1C84",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...All right!」"
+	},
+	{
+		"LABEL": "0x1CA0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Wait, really?」"
+	},
+	{
+		"LABEL": "0x1CC4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I found the buoy so easily that I couldn't help but voice my doubts."
+	},
+	{
+		"LABEL": "0x1D22",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Suddenly, my downturned eyes caught something strange through the macaroni penguin's eyes."
+	},
+	{
+		"LABEL": "0x1D74",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Crouching down with the messenger buoy in one hand, I grabbed it as it reflected the glittering lights."
+	},
+	{
+		"LABEL": "0x1E44",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "These were... glasses, right?"
+	},
+	{
+		"LABEL": "0x1E66",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No, that was wrong."
+	},
+	{
+		"LABEL": "0x1E80",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "When I held them up in front of me and looked closely, it was obvious that they were more than mere glasses."
+	},
+	{
+		"LABEL": "0x1ED6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A sturdy-looking frame."
+	},
+	{
+		"LABEL": "0x1EF8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And multiple switches on the rim of the lens――"
+	},
+	{
+		"LABEL": "0x1FD4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Smart glasses...」"
+	},
+	{
+		"LABEL": "0x1FF8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was a smart device that was prohibited inside the <SHEEP III>."
+	},
+	{
+		"LABEL": "0x2051",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Why was something like this lying inside the warehouse?"
+	},
+	{
+		"LABEL": "0x208F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Since they were here, did that mean more of these were loaded along with the cargo?"
+	},
+	{
+		"LABEL": "0x20D7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However, I didn't see any kind of packing material, and it was odd that only one pair of them had fallen to the floor."
+	},
+	{
+		"LABEL": "0x2147",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Were these someone's personal belongings?"
+	},
+	{
+		"LABEL": "0x216F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If so, whose?"
+	},
+	{
+		"LABEL": "0x2199",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "How did they bring them in?"
+	},
+	{
+		"LABEL": "0x21C1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Still harboring a mountain of questions, I firmly grasped the glasses in my hand and headed back to the front section."
+	},
+	{
+		"LABEL": "0x25EF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It was a success!」"
+	},
+	{
+		"LABEL": "0x2612",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari came running up to me while saying that."
+	},
+	{
+		"LABEL": "0x26A1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I instinctively reached out my hand to pat her head, but it was smacked away in no time at all."
+	},
+	{
+		"LABEL": "0x26EF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...It hurt."
+	},
+	{
+		"LABEL": "0x2721",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Touri, Reiri, Tokiwa, and Hiragino followed soon after, and from their smiles, I was further convinced that this plan would succeed."
+	},
+	{
+		"LABEL": "0x2858",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's Katagiri-san for you!」"
+	},
+	{
+		"LABEL": "0x28E9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's just like when you saved Reiri... Right, Reiri?」"
+	},
+	{
+		"LABEL": "0x2991",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yeah, yeah. Amazing as usual.」"
+	},
+	{
+		"LABEL": "0x29BA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Touri was talking to Reiri in an excited manner, but she brushed her off in annoyance."
+	},
+	{
+		"LABEL": "0x2A14",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She looked truly irritated, but let's just think of this scene as heart-warming."
+	},
+	{
+		"LABEL": "0x2A5E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Maybe it was simply my imagination, but I could see some softness in Reiri's expression as well."
+	},
+	{
+		"LABEL": "0x2B94",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's all coming to an end―everything.」"
+	},
+	{
+		"LABEL": "0x2BC1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x2C47",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's taken a long time... hasn't it?」"
+	},
+	{
+		"LABEL": "0x2C76",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "To whom was Tokiwa's question directed at?"
+	},
+	{
+		"LABEL": "0x2CEA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But, \"a long time,\" huh?"
+	},
+	{
+		"LABEL": "0x2D12",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "More than two full days had passed since the <SHEEP III> had sunk."
+	},
+	{
+		"LABEL": "0x2D4E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And now, we finally had a plan to escape."
+	},
+	{
+		"LABEL": "0x2D78",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "How many times had we been convinced of our success, how many times had we failed, and how many times had we been betrayed?"
+	},
+	{
+		"LABEL": "0x2DC6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Considering everything that had happened, putting it into a single phrase like \"a long time\" didn't seem fitting."
+	},
+	{
+		"LABEL": "0x2E22",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari was staring at the messenger buoy she had received from me, the macaroni penguin."
+	},
+	{
+		"LABEL": "0x2EF2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's embarrassing to admit,"
+	},
+	{
+		"LABEL": "0x2F3D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "but I had no idea the <SHEEP III> was loaded with such anachronistic equipment.」"
+	},
+	{
+		"LABEL": "0x2F80",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari sounded somewhat puzzled."
+	},
+	{
+		"LABEL": "0x2FAA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Beside her, Reiri looked disinterested but spoke in a voice that everyone could hear."
+	},
+	{
+		"LABEL": "0x30C7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It was probably here just as an emergency measure.」"
+	},
+	{
+		"LABEL": "0x312D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Who'd have thought it would get any use on the maiden voyage?」"
+	},
+	{
+		"LABEL": "0x3167",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That said, I can't believe that even you, the chief attendant, didn't know of its existence.」"
+	},
+	{
+		"LABEL": "0x320E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It seems like it really was just \"loaded\" here. ROMLES aren't good at thinking ahead, are they?」"
+	},
+	{
+		"LABEL": "0x32C4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x32E3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As Reiri shrugged her shoulders in exasperation, Yukari had nothing to say in response."
+	},
+	{
+		"LABEL": "0x3325",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I guess her bad habit of ruining the mood after we had just found the buoy couldn't be helped."
+	},
+	{
+		"LABEL": "0x33BD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However, I wasn't going to let her every word bother me."
+	},
+	{
+		"LABEL": "0x3411",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We had finally obtained a means of reaching the surface."
+	},
+	{
+		"LABEL": "0x34B5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We were finally going to be... saved."
+	},
+	{
+		"LABEL": "0x34E5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Many mysteries had been solved."
+	},
+	{
+		"LABEL": "0x3509",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The truth from seven years ago."
+	},
+	{
+		"LABEL": "0x3525",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "<Alice> and <COOS>."
+	},
+	{
+		"LABEL": "0x3549",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The experiment ROMLES had conducted in Kurama Bay."
+	},
+	{
+		"LABEL": "0x3575",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...And, we would return to the surface."
+	},
+	{
+		"LABEL": "0x35A3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Up until now, I had thought that everything would end after we'd escape."
+	},
+	{
+		"LABEL": "0x364E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But that wasn't true."
+	},
+	{
+		"LABEL": "0x3672",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Now that we knew everything, we had to start over again."
+	},
+	{
+		"LABEL": "0x36B6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Twisted ecosystems and human relationships."
+	},
+	{
+		"LABEL": "0x36E6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Incidents and accidents."
+	},
+	{
+		"LABEL": "0x3700",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was all over, and there were a lot of things that couldn't be undone."
+	},
+	{
+		"LABEL": "0x373E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Even if one was to take responsibility for this and the accident seven years ago, what was lost would not return."
+	},
+	{
+		"LABEL": "0x37F7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But even so, we had to move forward."
+	},
+	{
+		"LABEL": "0x3845",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We couldn't stay here forever."
+	},
+	{
+		"LABEL": "0x39D2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「All right. Let's send the buoy up to the surface!」"
+	},
+	{
+		"LABEL": "0x3A72",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yes, let's!」"
+	},
+	{
+		"LABEL": "0x3A9B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari clenched her fist tightly while holding the buoy carefully, and then――"
+	},
+	{
+		"LABEL": "0x3AEC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Um...」"
+	},
+	{
+		"LABEL": "0x3B65",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...How are we going to do that?」"
+	},
+	{
+		"LABEL": "0x3BA0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "....."
+	},
+	{
+		"LABEL": "0x3BB8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...Huh?"
+	},
+	{
+		"LABEL": "0x3BCE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What the hell?"
+	},
+	{
+		"LABEL": "0x3BEA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "To face such a fundamental problem after coming this far――"
+	},
+	{
+		"LABEL": "0x3CC1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...We can eject it from the laboratory.」"
+	},
+	{
+		"LABEL": "0x3D5A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You guys really are naive, aren't you?」"
+	},
+	{
+		"LABEL": "0x3D9C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her tone was clearly mocking."
+	},
+	{
+		"LABEL": "0x3DE8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari, who had endured it earlier, finally took damage from Reiri's abuse, and her expression hardened."
+	},
+	{
+		"LABEL": "0x3E44",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino patted her completely frozen head."
+	},
+	{
+		"LABEL": "0x3E82",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Without the energy to brush off his hand, she nodded and followed Reiri as she began to walk away."
+	},
+	{
+		"LABEL": "0x3EDC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...What a pitiful sight."
+	},
+	{
+		"LABEL": "0x3F78",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "\"Incompetent\" seemed to be a magic word for her,"
+	},
+	{
+		"LABEL": "0x3FB6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "but anyone who took on the role of the chief of a submarine at her age had to be exceptional."
+	},
+	{
+		"LABEL": "0x4010",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Reiri kept on berating her from an outside viewpoint as if she didn't know that."
+	},
+	{
+		"LABEL": "0x405C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She was probably elated by the fact that the messenger buoy she insisted \"had to be there\""
+	},
+	{
+		"LABEL": "0x40BC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "was actually found and was the key to our escape."
+	},
+	{
+		"LABEL": "0x40FA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That was why there was no mercy in her words since earlier."
+	},
+	{
+		"LABEL": "0x419D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Led by Reiri, we headed for the laboratory where the buoy was to be ejected."
+	},
+	{
+		"LABEL": "0x42F4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'll set the buoy.」"
+	},
+	{
+		"LABEL": "0x4341",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari didn't listen to me as she held the buoy in front of her body."
+	},
+	{
+		"LABEL": "0x4383",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I had offered to hold it for her since it looked like she was having trouble walking with it."
+	},
+	{
+		"LABEL": "0x43C1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And so, despite Reiri's intermittent verbal abuse, Yukari set the buoy up at the ejection point with her own hands."
+	},
+	{
+		"LABEL": "0x4493",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x44BC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hey, are you okay?」"
+	},
+	{
+		"LABEL": "0x44ED",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「?! "
+	},
+	{
+		"LABEL": "0x4558",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yes. I'm fine...」"
+	},
+	{
+		"LABEL": "0x457C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「There. It's set.」"
+	},
+	{
+		"LABEL": "0x45A9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "After struggling for a while with her back to us, Yukari closed the ejection port and looked back at us."
+	},
+	{
+		"LABEL": "0x462E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Sorry for the wait... It's perfect.」"
+	},
+	{
+		"LABEL": "0x4670",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「So we can eject it like this.」"
+	},
+	{
+		"LABEL": "0x4701",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Paleozoic technology. It couldn't be simpler, could it?」"
+	},
+	{
+		"LABEL": "0x4746",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Reiri sounded satisfied."
+	},
+	{
+		"LABEL": "0x477C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Since the ejection port was connected to the outside, it was sealed tightly, although not as tightly as the pressurization room."
+	},
+	{
+		"LABEL": "0x47BB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It wasn't possible to see inside it."
+	},
+	{
+		"LABEL": "0x4819",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Now then... All that's left is to eject the buoy.」"
+	},
+	{
+		"LABEL": "0x48BB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yeah, about that.」"
+	},
+	{
+		"LABEL": "0x48DD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's not every day you get a chance to use such an antiquated piece of equipment.」"
+	},
+	{
+		"LABEL": "0x491F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'll do it.」"
+	},
+	{
+		"LABEL": "0x4948",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Huh?」"
+	},
+	{
+		"LABEL": "0x495E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Reiri spoke without hesitation."
+	},
+	{
+		"LABEL": "0x4986",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And just like that... she fired it."
+	},
+	{
+		"LABEL": "0x49B6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Launching the buoy bearing our hopes and dreams toward the surface――"
+	},
+	{
+		"LABEL": "0x49FC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "With all our thoughts and wishes inside... Wasn't that how it was supposed to be?"
+	},
+	{
+		"LABEL": "0x4A6B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x4A94",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x4ABD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x4ADC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Everyone was stunned."
+	},
+	{
+		"LABEL": "0x4AFA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But... Yes."
+	},
+	{
+		"LABEL": "0x4B1C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If this meant we could escape, then there was nothing more to say."
+	},
+	{
+		"LABEL": "0x4B5A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "They said you should move with haste when in doubt."
+	},
+	{
+		"LABEL": "0x4B7A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was also true that it would be too late to take action if another problem occurred."
+	},
+	{
+		"LABEL": "0x4BBC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her straightforwardness had shocked me, but to reproach Reiri was probably a mistake."
+	},
+	{
+		"LABEL": "0x4D3C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Whaaat? That's not fair!」"
+	},
+	{
+		"LABEL": "0x4DD1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Now, if we're saved, you'll have me to thank.」"
+	},
+	{
+		"LABEL": "0x4E0C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She had the same smirk on her face as always, but she seemed to be enjoying herself a little more than usual."
+	},
+	{
+		"LABEL": "0x4E6A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "So she was a high schooler after all, huh?"
+	},
+	{
+		"LABEL": "0x4F71",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Now, all that's left is to wait――」"
+	},
+	{
+		"LABEL": "0x4FA5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The buoy has a sonic transmitter to determine its distance from the <SHEEP III>.」"
+	},
+	{
+		"LABEL": "0x5019",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「In that case, let's go to the wheelhouse.」"
+	},
+	{
+		"LABEL": "0x5395",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As soon as we got to the wheelhouse, we pulled up a large image of the buoy's altitude on one of the monitors."
+	},
+	{
+		"LABEL": "0x53DB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A simple diagram and some figures were displayed beside it."
+	},
+	{
+		"LABEL": "0x540D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The numbers were high, but we could see the buoy rising steadily."
+	},
+	{
+		"LABEL": "0x5465",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Slowly and steadily, we were creating a connection between us and the surface."
+	},
+	{
+		"LABEL": "0x54B3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Like a spider's thread."
+	},
+	{
+		"LABEL": "0x54DF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A single ray of hope connecting the sea floor and the ground――"
+	},
+	{
+		"LABEL": "0x5581",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...Finally, we'd be saved."
+	},
+	{
+		"LABEL": "0x55A5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We had spent these long days at the bottom of the sea together."
+	},
+	{
+		"LABEL": "0x55CB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari――"
+	},
+	{
+		"LABEL": "0x55DF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino――"
+	},
+	{
+		"LABEL": "0x55F5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa――"
+	},
+	{
+		"LABEL": "0x560D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Touri――"
+	},
+	{
+		"LABEL": "0x5623",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Reiri――"
+	},
+	{
+		"LABEL": "0x5639",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hikari――"
+	},
+	{
+		"LABEL": "0x564F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The fact that so many people were killed wouldn't go away―but we had survived."
+	},
+	{
+		"LABEL": "0x569B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It still didn't feel real to me, but there was nothing barring our path now."
+	},
+	{
+		"LABEL": "0x5738",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "From the dark sea to the blue sky."
+	},
+	{
+		"LABEL": "0x575C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The bright orange color of the buoy floating on the sea would attract the eyes of ROMLES and the general public alike."
+	},
+	{
+		"LABEL": "0x57BC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Once that thing reached the surface of the sea, ROMLES could no longer ignore the <SHEEP III>."
+	},
+	{
+		"LABEL": "0x5815",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No matter how much effort it took, they had no choice but to help."
+	},
+	{
+		"LABEL": "0x58AE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Help was on the way――"
+	},
+	{
+		"LABEL": "0x58CA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We'd be saved――"
+	},
+	{
+		"LABEL": "0x5DBD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What?!」"
+	},
+	{
+		"LABEL": "0x5DDA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "At that moment, the monitor went haywire."
+	},
+	{
+		"LABEL": "0x5E04",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The values indicating our distance from the buoy and the water depth fluctuated wildly in 10-meter increments."
+	},
+	{
+		"LABEL": "0x5E56",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What the hell's going on...?」"
+	},
+	{
+		"LABEL": "0x5E8D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Tch――――」"
+	},
+	{
+		"LABEL": "0x5EAE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The numbers jumped up and down violently."
+	},
+	{
+		"LABEL": "0x5ECE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It didn't stop."
+	},
+	{
+		"LABEL": "0x5EEE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The numbers kept changing"
+	},
+	{
+		"LABEL": "0x5F12",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "at a rapid pace,"
+	},
+	{
+		"LABEL": "0x5F32",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "multiplying over time,"
+	},
+	{
+		"LABEL": "0x5F4A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "and before long..."
+	},
+	{
+		"LABEL": "0x5FE7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...It stopped.」"
+	},
+	{
+		"LABEL": "0x600E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The numbers disappeared."
+	},
+	{
+		"LABEL": "0x602C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In their place were English letters in red."
+	},
+	{
+		"LABEL": "0x6066",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『Unmeasurable』――"
+	},
+	{
+		"LABEL": "0x609D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The wire connecting the buoy to the <SHEEP III>...」"
+	},
+	{
+		"LABEL": "0x60D4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...has been cut.」"
+	},
+	{
+		"LABEL": "0x60F5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Silence fell over the wheelhouse."
+	}
+]

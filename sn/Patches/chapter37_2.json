@@ -1,0 +1,1274 @@
+[
+	{
+		"LABEL": "0x25F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――Well then.」"
+	},
+	{
+		"LABEL": "0x279",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「We need to get a grasp on our current situation.」"
+	},
+	{
+		"LABEL": "0x29C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa started talking."
+	},
+	{
+		"LABEL": "0x2BC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We returned to the wheelhouse and decided to look for the best way forward based on the information we had."
+	},
+	{
+		"LABEL": "0x376",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「A lost \"best path\" means nothing.」"
+	},
+	{
+		"LABEL": "0x3AE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's not a good idea to continue reaching for it...」"
+	},
+	{
+		"LABEL": "0x3E8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What we need to do is search for the \"next best plan\" on a zero-based basis.」"
+	},
+	{
+		"LABEL": "0x44C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The plan we obtain by doing so is the best path we can choose in our current situation.」"
+	},
+	{
+		"LABEL": "0x49A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「An impossible ideal is nothing more than a reference.」"
+	},
+	{
+		"LABEL": "0x4DE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's a limiting factor in our thinking, so we should eliminate it.」"
+	},
+	{
+		"LABEL": "0x52D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Keep looking for the best path for the present situation."
+	},
+	{
+		"LABEL": "0x561",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was the most basic of basics, but that was exactly why it was right."
+	},
+	{
+		"LABEL": "0x59D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We had to think like that because there was not much time left."
+	},
+	{
+		"LABEL": "0x64D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Our goal is to escape from here.」"
+	},
+	{
+		"LABEL": "0x689",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The only way to do that would be to wait for rescue, or to leave the <SHEEP III> on our own in some way...」"
+	},
+	{
+		"LABEL": "0x6EB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「We can't wait around for rescue.」"
+	},
+	{
+		"LABEL": "0x725",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The power for the heating will run out soon, and the temperature on the ship will drop drastically.」"
+	},
+	{
+		"LABEL": "0x775",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's not that we'll die the moment the power runs out, but it's safe to say that's our time limit.」"
+	},
+	{
+		"LABEL": "0x7F8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――I see. That would be bad.」"
+	},
+	{
+		"LABEL": "0x849",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa turned around and went to a control panel of a computer she'd just turned on."
+	},
+	{
+		"LABEL": "0x8A1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In no time at all, the display showed the heating settings."
+	},
+	{
+		"LABEL": "0x951",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Indeed, it seems that the remaining power has decreased considerably.」"
+	},
+	{
+		"LABEL": "0x98B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「How long will it last...?」"
+	},
+	{
+		"LABEL": "0x9B4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hey, can't you do something about it?」"
+	},
+	{
+		"LABEL": "0x9FF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm not a carpenter.」"
+	},
+	{
+		"LABEL": "0xA34",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I guess... Sorry for asking.」"
+	},
+	{
+		"LABEL": "0xA68",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...That was a bad habit of mine."
+	},
+	{
+		"LABEL": "0xA88",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She was a genius, so I always tried to leave everything to her."
+	},
+	{
+		"LABEL": "0xADE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I would be no better than the people of ROMLES who had been taking advantage of her if I did that."
+	},
+	{
+		"LABEL": "0xB2A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「In other words, it's too late to wait for rescue.」"
+	},
+	{
+		"LABEL": "0xB5C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Even if we can get in touch with them, we can't wait that long.」"
+	},
+	{
+		"LABEL": "0xC1A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「So, the only option left to us is to escape on our own.」"
+	},
+	{
+		"LABEL": "0xCA7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm tired of waiting.」"
+	},
+	{
+		"LABEL": "0xCDC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa said it all without hesitation."
+	},
+	{
+		"LABEL": "0xD04",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Certainly, there was no point in waiting, so we had no choice but to escape."
+	},
+	{
+		"LABEL": "0xD48",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Once we decided to do so, we could narrow the course of our thinking."
+	},
+	{
+		"LABEL": "0xDF0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Now that we've decided on a course of action...」"
+	},
+	{
+		"LABEL": "0xE22",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What means do we have to escape?」"
+	},
+	{
+		"LABEL": "0xE5F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Wait a minute.」"
+	},
+	{
+		"LABEL": "0xE7B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Let's think logically.」"
+	},
+	{
+		"LABEL": "0xE9D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Monitors were spread over one side of the wheelhouse."
+	},
+	{
+		"LABEL": "0xECD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I turned my head while looking at the parameters of the gauges displayed on each of them."
+	},
+	{
+		"LABEL": "0xF1B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「We're approximately 700 meters deep...」"
+	},
+	{
+		"LABEL": "0xFAD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's impossible to go outside without pressure-resistant equipment.」"
+	},
+	{
+		"LABEL": "0xFF2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Impossible to go outside..."
+	},
+	{
+		"LABEL": "0x1010",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was only natural, but that was because we didn't have pressure-resistant equipment."
+	},
+	{
+		"LABEL": "0x104E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Pressure-resistant... <SHEEP III>..."
+	},
+	{
+		"LABEL": "0x1077",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...What about raising the whole ship?」"
+	},
+	{
+		"LABEL": "0x1115",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――Let's think about it.」"
+	},
+	{
+		"LABEL": "0x1140",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I thought it was a ridiculous idea, but――"
+	},
+	{
+		"LABEL": "0x1182",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Nevertheless, Tokiwa didn't say that it was impossible."
+	},
+	{
+		"LABEL": "0x11B8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Did that mean there was room to think?"
+	},
+	{
+		"LABEL": "0x120F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Heigh-ho.」"
+	},
+	{
+		"LABEL": "0x122E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She pulled out a terminal out of nowhere."
+	},
+	{
+		"LABEL": "0x126E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was the tablet from the library..."
+	},
+	{
+		"LABEL": "0x12A2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Come to think of it, she had that before as well, but I didn't realize she still did."
+	},
+	{
+		"LABEL": "0x1356",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「This is information from the library.」"
+	},
+	{
+		"LABEL": "0x13DD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Umm...」"
+	},
+	{
+		"LABEL": "0x1400",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What is it, Tokiwa?」"
+	},
+	{
+		"LABEL": "0x1490",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Sorry, but can I ask you to enter some numbers exactly as I tell you?」"
+	},
+	{
+		"LABEL": "0x14E8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm busy doing the calculations, so...」"
+	},
+	{
+		"LABEL": "0x1511",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Blueprints for the ship were displayed on the tablet."
+	},
+	{
+		"LABEL": "0x1543",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa glanced over them for a moment, then looked up and started calculating the density."
+	},
+	{
+		"LABEL": "0x159E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Assuming that the third and second floors in the rear section have been filled with water, the mass is about――」"
+	},
+	{
+		"LABEL": "0x15F4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Katagiri-san, what are the values?」"
+	},
+	{
+		"LABEL": "0x162D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Let me see...」"
+	},
+	{
+		"LABEL": "0x164B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She proceeded with her calculations one after another."
+	},
+	{
+		"LABEL": "0x1677",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa, facing the ceiling, recited the formulas, and I typed each one out to get a value."
+	},
+	{
+		"LABEL": "0x16D1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Eventually――"
+	},
+	{
+		"LABEL": "0x1755",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――We've reached a result.」"
+	},
+	{
+		"LABEL": "0x177E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was an obvious number, even to me."
+	},
+	{
+		"LABEL": "0x17B6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In the first place, the <SHEEP III> had ballast tanks installed around the bridges,"
+	},
+	{
+		"LABEL": "Split3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "the areas where the two pressure-resistant hulls were joined, and at the outer lower parts of the hulls."
+	},
+	{
+		"LABEL": "0x1859",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Ballast was, in essence, a weight... A mechanism that controlled a submarine's ascent."
+	},
+	{
+		"LABEL": "0x18A9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The <SHEEP III> adjusted its ascent and descent by moving seawater in and out of its ballast tanks."
+	},
+	{
+		"LABEL": "0x1920",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Right now, all the ballast tanks were filled with seawater."
+	},
+	{
+		"LABEL": "0x1960",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was already confirmed immediately after the accident that the ballast tanks couldn't be drained."
+	},
+	{
+		"LABEL": "0x19B0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But, even if all the seawater was to be drained and replaced with air..."
+	},
+	{
+		"LABEL": "0x1A20",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――We're 300 tons short.」"
+	},
+	{
+		"LABEL": "0x1A45",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was due to the first and second floors of the rear section, that had originally contributed to the buoyancy of the ship."
+	},
+	{
+		"LABEL": "0x1A87",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "They were now filled with seawater and had become a weight, so to speak."
+	},
+	{
+		"LABEL": "0x1AE7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "With that in mind,"
+	},
+	{
+		"LABEL": "0x1B09",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "the cargo this ship had to throw out was 300 tons."
+	},
+	{
+		"LABEL": "0x1B3A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――It wasn't realistic at all."
+	},
+	{
+		"LABEL": "0x1B64",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...That's within expectations.」"
+	},
+	{
+		"LABEL": "0x1B88",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「There's nothing to be disappointed about.」"
+	},
+	{
+		"LABEL": "0x1C1C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yes.」"
+	},
+	{
+		"LABEL": "0x1C32",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「No matter how obvious it may seem, we need to eliminate possibilities one by one.」"
+	},
+	{
+		"LABEL": "0x1CD9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's the basics of science.」"
+	},
+	{
+		"LABEL": "0x1D06",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Right now, we didn't even have the time to be disappointed."
+	},
+	{
+		"LABEL": "0x1D36",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If you had time for that, use it to think of as many possibilities as possible instead."
+	},
+	{
+		"LABEL": "0x1D82",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What we needed to consider next was――"
+	},
+	{
+		"LABEL": "0x1DA6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...The rescue ship.」"
+	},
+	{
+		"LABEL": "0x1E30",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's it.」"
+	},
+	{
+		"LABEL": "0x1E4F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The rescue ship was connected to the emergency room."
+	},
+	{
+		"LABEL": "0x1E77",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was a place I had visited with Tokiwa earlier――"
+	},
+	{
+		"LABEL": "0x1FBB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――――」"
+	},
+	{
+		"LABEL": "0x1FD5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I forced whatever was rising up my esophagus back down."
+	},
+	{
+		"LABEL": "0x200B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That monstrous image of the girl who'd been alive until yesterday was burned into my mind."
+	},
+	{
+		"LABEL": "0x205D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――Don't lose focus."
+	},
+	{
+		"LABEL": "0x207D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Escaping from the <SHEEP III> was what mattered..."
+	},
+	{
+		"LABEL": "0x20AA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "To that end, let's just think about how that rescue ship could be useful."
+	},
+	{
+		"LABEL": "0x21ED",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If the ship has been destroyed to that extent, then...」"
+	},
+	{
+		"LABEL": "0x2240",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I don't think it'll be possible to repair it even if we both worked together.」"
+	},
+	{
+		"LABEL": "0x228D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa clearly stated that it was \"impossible.\""
+	},
+	{
+		"LABEL": "0x22BD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "With that, the possibility of us using the rescue ship was gone, huh...?"
+	},
+	{
+		"LABEL": "0x2367",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「However,"
+	},
+	{
+		"LABEL": "0x237F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I just thought of it now, but...」"
+	},
+	{
+		"LABEL": "0x23B0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She had noticed something."
+	},
+	{
+		"LABEL": "0x23D2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That was often the key to a solution."
+	},
+	{
+		"LABEL": "0x240A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Even if that wasn't the case, we had to examine every possibility that came to our minds."
+	},
+	{
+		"LABEL": "0x2448",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "One by one, from first to last."
+	},
+	{
+		"LABEL": "0x2477",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Is it necessary to repair the ship in the first place?」"
+	},
+	{
+		"LABEL": "0x24D0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...What do you mean?」"
+	},
+	{
+		"LABEL": "0x2503",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That ship is much simpler than the <SHEEP III>.」"
+	},
+	{
+		"LABEL": "0x2559",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yeah. It's apparently an older submarine that was repurposed.」"
+	},
+	{
+		"LABEL": "0x2597",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「From what I could tell, it looked about ten years old...」"
+	},
+	{
+		"LABEL": "0x25C7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A rescue ship using a decommissioned submarine――"
+	},
+	{
+		"LABEL": "0x25F9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari was the one who had told me about it."
+	},
+	{
+		"LABEL": "0x2629",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「So, what about it?」"
+	},
+	{
+		"LABEL": "0x26BF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The model of the ship may not matter much.」"
+	},
+	{
+		"LABEL": "0x26F3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I was more interested in its size.」"
+	},
+	{
+		"LABEL": "0x273E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The... size?」"
+	},
+	{
+		"LABEL": "0x276F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「As far as I'm concerned, a submersible of that size...」"
+	},
+	{
+		"LABEL": "0x27B7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm sure that it has many aspects that are fundamentally different from those of the <SHEEP III>.」"
+	},
+	{
+		"LABEL": "0x280C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「There might be a clue there.」"
+	},
+	{
+		"LABEL": "0x2845",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hmmm..."
+	},
+	{
+		"LABEL": "0x28CB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...No good.」"
+	},
+	{
+		"LABEL": "0x28EB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「As you can imagine, we don't have the specifications for the rescue ship here.」"
+	},
+	{
+		"LABEL": "0x2930",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She swiped her tablet and struck a hopeless pose."
+	},
+	{
+		"LABEL": "0x2979",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「We may be able to get that information if we return to the library.」"
+	},
+	{
+		"LABEL": "0x29C2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But I don't have Yukari's dongle anymore.」"
+	},
+	{
+		"LABEL": "0x2A09",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Now that I think about it, yes...」"
+	},
+	{
+		"LABEL": "0x2A36",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We shouldn't get carried away here."
+	},
+	{
+		"LABEL": "0x2A52",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Let's put the rescue ship aside for now."
+	},
+	{
+		"LABEL": "0x2A82",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Are there any other leads――」"
+	},
+	{
+		"LABEL": "0x2B18",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...The deep sea.」"
+	},
+	{
+		"LABEL": "0x2B32",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...You've been outside the ship twice.」"
+	},
+	{
+		"LABEL": "0x2B70",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Did you find anything that might be a lead there?」"
+	},
+	{
+		"LABEL": "0x2BA9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Well, umm...」"
+	},
+	{
+		"LABEL": "0x2BC7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The first time was when I had gone to rescue Reiri."
+	},
+	{
+		"LABEL": "0x2BF9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The window of the rear section had been severely damaged, and seawater had flowed in from there."
+	},
+	{
+		"LABEL": "0x2C3F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Was there anything we could use in that scene...?"
+	},
+	{
+		"LABEL": "0x2C7D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's right, that broken probe unit!」"
+	},
+	{
+		"LABEL": "0x2D1B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「How will that help us?」"
+	},
+	{
+		"LABEL": "0x2D44",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Even if we fix it, we won't be able to use it.」"
+	},
+	{
+		"LABEL": "0x2D8E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Thinking back on it now, that destroyed probe unit must have been done in by a shark or something."
+	},
+	{
+		"LABEL": "0x2DE2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yesterday, when I dove to the bottom of the sea in response to her request, I saw a shark with rows of sharp teeth."
+	},
+	{
+		"LABEL": "0x2EA4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――It was later holding Hikari's corpse in its mouth."
+	},
+	{
+		"LABEL": "0x2EDA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In the end, I couldn't save her either..."
+	},
+	{
+		"LABEL": "0x2F12",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...No, just focus on how to escape for now."
+	},
+	{
+		"LABEL": "0x2FA5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That's right, what did I see in the water yesterday?"
+	},
+	{
+		"LABEL": "0x2FCF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Was there anything of use?"
+	},
+	{
+		"LABEL": "0x2FFF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Thinking back on it, there were a number of strange things."
+	},
+	{
+		"LABEL": "0x3037",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A strange, hose-like thing with bubbles spewing out of it."
+	},
+	{
+		"LABEL": "0x3075",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A number of mysterious metal plates lay at the bottom of the sea."
+	},
+	{
+		"LABEL": "0x30AB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was only now that I thought about them."
+	},
+	{
+		"LABEL": "0x30DB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Was that the wreckage of a once-sunken ship or something?"
+	},
+	{
+		"LABEL": "0x3115",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There were not any other parts there, however..."
+	},
+	{
+		"LABEL": "0x3269",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What are you thinking?」"
+	},
+	{
+		"LABEL": "0x3294",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Actually, when I was exploring the seafloor yesterday...」"
+	},
+	{
+		"LABEL": "0x32E0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I tried to remember everything that had happened and told her."
+	},
+	{
+		"LABEL": "0x338A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「A pipe with air bubbles coming out of it...」"
+	},
+	{
+		"LABEL": "0x33AC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Mysterious plates...」"
+	},
+	{
+		"LABEL": "0x33CA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hmm-hmm.」"
+	},
+	{
+		"LABEL": "0x33E2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I seem to recall something about bubbles...」"
+	},
+	{
+		"LABEL": "0x342F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「How about the plates?」"
+	},
+	{
+		"LABEL": "0x34C1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I've never seen such a deep-sea creature before...」"
+	},
+	{
+		"LABEL": "0x3500",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「No, they were clearly man-made. Several of them were the same shape.」"
+	},
+	{
+		"LABEL": "0x3561",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Disc-shaped iron plates, you say?」"
+	},
+	{
+		"LABEL": "0x3587",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Who would carry such an artificial object, and for what purpose?」"
+	},
+	{
+		"LABEL": "0x35C5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Only submarines come to the bottom of the sea like this...」"
+	},
+	{
+		"LABEL": "0x360E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...A submarine.」"
+	},
+	{
+		"LABEL": "0x362A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「A submarine left them behind...」"
+	},
+	{
+		"LABEL": "0x3670",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――At that moment, something Yukari had told me crossed my mind."
+	},
+	{
+		"LABEL": "0x37E3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――Seven years ago, on the 1st of August.」"
+	},
+	{
+		"LABEL": "0x3809",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The three of us dove into this dark bay.」"
+	},
+	{
+		"LABEL": "0x389C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I had once asked my sister a question."
+	},
+	{
+		"LABEL": "0x38F5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Of course, what we used at the time was a smaller submarine.」"
+	},
+	{
+		"LABEL": "0x399A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I wondered what she would do if trouble broke out in the deep sea and she could no longer surface."
+	},
+	{
+		"LABEL": "0x3A15",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It was an old-fashioned and compact ship, with windows that condensated quickly and which used detachable steel plate weights in order to float.」"
+	},
+	{
+		"LABEL": "0x3A73",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "My sister had answered..."
+	},
+	{
+		"LABEL": "0x3B6B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――"
+	},
+	{
+		"LABEL": "0x3B7A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "\"All you have to do is cut off the weights.\""
+	},
+	{
+		"LABEL": "0x3CA7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――The ballast!」"
+	},
+	{
+		"LABEL": "0x3CC9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Those must be the ballast weights of a submarine that once came here!」"
+	},
+	{
+		"LABEL": "0x3D1F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The missing pieces had all come together..."
+	},
+	{
+		"LABEL": "0x3DD7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I see. So there's no need for a small submarine to adjust its buoyancy with a ballast tank.」"
+	},
+	{
+		"LABEL": "0x3E3B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「In other words, when it sinks, it simply carries weights made of iron or something, and on the way back, it floats by dumping them underwater...」"
+	},
+	{
+		"LABEL": "0x3EB8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's how deep-sea submarines were originally designed.」"
+	},
+	{
+		"LABEL": "0x3EFA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "On a scale as large as the <SHEEP III>, it was more efficient to consolidate the weights into ballast tanks."
+	},
+	{
+		"LABEL": "0x3F7F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That, and the <SHEEP III> was a ship that needed to stay underwater."
+	},
+	{
+		"LABEL": "0x3FC0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However, for a normal deep-sea submarine, it was fine as long as it sank to the bottom."
+	},
+	{
+		"LABEL": "0x400A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If this was the case, it was natural that ballast tanks would be used only for auxiliary purposes, and weights would be used mainly for floating and sinking."
+	},
+	{
+		"LABEL": "0x40DA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If so, then maybe the rescue ship also uses them...」"
+	},
+	{
+		"LABEL": "0x410F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If Yukari was correct, the rescue ship was a repurposed older submarine."
+	},
+	{
+		"LABEL": "0x416B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Which meant that the likelihood it used simple ballast was high."
+	},
+	{
+		"LABEL": "0x41AD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...It's entirely possible.」"
+	},
+	{
+		"LABEL": "0x4241",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Can they be detached from the outside?」"
+	},
+	{
+		"LABEL": "0x4276",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I don't know...」"
+	},
+	{
+		"LABEL": "0x4296",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But, if we can remove the weights without using the computer...」"
+	},
+	{
+		"LABEL": "0x42F0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...There's air inside the ship.」"
+	},
+	{
+		"LABEL": "0x4318",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――It's possible to surface.」"
+	},
+	{
+		"LABEL": "0x433A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We saw a single possibility."
+	},
+	{
+		"LABEL": "0x43CC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「We should try it.」"
+	},
+	{
+		"LABEL": "0x43F3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――Let's take another look at the rescue ship.」"
+	},
+	{
+		"LABEL": "0x443F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I hurried to stand up."
+	},
+	{
+		"LABEL": "0x44CB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Even the short distance to the emergency room felt frustrating."
+	},
+	{
+		"LABEL": "0x4505",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Although we weren't being chased by anyone, my pace naturally quickened."
+	},
+	{
+		"LABEL": "0x454D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And so, we arrived at the emergency room and opened the door――"
+	},
+	{
+		"LABEL": "0x45EA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――Inside..."
+	},
+	{
+		"LABEL": "0x4606",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "An unexpected scene unfolded before me."
+	}
+]

@@ -1,0 +1,578 @@
+[
+	{
+		"LABEL": "0x31D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Katagiri-san...」"
+	},
+	{
+		"LABEL": "0x33B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "My eyes are closed, and I can hear the waves."
+	},
+	{
+		"LABEL": "0x365",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Katagiri-san.」"
+	},
+	{
+		"LABEL": "0x383",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Someone's voice resounds loudly in my ears from somewhere."
+	},
+	{
+		"LABEL": "0x3A7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The sound of the waves fades into the distance."
+	},
+	{
+		"LABEL": "0x42A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――White."
+	},
+	{
+		"LABEL": "0x440",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "When I open my eyes, I see a white room in front of me."
+	},
+	{
+		"LABEL": "0x484",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "So white that it makes me realize how far removed from nature it is."
+	},
+	{
+		"LABEL": "0x533",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Are you alright?」"
+	},
+	{
+		"LABEL": "0x551",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yeah...」"
+	},
+	{
+		"LABEL": "0x569",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "For a moment, I don't recognize the person talking to me because they blend in with the white background."
+	},
+	{
+		"LABEL": "0x5A7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There's someone in a white coat sitting in front of me."
+	},
+	{
+		"LABEL": "0x5DB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Are you alright?」"
+	},
+	{
+		"LABEL": "0x5FB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The person repeats their question."
+	},
+	{
+		"LABEL": "0x615",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Even though their lips are moving in front of my eyes,"
+	},
+	{
+		"LABEL": "0x645",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "their voice feels like it's echoing directly inside my ears."
+	},
+	{
+		"LABEL": "0x677",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I try putting a hand to my ear, and I'm surprised by the hard sensation I feel."
+	},
+	{
+		"LABEL": "0x6B7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――Oh, I see."
+	},
+	{
+		"LABEL": "0x6D7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I'm wearing some sort of glasses at the moment."
+	},
+	{
+		"LABEL": "0x707",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I hold my right hand in front of my face."
+	},
+	{
+		"LABEL": "0x733",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I can see my own palm through the clear glass."
+	},
+	{
+		"LABEL": "0x771",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You can still back out of this. If you can't do this, just tell me.」"
+	},
+	{
+		"LABEL": "0x7BB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I wonder why."
+	},
+	{
+		"LABEL": "0x7D9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I can't quite make out the face of the person in front of me."
+	},
+	{
+		"LABEL": "0x80F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I can't make out who's speaking, even though I should be able to."
+	},
+	{
+		"LABEL": "0x85B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Is it because of these smart glasses?"
+	},
+	{
+		"LABEL": "0x895",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "While I remain silent, \"she\" opens her mouth to say something."
+	},
+	{
+		"LABEL": "0x8DF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Just the fact that you agreed to come here is a step forward.」"
+	},
+	{
+		"LABEL": "0x925",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The words \"she\" says are certainly true."
+	},
+	{
+		"LABEL": "0x94F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Since the accident, I've hardly gone outside."
+	},
+	{
+		"LABEL": "0x98B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And as for seeing people..."
+	},
+	{
+		"LABEL": "0x9B9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You still can't remember?」"
+	},
+	{
+		"LABEL": "0x9E3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I shake my head once to \"her\" question."
+	},
+	{
+		"LABEL": "0xA81",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I can't remember.」"
+	},
+	{
+		"LABEL": "0xAA1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What happened on that ship?」"
+	},
+	{
+		"LABEL": "0xACF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「On that ship, the <SHEEP III>... I heard there were two survivors.」"
+	},
+	{
+		"LABEL": "0xB12",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "\"She\" takes out a small box."
+	},
+	{
+		"LABEL": "0xB42",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Well, maybe it's not even a box, as it has no opening."
+	},
+	{
+		"LABEL": "0xB8C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A pitch-black cube."
+	},
+	{
+		"LABEL": "0xBAA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The object is not only painted black but seems to absorb the light around it."
+	},
+	{
+		"LABEL": "0xC08",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The cube, which fits onto her palm, is held out to me."
+	},
+	{
+		"LABEL": "0xCF4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Do you recognize what this is?」"
+	},
+	{
+		"LABEL": "0xD18",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Everything that happened during those four days is recorded in this black box.」"
+	},
+	{
+		"LABEL": "0xD70",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「All that data is being transferred to the smart glasses you are wearing now. For example...」"
+	},
+	{
+		"LABEL": "0xE42",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I felt no movement."
+	},
+	{
+		"LABEL": "0xE74",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But at the same time, like due to an invisible signal, a blue sea spreads out before me."
+	},
+	{
+		"LABEL": "0xEBC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A blue sea shining under the sun."
+	},
+	{
+		"LABEL": "0xEEA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It's an unreal and dizzying scene."
+	},
+	{
+		"LABEL": "0xF12",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However, this sea is familiar to me."
+	},
+	{
+		"LABEL": "0xF48",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I'm not sure, but isn't this...?"
+	},
+	{
+		"LABEL": "0x1034",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Ugh...」"
+	},
+	{
+		"LABEL": "0x104E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I can hear the tide again. Waves are crashing inside my head."
+	},
+	{
+		"LABEL": "0x1088",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Is this an auditory hallucination?"
+	},
+	{
+		"LABEL": "0x10A4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Or a sensation created by the smart glasses?"
+	},
+	{
+		"LABEL": "0x10E4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I apologize for startling you.」"
+	},
+	{
+		"LABEL": "0x11AC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "\"Her\" voice cuts off the waves, and the blue in front of me fades back to the original white room."
+	},
+	{
+		"LABEL": "0x1206",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What was that just now...」"
+	},
+	{
+		"LABEL": "0x1222",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Kurama Bay, exactly how it was on the 1st of August, 2033.」"
+	},
+	{
+		"LABEL": "0x125E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The date \"she\" mentions makes me stop for a moment."
+	},
+	{
+		"LABEL": "0x129A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It's a date I'll never forget."
+	},
+	{
+		"LABEL": "0x12C8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Then... It's not just my imagination, after all."
+	},
+	{
+		"LABEL": "0x12FE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I've seen that sea before."
+	},
+	{
+		"LABEL": "0x132C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「To be precise, we're using the data to rapidly calculate the \"ifs\" that could have existed in the past.」"
+	},
+	{
+		"LABEL": "0x138C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「In other words, the past is trapped inside this box.」"
+	},
+	{
+		"LABEL": "0x13C2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "\"She\" puts the small black box on the table."
+	},
+	{
+		"LABEL": "0x13F4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Start over again once more, from August 2033. From here, you'll return to the past.」"
+	},
+	{
+		"LABEL": "0x1449",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Finally, \"she\" reminds me of my purpose."
+	},
+	{
+		"LABEL": "0x1485",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That's right."
+	},
+	{
+		"LABEL": "0x149F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That's why I'm here in this room."
+	},
+	{
+		"LABEL": "0x14D1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In this closed white space with no exit."
+	},
+	{
+		"LABEL": "0x1501",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Looking through these images."
+	},
+	{
+		"LABEL": "0x151F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Tell me once more, Katagiri-san.」"
+	},
+	{
+		"LABEL": "0x154D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Why do you want to return to the past?」"
+	},
+	{
+		"LABEL": "0x1587",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Why..."
+	},
+	{
+		"LABEL": "0x15A1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I'm still trying to piece together my hazy memories..."
+	},
+	{
+		"LABEL": "0x15DF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...I want to know.」"
+	},
+	{
+		"LABEL": "0x1603",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Could they have gotten out of that sea alive?」"
+	},
+	{
+		"LABEL": "0x164D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If I had made different choices, would the result have been different?」"
+	},
+	{
+		"LABEL": "0x168D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's what I want to know.」"
+	},
+	{
+		"LABEL": "0x16B5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The words come out by themselves."
+	},
+	{
+		"LABEL": "0x16D9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Like I knew the answer all along..."
+	},
+	{
+		"LABEL": "0x170F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...No, I do know."
+	},
+	{
+		"LABEL": "0x173B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The words I speak make the memories, the will, clear."
+	},
+	{
+		"LABEL": "0x1777",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I'm here to redo my choices."
+	},
+	{
+		"LABEL": "0x17AD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What you experience will be a simulation. The most realistic one you can think of.」"
+	},
+	{
+		"LABEL": "0x17FD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Listen, Katagiri-san.」"
+	},
+	{
+		"LABEL": "0x1823",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You're the one who determines who survives.」"
+	},
+	{
+		"LABEL": "0x18BF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――Let's get started then, Katagiri-san.」"
+	},
+	{
+		"LABEL": "0x18ED",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The noise blends with the clear glass."
+	},
+	{
+		"LABEL": "0x191F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The white fades, and \"her\" voice becomes distant."
+	},
+	{
+		"LABEL": "0x1951",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「First, when it all started.」"
+	},
+	{
+		"LABEL": "0x1971",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It all began that day when no one could have predicted what would happen next.」"
+	},
+	{
+		"LABEL": "0x1A83",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "My vision is being enveloped in blue again."
+	},
+	{
+		"LABEL": "0x1AAD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The ship slides out to the sea, unaware of what's to come."
+	},
+	{
+		"LABEL": "0x1AE3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Out towards a sorrowful voyage."
+	},
+	{
+		"LABEL": "0x1B0D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――August 1st, 2033.」"
+	}
+]

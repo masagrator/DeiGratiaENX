@@ -1,0 +1,2558 @@
+[
+	{
+		"LABEL": "0x133",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Isn't it cramped in there?」"
+	},
+	{
+		"LABEL": "0x160",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm fine! Somehow!」"
+	},
+	{
+		"LABEL": "0x1AF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa's voice coming from the speaker next to my ear sounded as energetic as ever."
+	},
+	{
+		"LABEL": "0x201",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I could tell she was even more excited than usual."
+	},
+	{
+		"LABEL": "0x23B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We were inside the pressurization room."
+	},
+	{
+		"LABEL": "0x253",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa and I stood side by side in the darkness in our diving suits."
+	},
+	{
+		"LABEL": "0x293",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...Come to think of it, this was the first time I'd gone out to the deep sea with someone else."
+	},
+	{
+		"LABEL": "0x2D3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Having someone next to me in the pressurization room, where I'd always been alone before this, felt kind of strange."
+	},
+	{
+		"LABEL": "0x403",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「This will be the last time we go through this.」"
+	},
+	{
+		"LABEL": "0x429",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Are you ready?」"
+	},
+	{
+		"LABEL": "0x44E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We moved to the wheelhouse after we finished eating."
+	},
+	{
+		"LABEL": "0x48A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari pulled up the map of the <SHEEP III> on a display."
+	},
+	{
+		"LABEL": "0x4DA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「First, you two will enter the pressurization room and secure your diving suits by connecting them to the external hatch of the rescue ship.」"
+	},
+	{
+		"LABEL": "0x556",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Once the water is poured and pressurization is done, the only thing that remains is the magnetic force...」"
+	},
+	{
+		"LABEL": "0x5AC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The pressure difference between the inside and outside of the skirt is gone due to the pressurization.」"
+	},
+	{
+		"LABEL": "Split3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「So you should be able to separate the skirt from the <SHEEP III> with a little force.」"
+	},
+	{
+		"LABEL": "0x62E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa immediately raised her hand."
+	},
+	{
+		"LABEL": "0x723",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What will you do in the meantime, Yukari-san?」"
+	},
+	{
+		"LABEL": "0x768",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'll stay here and watch over you two.」"
+	},
+	{
+		"LABEL": "0x81C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Since it's dangerous to go near the emergency room.」"
+	},
+	{
+		"LABEL": "0x851",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She sounded somewhat sad as she said that."
+	},
+	{
+		"LABEL": "0x875",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But, a moment later, her face looking forward was full of positive determination."
+	},
+	{
+		"LABEL": "0x938",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's right, there's one more thing.」"
+	},
+	{
+		"LABEL": "0x95A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――Please take this.」"
+	},
+	{
+		"LABEL": "0x989",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She held out a black box about five centimeters square."
+	},
+	{
+		"LABEL": "0x9C2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was a small, jet-black box that seemed to absorb all the light around it."
+	},
+	{
+		"LABEL": "0xA71",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What's this?」"
+	},
+	{
+		"LABEL": "0xA9A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「An <Onyx>.」"
+	},
+	{
+		"LABEL": "0xABC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's a VDR―voyage data recorder.」"
+	},
+	{
+		"LABEL": "0xAF8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A voyage data recorder... Kind of like a black box of an aircraft."
+	},
+	{
+		"LABEL": "0xB5B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Is it... okay to remove it?」"
+	},
+	{
+		"LABEL": "0xBAC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Don't worry. The core of the recorder is still inside the <SHEEP III>.」"
+	},
+	{
+		"LABEL": "0xBF7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「This <Onyx> is a duplicate of the information in the VDR.」"
+	},
+	{
+		"LABEL": "0xC40",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「However, it's just as sturdy as the real VDR, so it won't break under normal pressures or temperatures.」"
+	},
+	{
+		"LABEL": "0xCC3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「With this... You can relay to the surface everything that happened on this ship.」"
+	},
+	{
+		"LABEL": "0xD26",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...I was the one who proposed this idea to Yukari."
+	},
+	{
+		"LABEL": "0xDD3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "After the accident seven years ago, the onboard VDR was never recovered."
+	},
+	{
+		"LABEL": "0xE18",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And even if it was recovered now, it would be too late."
+	},
+	{
+		"LABEL": "0xE5C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If only the VDR had been found, I would have known my sister's final moments."
+	},
+	{
+		"LABEL": "0xF15",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "So..."
+	},
+	{
+		"LABEL": "0xF2B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was the duty of those who had been entrusted with \"returning alive\" to deliver information back to the surface."
+	},
+	{
+		"LABEL": "0xF79",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The <Onyx> literally contained everything within it."
+	},
+	{
+		"LABEL": "0xFB7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Information from outside the <SHEEP III>―the water temperature, pressure, and the currents surrounding the ship."
+	},
+	{
+		"LABEL": "0x1002",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Information from inside the <SHEEP III>―physical data and the recordings of the cameras inside the ship."
+	},
+	{
+		"LABEL": "0x1051",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And... a message I just recorded for \"someone\" on the surface."
+	},
+	{
+		"LABEL": "0x10A1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "All hope, all despair, were locked up inside."
+	},
+	{
+		"LABEL": "0x10DB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "With this box, we could deliver them."
+	},
+	{
+		"LABEL": "0x110D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "To the surface. The fate of the three days that this ship went through."
+	},
+	{
+		"LABEL": "0x1269",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'll... leave this to you, Tokiwa-san.」"
+	},
+	{
+		"LABEL": "0x1309",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Never let go of it.」"
+	},
+	{
+		"LABEL": "0x13B4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――I won't.」"
+	},
+	{
+		"LABEL": "0x13E7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Well then...」"
+	},
+	{
+		"LABEL": "0x1405",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Good luck, you two.」"
+	},
+	{
+		"LABEL": "0x146A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And so, Tokiwa and I both put on our diving suits."
+	},
+	{
+		"LABEL": "0x14AA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I was used to putting one on by now, but Tokiwa seemed to struggle with it."
+	},
+	{
+		"LABEL": "0x14E8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Because I was already wearing my diving suit and to prevent sexual harassment, Yukari was the one who helped Tokiwa put hers on."
+	},
+	{
+		"LABEL": "0x15AD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "After she finally managed to put on the suit, which took twice as long as me,"
+	},
+	{
+		"LABEL": "0x1631",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I somehow managed to drag the now immobile Tokiwa to the pressurization room since she insisted the suit was too heavy for her to move on her own."
+	},
+	{
+		"LABEL": "0x16C9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――On the way there, the light inside the emergency room seemed to have decreased in number compared to before."
+	},
+	{
+		"LABEL": "0x1782",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――I have no regrets.」"
+	},
+	{
+		"LABEL": "0x17AC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa's suit was already rigidly tied to the external hatch of the rescue ship with a rope."
+	},
+	{
+		"LABEL": "0x1800",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There was no need to worry―this method was certain."
+	},
+	{
+		"LABEL": "0x182C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She would definitely make it back to the surface."
+	},
+	{
+		"LABEL": "0x1850",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Let's go, Tokiwa.」"
+	},
+	{
+		"LABEL": "0x187F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『Yes.』"
+	},
+	{
+		"LABEL": "0x189A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I pulled the lever inside the pressurization room."
+	},
+	{
+		"LABEL": "0x18C6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "For who knows how many times now, water began pouring in."
+	},
+	{
+		"LABEL": "0x18EC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Filling the inside of the room."
+	},
+	{
+		"LABEL": "0x1916",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The water level rose in the blink of an eye."
+	},
+	{
+		"LABEL": "0x193A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Tokiwa, are you okay?」"
+	},
+	{
+		"LABEL": "0x196D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『I'm not scared.』"
+	},
+	{
+		"LABEL": "0x1990",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She answered even though I didn't ask."
+	},
+	{
+		"LABEL": "0x19BA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What an easy-to-understand girl."
+	},
+	{
+		"LABEL": "0x19E6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Well, it was true that this could be a little scary at first..."
+	},
+	{
+		"LABEL": "0x1AEE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But, while I was thinking that, the flooding of the room came to an end."
+	},
+	{
+		"LABEL": "0x1B12",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I mustered all my strength and pushed the outside hatch of the rescue ship."
+	},
+	{
+		"LABEL": "0x1BBD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hrngh...!」"
+	},
+	{
+		"LABEL": "0x1BD9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...Not even the slightest movement."
+	},
+	{
+		"LABEL": "0x1BFB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Was Yukari sure that all it would take was a little force?"
+	},
+	{
+		"LABEL": "0x1C39",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It showed no sign of moving at all."
+	},
+	{
+		"LABEL": "0x1C5F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But, after coming this far, I couldn't give up."
+	},
+	{
+		"LABEL": "0x1C9B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Uooooooohh!!」"
+	},
+	{
+		"LABEL": "0x1CB7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I switched my position inside the pressurization room, using my whole body as a spring and planting myself with both my legs and back."
+	},
+	{
+		"LABEL": "0x1D12",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『Go for it, Katagiri-san!』"
+	},
+	{
+		"LABEL": "0x1D4F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『That's the spirit!』"
+	},
+	{
+		"LABEL": "0x1E36",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Between their cheers, a creaking sound could be heard."
+	},
+	{
+		"LABEL": "0x1E8A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――Just a little more!"
+	},
+	{
+		"LABEL": "0x1F72",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Move!!」"
+	},
+	{
+		"LABEL": "0x1F92",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I felt like I was slipping."
+	},
+	{
+		"LABEL": "0x2013",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In an instant, the tension in my body was released, and I was thrown out of balance."
+	},
+	{
+		"LABEL": "0x204B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Freed from the tight pressure, I lost my support and suddenly saw my feet."
+	},
+	{
+		"LABEL": "0x209B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Beneath my feet, the place where the floor should have been..."
+	},
+	{
+		"LABEL": "0x20CB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Darkness peeked out from the rift I could see below―the border between the <SHEEP III> and the rescue ship."
+	},
+	{
+		"LABEL": "0x211A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The deep sea was peering back at me."
+	},
+	{
+		"LABEL": "0x2134",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――It detached!"
+	},
+	{
+		"LABEL": "0x214E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The rescue ship detached!"
+	},
+	{
+		"LABEL": "0x216A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I did it!」"
+	},
+	{
+		"LABEL": "0x2195",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『Mission accomplished, Katagiri-san!』"
+	},
+	{
+		"LABEL": "0x21CE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『Ohhhh!』"
+	},
+	{
+		"LABEL": "0x21EF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As soon as the connection between the ships was cut, the rescue ship began to move."
+	},
+	{
+		"LABEL": "0x222D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The hull climbed slowly but surely outward―and upward―as it was rocked by the currents."
+	},
+	{
+		"LABEL": "0x23A9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『Uououooh!!』"
+	},
+	{
+		"LABEL": "0x23CC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa rocked along with the movements of the ship."
+	},
+	{
+		"LABEL": "0x23FE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her body lost its gravity, and she was pulled along by the rope tied to the rescue ship and began to drift into the deep sea."
+	},
+	{
+		"LABEL": "0x2464",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Thank God... We were successful."
+	},
+	{
+		"LABEL": "0x24EB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was a success――"
+	},
+	{
+		"LABEL": "0x2566",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I closed my eyes."
+	},
+	{
+		"LABEL": "0x2588",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If I could, I would have closed my ears too."
+	},
+	{
+		"LABEL": "0x25BA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But even so, I couldn't turn off the speaker of my diving suit."
+	},
+	{
+		"LABEL": "0x2631",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『...Wait.』"
+	},
+	{
+		"LABEL": "0x264B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『Katagiri-san?』"
+	},
+	{
+		"LABEL": "0x266C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「....」"
+	},
+	{
+		"LABEL": "0x26E3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa's voice was full of anxiety."
+	},
+	{
+		"LABEL": "0x2715",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I couldn't answer her."
+	},
+	{
+		"LABEL": "0x2739",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Unlike Tokiwa, who was firmly tied to the rescue ship, the rope extending from my diving suit was quickly untied."
+	},
+	{
+		"LABEL": "0x27B1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The second knot, tied to the rescue ship, was no longer there."
+	},
+	{
+		"LABEL": "0x2800",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The only one returning to the surface with the rescue ship%N"
+	},
+	{
+		"LABEL": "0x288E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "will be you, Tokiwa."
+	},
+	{
+		"LABEL": "0x29A4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「So, what exactly did you want to ask?」"
+	},
+	{
+		"LABEL": "0x29D7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Sorry, I don't want to hear about what happened seven years ago.」"
+	},
+	{
+		"LABEL": "0x2A1B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I mean, of course I want to know, but there's something more important right now.」"
+	},
+	{
+		"LABEL": "0x2A61",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――Do we have a spare tank for the diving suit?」"
+	},
+	{
+		"LABEL": "0x2B12",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――――」"
+	},
+	{
+		"LABEL": "0x2B33",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In an instant, Yukari's eyes opened wide."
+	},
+	{
+		"LABEL": "0x2B57",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Time stood still for a moment――"
+	},
+	{
+		"LABEL": "0x2B84",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Don't tell me.」"
+	},
+	{
+		"LABEL": "0x2BA5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Earlier, when I was out in the water, I heard a warning sound.」"
+	},
+	{
+		"LABEL": "0x2BE7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「There's no oxygen left.」"
+	},
+	{
+		"LABEL": "0x2C84",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x2CA3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "On the day of the accident, Tokiwa asked me to search the seafloor for shellfish."
+	},
+	{
+		"LABEL": "0x2CE5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I had no idea how many hours worth of oxygen that alone used."
+	},
+	{
+		"LABEL": "0x2D33",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She should have realized the possibility earlier."
+	},
+	{
+		"LABEL": "0x2D5B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However, her expression was strained, as if she hadn't expected this."
+	},
+	{
+		"LABEL": "0x2DB3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Soon after, she lowered her gaze directly to her feet."
+	},
+	{
+		"LABEL": "0x2E06",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x2E25",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x2E4E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Unfortunately...」"
+	},
+	{
+		"LABEL": "0x2E6E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The spare tanks were scheduled to be loaded in the future.」"
+	},
+	{
+		"LABEL": "0x2EB3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In other words, there were no spare tanks on the ship."
+	},
+	{
+		"LABEL": "0x2EE5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...In a way, that was just as I had expected."
+	},
+	{
+		"LABEL": "0x2F19",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...How long will it take to get to the surface from here?」"
+	},
+	{
+		"LABEL": "0x2FD2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...I don't know.」"
+	},
+	{
+		"LABEL": "0x3060",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The ballast weights have been removed, but the ballast tank itself hasn't been drained, so the ascent should be slower than usual.」"
+	},
+	{
+		"LABEL": "0x30E5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I see...」"
+	},
+	{
+		"LABEL": "0x3101",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As long as there were no spare oxygen tanks, I couldn't go underwater for who knows how long."
+	},
+	{
+		"LABEL": "0x3165",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If I ran out of oxygen along the way, there was nothing I could do about it."
+	},
+	{
+		"LABEL": "0x31A3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That was like going out to your own death."
+	},
+	{
+		"LABEL": "0x31D7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Okay...」"
+	},
+	{
+		"LABEL": "0x31F1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yukari-san, listen to me...」"
+	},
+	{
+		"LABEL": "0x3219",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Let's entrust everything to Tokiwa.」"
+	},
+	{
+		"LABEL": "0x32BE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Are you serious?!」"
+	},
+	{
+		"LABEL": "0x32DD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What else are we supposed to do?!」"
+	},
+	{
+		"LABEL": "0x337F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I couldn't help but raise my voice."
+	},
+	{
+		"LABEL": "0x33A1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari shrank back in fear but eventually opened her mouth."
+	},
+	{
+		"LABEL": "0x345A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...If there's even the slightest possibility, it'd be better to use a diving suit...」"
+	},
+	{
+		"LABEL": "0x34A5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「There is a chance.」"
+	},
+	{
+		"LABEL": "0x34C7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「As long as Tokiwa makes it to the surface, she'll tell them everything that happened on this ship.」"
+	},
+	{
+		"LABEL": "0x3533",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Besides, if she can get the VDR information to the surface, they'll be able to tell everything about our current situation.」"
+	},
+	{
+		"LABEL": "0x35A6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "About the flooding of the rear section and the contamination of the ship by <COOS>."
+	},
+	{
+		"LABEL": "0x35E2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――And the fact that there were still survivors down here."
+	},
+	{
+		"LABEL": "0x3614",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If that happens, even ROMLES won't be able to ignore the <SHEEP III>.」"
+	},
+	{
+		"LABEL": "0x36C9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari was surprised by my words."
+	},
+	{
+		"LABEL": "0x370A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Wait... Do you really believe that everyone can escape?」"
+	},
+	{
+		"LABEL": "0x375D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Of course.」"
+	},
+	{
+		"LABEL": "0x3779",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I wasn't bluffing."
+	},
+	{
+		"LABEL": "0x37A3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We were alive."
+	},
+	{
+		"LABEL": "0x37C9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We couldn't throw our lives away so quickly."
+	},
+	{
+		"LABEL": "0x381B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm... "
+	},
+	{
+		"LABEL": "0x3836",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "not going to die that easily.」"
+	},
+	{
+		"LABEL": "0x3952",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『――――!』"
+	},
+	{
+		"LABEL": "0x3973",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A voiceless expression reached my speaker."
+	},
+	{
+		"LABEL": "0x399F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her silent cry stung my heart."
+	},
+	{
+		"LABEL": "0x39C7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Forgive me."
+	},
+	{
+		"LABEL": "0x39E1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "For not telling you anything."
+	},
+	{
+		"LABEL": "0x3A07",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Still, this was for the best..."
+	},
+	{
+		"LABEL": "0x3A98",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A moment later, my body shook."
+	},
+	{
+		"LABEL": "0x3AC4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I opened my eyes at the sudden shock that ran through my body."
+	},
+	{
+		"LABEL": "0x3B61",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "When I looked up, I saw her holding onto the rope extending from my suit with one hand."
+	},
+	{
+		"LABEL": "0x3BAD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She was grasping the small <Onyx> tightly in her other hand."
+	},
+	{
+		"LABEL": "0x3BF9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...Even though we were underwater, how could she move with her heavy diving suit on so well?"
+	},
+	{
+		"LABEL": "0x3C4D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Despite how she had been just a moment ago inside the ship..."
+	},
+	{
+		"LABEL": "0x3C8D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That was Saihouji Tokiwa for you."
+	},
+	{
+		"LABEL": "0x3CB1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She could do it if she tried."
+	},
+	{
+		"LABEL": "0x3D3D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『Katagiri-san!』"
+	},
+	{
+		"LABEL": "0x3D59",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『Why?!』"
+	},
+	{
+		"LABEL": "0x3D7A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The girl screamed."
+	},
+	{
+		"LABEL": "0x3D9C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Our eyes met through the two panes of pressure-resistant glass."
+	},
+	{
+		"LABEL": "0x3DDF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her face was colored by intense emotions that made it impossible to tell whether she was angry or sad."
+	},
+	{
+		"LABEL": "0x3E47",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She tried desperately to plead with me through her emotions."
+	},
+	{
+		"LABEL": "0x3E81",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her face, covered with violent feelings, bore no resemblance to the jovial expression she'd worn earlier."
+	},
+	{
+		"LABEL": "0x3F82",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa was always smiling brightly."
+	},
+	{
+		"LABEL": "0x3FAE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She was a naive, childlike girl who never stopped smiling."
+	},
+	{
+		"LABEL": "0x3FE8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Ah, this was wrong. Please stop."
+	},
+	{
+		"LABEL": "0x4012",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I didn't want to see that look on her face."
+	},
+	{
+		"LABEL": "0x404E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I had betrayed her expectations yet again."
+	},
+	{
+		"LABEL": "0x407A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Why was I always like this?"
+	},
+	{
+		"LABEL": "0x40AE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "This was probably the only way I could do things."
+	},
+	{
+		"LABEL": "0x4144",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa was being dragged by the rescue ship."
+	},
+	{
+		"LABEL": "0x4174",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What had happened to her?"
+	},
+	{
+		"LABEL": "0x41A0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Why was she the only one floating toward the surface?"
+	},
+	{
+		"LABEL": "0x41D4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It didn't seem to take long for the smart girl to figure it all out."
+	},
+	{
+		"LABEL": "0x4224",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The shallow tricks of adults must seem like child's play to her."
+	},
+	{
+		"LABEL": "0x427E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I was sure she was angry that I had deceived her like this."
+	},
+	{
+		"LABEL": "0x42BC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She must feel so frustrated."
+	},
+	{
+		"LABEL": "0x4341",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But, it's too bad, Tokiwa."
+	},
+	{
+		"LABEL": "0x436D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "You always played around with us, but not this time."
+	},
+	{
+		"LABEL": "0x43C5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Fate had been set in motion."
+	},
+	{
+		"LABEL": "0x43EF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There was no turning back now."
+	},
+	{
+		"LABEL": "0x4431",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――It was too late."
+	},
+	{
+		"LABEL": "0x4451",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No matter how smart you were, there was no stopping it――"
+	},
+	{
+		"LABEL": "0x448F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm sorry, Tokiwa.」"
+	},
+	{
+		"LABEL": "0x44B1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'll be waiting here.」"
+	},
+	{
+		"LABEL": "0x44DB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'll leave the rest to you.」"
+	},
+	{
+		"LABEL": "0x4514",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『――Liar!』"
+	},
+	{
+		"LABEL": "0x4537",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa's answer to my late confession was harsh."
+	},
+	{
+		"LABEL": "0x456B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Harsh, like an accusation or a verdict."
+	},
+	{
+		"LABEL": "0x46C7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's not good.」"
+	},
+	{
+		"LABEL": "0x46E5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You can't.」"
+	},
+	{
+		"LABEL": "0x46FF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I... won't tolerate lying.」"
+	},
+	{
+		"LABEL": "0x472F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa hated lies and crookedness."
+	},
+	{
+		"LABEL": "0x476D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "This time, she had probably misjudged me."
+	},
+	{
+		"LABEL": "0x47A5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But, that didn't matter."
+	},
+	{
+		"LABEL": "0x47D7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I didn't care what she might think of me."
+	},
+	{
+		"LABEL": "0x4811",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What did that have to do with anything at this point?"
+	},
+	{
+		"LABEL": "0x491F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yeah, that's right. I'm a liar.」"
+	},
+	{
+		"LABEL": "0x494D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But you already knew that, didn't you?」"
+	},
+	{
+		"LABEL": "0x498F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I said it teasingly."
+	},
+	{
+		"LABEL": "0x49B9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I meant to make light of the situation, but Tokiwa didn't reply."
+	},
+	{
+		"LABEL": "0x49F7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "All I could hear was her quiet breathing."
+	},
+	{
+		"LABEL": "0x4A27",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Damn it... I didn't know I would make her so angry that she wouldn't even respond."
+	},
+	{
+		"LABEL": "0x4A6F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No, she probably wasn't just angry."
+	},
+	{
+		"LABEL": "0x4AA5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "At the very end, she was betrayed by me yet again――"
+	},
+	{
+		"LABEL": "0x4AD5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "How disappointing and shocking that must be."
+	},
+	{
+		"LABEL": "0x4B05",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...I was sure that she wouldn't forgive me."
+	},
+	{
+		"LABEL": "0x4B39",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yes, I'm a liar...」"
+	},
+	{
+		"LABEL": "0x4B67",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Did you already forget that when we met after the accident, I used a false name?」"
+	},
+	{
+		"LABEL": "0x4BB9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If you point out that I'm a liar at this point, it doesn't hurt me at all.」"
+	},
+	{
+		"LABEL": "0x4C7E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A smile broke on my face as I said it."
+	},
+	{
+		"LABEL": "0x4CAA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What the hell was I saying?"
+	},
+	{
+		"LABEL": "0x4CD8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I wished I wouldn't have said anything."
+	},
+	{
+		"LABEL": "0x4D02",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Why did I keep talking nonsense like this...?"
+	},
+	{
+		"LABEL": "0x4D40",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "This could be the last time we'd ever see each other."
+	},
+	{
+		"LABEL": "0x4D72",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "All this time, I had tried to get others to believe me, but now I was branding myself a liar..."
+	},
+	{
+		"LABEL": "0x4DB2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Just what was I trying to do?"
+	},
+	{
+		"LABEL": "0x4DFE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Would it make it easier for us to part ways if she hated me?"
+	},
+	{
+		"LABEL": "0x4E2E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That wasn't a cool reason at all."
+	},
+	{
+		"LABEL": "0x4EC0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I was simply scared."
+	},
+	{
+		"LABEL": "0x4EE0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I was just scared that these days would end, that our relationship would be cut off."
+	},
+	{
+		"LABEL": "0x4F34",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I had talked so high and mighty about saving everyone, yet I couldn't even make a single girl smile..."
+	},
+	{
+		"LABEL": "0x4FA2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I was so lame if I did say so myself."
+	},
+	{
+		"LABEL": "0x5027",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's why――」"
+	},
+	{
+		"LABEL": "0x5052",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『I...』"
+	},
+	{
+		"LABEL": "0x5072",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『I know that.』"
+	},
+	{
+		"LABEL": "0x509E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『Katagiri-san's a liar. He's a bad person. A hopeless person.』"
+	},
+	{
+		"LABEL": "0x50DE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『Hopeless... and a complete mess...』"
+	},
+	{
+		"LABEL": "0x511D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Hey, don't you think that's going a bit too far?」"
+	},
+	{
+		"LABEL": "0x5168",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『I know!』"
+	},
+	{
+		"LABEL": "0x5188",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『I know that...!』"
+	},
+	{
+		"LABEL": "0x51AF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa screamed."
+	},
+	{
+		"LABEL": "0x51D3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However, there was no energy behind her anger."
+	},
+	{
+		"LABEL": "0x5201",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her feeble, decaying voice was painful."
+	},
+	{
+		"LABEL": "0x523B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――A shriek."
+	},
+	{
+		"LABEL": "0x525B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Why did she sound so pained?"
+	},
+	{
+		"LABEL": "0x528D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Why was her voice so heartbroken?"
+	},
+	{
+		"LABEL": "0x52C1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was almost like she――"
+	},
+	{
+		"LABEL": "0x52E9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Ah, I see."
+	},
+	{
+		"LABEL": "0x5305",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I finally understood."
+	},
+	{
+		"LABEL": "0x5380",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa."
+	},
+	{
+		"LABEL": "0x5396",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Are you crying right now――?"
+	},
+	{
+		"LABEL": "0x542C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『You're a liar.』"
+	},
+	{
+		"LABEL": "0x5456",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『I remember being lied to so many times.』"
+	},
+	{
+		"LABEL": "0x5492",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『It wasn't just your fake name.』"
+	},
+	{
+		"LABEL": "0x54BE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『There was Scalyfoot, too.』"
+	},
+	{
+		"LABEL": "0x54E0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『You said you'd get one for me, but you never did.』"
+	},
+	{
+		"LABEL": "0x5522",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『There were other times as well.』"
+	},
+	{
+		"LABEL": "0x5544",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『Other times...』"
+	},
+	{
+		"LABEL": "0x556B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her voice grew quieter and quieter as she spoke."
+	},
+	{
+		"LABEL": "0x55A3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Until it finally disappeared."
+	},
+	{
+		"LABEL": "0x55BF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But her grip on the rope didn't loosen at all."
+	},
+	{
+		"LABEL": "0x55F7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She was grabbing the rope with an unusual amount of strength and would not let go."
+	},
+	{
+		"LABEL": "0x5633",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her thin and pale arms looked as if they'd never held anything heavier than chopsticks,"
+	},
+	{
+		"LABEL": "0x5675",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "but nevertheless, she held onto the rope"
+	},
+	{
+		"LABEL": "0x5697",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "with strength unimaginable from her unathletic and somewhat clumsy figure."
+	},
+	{
+		"LABEL": "0x56E3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She was trying desperately to fight against fate."
+	},
+	{
+		"LABEL": "0x571F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "All the while wearing that diving suit restricting her movement."
+	},
+	{
+		"LABEL": "0x5755",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Calmly and gently..."
+	},
+	{
+		"LABEL": "0x577B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No matter how hard I looked at her, I couldn't understand."
+	},
+	{
+		"LABEL": "0x57B3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Where did this power lie dormant in her?"
+	},
+	{
+		"LABEL": "0x57ED",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What gave her such strength?"
+	},
+	{
+		"LABEL": "0x587C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...You idiot."
+	},
+	{
+		"LABEL": "0x589A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Even though you're finally about to be saved and can return to the surface,"
+	},
+	{
+		"LABEL": "0x58D0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "why are you so desperately――"
+	},
+	{
+		"LABEL": "0x5959",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Tokiwa.」"
+	},
+	{
+		"LABEL": "0x5971",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'll get you as many rare shellfish as you want.」"
+	},
+	{
+		"LABEL": "0x59B7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「And not just Scalyfoot, ones that no one has ever seen before.」"
+	},
+	{
+		"LABEL": "0x5A20",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『....』"
+	},
+	{
+		"LABEL": "0x5A3F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「So, please go and call for help in my stead.」"
+	},
+	{
+		"LABEL": "0x5A89",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「And... make sure that box gets to the surface.」"
+	},
+	{
+		"LABEL": "0x5ACA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『You're just trying to fool me again――』"
+	},
+	{
+		"LABEL": "0x5AFC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『It's not fair. You're lying.』"
+	},
+	{
+		"LABEL": "0x5B24",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『Besides, Katagiri-san...』"
+	},
+	{
+		"LABEL": "0x5B4E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『――Ah!』"
+	},
+	{
+		"LABEL": "0x5B6F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa was growing ever more desperate."
+	},
+	{
+		"LABEL": "0x5B9D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "For someone like her, who had always been somewhat detached from the real world, to be so fixated on one thing... That alone was a serious matter."
+	},
+	{
+		"LABEL": "0x5C11",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But... no matter how hard she tried, she was still just one girl."
+	},
+	{
+		"LABEL": "0x5C61",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She wasn't a hero from American comics, nor was she a TV monster."
+	},
+	{
+		"LABEL": "0x5CA3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She was just a single, frail girl."
+	},
+	{
+		"LABEL": "0x5CD3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She couldn't ignore the laws of physics."
+	},
+	{
+		"LABEL": "0x5D62",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She clenched the rope tightly."
+	},
+	{
+		"LABEL": "0x5D90",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As time passed, her hand holding the rope gradually slipped."
+	},
+	{
+		"LABEL": "0x5DC8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She tried her best, adjusted her grip, lost it, and adjusted it again."
+	},
+	{
+		"LABEL": "0x5E00",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However, she was slowly getting farther and farther away."
+	},
+	{
+		"LABEL": "0x5E34",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa's pained and desperate face was growing distant."
+	},
+	{
+		"LABEL": "0x5E6A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm not trying to fool you.」"
+	},
+	{
+		"LABEL": "0x5E9C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm a man, you see. I keep my promises.」"
+	},
+	{
+		"LABEL": "0x5EE3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『...Really?』"
+	},
+	{
+		"LABEL": "0x5F0C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Of course. But if you don't trust me, then――」"
+	},
+	{
+		"LABEL": "0x5F69",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『――It's a promise.』"
+	},
+	{
+		"LABEL": "0x5F8E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her eyes were serious."
+	},
+	{
+		"LABEL": "0x5FA8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Droplets of water were falling from them."
+	},
+	{
+		"LABEL": "0x5FD4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That probably wasn't seawater."
+	},
+	{
+		"LABEL": "0x6059",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "You're such an idiot, Tokiwa."
+	},
+	{
+		"LABEL": "0x607D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "You won't be able to see properly if you cry like that, right?"
+	},
+	{
+		"LABEL": "0x60BF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If you sound all serious like that, I..."
+	},
+	{
+		"LABEL": "0x615F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『It's a promise, okay?!』"
+	},
+	{
+		"LABEL": "0x6183",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『Katagiri-san!』"
+	},
+	{
+		"LABEL": "0x6219",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her outline distorted."
+	},
+	{
+		"LABEL": "0x6235",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Little by little, Tokiwa's figure was getting blurry."
+	},
+	{
+		"LABEL": "0x62DA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was regrettable."
+	},
+	{
+		"LABEL": "0x62F6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I wanted to see her clearly one last time, but she was already disappearing before me."
+	},
+	{
+		"LABEL": "0x63B7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I heard the sound of her sniffling."
+	},
+	{
+		"LABEL": "0x63D1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her voice trembled violently."
+	},
+	{
+		"LABEL": "0x63EF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I could hear her voice, which I wanted to hear until the very end, clearly."
+	},
+	{
+		"LABEL": "0x6443",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was reaching me."
+	},
+	{
+		"LABEL": "0x6469",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I had to answer."
+	},
+	{
+		"LABEL": "0x64EF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yeah, it's a promise.」"
+	},
+	{
+		"LABEL": "0x651C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『...Wait for me.』"
+	},
+	{
+		"LABEL": "0x6544",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『Because, we promised.』"
+	},
+	{
+		"LABEL": "0x656D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I will.」"
+	},
+	{
+		"LABEL": "0x6596",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『Yukari-san as well.』"
+	},
+	{
+		"LABEL": "0x65C5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『――――!』"
+	},
+	{
+		"LABEL": "0x65E6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A gasping sound."
+	},
+	{
+		"LABEL": "0x6602",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Beyond the speaker, in the wheelhouse..."
+	},
+	{
+		"LABEL": "0x662C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was Yukari's breathing, who was sitting in front of the monitor."
+	},
+	{
+		"LABEL": "0x66C6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『You can hear me, right?』"
+	},
+	{
+		"LABEL": "0x6705",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『...Yes.』"
+	},
+	{
+		"LABEL": "0x671F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『I hear you...』"
+	},
+	{
+		"LABEL": "0x6742",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her small voice."
+	},
+	{
+		"LABEL": "0x675A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I couldn't see her, so all I heard was her voice."
+	},
+	{
+		"LABEL": "0x6796",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari answered in the same bright tone as always."
+	},
+	{
+		"LABEL": "0x67D0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She tried to act calm, but it was an impossible task."
+	},
+	{
+		"LABEL": "0x680C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her breath was leaking out between her words."
+	},
+	{
+		"LABEL": "0x683A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It's okay, Yukari."
+	},
+	{
+		"LABEL": "0x685A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was like she was trying to suppress her overflowing emotions."
+	},
+	{
+		"LABEL": "0x689C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And that made it all the more painful."
+	},
+	{
+		"LABEL": "0x6930",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『Katagiri-san isn't the only one I haven't forgiven.』"
+	},
+	{
+		"LABEL": "0x6976",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『Yukari-san, I haven't forgiven you either.』"
+	},
+	{
+		"LABEL": "0x69B9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa's voice was consoling Yukari, who seemed to be in more pain than either of us."
+	},
+	{
+		"LABEL": "0x69F5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I was sure it was painful for her too."
+	},
+	{
+		"LABEL": "0x6A1D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She was still desperately clinging on to the rope, but still――"
+	},
+	{
+		"LABEL": "0x6A64",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『So, don't go dying by yourself.』"
+	},
+	{
+		"LABEL": "0x6AA8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『I'm sure I'll come back to get you...』"
+	},
+	{
+		"LABEL": "0x6AF3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『...Yes.』"
+	},
+	{
+		"LABEL": "0x6B0D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『I'll make sure to live and make amends.』"
+	},
+	{
+		"LABEL": "0x6B3C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her voice sounded like she was in pain."
+	},
+	{
+		"LABEL": "0x6B56",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But, there was something besides sadness there."
+	},
+	{
+		"LABEL": "0x6B90",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There wasn't just the pain of parting."
+	},
+	{
+		"LABEL": "0x6BC9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『I can't die yet.』"
+	},
+	{
+		"LABEL": "0x6BF7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『For that reason, you must go to the surface first.』"
+	},
+	{
+		"LABEL": "0x6C41",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『Deliver the <Onyx> to ROMLES.』"
+	},
+	{
+		"LABEL": "0x6C79",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『――Connect our hopes.』"
+	},
+	{
+		"LABEL": "0x6D05",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hope――"
+	},
+	{
+		"LABEL": "0x6D1B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The bottom of the sea was dark, deep, and endless."
+	},
+	{
+		"LABEL": "0x6DAC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There were sunken ships, overflowing death, and ugly conflicts."
+	},
+	{
+		"LABEL": "0x6DD8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Compared to the vast sea, all of this might have been just a hopelessly small event."
+	},
+	{
+		"LABEL": "0x6E2E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However, in the midst of such small despair, we had found a single ray of hope."
+	},
+	{
+		"LABEL": "0x6E74",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A feeble yet strong thread connecting us to the surface."
+	},
+	{
+		"LABEL": "0x6F07",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's right...」"
+	},
+	{
+		"LABEL": "0x6F23",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You're our hope.」"
+	},
+	{
+		"LABEL": "0x6F51",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Even if we died, Tokiwa would survive."
+	},
+	{
+		"LABEL": "0x6F9B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She would become proof of our lives."
+	},
+	{
+		"LABEL": "0x6FCD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She was a curious person, so she might forget about us as she came into contact with various things."
+	},
+	{
+		"LABEL": "0x7047",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But then, so be it."
+	},
+	{
+		"LABEL": "0x7071",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She should just forget all these painful memories."
+	},
+	{
+		"LABEL": "0x714D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The events of the past three days that occurred on the <SHEEP III>."
+	},
+	{
+		"LABEL": "0x7184",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Even if she forgot everything, there was no doubt that something would remain inside her."
+	},
+	{
+		"LABEL": "0x71CC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "So, that was fine."
+	},
+	{
+		"LABEL": "0x71EC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That was all there was to it――"
+	},
+	{
+		"LABEL": "0x727C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm counting on you, Tokiwa.」"
+	},
+	{
+		"LABEL": "0x72AD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『Wait for me...』"
+	},
+	{
+		"LABEL": "0x72D3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『I'll definitely, definitely――』"
+	},
+	{
+		"LABEL": "0x72FE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her hand... let go."
+	},
+	{
+		"LABEL": "0x7379",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――Don't worry.」"
+	},
+	{
+		"LABEL": "0x7393",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「We'll be here.」"
+	},
+	{
+		"LABEL": "0x73BB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「So...」"
+	},
+	{
+		"LABEL": "0x73D7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Live――"
+	},
+	{
+		"LABEL": "0x73F3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa was getting farther and farther away."
+	},
+	{
+		"LABEL": "0x7419",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The rescue ship was rising gently."
+	},
+	{
+		"LABEL": "0x7445",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The darkness soon obscured her figure."
+	},
+	{
+		"LABEL": "0x7477",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No longer would my words reach her."
+	},
+	{
+		"LABEL": "0x74A5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The thread connecting me to Tokiwa had been severed."
+	},
+	{
+		"LABEL": "0x74DD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The rest was no longer ours to know."
+	},
+	{
+		"LABEL": "0x751B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But I was sure she would make it safely to the surface."
+	},
+	{
+		"LABEL": "0x7565",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She would live on."
+	},
+	{
+		"LABEL": "0x758F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She would live her life, until the very end――"
+	},
+	{
+		"LABEL": "0x75B8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Eventually, I heard..."
+	},
+	{
+		"LABEL": "0x75DE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...A voice coming from the speaker."
+	},
+	{
+		"LABEL": "0x75FE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa's voice."
+	},
+	{
+		"LABEL": "0x7684",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『I believe you.』"
+	},
+	{
+		"LABEL": "0x76A2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『Neither of you are liars.』"
+	},
+	{
+		"LABEL": "0x76D8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『So...』"
+	},
+	{
+		"LABEL": "0x76F9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Tokiwa...」"
+	},
+	{
+		"LABEL": "0x7724",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "『Eh?』"
+	},
+	{
+		"LABEL": "0x773F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her voice, however, soon disappeared."
+	},
+	{
+		"LABEL": "0x7773",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Maybe it was just my imagination."
+	},
+	{
+		"LABEL": "0x77FE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...No, this was the sea."
+	},
+	{
+		"LABEL": "0x787F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A mysterious realm that had yet to be explored."
+	},
+	{
+		"LABEL": "0x790A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There was a possibility that our voices could reach each other through a power we did not yet understand."
+	},
+	{
+		"LABEL": "0x79C7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――At the bottom of the pitch-black sea, where everything had been lost..."
+	},
+	{
+		"LABEL": "0x7A54",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A man gave everything to the heavens as commanded and prayed, covered in scars."
+	},
+	{
+		"LABEL": "0x7AF5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There was only one thing left for him."
+	},
+	{
+		"LABEL": "0x7B7E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A curse called faith."
+	},
+	{
+		"LABEL": "0x7BFF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Only silence lay at the bottom of the sea."
+	},
+	{
+		"LABEL": "0x7C8E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...But in truth, that wasn't all there was..."
+	},
+	{
+		"LABEL": "0x7D2D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As we now "
+	},
+	{
+		"LABEL": "0x7D42",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "knew well."
+	}
+]

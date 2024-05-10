@@ -1,0 +1,2528 @@
+[
+	{
+		"LABEL": "0x2A2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The lobby was silent."
+	},
+	{
+		"LABEL": "0x2C4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Everyone had long since finished eating, but..."
+	},
+	{
+		"LABEL": "0x362",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Sorry.」"
+	},
+	{
+		"LABEL": "0x382",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I ended up saying something ominous.」"
+	},
+	{
+		"LABEL": "0x3B9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If you were going to say that, we shouldn't be telling ghost stories in the first place."
+	},
+	{
+		"LABEL": "0x415",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I accepted the pendant back from an apologetic Yukari."
+	},
+	{
+		"LABEL": "0x44F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A silver medal with its lost writing; Dei Gratia."
+	},
+	{
+		"LABEL": "0x4FF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As if by suggestion, the word \"destiny\" crossed my mind."
+	},
+	{
+		"LABEL": "0x53C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If everything had been predetermined from the beginning, then no matter how hard we tried, it was all for naught, wasn't it?"
+	},
+	{
+		"LABEL": "0x5A2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In fact, it had all been pointless up until now."
+	},
+	{
+		"LABEL": "0x5D8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "How much was there left for us to do?"
+	},
+	{
+		"LABEL": "0x614",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Did we... still have to struggle?"
+	},
+	{
+		"LABEL": "0x658",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "My thoughts drifted inward, down to the bottom of the sea."
+	},
+	{
+		"LABEL": "0x686",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Negative imagery was contagious, even if you didn't say anything out loud."
+	},
+	{
+		"LABEL": "0x75E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Everyone gathered in the lobby was downcast, unable to say anything..."
+	},
+	{
+		"LABEL": "0x7AB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Okay!」"
+	},
+	{
+		"LABEL": "0x7C8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino stood up."
+	},
+	{
+		"LABEL": "0x7EA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Naturally, everyone looked up at him."
+	},
+	{
+		"LABEL": "0x87E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Well... it's getting late. It's time we get some rest.」"
+	},
+	{
+		"LABEL": "0x8BB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "He smiled without a hint of embarrassment while making that awfully cheerful declaration."
+	},
+	{
+		"LABEL": "0x8F9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But, we haven't made contact yet.」"
+	},
+	{
+		"LABEL": "0x929",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「We need their help as soon as possible. If we can get in touch with them tonight, maybe tomorrow morning――」"
+	},
+	{
+		"LABEL": "0x994",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I understand your impatience.」"
+	},
+	{
+		"LABEL": "0xA1F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But look at it this way. If the reason for the lack of communication is up on the surface, then we have to wait for the situation there to improve.」"
+	},
+	{
+		"LABEL": "0xA8F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm not a professional mechanic or programmer, but if you've spent this much time on it and it's still not working,"
+	},
+	{
+		"LABEL": "0xB01",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I don't think there's much more we can do.」"
+	},
+	{
+		"LABEL": "0xB3B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Or, do you have some reason to believe that you can restore communications?」"
+	},
+	{
+		"LABEL": "0xB92",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Well...」"
+	},
+	{
+		"LABEL": "0xC29",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I cast a sidelong glance at Reiri."
+	},
+	{
+		"LABEL": "0xCA6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The girl who was supposed to know everything about this ship gave a small shake of her head."
+	},
+	{
+		"LABEL": "0xD78",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Even if there's nothing we can do right now, it might be restored tomorrow.」"
+	},
+	{
+		"LABEL": "0xDC6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Besides, even if the comms are restored in the middle of the night, the surface won't be able to come for us anyway.」"
+	},
+	{
+		"LABEL": "0xE18",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's better to sleep when you can than to expend energy needlessly.」"
+	},
+	{
+		"LABEL": "0xE67",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino put his hand on my shoulder."
+	},
+	{
+		"LABEL": "0xE9B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As the palm of his hand sunk in, I could feel my accumulated fatigue spreading through my whole body."
+	},
+	{
+		"LABEL": "0xF10",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Don't tell me you're not tired.」"
+	},
+	{
+		"LABEL": "0xF47",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yeah... I get it.」"
+	},
+	{
+		"LABEL": "0xF6B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Everyone, let's rest.」"
+	},
+	{
+		"LABEL": "0x1056",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'll take care of the clean up here.」"
+	},
+	{
+		"LABEL": "0x1088",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Everyone, go to your rooms.」"
+	},
+	{
+		"LABEL": "0x10E9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Prompted by Yukari, everyone stood up from their seats."
+	},
+	{
+		"LABEL": "0x1113",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Touri helped Reiri get to her feet."
+	},
+	{
+		"LABEL": "0x1218",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Reiri seems to be having a hard time, so we'll go on ahead.」"
+	},
+	{
+		"LABEL": "0x1269",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Okay, good night.」"
+	},
+	{
+		"LABEL": "0x12FB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Good night!」"
+	},
+	{
+		"LABEL": "0x132C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x1383",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Reiri, who looked truly exhausted, left the lobby with Touri pulling her by the hand."
+	},
+	{
+		"LABEL": "0x13E5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I guess it was fine to leave her to Touri..."
+	},
+	{
+		"LABEL": "0x141D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "My moment's hesitation, however, quickly faded into oblivion."
+	},
+	{
+		"LABEL": "0x14C9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Now then... Let's clean this up.」"
+	},
+	{
+		"LABEL": "0x14F6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Need some help?」"
+	},
+	{
+		"LABEL": "0x1523",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「No, you'd only be in the way.」"
+	},
+	{
+		"LABEL": "0x1548",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x15CE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm just kidding. Washing dishes and the like calms me down.」"
+	},
+	{
+		"LABEL": "0x161D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I somewhat understood what the chuckling Yukari was getting at."
+	},
+	{
+		"LABEL": "0x165F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If that was the case, I should leave it to her."
+	},
+	{
+		"LABEL": "0x16B9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hiragino-san, we should――」"
+	},
+	{
+		"LABEL": "0x16E3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The moment I turned around while calling out to him, I caught sight of something."
+	},
+	{
+		"LABEL": "0x172E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Sousuke-san...」"
+	},
+	{
+		"LABEL": "0x175B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「T-Tokiwa-kun...」"
+	},
+	{
+		"LABEL": "0x1840",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa was calling Hiragino's name with a serious and somewhat impatient look on her face."
+	},
+	{
+		"LABEL": "0x1886",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino looked puzzled in front of the girl looking up at her with moist eyes."
+	},
+	{
+		"LABEL": "0x18C6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "He was used to dealing with her joking around, but when faced with this serious version of Tokiwa, he was unable to say anything."
+	},
+	{
+		"LABEL": "0x193C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa was unsure if she should say something or not."
+	},
+	{
+		"LABEL": "0x197E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She opened her small mouth in an uncharacteristically timid and reserved manner."
+	},
+	{
+		"LABEL": "0x19D5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Sousuke-san. Um, you see... well...」"
+	},
+	{
+		"LABEL": "0x1A09",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Could I... go check on her?」"
+	},
+	{
+		"LABEL": "0x1D99",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The emergency room, where Hikari was still asleep."
+	},
+	{
+		"LABEL": "0x1DC1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Leaving Yukari in the lobby, Hiragino, Tokiwa, and I made our way there."
+	},
+	{
+		"LABEL": "0x1E08",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I wasn't sure if it was okay to get close to a virus-infected patient, even if they were close relatives..."
+	},
+	{
+		"LABEL": "0x1E60",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "They had been in separate rooms during the blood transfusion as well, so my hesitation was natural."
+	},
+	{
+		"LABEL": "0x1EB4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However, Hiragino readily gave the okay."
+	},
+	{
+		"LABEL": "0x1EE4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa opened the door and rushed over to the sleeping Hikari and kneeled by her bed."
+	},
+	{
+		"LABEL": "0x1FB9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Rumi-chan.」"
+	},
+	{
+		"LABEL": "0x1FDE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She looked at the sleeping girl at close range with heartfelt concern."
+	},
+	{
+		"LABEL": "0x201A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "\"Rumi-chan\"...Come to think of it, when she was found covered in blood inside the pressurization room, Tokiwa had called her that back then as well."
+	},
+	{
+		"LABEL": "0x2088",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hikari had referred to herself as Lumiere=Hikari... That wasn't her real name, of course."
+	},
+	{
+		"LABEL": "0x20E8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa, who had disappeared for seven years, and Hikari, who had been isolated at ROMLES as an <Alice>-carrier."
+	},
+	{
+		"LABEL": "0x214A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I knew nothing about the sisters' relationship."
+	},
+	{
+		"LABEL": "0x2195",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hikari was breathing quietly, and although she wasn't waking up, she looked to be simply asleep."
+	},
+	{
+		"LABEL": "0x21FB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her happy, beautiful, and unharmed face paradoxically reminded me of death."
+	},
+	{
+		"LABEL": "0x233E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If I'm allowed to be selfish...」"
+	},
+	{
+		"LABEL": "0x237C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Would you mind leaving us alone for a while?」"
+	},
+	{
+		"LABEL": "0x23BE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Even if she was normally the living embodiment of noisiness,"
+	},
+	{
+		"LABEL": "0x2404",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "we couldn't help but nod before her quiet plea."
+	},
+	{
+		"LABEL": "0x24E7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino and I stepped out into the hallway."
+	},
+	{
+		"LABEL": "0x2522",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We closed the door."
+	},
+	{
+		"LABEL": "0x253C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "When I looked at Hiragino, he pulled out a bunch of tablets from his pocket and stuffed them into his mouth."
+	},
+	{
+		"LABEL": "0x25A4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...Wouldn't that mess up your stomach?"
+	},
+	{
+		"LABEL": "0x25D4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Or were those some sort of weird drugs?"
+	},
+	{
+		"LABEL": "0x2614",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The way he ate them with a crunching sound was bizarre."
+	},
+	{
+		"LABEL": "0x265E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Was he stressed out or something...?"
+	},
+	{
+		"LABEL": "0x2974",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Hmm, right.」"
+	},
+	{
+		"LABEL": "0x29C6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As he was stretching outside the emergency room, Hiragino turned around and knocked on the door as if remembering something."
+	},
+	{
+		"LABEL": "0x2A88",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Tokiwa-kun, it's getting late.」"
+	},
+	{
+		"LABEL": "0x2AB0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You should finish up and go to sleep.」"
+	},
+	{
+		"LABEL": "0x2AED",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...There was no reply."
+	},
+	{
+		"LABEL": "0x2B0B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She should be able to hear him inside the quiet room, no matter how sturdy the door was..."
+	},
+	{
+		"LABEL": "0x2C18",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino slowly opened the door and stepped into the emergency room."
+	},
+	{
+		"LABEL": "0x2C54",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "He opened the curtains that were covering the bed where Hikari was sleeping."
+	},
+	{
+		"LABEL": "0x2C9E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "On the bed, Hikari was asleep with a peaceful expression on her face."
+	},
+	{
+		"LABEL": "0x2CDC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And there, just as before, was Tokiwa, frozen in a kneeling position."
+	},
+	{
+		"LABEL": "0x2D1A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She was asleep while holding Hikari's left hand to her chest."
+	},
+	{
+		"LABEL": "0x2D64",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hey, hey...」"
+	},
+	{
+		"LABEL": "0x2D82",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She was awake just a few minutes ago. What the heck was going on?"
+	},
+	{
+		"LABEL": "0x2DC4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "This was right after she told us to let her be alone with Hikari... it wouldn't make sense if she just wanted to sleep."
+	},
+	{
+		"LABEL": "0x2E23",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If that was the case, then she was acting selfish. But if it was a physiological phenomenon, then there was no helping it."
+	},
+	{
+		"LABEL": "0x2E7B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...She must have been tired, too.」"
+	},
+	{
+		"LABEL": "0x2F17",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yeah. She must've been relieved that her sister is alive...」"
+	},
+	{
+		"LABEL": "0x2F62",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Relieved, or..."
+	},
+	{
+		"LABEL": "0x2F7C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I wondered how she felt about the sudden appearance of her sister, whom she was never supposed to meet."
+	},
+	{
+		"LABEL": "0x2FCC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She might have felt reassured now that she was alive, but her inner thoughts shouldn't be that simple."
+	},
+	{
+		"LABEL": "0x3026",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Now that she had fallen asleep, I'd missed my chance to ask what kind of relationship they had."
+	},
+	{
+		"LABEL": "0x30AF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Well, what should we do with her?」"
+	},
+	{
+		"LABEL": "0x30DD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa had fallen asleep in the blink of an eye."
+	},
+	{
+		"LABEL": "0x310F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We couldn't just leave her here."
+	},
+	{
+		"LABEL": "0x3147",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Even if we decided to take her to my room, it wouldn't be the same as when I had carried Reiri."
+	},
+	{
+		"LABEL": "0x3191",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I didn't think I had the strength to carry her on my back..."
+	},
+	{
+		"LABEL": "0x3231",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'll let her sleep on the bed next to her.」"
+	},
+	{
+		"LABEL": "0x326E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Are you sure? She's infected with <Alice>...」"
+	},
+	{
+		"LABEL": "0x32B2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Even if you're here, don't you think that's too reckless?」"
+	},
+	{
+		"LABEL": "0x3380",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Well...」"
+	},
+	{
+		"LABEL": "0x33A1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino hesitated for a moment."
+	},
+	{
+		"LABEL": "0x33CF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "He looked back and forth between the sleeping sisters and finally let out a sigh."
+	},
+	{
+		"LABEL": "0x3489",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I guess I should tell you.」"
+	},
+	{
+		"LABEL": "0x34C5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「There's something I want you to see.」"
+	},
+	{
+		"LABEL": "0x350A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Saying that, Hiragino returned to his desk and booted up the PC."
+	},
+	{
+		"LABEL": "0x3550",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Displayed on the monitor was a diagram of several spiral structures."
+	},
+	{
+		"LABEL": "0x35A8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The effect of <Alice> on genes... Given what we just talked about, was this――"
+	},
+	{
+		"LABEL": "0x3607",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I did a DNA sequencing on Tokiwa-kun's blood.」"
+	},
+	{
+		"LABEL": "0x364C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「And here... this is Hikari-kun's genome.」"
+	},
+	{
+		"LABEL": "0x3684",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What came out... was this sequence.」"
+	},
+	{
+		"LABEL": "0x36B2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Judging by how similar they are, there's no doubt that they're sisters.」"
+	},
+	{
+		"LABEL": "0x36F5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The two spirals on the screen suddenly overlapped."
+	},
+	{
+		"LABEL": "0x373C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Not that I had ever doubted it, but no one could argue that they weren't sisters after seeing this."
+	},
+	{
+		"LABEL": "0x379F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The genetic information of the two was infinitely similar."
+	},
+	{
+		"LABEL": "0x37D0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino zoomed in on a specific section and marked it."
+	},
+	{
+		"LABEL": "0x387A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「This is the area I want you to focus on.」"
+	},
+	{
+		"LABEL": "0x38B0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Clock, Bmal1, Period, Cry―it's a group known as the clock genes.」"
+	},
+	{
+		"LABEL": "0x3901",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Most of them are missing in Hikari-kun's genome.」"
+	},
+	{
+		"LABEL": "0x394C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Is that because of <Alice>...?」"
+	},
+	{
+		"LABEL": "0x3987",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yeah. There's no doubt about it.」"
+	},
+	{
+		"LABEL": "0x39B8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her clock genes were destroyed by <Alice>."
+	},
+	{
+		"LABEL": "0x39EC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Seeing that cruel state of affairs left me speechless."
+	},
+	{
+		"LABEL": "0x3A22",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino then marked a different spot."
+	},
+	{
+		"LABEL": "0x3ABE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「And what's even more interesting is――」"
+	},
+	{
+		"LABEL": "0x3AE4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Here. Can you see it?」"
+	},
+	{
+		"LABEL": "0x3B0D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino marked a part of Tokiwa's genome―a completely normal sequence."
+	},
+	{
+		"LABEL": "0x3B61",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was a random sequence made up of AGCT... I couldn't read any more information than that."
+	},
+	{
+		"LABEL": "0x3C19",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「This sequence is unique to her――」"
+	},
+	{
+		"LABEL": "0x3C45",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's likely that this DNA sequence is from the <Alice> virus.」"
+	},
+	{
+		"LABEL": "0x3C95",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Wha――?!」"
+	},
+	{
+		"LABEL": "0x3CB1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Why is there an <Alice>-derived sequence in Tokiwa's genes?」"
+	},
+	{
+		"LABEL": "0x3D08",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's not surprising.」"
+	},
+	{
+		"LABEL": "0x3D2A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You know about retroviruses, don't you?」"
+	},
+	{
+		"LABEL": "0x3D62",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「They're viruses with reverse transcriptase.」"
+	},
+	{
+		"LABEL": "0x3D94",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「To put it simply, they can synthesize DNA.」"
+	},
+	{
+		"LABEL": "0x3DCC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A virus that could synthesize DNA..."
+	},
+	{
+		"LABEL": "0x3DF9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino spoke eloquently as he stared at the monitor."
+	},
+	{
+		"LABEL": "0x3E9F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Once information is written in your DNA, it's transcribed into RNA.」"
+	},
+	{
+		"LABEL": "0x3EDD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Then, that RNA information is translated to make proteins.」"
+	},
+	{
+		"LABEL": "0x3F2E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「This flow of genetic information from DNA to RNA to protein production is called the \"central dogma.\"」"
+	},
+	{
+		"LABEL": "0x3F9A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「This rule could be called the central principle of biology.」"
+	},
+	{
+		"LABEL": "0x3FD0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「However, it was discovered that there are exceptions to this central dogma.」"
+	},
+	{
+		"LABEL": "0x4025",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Retroviruses...」"
+	},
+	{
+		"LABEL": "0x404F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino nodded."
+	},
+	{
+		"LABEL": "0x4069",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Genetic information was transmitted from DNA to RNA and then to proteins."
+	},
+	{
+		"LABEL": "0x40AD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Nevertheless, a retrovirus that could synthesize DNA would truly be an exception to the central dogma."
+	},
+	{
+		"LABEL": "0x4180",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Retro means \"reverse.\"」"
+	},
+	{
+		"LABEL": "0x41A7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Retroviruses, as the name implies, \"reverse\" the central dogma.」"
+	},
+	{
+		"LABEL": "0x41F7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「They can make DNA out of RNA, in other words.」"
+	},
+	{
+		"LABEL": "0x4231",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's why retroviruses are so terrifying.」"
+	},
+	{
+		"LABEL": "0x4267",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「They can incorporate their own RNA information into the DNA... They can rewrite the genome of their host.」"
+	},
+	{
+		"LABEL": "0x42CA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Retroviruses that could rewrite the host's genome..."
+	},
+	{
+		"LABEL": "0x4304",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "They reversed the central dogma and, in the end, changed the flow itself..."
+	},
+	{
+		"LABEL": "0x4350",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In other words, they would rewrite their host into a better living environment for themselves―an ultimate form of a parasite."
+	},
+	{
+		"LABEL": "0x4420",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Now then, when a foreign retrovirus enters the genome of a human reproductive cell...」"
+	},
+	{
+		"LABEL": "0x4478",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That RNA information will be incorporated into the human genome.」"
+	},
+	{
+		"LABEL": "0x44B1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Eventually, it will be inherited as a part of that lineage's genome.」"
+	},
+	{
+		"LABEL": "0x44FD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Those that do are called \"endogenous retroviruses\" of retrovirus-derived genes.」"
+	},
+	{
+		"LABEL": "0x4559",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Endogenous retroviruses are called viruses, but in essence, only the genetic information of the virus remains.」"
+	},
+	{
+		"LABEL": "0x45CF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「In other words, a memory of an old virus has been incorporated into the genome in the form of a DNA sequence and passed down to the present.」"
+	},
+	{
+		"LABEL": "0x4647",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Passed down... Of course.」"
+	},
+	{
+		"LABEL": "0x466F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's a gene, after all.」"
+	},
+	{
+		"LABEL": "0x46A2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yeah. The virus survives in the form of information.」"
+	},
+	{
+		"LABEL": "0x46DC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「And then, it's passed down vertically from generation to generation, and it survives.」"
+	},
+	{
+		"LABEL": "0x4733",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Information about a virus that lived in your genes was passed down through the generations."
+	},
+	{
+		"LABEL": "0x4771",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However, it was only information derived from the virus."
+	},
+	{
+		"LABEL": "0x47B3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The original virus itself won't survive.」"
+	},
+	{
+		"LABEL": "0x47F5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Right?」"
+	},
+	{
+		"LABEL": "0x482A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Even so, it's fine as long as the information is still there.」"
+	},
+	{
+		"LABEL": "0x486C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「In the first place... perhaps the essence of life is to preserve information for future generations.」"
+	},
+	{
+		"LABEL": "0x48C3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "To be inherited―to be passed on."
+	},
+	{
+		"LABEL": "0x48F3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Was all life just a temporary existence in order to connect information to the next generation?"
+	},
+	{
+		"LABEL": "0x4945",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If that was true, then the essence of life was a genome that contained information..."
+	},
+	{
+		"LABEL": "0x4983",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And, retroviruses implanted their own information there."
+	},
+	{
+		"LABEL": "0x49D0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「In addition to the genes that determine the structure of our bodies,"
+	},
+	{
+		"LABEL": "0x4A20",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "the human genome has far more retrovirus-derived sequences than that――」"
+	},
+	{
+		"LABEL": "0x4A76",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「According to one theory, nearly 50%% of the human genome comes from viruses.」"
+	},
+	{
+		"LABEL": "0x4AC9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「In the first place, only 1.5%% of the genome is involved in proteins that make the human body.」"
+	},
+	{
+		"LABEL": "0x4B31",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「So, it's not strange that an <Alice>-derived sequence is incorporated into her genome.」"
+	},
+	{
+		"LABEL": "0x4B8F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But the question is... when did it happen?」"
+	},
+	{
+		"LABEL": "0x4BC5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「One possibility is that she inherited it from her parents.」"
+	},
+	{
+		"LABEL": "0x4C09",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「And, another is――」"
+	},
+	{
+		"LABEL": "0x4C30",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If she hadn't inherited it from her parents, there was another possibility."
+	},
+	{
+		"LABEL": "0x4CF3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That Tokiwa was once infected with <Alice> as well――」"
+	},
+	{
+		"LABEL": "0x4D3C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's right. And it was cured in some way. Remnants of it were left behind in her genome.」"
+	},
+	{
+		"LABEL": "0x4D94",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...No, cured isn't the right word.」"
+	},
+	{
+		"LABEL": "0x4DCC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「She still has <Alice> inside her body.」"
+	},
+	{
+		"LABEL": "0x4E04",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「They may have chosen a path of coexistence, in other words――」"
+	},
+	{
+		"LABEL": "0x4E45",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x4E6E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Well, it's just a theory. You may think of it as just my delusions.」"
+	},
+	{
+		"LABEL": "0x4EB5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "He said that, but I didn't think it was actually impossible..."
+	},
+	{
+		"LABEL": "0x4EFF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That would mean that Tokiwa had been infected with <Alice> in the seven years she was gone..."
+	},
+	{
+		"LABEL": "0x4F5F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tomorrow."
+	},
+	{
+		"LABEL": "0x4F7D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I'd ask Tokiwa tomorrow."
+	},
+	{
+		"LABEL": "0x4FA9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "About what happened during those seven years of absence..."
+	},
+	{
+		"LABEL": "0x50D8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「In any case, she already has antibodies against <Alice>...」"
+	},
+	{
+		"LABEL": "0x5181",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「So it's all right to let her sleep next to her.」"
+	},
+	{
+		"LABEL": "0x51DA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It made sense in theory, but it was difficult to understand sensibly."
+	},
+	{
+		"LABEL": "0x527B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I know you're not convinced. There's no vaccine or cure for <Alice>.」"
+	},
+	{
+		"LABEL": "0x52CF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If we use reverse transcriptase inhibitors, we might be able to temporarily suppress the onset of the symptoms, but... we don't have those on this ship.」"
+	},
+	{
+		"LABEL": "0x5345",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Besides, once it gets into your DNA, it's already too late.」"
+	},
+	{
+		"LABEL": "0x538D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「No way...」"
+	},
+	{
+		"LABEL": "0x53A9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No vaccine or cure existed for <Alice>?"
+	},
+	{
+		"LABEL": "0x53E1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But Yukari said there was a cure somewhere on the <SHEEP III>――」"
+	},
+	{
+		"LABEL": "0x543D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「There is no such thing... even on the surface.」"
+	},
+	{
+		"LABEL": "0x5475",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「First of all, <Alice> has yet to be successfully cultivated... Even when infected to human-derived cells, it dies right away.」"
+	},
+	{
+		"LABEL": "0x54F7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's why research on cures and the like hasn't progressed much. I was involved in the research, so I know a lot about it.」"
+	},
+	{
+		"LABEL": "0x556B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I think Momoi is just mistaken about something――」"
+	},
+	{
+		"LABEL": "0x5644",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "At that moment, I heard something behind the door."
+	},
+	{
+		"LABEL": "0x5678",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What was that...?」"
+	},
+	{
+		"LABEL": "0x56A3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'll go take a look.」"
+	},
+	{
+		"LABEL": "0x56C8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "With that, Hiragino gallantly opened the door."
+	},
+	{
+		"LABEL": "0x56FA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "He glanced around the hallway and came back."
+	},
+	{
+		"LABEL": "0x573F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「There's no one there. Must've been my imagination.」"
+	},
+	{
+		"LABEL": "0x5770",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Imagination, huh?"
+	},
+	{
+		"LABEL": "0x578C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "When you were this nervous, even the slightest noise could make you think something was wrong."
+	},
+	{
+		"LABEL": "0x57EF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Now... what were we talking about?」"
+	},
+	{
+		"LABEL": "0x5817",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Right. You should be extremely careful about your contact with <Alice>.」"
+	},
+	{
+		"LABEL": "0x585F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「\"Why are you telling me this now?\" I know what you're thinking. Tokiwa-kun is an exception.」"
+	},
+	{
+		"LABEL": "0x58B2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino then laid Tokiwa down on the bed next to Hikari."
+	},
+	{
+		"LABEL": "0x58F0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She must have been completely exhausted... She didn't wake up at all while he carried her."
+	},
+	{
+		"LABEL": "0x5958",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "With the sisters asleep, Hiragino and I were the only ones left in the emergency room."
+	},
+	{
+		"LABEL": "0x5991",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino stretched his tired shoulders."
+	},
+	{
+		"LABEL": "0x59B7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Following yesterday's treatment of Reiri and today's treatment of Hikari..."
+	},
+	{
+		"LABEL": "0x59EB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Even if he was a skilled doctor, he was probably close to his limit."
+	},
+	{
+		"LABEL": "0x5A33",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But... there was one thing I had to confirm."
+	},
+	{
+		"LABEL": "0x5A79",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hiragino-san.」"
+	},
+	{
+		"LABEL": "0x5A93",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Can I ask you one thing?」"
+	},
+	{
+		"LABEL": "0x5B2B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What's up?」"
+	},
+	{
+		"LABEL": "0x5B4C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yesterday, you said there was a possibility that someone else was still on this ship...」"
+	},
+	{
+		"LABEL": "0x5BA0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's not true, is it?」"
+	},
+	{
+		"LABEL": "0x5C38",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x5C57",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No reply."
+	},
+	{
+		"LABEL": "0x5C71",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However, his silence spoke more tacitly of his thoughts than any answer."
+	},
+	{
+		"LABEL": "0x5CB9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Our objective had been to search for Reiri and Tokiwa, but as a result, we had explored the entirety of the <SHEEP III>."
+	},
+	{
+		"LABEL": "0x5D22",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "After exploring every nook and cranny―there was no one there."
+	},
+	{
+		"LABEL": "0x5D5C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And above all... he had left Hikari alone in the emergency room without hesitation during our meal."
+	},
+	{
+		"LABEL": "0x5DCC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Since we didn't find anyone after all that searching, you had to reconsider that there was no one else but us here...」"
+	},
+	{
+		"LABEL": "0x5E36",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If that's the case, I can still accept it, but...」"
+	},
+	{
+		"LABEL": "0x5E70",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...You must have realized it yesterday, Hiragino-san.」"
+	},
+	{
+		"LABEL": "0x5EC0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That it was Touri who strangled Reiri.」"
+	},
+	{
+		"LABEL": "0x5F09",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x5F80",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yes.」"
+	},
+	{
+		"LABEL": "0x5F96",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's what I suspect.」"
+	},
+	{
+		"LABEL": "0x5FBF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "So that was why he was trying not to leave the girls alone."
+	},
+	{
+		"LABEL": "0x6007",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Whenever Touri and Reiri tried to act together, he would casually try to stop them..."
+	},
+	{
+		"LABEL": "0x6088",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The reason I made up this \"someone\" was to protect Touri-kun and Reiri-kun, just as you said.」"
+	},
+	{
+		"LABEL": "0x60EE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Intuitively, or perhaps based on the circumstances, there's no one else who could've attacked Reiri-kun.」"
+	},
+	{
+		"LABEL": "0x6150",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But I didn't want to accuse her in public... Besides, I couldn't blame her when I hadn't even seen the crime scene.」"
+	},
+	{
+		"LABEL": "0x61CD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Why would Touri――」"
+	},
+	{
+		"LABEL": "0x6208",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yes, the problem is her motive.」"
+	},
+	{
+		"LABEL": "0x622C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「At first, I suspected Munchausen syndrome by proxy.」"
+	},
+	{
+		"LABEL": "0x626D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Munchausen syndrome by proxy―fabricating injuries, illnesses, and so on to those close to you to draw sympathy."
+	},
+	{
+		"LABEL": "0x62CF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Whenever Reiri, who lacked physical strength, was about to collapse, Touri, who took care of her, was indeed somewhat animated."
+	},
+	{
+		"LABEL": "0x6333",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The more pitiful Reiri was, the more Touri turned into \"a kind older sister who bravely took care of her.\""
+	},
+	{
+		"LABEL": "0x63A3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And to further scorn her sister, Touri had strangled Reiri――"
+	},
+	{
+		"LABEL": "0x63DF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It makes sense... I agree that the two of them are co-dependent.」"
+	},
+	{
+		"LABEL": "0x6429",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Touri, in particular, seems to have \"being Reiri's sister\" at the core of her identity.」"
+	},
+	{
+		"LABEL": "0x6485",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「There may be a Munchausen-by-proxy mentality at work.」"
+	},
+	{
+		"LABEL": "0x64CD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But to be honest, I doubt that she would actually do anything to her.」"
+	},
+	{
+		"LABEL": "0x6585",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I totally agree with you. There are too many strange things to assume that.」"
+	},
+	{
+		"LABEL": "0x65E3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I watched them all day, but...」"
+	},
+	{
+		"LABEL": "0x6612",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x663B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Maybe they've had some terrible trauma, too.」"
+	},
+	{
+		"LABEL": "0x66E8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Trauma from the \"Fourth Day.\"」"
+	},
+	{
+		"LABEL": "0x671F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The Fourth Day――"
+	},
+	{
+		"LABEL": "0x6739",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The Aqualine accident seven years ago."
+	},
+	{
+		"LABEL": "0x6769",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The day Hiragino, Touri, and Reiri were caught up in it, and Tokiwa disappeared."
+	},
+	{
+		"LABEL": "0x67AF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "They \"too...?\" Did that mean Hiragino had some trauma related to the \"Fourth Day\" as well...?"
+	},
+	{
+		"LABEL": "0x680B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x6834",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What's wrong, Katagiri-kun?」"
+	},
+	{
+		"LABEL": "0x685D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Eh, ah, no... It's nothing.」"
+	},
+	{
+		"LABEL": "0x6889",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I instinctively looked away from Hiragino's face."
+	},
+	{
+		"LABEL": "0x68C1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That day, the moment we set sail, he was staring at the <Isle of Wind>."
+	},
+	{
+		"LABEL": "0x6901",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "His face was somewhat grim and bitter as we dove beneath the large white windmills."
+	},
+	{
+		"LABEL": "0x695B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That day――」"
+	},
+	{
+		"LABEL": "0x6977",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What had happened?"
+	},
+	{
+		"LABEL": "0x6997",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Since I wasn't there, I only knew about the tragedy through the press and numerical information."
+	},
+	{
+		"LABEL": "0x69ED",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The gruesomeness of it was spoken of in various contexts, so I thought I understood it well in my head."
+	},
+	{
+		"LABEL": "0x6A47",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But, what did those who were actually there think?"
+	},
+	{
+		"LABEL": "0x6A91",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If I didn't know what actually happened there, I might never know what happened to Touri and Reiri."
+	},
+	{
+		"LABEL": "0x6AFB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I wondered if Hiragino――"
+	},
+	{
+		"LABEL": "0x6B27",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x6BAD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x6BC7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm just talking to myself here.」"
+	},
+	{
+		"LABEL": "0x6BF5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...It's not much of a story, really.」"
+	},
+	{
+		"LABEL": "0x6CC2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "With that, he began his tale."
+	},
+	{
+		"LABEL": "0x6CEA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "On the way home from an outing with his girlfriend, they were involved in an accident."
+	},
+	{
+		"LABEL": "0x6D20",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino rushed out to save the lives of the people on the burning bridge."
+	},
+	{
+		"LABEL": "0x6DFA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As he talked, Hiragino suddenly pulled out a small device from his pocket."
+	},
+	{
+		"LABEL": "0x6E44",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was the medical device that had been attached to the tips of Reiri's and Hikari's fingers."
+	},
+	{
+		"LABEL": "0x6E7C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Was that a small vitality checker or something?"
+	},
+	{
+		"LABEL": "0x6F20",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「This is an electronic triage tag.」"
+	},
+	{
+		"LABEL": "0x6F53",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Triage...」"
+	},
+	{
+		"LABEL": "0x6F82",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What I did that day on the burning Aqualine was select lives using this――」"
+	},
+	{
+		"LABEL": "0x6FDC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I labeled lives and chose between who should be saved and who should be left to die.」"
+	},
+	{
+		"LABEL": "0x70B2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The basis of triaging was the idea"
+	},
+	{
+		"LABEL": "0x70E4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "of rescuing the largest number of lives under the inequality of \"life > limb > function > appearance.\""
+	},
+	{
+		"LABEL": "0x7144",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "This required rescuing patients with the most serious conditions based on the degree of danger to their lives."
+	},
+	{
+		"LABEL": "0x71AC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Therefore, using what was called a tag, people's injuries were divided into four levels."
+	},
+	{
+		"LABEL": "0x7260",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "From \"green,\" which could be treated with first aid, the level of urgency went to \"yellow\" and \"red\" as the severity of the injuries increased."
+	},
+	{
+		"LABEL": "0x72CA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And finally, \"black,\" where the person's injuries were the most severe, was equated with death even if they were still alive."
+	},
+	{
+		"LABEL": "0x732C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No life-saving action would be taken for those tagged \"black.\""
+	},
+	{
+		"LABEL": "0x736C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Their resources would be better spent elsewhere than on a person whose life they might not be able to save."
+	},
+	{
+		"LABEL": "0x73EB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「She was... in layman's terms, in a terrible state.」"
+	},
+	{
+		"LABEL": "0x7427",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Even though I, who was sitting right next to her, was perfectly fine. She really was just unlucky...」"
+	},
+	{
+		"LABEL": "0x748D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「She should've been tagged \"black.\"」"
+	},
+	{
+		"LABEL": "0x74B9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But, I really wanted to save her―save Miu, no matter what.」"
+	},
+	{
+		"LABEL": "0x74FF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「So I――」"
+	},
+	{
+		"LABEL": "0x757D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was an emergency."
+	},
+	{
+		"LABEL": "0x7595",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Medical practice in the midst of a raging firestorm."
+	},
+	{
+		"LABEL": "0x75C1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No one was watching."
+	},
+	{
+		"LABEL": "0x75DF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "He might be able to save a dying loved one."
+	},
+	{
+		"LABEL": "0x761D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "He was the only one who could――"
+	},
+	{
+		"LABEL": "0x7658",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I distorted it.」"
+	},
+	{
+		"LABEL": "0x767A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I knew that someone who should've been saved might die due to my actions,"
+	},
+	{
+		"LABEL": "0x76C2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "and that I would force the sin of living on her, but...」"
+	},
+	{
+		"LABEL": "0x7704",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...I couldn't kill her.」"
+	},
+	{
+		"LABEL": "0x7759",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x77D0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If one lived, another one died."
+	},
+	{
+		"LABEL": "0x77F8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That was the reality at a disaster site. Time and manpower were limited."
+	},
+	{
+		"LABEL": "0x7834",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was like the plank of Carneades."
+	},
+	{
+		"LABEL": "0x7860",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If you pushed someone else out of the way at the right time and survived because of it, you couldn't be charged with a crime――"
+	},
+	{
+		"LABEL": "0x79CB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's only if the person in question decides.」"
+	},
+	{
+		"LABEL": "0x79FD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I intervened in others' lives without permission...」"
+	},
+	{
+		"LABEL": "0x7A2D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Using the privilege of being a medical professional.」"
+	},
+	{
+		"LABEL": "0x7A5D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「\"I will not weigh my patients against each other.\" ...It was nothing like the Hippocratic oath.」"
+	},
+	{
+		"LABEL": "0x7B12",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm a failure as a doctor.」"
+	},
+	{
+		"LABEL": "0x7B35",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino smiled sadly."
+	},
+	{
+		"LABEL": "0x7B55",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The saying that one was a human being before being a doctor was a beautiful expression."
+	},
+	{
+		"LABEL": "0x7BB3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However, as long as you were in a position to perform medical treatment and handle human life, you were not allowed to be human――"
+	},
+	{
+		"LABEL": "0x7C19",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A murder that no one could judge."
+	},
+	{
+		"LABEL": "0x7C43",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A sin that no one could forgive."
+	},
+	{
+		"LABEL": "0x7C6B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...Hiragino had treated Hikari and Reiri in a restricted environment like this submarine."
+	},
+	{
+		"LABEL": "0x7CBD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "His ability as a doctor should be impeccable, but to call himself a failure as a doctor was due to the events of that time――"
+	},
+	{
+		"LABEL": "0x7D29",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Perhaps that was the reason why he left his normal medical practice and became this ship's doctor."
+	},
+	{
+		"LABEL": "0x7D86",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Eventually, Hiragino raised his head and looked into the distance."
+	},
+	{
+		"LABEL": "0x7E2C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Many people died on this ship, too.」"
+	},
+	{
+		"LABEL": "0x7E5D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x7E86",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I couldn't do anything for them.」"
+	},
+	{
+		"LABEL": "0x7F05",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...So, how am I able to stay calm like this?」"
+	},
+	{
+		"LABEL": "0x7F5C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x7FE2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...In the end, it doesn't matter.」"
+	},
+	{
+		"LABEL": "0x801A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「No matter what happened, they were lives I couldn't save.」"
+	},
+	{
+		"LABEL": "0x8058",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm a sham as a doctor.」"
+	},
+	{
+		"LABEL": "0x807A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's why I told her not to call me \"sensei...\"」"
+	},
+	{
+		"LABEL": "0x80C3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino didn't want to be called \"sensei.\""
+	},
+	{
+		"LABEL": "0x80F7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Despite that, Yukari stubbornly continued to do so."
+	},
+	{
+		"LABEL": "0x812F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No matter how un-doctor-like he acted or camouflaged himself, she consistently treated Hiragino as one."
+	},
+	{
+		"LABEL": "0x819D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She wouldn't let him escape from that responsibility."
+	},
+	{
+		"LABEL": "0x81CD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "From that dignity――"
+	},
+	{
+		"LABEL": "0x81EB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Sorry for making you talk about such painful things. But... I'm glad to hear it.」"
+	},
+	{
+		"LABEL": "0x822D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I... I'm not in a position to say anything, but...」"
+	},
+	{
+		"LABEL": "0x826B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I lost my sister so suddenly that I couldn't accept it.」"
+	},
+	{
+		"LABEL": "0x82C1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I tried to do something about it, and ended up causing an accident with the <SHEEP III>.」"
+	},
+	{
+		"LABEL": "0x831F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x833E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...But, that was all I could do.」"
+	},
+	{
+		"LABEL": "0x837A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Even if we had dived to the place where she'd died and I had gotten some clues,"
+	},
+	{
+		"LABEL": "0x83E6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I wouldn't have been able to do anything for her.」"
+	},
+	{
+		"LABEL": "0x8444",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No matter how far I went, it was mere self-satisfaction."
+	},
+	{
+		"LABEL": "0x8478",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I had thought that it was for my sister's sake, but in the end, I could not save anyone."
+	},
+	{
+		"LABEL": "0x84D2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I never thought about saving anyone in the first place."
+	},
+	{
+		"LABEL": "0x8508",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I only lived because I wanted to be saved myself."
+	},
+	{
+		"LABEL": "0x8544",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「So, I can't blame you for being so selfish.」"
+	},
+	{
+		"LABEL": "0x8590",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...I know you blame yourself.」"
+	},
+	{
+		"LABEL": "0x85C2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But to say you couldn't do anything is a lie.」"
+	},
+	{
+		"LABEL": "0x8600",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Unlike me, you saved Reiri and Hikari. Touri was saved because of you, too.」"
+	},
+	{
+		"LABEL": "0x8662",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Regardless of your past... No, I think it's because you're aware of the fact that you're a human being before being a doctor.」"
+	},
+	{
+		"LABEL": "0x86D2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Because you're like that, Hiragino-san, I feel like I can entrust my life to you without worry.」"
+	},
+	{
+		"LABEL": "0x8716",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Sorry for being so one-sided, but I have a lot of respect for you.」"
+	},
+	{
+		"LABEL": "0x8758",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was out of character for me to say to his face that I respected him."
+	},
+	{
+		"LABEL": "0x8796",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But there were no lies or falsehoods in my feelings."
+	},
+	{
+		"LABEL": "0x87C8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino looked straight at me as I tried to hide my embarrassment."
+	},
+	{
+		"LABEL": "0x8814",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No sooner had his eyes widened than his expression softened."
+	},
+	{
+		"LABEL": "0x88C2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's about time. You should get some rest, too.」"
+	},
+	{
+		"LABEL": "0x894F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Thanks.」"
+	},
+	{
+		"LABEL": "0x89EF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I separated from Hiragino, who said he would stay the emergency room, and went back to my room alone."
+	},
+	{
+		"LABEL": "0x8A92",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It had been a long day."
+	},
+	{
+		"LABEL": "0x8AB2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "My eyes were stinging... Maybe it was because I was staring at that monitor for so long."
+	},
+	{
+		"LABEL": "0x8B02",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I looked out the window as I massaged my eyes."
+	},
+	{
+		"LABEL": "0x8B46",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――――」"
+	},
+	{
+		"LABEL": "0x8B60",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Did a huge shadow pass by the window just now...?"
+	},
+	{
+		"LABEL": "0x8B98",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I hurried over and took a peek."
+	},
+	{
+		"LABEL": "0x8BC2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However, there was no longer anything there."
+	},
+	{
+		"LABEL": "0x8BF6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Maybe I was just imagining things..."
+	},
+	{
+		"LABEL": "0x8C1A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I exhaled and faced the window again from point-blank range."
+	},
+	{
+		"LABEL": "0x8CAD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Darkness as far as the eye could see..."
+	},
+	{
+		"LABEL": "0x8CDD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was easy to forget that we were in the deep sea right now."
+	},
+	{
+		"LABEL": "0x8D21",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We were barely alive at the bottom of this dark sea."
+	},
+	{
+		"LABEL": "0x8DBC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In the darkness, marine snow was silently raining down."
+	},
+	{
+		"LABEL": "0x8DF6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Bioluminescence mingled with the slowly falling snow."
+	},
+	{
+		"LABEL": "0x8E32",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That must have been the light of <COOS>, as well."
+	},
+	{
+		"LABEL": "0x8EBD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "<COOS>―if it had a will of its own,"
+	},
+	{
+		"LABEL": "0x8EF9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "then what the hell was it trying to achieve by controlling and incorporating all life into its own network?"
+	},
+	{
+		"LABEL": "0x8F59",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――――"
+	},
+	{
+		"LABEL": "0x8F73",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There was no answer."
+	},
+	{
+		"LABEL": "0x8F8F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Meaningless questions wriggled inside my head."
+	},
+	{
+		"LABEL": "0x8FC3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No matter what I thought, nothing would change. This ship was still tethered to darkness."
+	},
+	{
+		"LABEL": "0x900B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And so, the second night came to an end."
+	}
+]

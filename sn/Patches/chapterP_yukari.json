@@ -1,0 +1,2462 @@
+[
+	{
+		"LABEL": "0x64",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Regret."
+	},
+	{
+		"LABEL": "0x79",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "How did things turn out this way?"
+	},
+	{
+		"LABEL": "0xB6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Why did I act that way at that time?"
+	},
+	{
+		"LABEL": "0x1A8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "We looked back to the past and blamed ourselves for the way things were."
+	},
+	{
+		"LABEL": "0x1FF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Memories I didn't want to remember stuck to my chest like stakes, nailing me to the ground."
+	},
+	{
+		"LABEL": "0x258",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The abominable past. Many people told me to forget it as soon as possible,"
+	},
+	{
+		"LABEL": "0x29A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "so I decided to forget... That was what I claimed."
+	},
+	{
+		"LABEL": "0x2D6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The <SHEEP's> name was being forgotten by the world."
+	},
+	{
+		"LABEL": "0x314",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Once I'd forget about that incident, no one would ever speak of it."
+	},
+	{
+		"LABEL": "0x36B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "As long as I forgot, it never happened."
+	},
+	{
+		"LABEL": "0x3A4",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "In reality, if I kept my mouth shut, I would quickly find that there was no one to speak up about it."
+	},
+	{
+		"LABEL": "0x40B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Everything was back to normal."
+	},
+	{
+		"LABEL": "0x42B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "That was good."
+	},
+	{
+		"LABEL": "0x44A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I――"
+	},
+	{
+		"LABEL": "0x544",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Summer."
+	},
+	{
+		"LABEL": "0x557",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The sun hanging high in the sky beat down mercilessly on those of us in ROMLES uniforms."
+	},
+	{
+		"LABEL": "0x5A8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Short-sleeved shirts and \"summer clothes,\" however, weren't required and were considered optional."
+	},
+	{
+		"LABEL": "0x605",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "In addition to the increased exposure of skin, the design wasn't very modern,"
+	},
+	{
+		"LABEL": "0x647",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "and there were few female staff members, including myself, who would wear them."
+	},
+	{
+		"LABEL": "0x68B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I looked up at the sky from the bridge and heard the sound of steady footsteps approaching from behind me as I basked in the breeze."
+	},
+	{
+		"LABEL": "0x6E0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Slip-resistant boots weren't ideal for producing clean footsteps,"
+	},
+	{
+		"LABEL": "0x734",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "but there was someone who could pull it off and gracefully stage his own entrance..."
+	},
+	{
+		"LABEL": "0x789",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "...I knew of only one man who it could be."
+	},
+	{
+		"LABEL": "0x7BD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「In the middle of a break, are you?」"
+	},
+	{
+		"LABEL": "0x7E2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Can't you tell by looking? Do I look like I'm working? "
+	},
+	{
+		"LABEL": "0x81D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "...Argh, it's the same outside. This noise is unbearable.」"
+	},
+	{
+		"LABEL": "0x876",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「We're open to the public today. Isn't this much normal? "
+	},
+	{
+		"LABEL": "0x8AE",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Isn't it good that people are interested in the sea?」"
+	},
+	{
+		"LABEL": "0x8F7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Okay, okay, I misspoke. Don't be so righteous. "
+	},
+	{
+		"LABEL": "0x943",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Why don't you loosen up during your break?」"
+	},
+	{
+		"LABEL": "0x975",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「How about you stop talking like that during yours.」"
+	},
+	{
+		"LABEL": "0x9B8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Talking like what...? Hey, Momoi, what do you mean by that?」"
+	},
+	{
+		"LABEL": "0xA05",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Haah. I should get back soon. What about you, Misasagi-san?」"
+	},
+	{
+		"LABEL": "0xA40",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I'll stay here for a bit.」"
+	},
+	{
+		"LABEL": "0xA62",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Misasagi waved his hand over his back without looking at me."
+	},
+	{
+		"LABEL": "0xA96",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I couldn't help but shake my head at his gesture with his pinky finger extended."
+	},
+	{
+		"LABEL": "0xADF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "From what I had heard, he was popular with the ladies in other departments,"
+	},
+	{
+		"LABEL": "0xB1B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "but when I accompanied him during work I found him absolutely insufferable."
+	},
+	{
+		"LABEL": "0xB5A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Well, he wasn't a bad person."
+	},
+	{
+		"LABEL": "0xB85",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "In fact, I was quite fond of him."
+	},
+	{
+		"LABEL": "0xBC5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Although he was several years older than me, he was the easiest to talk to among my colleagues."
+	},
+	{
+		"LABEL": "0xC0E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Actually, he was the only one who patiently talked to me, as unsociable as I was."
+	},
+	{
+		"LABEL": "0xC71",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Still, how was he able to talk to me without getting bored?"
+	},
+	{
+		"LABEL": "0xCB0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was slightly depressing, but I didn't hate it."
+	},
+	{
+		"LABEL": "0xCE5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...He really is...」"
+	},
+	{
+		"LABEL": "0xD0F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I decided to leave Misasagi behind on the bridge."
+	},
+	{
+		"LABEL": "0xD3B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I was carrying samples into the laboratory building under the blazing sun."
+	},
+	{
+		"LABEL": "0xD74",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Irregular instructions were flying from one place to another, as if they were preparing for a public experiment later on."
+	},
+	{
+		"LABEL": "0xDDF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Even so, there were few people like Misasagi"
+	},
+	{
+		"LABEL": "0xE25",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "who could say that they didn't care about these open-house days,"
+	},
+	{
+		"LABEL": "0xE85",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "and the majority of the staff was in the spirit of entertaining the general public."
+	},
+	{
+		"LABEL": "0xEDC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "While there might be a political agenda to enhance the public image of ROMLES,"
+	},
+	{
+		"LABEL": "0xF30",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "many at the employee level, such as me, seemed to genuinely view the open-house days in a positive light."
+	},
+	{
+		"LABEL": "0xF92",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「――――」"
+	},
+	{
+		"LABEL": "0xFAD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The noisy voices of children."
+	},
+	{
+		"LABEL": "0xFD2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I wondered if it was their mother at the receiving end of it."
+	},
+	{
+		"LABEL": "0x1007",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "My workplace, now lively and unusually bustling, seemed like a different place altogether."
+	},
+	{
+		"LABEL": "0x1054",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "That being said, a wide range of people were visiting, from elementary school children,"
+	},
+	{
+		"LABEL": "0x1098",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "to marine-loving students, to job hunters, to people who were way older than me."
+	},
+	{
+		"LABEL": "0x10DC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Come to think of it, I used to be one of them..."
+	},
+	{
+		"LABEL": "0x1111",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I wasn't sure how long it had been since..."
+	},
+	{
+		"LABEL": "0x1140",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "A friend of mine at the time took me here on an open-house day."
+	},
+	{
+		"LABEL": "0x1179",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I had no dreams, nothing special I wanted to do, and I was just going about my day-to-day life."
+	},
+	{
+		"LABEL": "0x11C9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "But, that day, I was struck by the endless romance of the sea I had seen at ROMLES."
+	},
+	{
+		"LABEL": "0x120F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Tens of thousands of years of history."
+	},
+	{
+		"LABEL": "0x1230",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "An unexplored ecosystem."
+	},
+	{
+		"LABEL": "0x1257",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "A magnificent story about the sea, the mother of life, and a familiar existence――"
+	},
+	{
+		"LABEL": "0x12A4",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I'd been feeling a sense of stagnation and frustration due to the lack of change in my daily life,"
+	},
+	{
+		"LABEL": "0x12EE",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "so that was an unprecedented shock to me."
+	},
+	{
+		"LABEL": "0x131F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "After seeing that, I decided that I wanted to work at ROMLES, and here I was."
+	},
+	{
+		"LABEL": "0x1363",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "So no matter what Misasagi grumbled about, I bore no ill will toward these open-house days."
+	},
+	{
+		"LABEL": "0x13B2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Some of these children may be awakened to the allure of the deep sea, just as I was that day."
+	},
+	{
+		"LABEL": "0x141F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Even if not, leaving a good impression shouldn't be a bad thing in and of itself――"
+	},
+	{
+		"LABEL": "0x147F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Ah――」"
+	},
+	{
+		"LABEL": "0x149A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "At that moment."
+	},
+	{
+		"LABEL": "0x14AF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I lost my balance and fell forward."
+	},
+	{
+		"LABEL": "0x14E2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The moment I realized I had stumbled on something, it was too late."
+	},
+	{
+		"LABEL": "0x152A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The samples scattered from my hands."
+	},
+	{
+		"LABEL": "0x1559",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "With a vague sense of floating, my mind went blank."
+	},
+	{
+		"LABEL": "0x1594",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I found myself looking at the floor in front of me."
+	},
+	{
+		"LABEL": "0x15BD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "My hand, which was carrying the samples, wasn't there in time to shield me."
+	},
+	{
+		"LABEL": "0x15F6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I prepared for a head-on collision and closed my eyes――"
+	},
+	{
+		"LABEL": "0x1638",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...Guheh.」"
+	},
+	{
+		"LABEL": "0x1655",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "...An unusual voice made its way out of my throat."
+	},
+	{
+		"LABEL": "0x1688",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was no surprise."
+	},
+	{
+		"LABEL": "0x16A7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Even though I expected to plunge face-first into the floor, it didn't happen."
+	},
+	{
+		"LABEL": "0x1708",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "My lower body was completely stretched out, but my face was supported by something that had suddenly appeared in front of me."
+	},
+	{
+		"LABEL": "0x176A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Was I saved?"
+	},
+	{
+		"LABEL": "0x178F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "With my face cushioned, I thought."
+	},
+	{
+		"LABEL": "0x17C0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "If nothing had caught me and I had been lying on the floor,"
+	},
+	{
+		"LABEL": "0x17FE",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I wouldn't have been spared from a bloody nose, internal bleeding, or bruises."
+	},
+	{
+		"LABEL": "0x1843",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Hmm... Was it correct to say that I was saved...?"
+	},
+	{
+		"LABEL": "0x1881",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I thought about it calmly once more."
+	},
+	{
+		"LABEL": "0x18A1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I considered my current posture."
+	},
+	{
+		"LABEL": "0x18C2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I was stretched out like a shrimp, nearly bent over."
+	},
+	{
+		"LABEL": "0x18FB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The shirt on my stomach was rolled up, and a chilly breeze caressed my navel."
+	},
+	{
+		"LABEL": "0x1948",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "What the hell was I doing in the middle of a hallway like this――"
+	},
+	{
+		"LABEL": "0x19A4",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Hiyaaaa!!」"
+	},
+	{
+		"LABEL": "0x19C9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Whoa.」"
+	},
+	{
+		"LABEL": "0x19E0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I pushed the cushion back with both hands and curled myself up."
+	},
+	{
+		"LABEL": "0x1A18",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I rolled over and ended up falling on my butt."
+	},
+	{
+		"LABEL": "0x1A61",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Ow, ow, ow...」"
+	},
+	{
+		"LABEL": "0x1A7F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Hey, you all right?」"
+	},
+	{
+		"LABEL": "0x1AA0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was an unfamiliar male voice."
+	},
+	{
+		"LABEL": "0x1AC5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Reasonably low and a bit burly, as if worn down by booze or cigarettes."
+	},
+	{
+		"LABEL": "0x1B06",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I looked up and there he was, standing right in front of me."
+	},
+	{
+		"LABEL": "0x1B41",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "A man with a stubble, wearing a wrinkled doctor's coat."
+	},
+	{
+		"LABEL": "0x1B89",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "He had unhealthily skinny cheeks resembling a deep moat."
+	},
+	{
+		"LABEL": "0x1BBD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "His grown-out hair, along with his stubble, made him look somewhat untidy."
+	},
+	{
+		"LABEL": "0x1C0A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "He then crouched down and extended his hand to me."
+	},
+	{
+		"LABEL": "0x1C4E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I-I'll stand up on my own!」"
+	},
+	{
+		"LABEL": "0x1C77",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I rushed to get up and dusted myself off."
+	},
+	{
+		"LABEL": "0x1CA2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Your shirt...」"
+	},
+	{
+		"LABEL": "0x1CC5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I know! I'm fixing it right now, okay?!」"
+	},
+	{
+		"LABEL": "0x1D0A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Your knee. It's ripped.」"
+	},
+	{
+		"LABEL": "0x1D2B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Huh?」"
+	},
+	{
+		"LABEL": "0x1D41",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The man pointed at my knee."
+	},
+	{
+		"LABEL": "0x1D57",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I followed his finger and saw that there was a tear on the sock on my right knee."
+	},
+	{
+		"LABEL": "0x1DA4",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I must have scraped it on the floor when I was shrimping earlier."
+	},
+	{
+		"LABEL": "0x1DE0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Slowly, I could feel my scraped knee heat up."
+	},
+	{
+		"LABEL": "0x1E17",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「See?」"
+	},
+	{
+		"LABEL": "0x1E2E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Ah...」"
+	},
+	{
+		"LABEL": "0x1E49",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The man pulled a handkerchief from the pocket of his doctor's coat and crouched at my feet."
+	},
+	{
+		"LABEL": "0x1EA6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The skirt of my ROMLES uniform touched the man's bangs."
+	},
+	{
+		"LABEL": "0x1EE0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Wait――」"
+	},
+	{
+		"LABEL": "0x1EFF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「This'll only take a second. Don't move.」"
+	},
+	{
+		"LABEL": "0x1F28",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "What was I going to do if someone came――"
+	},
+	{
+		"LABEL": "0x1F59",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I scurried around the kneeling man and surveyed my surroundings."
+	},
+	{
+		"LABEL": "0x1F92",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Okay, no sign of anyone for now."
+	},
+	{
+		"LABEL": "0x1FBC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Why did I have to go through all this...?"
+	},
+	{
+		"LABEL": "0x1FF9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The man was crouching down in the middle of the hallway and looked anything but ashamed."
+	},
+	{
+		"LABEL": "0x204C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "He took out a handkerchief that had been meticulously ironed, a mismatch with his worn doctor's coat."
+	},
+	{
+		"LABEL": "0x20B7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "He opened it wide, folded it into a triangle, and wrapped it to cover the wound."
+	},
+	{
+		"LABEL": "0x2116",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「There you go.」"
+	},
+	{
+		"LABEL": "0x213B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "In no time at all, the man finished tying it into a knot, stood up, and――"
+	},
+	{
+		"LABEL": "0x2187",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「――Huh?」"
+	},
+	{
+		"LABEL": "0x21A2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "What did he do to me just now?"
+	},
+	{
+		"LABEL": "0x21C6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「If it hurts, come down to the infirmary later.」"
+	},
+	{
+		"LABEL": "0x21F9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The man said something to me from above and walked off."
+	},
+	{
+		"LABEL": "0x223C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "As I looked at him walk away, I froze, unable to move."
+	},
+	{
+		"LABEL": "0x227D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Let's face it, I was confused."
+	},
+	{
+		"LABEL": "0x22A8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x22C2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Hey, Momoi-kun.」"
+	},
+	{
+		"LABEL": "0x22E1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Oh, ah, Misasagi-san...」"
+	},
+	{
+		"LABEL": "0x230A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「What's the matter?」"
+	},
+	{
+		"LABEL": "0x2331",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「No, I mean, um...」"
+	},
+	{
+		"LABEL": "0x235A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Do you know that man just now?」"
+	},
+	{
+		"LABEL": "0x238B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Man?」"
+	},
+	{
+		"LABEL": "0x23A2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「You know, that gloomy-looking ship's doctor.」"
+	},
+	{
+		"LABEL": "0x23D4",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Gloomy-faced ship's doctor... The man just now. "
+	},
+	{
+		"LABEL": "0x23FB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "There was no doubt about it."
+	},
+	{
+		"LABEL": "0x2416",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Right! That guy! "
+	},
+	{
+		"LABEL": "0x2439",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Did you see what he just did to me?」"
+	},
+	{
+		"LABEL": "0x246E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...Well, he wrapped a handkerchief around your leg, didn't he?」"
+	},
+	{
+		"LABEL": "0x24A7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「You're not wrong, but... that's not all! "
+	},
+	{
+		"LABEL": "0x24DB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "That guy, after wrapping that thing around my knee,"
+	},
+	{
+		"LABEL": "0x250D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "he smacked me on the head with his palm, like this!"
+	},
+	{
+		"LABEL": "0x254F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Why did he do that?!」"
+	},
+	{
+		"LABEL": "0x2572",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...Are you jealous?」"
+	},
+	{
+		"LABEL": "0x2593",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「What?!」"
+	},
+	{
+		"LABEL": "0x25AF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "What was this guy talking about?"
+	},
+	{
+		"LABEL": "0x25D7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Why couldn't he get the message... I held my head up."
+	},
+	{
+		"LABEL": "0x2608",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I was, you know, small."
+	},
+	{
+		"LABEL": "0x262C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I was told that I was rather tiny, generally speaking."
+	},
+	{
+		"LABEL": "0x2666",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "In addition, my face wasn't that mature, and I looked young for my age."
+	},
+	{
+		"LABEL": "0x26B5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "However, I didn't feel any complex about that."
+	},
+	{
+		"LABEL": "0x26FB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I didn't, but..."
+	},
+	{
+		"LABEL": "0x2721",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「He was treating me like a kid! "
+	},
+	{
+		"LABEL": "0x2758",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I'm sure he was this close to saying%Nsomething like, \"You did well to not cry.\" Ah, damn it!」"
+	},
+	{
+		"LABEL": "0x27B9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「C-Calm down, Momoi-kun. People will hear.」"
+	},
+	{
+		"LABEL": "0x27F2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I realized that my voice was getting louder and louder."
+	},
+	{
+		"LABEL": "0x2829",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Misasagi's face also had the look of \"Oh, I've done it now.\""
+	},
+	{
+		"LABEL": "0x2870",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "This wasn't good... I couldn't lose my cool like this."
+	},
+	{
+		"LABEL": "0x28A8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「S-Sorry.」"
+	},
+	{
+		"LABEL": "0x28C9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Picking up the samples scattered at my feet, I quickly left the place."
+	},
+	{
+		"LABEL": "0x2911",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Misasagi, walking by my side, eventually chuckled while holding his mouth."
+	},
+	{
+		"LABEL": "0x2954",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「There's no need to laugh, is there...?」"
+	},
+	{
+		"LABEL": "0x2991",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「No, no. I might upset you by saying this, but I've never seen you show your emotions like that before."
+	},
+	{
+		"LABEL": "0x2A0D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I was just relieved and found it age-appropriate and rather charming.」"
+	},
+	{
+		"LABEL": "0x2A4E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Huh...」"
+	},
+	{
+		"LABEL": "0x2A64",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "What's with him talking like an old man?"
+	},
+	{
+		"LABEL": "0x2A9F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "He was probably no older than Katagiri."
+	},
+	{
+		"LABEL": "0x2AD0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Who was that man, anyway? "
+	},
+	{
+		"LABEL": "0x2B03",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "He's been around here lately.」"
+	},
+	{
+		"LABEL": "0x2B30",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Ah... I don't know the details, but he arrived here recently. Apparently, he graduated from Imperial University.」"
+	},
+	{
+		"LABEL": "0x2B95",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Huh?」"
+	},
+	{
+		"LABEL": "0x2BAB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Did that mean he was actually elite?"
+	},
+	{
+		"LABEL": "0x2BE7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "That man who would wear a doctor's coat over a flimsy shirt like that?"
+	},
+	{
+		"LABEL": "0x2C3C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「But he's not perfect elite, apparently."
+	},
+	{
+		"LABEL": "0x2C7A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I heard that after graduating from Imperial University, he went straight to working at the university hospital, but for some reason he quit after a few years to work on disaster and remote area medicine.」"
+	},
+	{
+		"LABEL": "0x2CF1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「What's that about...?」"
+	},
+	{
+		"LABEL": "0x2D16",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I couldn't say. I don't know how much of that's true, but I hear he's good. "
+	},
+	{
+		"LABEL": "0x2D5A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "He never gets involved with anyone in that way, and he doesn't want to talk about himself, so the truth is in the dark, you know?」"
+	},
+	{
+		"LABEL": "0x2DBF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Huh...」"
+	},
+	{
+		"LABEL": "0x2DDB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "A doctor who didn't want to talk about himself, was he?"
+	},
+	{
+		"LABEL": "0x2E0E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I had seen him around here, sure, but that was the first time I'd heard his voice."
+	},
+	{
+		"LABEL": "0x2E6B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "While we continued chatting, we reached the experiment building."
+	},
+	{
+		"LABEL": "0x2EB0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Misasagi opened his mouth while we waited for the elevator."
+	},
+	{
+		"LABEL": "0x2EE8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「May I ask something?」"
+	},
+	{
+		"LABEL": "0x2F1F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Hm?」"
+	},
+	{
+		"LABEL": "0x2F36",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Maybe I'm imagining things, but...」"
+	},
+	{
+		"LABEL": "0x2F69",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Why do you always avoid looking at the sea?」"
+	},
+	{
+		"LABEL": "0x2FAC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Eh?」"
+	},
+	{
+		"LABEL": "0x2FC0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I was taken aback."
+	},
+	{
+		"LABEL": "0x2FDD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The blue sea in my mind's eye."
+	},
+	{
+		"LABEL": "0x3000",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I could hear the sound of white waves."
+	},
+	{
+		"LABEL": "0x3025",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Bodies, sinking."
+	},
+	{
+		"LABEL": "0x303E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "A light in the distance."
+	},
+	{
+		"LABEL": "0x30FA",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I looked away from the blinding light pouring down from directly above me and looked down."
+	},
+	{
+		"LABEL": "0x313B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Staring at the bottom of the pitch black sea."
+	},
+	{
+		"LABEL": "0x3164",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Deeper and deeper, I peered into it."
+	},
+	{
+		"LABEL": "0x3193",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The sound of the waves eventually faded, and all I could hear was..."
+	},
+	{
+		"LABEL": "0x31DA",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――Her voice."
+	},
+	{
+		"LABEL": "0x31F8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「..moi-kun! Momoi-kun!」"
+	},
+	{
+		"LABEL": "0x321F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「――Huh?」"
+	},
+	{
+		"LABEL": "0x323A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「The elevator's here.」"
+	},
+	{
+		"LABEL": "0x3263",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Oh, sorry...」"
+	},
+	{
+		"LABEL": "0x328E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I quickly went inside."
+	},
+	{
+		"LABEL": "0x32B0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Sorry for asking such a weird question.」"
+	},
+	{
+		"LABEL": "0x32DD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Don't worry about it...」"
+	},
+	{
+		"LABEL": "0x32F8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "That was totally strange."
+	},
+	{
+		"LABEL": "0x3319",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Everyone forgot about that accident."
+	},
+	{
+		"LABEL": "0x334E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Even though we had to forget about it..."
+	},
+	{
+		"LABEL": "0x3377",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "From the bottom of the sea, I could still hear her voice."
+	},
+	{
+		"LABEL": "0x356F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Suddenly, those summer days came back to me."
+	},
+	{
+		"LABEL": "0x35A6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The days the three of us had spent together."
+	},
+	{
+		"LABEL": "0x35C8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "We were selected for the <SHEEP> mission and spent every day training."
+	},
+	{
+		"LABEL": "0x3612",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The days of reading books and repeating simulations day in and day out"
+	},
+	{
+		"LABEL": "0x364A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "to achieve the cutting-edge deep-sea exploration that I had dreamed of."
+	},
+	{
+		"LABEL": "0x368B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "However, those days had ended in the worst way possible――"
+	},
+	{
+		"LABEL": "0x36D5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Of the three people on board the <SHEEP>, I was the only one who was able to return to the surface safely."
+	},
+	{
+		"LABEL": "0x372E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I was the only survivor――"
+	},
+	{
+		"LABEL": "0x3752",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Since then, I'd been afraid of the sea."
+	},
+	{
+		"LABEL": "0x377B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "No, not just the sea."
+	},
+	{
+		"LABEL": "0x37A0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I was afraid of water."
+	},
+	{
+		"LABEL": "0x37BC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "\"Pools of water\" evoked images of the past in me."
+	},
+	{
+		"LABEL": "0x37F3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I hadn't taken a single bath since then and only took showers."
+	},
+	{
+		"LABEL": "0x385F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...There's no one here. I wish it was always like this. I don't really fit in with those eccentric research people.」"
+	},
+	{
+		"LABEL": "0x38D2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Well, I understand how you feel. But more than that, we have the lab to ourselves.」"
+	},
+	{
+		"LABEL": "0x3929",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I checked the schedule on the wall."
+	},
+	{
+		"LABEL": "0x395B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Today, there was supposed to be a diving demonstration in the Kurama Bay area."
+	},
+	{
+		"LABEL": "0x39A8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "On top of that, it was open to the public."
+	},
+	{
+		"LABEL": "0x39CA",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "In response, most of the staff, including researchers, were out of the office."
+	},
+	{
+		"LABEL": "0x3A10",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「――――♪」"
+	},
+	{
+		"LABEL": "0x3A2D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I took out a culture petri dish."
+	},
+	{
+		"LABEL": "0x3A54",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Inside was experimental bacteria."
+	},
+	{
+		"LABEL": "0x3A83",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "How utterly adorable, this bacteria."
+	},
+	{
+		"LABEL": "0x3ABA",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I put it under the microscope and looked into it."
+	},
+	{
+		"LABEL": "0x3AE0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...Hm?」"
+	},
+	{
+		"LABEL": "0x3AFD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I noticed something strange."
+	},
+	{
+		"LABEL": "0x3B24",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「What's this?」"
+	},
+	{
+		"LABEL": "0x3B41",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Misasagi-san, look.」"
+	},
+	{
+		"LABEL": "0x3B65",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Bacteria multiplied logarithmically."
+	},
+	{
+		"LABEL": "0x3B90",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "They should increase without limit as time went by..."
+	},
+	{
+		"LABEL": "0x3BDB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Aren't there fewer than this morning? I'm not imagining it, am I? Or perhaps...」"
+	},
+	{
+		"LABEL": "0x3C4C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Yes... "
+	},
+	{
+		"LABEL": "0x3C5F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Suicide.」"
+	},
+	{
+		"LABEL": "0x3C77",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Misasagi looked into the microscope, frowned, and curtly said that."
+	},
+	{
+		"LABEL": "0x3CC6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Bacteria committing suicide? "
+	},
+	{
+		"LABEL": "0x3CE3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Are you joking? That's not funny at all.」"
+	},
+	{
+		"LABEL": "0x3D24",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I'm serious... My jokes aren't well received, so I try not to tell them.」"
+	},
+	{
+		"LABEL": "0x3D83",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Misasagi sighed and continued."
+	},
+	{
+		"LABEL": "0x3DAF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Bacteria maintain the proper density for the nutrition they're given."
+	},
+	{
+		"LABEL": "0x3DF7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "So, if they have a limited amount of nutrients and multiply beyond that, the result is that none of the cells will get the nutrients they need, and they could be destroyed."
+	},
+	{
+		"LABEL": "0x3E87",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "So, above a certain density, they release EDF molecules.」"
+	},
+	{
+		"LABEL": "0x3EC3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...Umm, EDF?」"
+	},
+	{
+		"LABEL": "0x3EE7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「『Extracellular Death Factor――』」"
+	},
+	{
+		"LABEL": "0x3F28",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "He replied with excellent pronunciation as I asked."
+	},
+	{
+		"LABEL": "0x3F72",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「When bacteria receive this signaling molecule, they sever their own messenger RNA and die by suicide.」"
+	},
+	{
+		"LABEL": "0x3FDA",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「How does such a thing happen in a simple lifeform like bacteria...?」"
+	},
+	{
+		"LABEL": "0x4029",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「The principles of life are universal. It makes no great difference whether it's bacteria or humans.」"
+	},
+	{
+		"LABEL": "0x4088",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Bacteria that committed suicide in order to allow other cells to survive."
+	},
+	{
+		"LABEL": "0x40C6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "An instinct to sacrifice yourself for someone else."
+	},
+	{
+		"LABEL": "0x40F6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "That felt somewhat romantic to me."
+	},
+	{
+		"LABEL": "0x412C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「But whenever I talk to the students about this, they often misunderstand me and think, \"So bacteria exhibit altruistic behavior, too.\"」"
+	},
+	{
+		"LABEL": "0x41A7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Hm? Is that wrong?」"
+	},
+	{
+		"LABEL": "0x41CE",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Misasagi, who also gave lectures to students, thought back to that scene and looked away."
+	},
+	{
+		"LABEL": "0x421D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「What is selfish or altruistic? Bacteria, to be sure, behave in ways that are detrimental to themselves as individuals."
+	},
+	{
+		"LABEL": "0x4293",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "But as a group, or as a species, they're also acting selfishly to ensure the survival of the greater number."
+	},
+	{
+		"LABEL": "0x4307",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Natural selection working on an individual or group level―that's an old debate.」"
+	},
+	{
+		"LABEL": "0x434D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "For their own survival or that of their species."
+	},
+	{
+		"LABEL": "0x43A0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Depending on the scale, what actions were beneficial would vary."
+	},
+	{
+		"LABEL": "0x43E5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "There were cases where the act of killing oneself was more selfish."
+	},
+	{
+		"LABEL": "0x4430",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Have you come to a conclusion?」"
+	},
+	{
+		"LABEL": "0x4459",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...One thing I can tell you "
+	},
+	{
+		"LABEL": "0x447A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "is that there are virtually no real-world%Ncases for acting in order to save a species.」"
+	},
+	{
+		"LABEL": "0x44DC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I thought the bacteria was a perfect example.」"
+	},
+	{
+		"LABEL": "0x4525",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Do you know what the concept of inclusive fitness is?」"
+	},
+	{
+		"LABEL": "0x454C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Misasagi tried to make me understand for the sake of explaining."
+	},
+	{
+		"LABEL": "0x4577",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I felt like one of his students."
+	},
+	{
+		"LABEL": "0x45BD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Well... Fitness is the number of offspring that an individual organism can leave for the next generation.」"
+	},
+	{
+		"LABEL": "0x4630",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Exactly. Inclusive fitness extends that concept to the level of genes."
+	},
+	{
+		"LABEL": "0x468C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "In other words, the degree of fitness includes not only \"one's own offspring\" but also the number of individuals of the same genetic relation."
+	},
+	{
+		"LABEL": "0x46F2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "So, for example, inclusive fitness includes the number of children one's siblings leave behind and so forth.」"
+	},
+	{
+		"LABEL": "0x4747",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...Why did they bother defining such an elaborate concept?」"
+	},
+	{
+		"LABEL": "0x47A0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Good question.」"
+	},
+	{
+		"LABEL": "0x47BC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Every concept is defined to describe some event."
+	},
+	{
+		"LABEL": "0x4804",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "This \"inclusive fitness\" seemed to be one of those rather complicated ones."
+	},
+	{
+		"LABEL": "0x4867",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「You can use inclusive fitness to answer the question about \"altruism.\" In other words... "
+	},
+	{
+		"LABEL": "0x48BD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "There are cases in which a certain isolated behavior appears, at first glance, to reduce one's fitness, but in the end, that behavior is part of one's inclusive fitness..."
+	},
+	{
+		"LABEL": "0x496B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "There's this whole idea of multi-level selection. "
+	},
+	{
+		"LABEL": "0x49AD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Natural selection on a group level, rather than an individual level, can ultimately change the inclusive fitness of individuals."
+	},
+	{
+		"LABEL": "0x4A1D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "You then get organisms that, at first glance, appear to be \"altruistic\" or working for the \"preservation of the species.\" But at its essence, it's very rational and selfish.」"
+	},
+	{
+		"LABEL": "0x4ABB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...I see.」"
+	},
+	{
+		"LABEL": "0x4ADA",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「If you don't understand, it's smarter to say that you don't.」"
+	},
+	{
+		"LABEL": "0x4B19",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「N-No, that's not what I...」"
+	},
+	{
+		"LABEL": "0x4B3C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Misasagi smiled."
+	},
+	{
+		"LABEL": "0x4B5A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "He shook his head and dismissed my doubts."
+	},
+	{
+		"LABEL": "0x4B91",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...The point is, \"If it's a disadvantage to me, but it helps my family members, then it's rational.\"」"
+	},
+	{
+		"LABEL": "0x4C09",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Well... it's an easy metaphor to understand. "
+	},
+	{
+		"LABEL": "0x4C3D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Nevertheless, it doesn't have to be a direct blood relative of any kind to give those benefits."
+	},
+	{
+		"LABEL": "0x4C89",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "For example, you'd bring sweets to your neighbors when you move in, right? That way, when the time comes, your neighbors might be willing to help you with something."
+	},
+	{
+		"LABEL": "0x4D0F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Although you're temporarily paying a cost, you're benefiting from the \"community of neighbors.\" This is also an act of self-interest.」"
+	},
+	{
+		"LABEL": "0x4D96",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...Sorry, but that doesn't strike a chord with me. I live in a dorm.」"
+	},
+	{
+		"LABEL": "0x4DE3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「You'll understand when you're a little older.」"
+	},
+	{
+		"LABEL": "0x4E16",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「There you go treating me like a kid again――」"
+	},
+	{
+		"LABEL": "0x4E52",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "There was a thumping and rough knocking sound."
+	},
+	{
+		"LABEL": "0x4E85",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I turned to go see what it was and opened the door of the lab."
+	},
+	{
+		"LABEL": "0x4EBC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Hmm? What is it?」"
+	},
+	{
+		"LABEL": "0x4EE1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The knocker was a little girl."
+	},
+	{
+		"LABEL": "0x4F2F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I crouched down to listen... My mind went back to that man from earlier."
+	},
+	{
+		"LABEL": "0x4F76",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「What's wrong? Are you lost?」"
+	},
+	{
+		"LABEL": "0x4FA1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Fueeh...」"
+	},
+	{
+		"LABEL": "0x4FBE",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Fueeh...?」"
+	},
+	{
+		"LABEL": "0x4FDD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Was that the cry of a kitten?"
+	},
+	{
+		"LABEL": "0x500B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I had no idea what she was trying to tell me."
+	},
+	{
+		"LABEL": "0x503B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...What is it?」"
+	},
+	{
+		"LABEL": "0x505C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「This girl... she's crying.」"
+	},
+	{
+		"LABEL": "0x5091",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Leave it to me.」"
+	},
+	{
+		"LABEL": "0x50AA",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Saying that, Misasagi crouched down in front of the girl on my behalf."
+	},
+	{
+		"LABEL": "0x50EF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "He then gave her a fake smile."
+	},
+	{
+		"LABEL": "0x512D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「What's wrong? It's okay, just tell me what happened, okay?」"
+	},
+	{
+		"LABEL": "0x517E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Pool... fell into...*Hic*」"
+	},
+	{
+		"LABEL": "0x51AB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Her words were fragmented."
+	},
+	{
+		"LABEL": "0x51CB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The image I got from them was――"
+	},
+	{
+		"LABEL": "0x51FC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Momoi-kun, this is――」"
+	},
+	{
+		"LABEL": "0x5221",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Let's go!」"
+	},
+	{
+		"LABEL": "0x535D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "We started running and headed for the experimental diving pool."
+	},
+	{
+		"LABEL": "0x539E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was a huge tank, at least 20 meters deep, used for training and experimentation in diving research."
+	},
+	{
+		"LABEL": "0x53F2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "My worst premonition came true."
+	},
+	{
+		"LABEL": "0x5417",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "No way... There were three children inside the pool."
+	},
+	{
+		"LABEL": "0x5454",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「How did this happen――」"
+	},
+	{
+		"LABEL": "0x5481",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The circumstances could wait."
+	},
+	{
+		"LABEL": "0x54A0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Misasagi-san, I'll――」"
+	},
+	{
+		"LABEL": "0x54C7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...No. "
+	},
+	{
+		"LABEL": "0x54DE",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I can't...」"
+	},
+	{
+		"LABEL": "0x54FD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "He looked pale."
+	},
+	{
+		"LABEL": "0x5522",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Right―even though there was a diving demonstration, he did not participate."
+	},
+	{
+		"LABEL": "0x557C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "His fatal weakness was that his knowledge was only good for lecturing students."
+	},
+	{
+		"LABEL": "0x55C0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "He couldn't swim at all."
+	},
+	{
+		"LABEL": "0x55E6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I'm sorry...」"
+	},
+	{
+		"LABEL": "0x5605",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...Misasagi-san, go to the infirmary.」"
+	},
+	{
+		"LABEL": "0x563A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Momoi-kun, even you can't――」"
+	},
+	{
+		"LABEL": "0x5665",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Just go!」"
+	},
+	{
+		"LABEL": "0x5681",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Before I lost my firm resolve――"
+	},
+	{
+		"LABEL": "0x56B2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I made up my mind and jumped into the pool."
+	},
+	{
+		"LABEL": "0x56E1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It had been a long time since I'd felt being in water like this... Ever since the accident."
+	},
+	{
+		"LABEL": "0x5722",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "My blouse stuck to my body and made me heavier."
+	},
+	{
+		"LABEL": "0x575F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "To begin with, I wasn't a very good swimmer."
+	},
+	{
+		"LABEL": "0x5799",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Come on! Over here!」"
+	},
+	{
+		"LABEL": "0x57BE",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I went to grab the children while shouting."
+	},
+	{
+		"LABEL": "0x57F3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It took nearly ten minutes to grab two of the kids and get them out."
+	},
+	{
+		"LABEL": "0x5833",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "...There was only one left."
+	},
+	{
+		"LABEL": "0x5851",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was at that moment as I was swimming to the last child..."
+	},
+	{
+		"LABEL": "0x5892",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「――――!」"
+	},
+	{
+		"LABEL": "0x58B1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I almost screamed in pain."
+	},
+	{
+		"LABEL": "0x58E4",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "My legs cramped up."
+	},
+	{
+		"LABEL": "0x58FF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――But, of course."
+	},
+	{
+		"LABEL": "0x5919",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I didn't know how long it'd been since I last swam."
+	},
+	{
+		"LABEL": "0x5952",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Naturally, my body had also weakened."
+	},
+	{
+		"LABEL": "0x597B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I wasn't very good at holding my breath."
+	},
+	{
+		"LABEL": "0x59A4",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "After taking up two of them, I was already at my limit."
+	},
+	{
+		"LABEL": "0x59DE",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Still, I was the only one who could help this child――"
+	},
+	{
+		"LABEL": "0x5A0C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――Even though we weren't related by blood?"
+	},
+	{
+		"LABEL": "0x5A31",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Multi-level selection."
+	},
+	{
+		"LABEL": "0x5A5A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "That didn't explain helping a stranger or someone you had no connection to and knew nothing about."
+	},
+	{
+		"LABEL": "0x5AB7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "But... it didn't matter."
+	},
+	{
+		"LABEL": "0x5AE8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "All of humanity had diverged from a single life form. We were connected."
+	},
+	{
+		"LABEL": "0x5B2E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "If as many as possible survived, so be it."
+	},
+	{
+		"LABEL": "0x5B61",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "If one life could save many more, it was rational."
+	},
+	{
+		"LABEL": "0x5B9B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I didn't care about the preservation of the species, or any of that minor stuff."
+	},
+	{
+		"LABEL": "0x5BDA",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I firmly grabbed hold of the drowning child."
+	},
+	{
+		"LABEL": "0x5C09",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It's all right. I'll save you――"
+	},
+	{
+		"LABEL": "0x5C33",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "However, despite my determination and thoughts, my consciousness gradually faded away."
+	},
+	{
+		"LABEL": "0x5C7A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "If I could just save her――"
+	},
+	{
+		"LABEL": "0x5CB1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Could I atone for my sins?"
+	},
+	{
+		"LABEL": "0x5CE1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I felt my body sinking to the bottom of the pool."
+	},
+	{
+		"LABEL": "0x5D1A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Ah... She's calling out to me."
+	},
+	{
+		"LABEL": "0x5D41",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "She was there, at the bottom of the deep sea, at the bottom of these dark waters."
+	},
+	{
+		"LABEL": "0x5D7C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was time for me, the only survivor, to join them――"
+	},
+	{
+		"LABEL": "0x5DD2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Then..."
+	},
+	{
+		"LABEL": "0x5DEB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "In my fading consciousness..."
+	},
+	{
+		"LABEL": "0x5E0C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I felt powerful arms wrap around my body――"
+	},
+	{
+		"LABEL": "0x5F2E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I opened my eyes."
+	},
+	{
+		"LABEL": "0x5F4B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "My foggy consciousness recovered and my vision became clearer."
+	},
+	{
+		"LABEL": "0x5F84",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I looked up and was met with the face of a man with scrawny cheeks and a scruffy beard."
+	},
+	{
+		"LABEL": "0x5FCB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Unlike before, his expression was stern."
+	},
+	{
+		"LABEL": "0x5FFF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「What do you think you're doing?!」"
+	},
+	{
+		"LABEL": "0x602E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I was trying... to... help...」"
+	},
+	{
+		"LABEL": "0x605B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「If you die, there's nothing left! Don't throw away your own life!」"
+	},
+	{
+		"LABEL": "0x60AC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I was sure he was right... but it was frustrating that I couldn't say anything back."
+	},
+	{
+		"LABEL": "0x60ED",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I couldn't help but feel antagonistic toward his strong words..."
+	},
+	{
+		"LABEL": "0x6129",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The man took a tablet from his pocket and threw it into his mouth."
+	},
+	{
+		"LABEL": "0x6166",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I'm glad you're safe...」"
+	},
+	{
+		"LABEL": "0x618B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Tap, tap. He tapped me on the forehead."
+	},
+	{
+		"LABEL": "0x61B8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It had been a long time since someone had been this angry with me."
+	},
+	{
+		"LABEL": "0x61FB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――I'm sorry."
+	},
+	{
+		"LABEL": "0x621C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I didn't say it out loud."
+	},
+	{
+		"LABEL": "0x6241",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I didn't know why... but his warm and angry voice reminded me of her."
+	},
+	{
+		"LABEL": "0x62A1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――It would be some time later that I'd learn the name Hiragino Sousuke."
+	}
+]

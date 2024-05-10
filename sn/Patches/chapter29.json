@@ -1,0 +1,4238 @@
+[
+	{
+		"LABEL": "0x2C4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The footsteps suddenly stopped."
+	},
+	{
+		"LABEL": "0x2E8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "On the other side of the door..."
+	},
+	{
+		"LABEL": "0x308",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...Only the sound of the sprinklers could be heard."
+	},
+	{
+		"LABEL": "0x340",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――――」"
+	},
+	{
+		"LABEL": "0x369",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――――」"
+	},
+	{
+		"LABEL": "0x388",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Silence..."
+	},
+	{
+		"LABEL": "0x39E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari and I stopped moving."
+	},
+	{
+		"LABEL": "0x3C4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "My heart was beating faster."
+	},
+	{
+		"LABEL": "0x3DE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Time flowed slowly."
+	},
+	{
+		"LABEL": "0x400",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I tried to hide my presence as much as possible."
+	},
+	{
+		"LABEL": "0x42C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari's hand covering my mouth was sweating profusely."
+	},
+	{
+		"LABEL": "0x462",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "When I turned to look at her, she was shaking for some reason."
+	},
+	{
+		"LABEL": "0x49C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Upon closer inspection, her entire face was red and trembling."
+	},
+	{
+		"LABEL": "0x4DC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "......"
+	},
+	{
+		"LABEL": "0x4F4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...Was she holding her breath?"
+	},
+	{
+		"LABEL": "0x522",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She puffed out her cheeks in pain and turned red as if she was finally nearing her limit."
+	},
+	{
+		"LABEL": "0x576",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Someone was waiting for us on the other side of that door."
+	},
+	{
+		"LABEL": "0x5A4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Under the rain of the sprinklers."
+	},
+	{
+		"LABEL": "0x5CA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In a hallway filled with soporific smoke."
+	},
+	{
+		"LABEL": "0x5E8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The room was dead quiet."
+	},
+	{
+		"LABEL": "0x602",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari's limbs were trembling slightly."
+	},
+	{
+		"LABEL": "0x632",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "....."
+	},
+	{
+		"LABEL": "0x64A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "This wasn't good."
+	},
+	{
+		"LABEL": "0x660",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Despite this desperate situation, for some reason, I felt relaxed."
+	},
+	{
+		"LABEL": "0x6AC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...I'll just assume it was because I'd noticed how Yukari was seemingly putting her life on the line."
+	},
+	{
+		"LABEL": "0x747",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――However."
+	},
+	{
+		"LABEL": "0x761",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Even if we hid our presence like this, if they entered the room, it was all over."
+	},
+	{
+		"LABEL": "0x7BF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Could they even tell what was on the other side of the door over the sound of the sprinklers in the first place?"
+	},
+	{
+		"LABEL": "0x81F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If they were looking inside every room, then us concealing our presence like this didn't matter at all."
+	},
+	{
+		"LABEL": "0x87B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We had to find a place to hide――"
+	},
+	{
+		"LABEL": "0x947",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I heard the sound of the door unlocking."
+	},
+	{
+		"LABEL": "0x965",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――Shit."
+	},
+	{
+		"LABEL": "0x97F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We didn't make it in time."
+	},
+	{
+		"LABEL": "0x99F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I had no choice but to steel myself."
+	},
+	{
+		"LABEL": "0x9C3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari's trembling body froze as well."
+	},
+	{
+		"LABEL": "0xAB1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "You could cut the air with a knife..."
+	},
+	{
+		"LABEL": "0xACB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If they came in, what then?"
+	},
+	{
+		"LABEL": "0xAF7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If they were the one who spread the smoke, there was a good chance we'd be harmed as soon as we were found."
+	},
+	{
+		"LABEL": "0xB51",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In that case, we should make the first move..."
+	},
+	{
+		"LABEL": "0xB83",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I wondered if they had a weapon."
+	},
+	{
+		"LABEL": "0xBAF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There was nothing in the room that could be used as a weapon."
+	},
+	{
+		"LABEL": "0xBE3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Or rather, if we were attacked with soporific smoke, there was nothing we could do."
+	},
+	{
+		"LABEL": "0xC21",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The moment we breathed in, we'd be done for."
+	},
+	{
+		"LABEL": "0xC4D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari, who was steeling her body, seemed to have made up her mind."
+	},
+	{
+		"LABEL": "0xC7F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We stared at the door and waited for them to move."
+	},
+	{
+		"LABEL": "0xCB3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And――"
+	},
+	{
+		"LABEL": "0xCE8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The footsteps slowly faded into the distance."
+	},
+	{
+		"LABEL": "0xD04",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I could hear them leave, splashing the water on the floor as they went."
+	},
+	{
+		"LABEL": "0xDCB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...Were they gone?"
+	},
+	{
+		"LABEL": "0xDEB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Or was this a trap?"
+	},
+	{
+		"LABEL": "0xE64",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari and I glanced at each other."
+	},
+	{
+		"LABEL": "0xE84",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She looked bewildered like she couldn't judge it, either."
+	},
+	{
+		"LABEL": "0xEBE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We stayed like that for a moment, but..."
+	},
+	{
+		"LABEL": "0xEE8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Looks like they've gone somewhere...」"
+	},
+	{
+		"LABEL": "0xF82",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Haah... Haah...」"
+	},
+	{
+		"LABEL": "0xFBE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Haah... What... was that all about?」"
+	},
+	{
+		"LABEL": "0xFFF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She calmed herself down with deep breaths."
+	},
+	{
+		"LABEL": "0x102B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I let go of her body, which had been pressed up against mine for a while now, and exhaled deeply."
+	},
+	{
+		"LABEL": "0x1069",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "So, she was holding her breath all this time..."
+	},
+	{
+		"LABEL": "0x1099",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her lung capacity was actually worthy of respect, but why was she doing it in the first place?"
+	},
+	{
+		"LABEL": "0x10EB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Holding your breath to hide your presence was something grade schoolers thought of, wasn't it...?"
+	},
+	{
+		"LABEL": "0x119F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Phew.」"
+	},
+	{
+		"LABEL": "0x1212",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Looks like we managed to dodge them.」"
+	},
+	{
+		"LABEL": "0x1241",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari displayed an expression of accomplishment."
+	},
+	{
+		"LABEL": "0x1263",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Our situation hadn't improved yet."
+	},
+	{
+		"LABEL": "0x1291",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The problem was just pigeonholed again."
+	},
+	{
+		"LABEL": "0x12BB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Now's our chance to see what's going on out there.」"
+	},
+	{
+		"LABEL": "0x12ED",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「We don't know when they'll be back, so we should hurry.」"
+	},
+	{
+		"LABEL": "0x139F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Please wait.」"
+	},
+	{
+		"LABEL": "0x13BF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The smoke is still there, you know?」"
+	},
+	{
+		"LABEL": "0x144E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If you go out now, you'll just collapse again.」"
+	},
+	{
+		"LABEL": "0x1492",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Not only that but there's also the possibility of smoke entering this room.」"
+	},
+	{
+		"LABEL": "0x14E3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's true, but...」"
+	},
+	{
+		"LABEL": "0x1507",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I can't just sit here and do nothing.」"
+	},
+	{
+		"LABEL": "0x15B3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「In other words...」"
+	},
+	{
+		"LABEL": "0x15CF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「We just need to find out what's going on outside of this room, right?」"
+	},
+	{
+		"LABEL": "0x1617",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「POL!」"
+	},
+	{
+		"LABEL": "0x1633",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari spoke to the wristband on her hand."
+	},
+	{
+		"LABEL": "0x1665",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【Yes?】"
+	},
+	{
+		"LABEL": "0x167B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A voice answered."
+	},
+	{
+		"LABEL": "0x169F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Its pronunciation was fluent, but I didn't have high hopes for POL considering how worthless it had been so far..."
+	},
+	{
+		"LABEL": "0x1708",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「POL! On the second floor of the rear...」"
+	},
+	{
+		"LABEL": "0x1733",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The second floor...?」"
+	},
+	{
+		"LABEL": "0x175A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Yukari-san?」"
+	},
+	{
+		"LABEL": "0x17E4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...What am I supposed to ask exactly?」"
+	},
+	{
+		"LABEL": "0x181D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hey."
+	},
+	{
+		"LABEL": "0x1831",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Never mind POL, our human operator here was quite a ditz herself."
+	},
+	{
+		"LABEL": "0x1886",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I raised my voice in place of Yukari, who looked troubled."
+	},
+	{
+		"LABEL": "0x18BA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Let's see...」"
+	},
+	{
+		"LABEL": "0x18E2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「POL! What's the status of the soporific smoke?」"
+	},
+	{
+		"LABEL": "0x1913",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【I'm sorry. I don't understand your question.】"
+	},
+	{
+		"LABEL": "0x194F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No good."
+	},
+	{
+		"LABEL": "0x1965",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Is it safe outside this room?」"
+	},
+	{
+		"LABEL": "0x1985",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【There is a possibility of a fire.】"
+	},
+	{
+		"LABEL": "0x19AB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...What's the oxygen level in the hallway?」"
+	},
+	{
+		"LABEL": "0x19D3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【Oxygen levels on the entire second floor are 20.2%% on average.】"
+	},
+	{
+		"LABEL": "0x1A0C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Umm...」"
+	},
+	{
+		"LABEL": "0x1A2A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...Hmm?"
+	},
+	{
+		"LABEL": "0x1A46",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "How would I get the answer I wanted?"
+	},
+	{
+		"LABEL": "0x1A78",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Actually, you should know the situation, POL."
+	},
+	{
+		"LABEL": "0x1AA2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Please understand my intentions."
+	},
+	{
+		"LABEL": "0x1ACC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...No matter how fluent, it wasn't very smart, was it...?"
+	},
+	{
+		"LABEL": "0x1B1E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm sorry, but... POL is useless.」"
+	},
+	{
+		"LABEL": "0x1BB9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Sorry... It was no good, huh?」"
+	},
+	{
+		"LABEL": "0x1BF7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari hung her head."
+	},
+	{
+		"LABEL": "0x1C11",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "POL was excellent as a guide for a cruise submarine,"
+	},
+	{
+		"LABEL": "0x1C4C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "and I was sure it'd been programmed to deal with danger in its own way."
+	},
+	{
+		"LABEL": "0x1C98",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Still, I guess it couldn't really deal with an emergency like this."
+	},
+	{
+		"LABEL": "0x1CEE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If only I knew what was going on with the smoke in the hallway, I could do something..."
+	},
+	{
+		"LABEL": "0x1D42",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...How long will the smoke last?」"
+	},
+	{
+		"LABEL": "0x1D87",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm not sure... There are probably several different types.」"
+	},
+	{
+		"LABEL": "0x1DDB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I don't know how strong it is, how fast it works, how long it lasts, none of it.」"
+	},
+	{
+		"LABEL": "0x1E3E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Right...」"
+	},
+	{
+		"LABEL": "0x1ECC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That said, soporific smoke is absorbed into your body through breathing.」"
+	},
+	{
+		"LABEL": "0x1F1C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Naturally, it should be water-soluble.」"
+	},
+	{
+		"LABEL": "0x1F47",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Which means, as long as the sprinklers are there...」"
+	},
+	{
+		"LABEL": "0x1F8A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yes.」"
+	},
+	{
+		"LABEL": "0x1FA0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「As I said before, I believe the sprinklers will be able to get rid of most of the smoke.」"
+	},
+	{
+		"LABEL": "0x1FFD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Then――」"
+	},
+	{
+		"LABEL": "0x202C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But, we have no proof.」"
+	},
+	{
+		"LABEL": "0x2075",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She was right."
+	},
+	{
+		"LABEL": "0x2093",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But while we were here talking like this, the person from before might come back."
+	},
+	{
+		"LABEL": "0x20D5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "At the very least, if I could go outside for just a moment..."
+	},
+	{
+		"LABEL": "0x210D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x2136",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x2155",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Time flowed aimlessly."
+	},
+	{
+		"LABEL": "0x2175",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari was tapping her foot against the floor."
+	},
+	{
+		"LABEL": "0x21A3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The irregular rhythm must've been a sign of her frustration."
+	},
+	{
+		"LABEL": "0x21E3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...And."
+	},
+	{
+		"LABEL": "0x2200",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The sound of the rain outside weakened until it finally ceased."
+	},
+	{
+		"LABEL": "0x222E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Had the sprinklers stopped?"
+	},
+	{
+		"LABEL": "0x2258",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In other words, the firefighting operation was over."
+	},
+	{
+		"LABEL": "0x229A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Which meant that the smoke level outside had decreased enough."
+	},
+	{
+		"LABEL": "0x22F2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Isn't it okay to go outside now?」"
+	},
+	{
+		"LABEL": "0x2398",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You might be right...」"
+	},
+	{
+		"LABEL": "0x2415",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「However, we can't say for sure.」"
+	},
+	{
+		"LABEL": "0x24A2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What's certain is that the concentration of smoke has reached a level where the fire detector can't detect it.」"
+	},
+	{
+		"LABEL": "0x2561",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But I don't know if that level is safe for the human body.」"
+	},
+	{
+		"LABEL": "0x259D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「We can't be sure of how it'll affect us.」"
+	},
+	{
+		"LABEL": "0x25E8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari was being cautious."
+	},
+	{
+		"LABEL": "0x2608",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I felt like she was being overly careful, but what she said was right."
+	},
+	{
+		"LABEL": "0x2656",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But, now that the sprinklers were off, there were no other indicators of safety."
+	},
+	{
+		"LABEL": "0x26B4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We needed more information..."
+	},
+	{
+		"LABEL": "0x2704",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「How does the <SHEEP III> fire alarm work in the first place?」"
+	},
+	{
+		"LABEL": "0x27C5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I don't know that much――」"
+	},
+	{
+		"LABEL": "0x284E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――Wait.」"
+	},
+	{
+		"LABEL": "0x28C5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...POL should know.」"
+	},
+	{
+		"LABEL": "0x28FB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「POL, again...?」"
+	},
+	{
+		"LABEL": "0x2916",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I just couldn't get excited because of its previous failures."
+	},
+	{
+		"LABEL": "0x29D2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's fine.」"
+	},
+	{
+		"LABEL": "0x29EE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「When it comes to the capabilities of the <SHEEP III> and the data surrounding it, POL should know more than anyone.」"
+	},
+	{
+		"LABEL": "0x2A49",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Believe in POL, please...」"
+	},
+	{
+		"LABEL": "0x2A77",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I wondered if the reason she sounded so desperate was to protect the prestige of ROMLES."
+	},
+	{
+		"LABEL": "0x2ACB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Since the accident, POL'd had little opportunity to play an active role,"
+	},
+	{
+		"LABEL": "0x2B23",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "being down at critical times or just otherwise useless."
+	},
+	{
+		"LABEL": "0x2B56",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...I guess it was about time for it to clear its name."
+	},
+	{
+		"LABEL": "0x2BA4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Well, not that I was expecting much from it..."
+	},
+	{
+		"LABEL": "0x2BD4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「POL!」"
+	},
+	{
+		"LABEL": "0x2BEB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Tell me about the fire alarm system set up in the <SHEEP III>.」"
+	},
+	{
+		"LABEL": "0x2C34",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【The fire detectors installed on the ship are photoelectric spot-type smoke detectors and thermostatic spot-type detectors.】"
+	},
+	{
+		"LABEL": "0x2C9A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【The former detects when the light source in the detector is diffusely reflected by smoke particles.】"
+	},
+	{
+		"LABEL": "0x2CE8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【The latter detects and reacts to temperatures above a certain level.】"
+	},
+	{
+		"LABEL": "0x2D20",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Which meant..."
+	},
+	{
+		"LABEL": "0x2D38",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If there were any smoke particles left, and the light was reflected diffusely by them,"
+	},
+	{
+		"LABEL": "0x2D7E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "the system would determine that a fire was present, and the sprinklers would activate."
+	},
+	{
+		"LABEL": "0x2DCF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If that was the case, and since the sprinklers turned off, there shouldn't be any smoke left out there."
+	},
+	{
+		"LABEL": "0x2E29",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "All the soporific smoke had been washed away...  Was it too soon to say that?"
+	},
+	{
+		"LABEL": "0x2E77",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Even if not, the concentration must have dropped significantly."
+	},
+	{
+		"LABEL": "0x2EB5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "....."
+	},
+	{
+		"LABEL": "0x2ECD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "All right."
+	},
+	{
+		"LABEL": "0x2F3E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yukari-san.」"
+	},
+	{
+		"LABEL": "0x2F56",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I think I'll go outside after all.」"
+	},
+	{
+		"LABEL": "0x2FF8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But...」"
+	},
+	{
+		"LABEL": "0x3017",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's fine.」"
+	},
+	{
+		"LABEL": "0x302F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She sounded worried, but I stopped her."
+	},
+	{
+		"LABEL": "0x3063",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I removed the nearest pillowcase and filled it with air from the room."
+	},
+	{
+		"LABEL": "0x30AD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It swelled up like a balloon."
+	},
+	{
+		"LABEL": "0x30D7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I'd heard this tidbit that if you breathed air from a plastic bag in a scene of a fire, it would last you around ten minutes."
+	},
+	{
+		"LABEL": "0x3141",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If there's any smoke left and I get dizzy, I'll use this as an oxygen tank.」"
+	},
+	{
+		"LABEL": "0x31A4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's just...」"
+	},
+	{
+		"LABEL": "0x31CB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Now that the sprinklers have stopped,"
+	},
+	{
+		"LABEL": "0x31F9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "there's no way to tell how long it'll take for the smoke concentration to drop any further.」"
+	},
+	{
+		"LABEL": "0x3266",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x3285",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari tried to continue her protest but couldn't say anything in the end."
+	},
+	{
+		"LABEL": "0x32C1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Now's the time.」"
+	},
+	{
+		"LABEL": "0x32DB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The right timing.」"
+	},
+	{
+		"LABEL": "0x3314",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x338B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Haah.」"
+	},
+	{
+		"LABEL": "0x33AA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We stared at each other for a moment until she sighed."
+	},
+	{
+		"LABEL": "0x3446",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...I'm sure you wouldn't listen even if I tried to stop you.」"
+	},
+	{
+		"LABEL": "0x3483",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Then――」"
+	},
+	{
+		"LABEL": "0x34AE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But I have one condition.」"
+	},
+	{
+		"LABEL": "0x34DF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Condition?」"
+	},
+	{
+		"LABEL": "0x3506",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yes.」"
+	},
+	{
+		"LABEL": "0x351C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm going with you.」"
+	},
+	{
+		"LABEL": "0x3542",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――If you run into the rescue team, it'll be better if I'm there to talk to them.」"
+	},
+	{
+		"LABEL": "0x35A3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I see...」"
+	},
+	{
+		"LABEL": "0x362D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Now that that's decided, let's go.」"
+	},
+	{
+		"LABEL": "0x365B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Let's hurry.」"
+	},
+	{
+		"LABEL": "0x3698",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari grabbed a nearby pillowcase and filled it with air as well."
+	},
+	{
+		"LABEL": "0x36DE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Our eyes met."
+	},
+	{
+		"LABEL": "0x3762",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x3781",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Silently, she nodded."
+	},
+	{
+		"LABEL": "0x37A1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I guess that meant she was ready."
+	},
+	{
+		"LABEL": "0x3842",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I put my hand on the door,"
+	},
+	{
+		"LABEL": "0x3864",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "and slowly,"
+	},
+	{
+		"LABEL": "0x387E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――opened it."
+	},
+	{
+		"LABEL": "0x38F9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x3913",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I leaned out and peeked into the hallway."
+	},
+	{
+		"LABEL": "0x3943",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...There was no one there."
+	},
+	{
+		"LABEL": "0x3963",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I couldn't see anything abnormal at first glance."
+	},
+	{
+		"LABEL": "0x3995",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And..."
+	},
+	{
+		"LABEL": "0x39AD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Timidly, I took a breath――"
+	},
+	{
+		"LABEL": "0x3A75",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――Kh!」"
+	},
+	{
+		"LABEL": "0x3A8F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――Instantly."
+	},
+	{
+		"LABEL": "0x3AA7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "My consciousness faded for a moment."
+	},
+	{
+		"LABEL": "0x3AC9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There was a numbing aroma."
+	},
+	{
+		"LABEL": "0x3AE9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I lost my footing."
+	},
+	{
+		"LABEL": "0x3B07",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I leaned on to the wall for support."
+	},
+	{
+		"LABEL": "0x3B2F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "My vision suddenly darkened, but I managed to hold out."
+	},
+	{
+		"LABEL": "0x3B80",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Are you okay?!」"
+	},
+	{
+		"LABEL": "0x3BA7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A voice called out to me from behind."
+	},
+	{
+		"LABEL": "0x3BC7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her unusually worried tone almost made me laugh inappropriately."
+	},
+	{
+		"LABEL": "0x3C0B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Was she always this worried about me?"
+	},
+	{
+		"LABEL": "0x3C61",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Y-Yeah...」"
+	},
+	{
+		"LABEL": "0x3C7F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Just a little dizzy, but I think I'll be fine.」"
+	},
+	{
+		"LABEL": "0x3CB7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「As long as I don't inhale too much...」"
+	},
+	{
+		"LABEL": "0x3CEB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I covered my mouth with the pillowcase in my right hand."
+	},
+	{
+		"LABEL": "0x3D21",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It made it a little easier to breathe."
+	},
+	{
+		"LABEL": "0x3D47",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There was still some smoke left, but it looked like it would work out somehow."
+	},
+	{
+		"LABEL": "0x3D7D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「As long as I have this, I'll be fine...」"
+	},
+	{
+		"LABEL": "0x3DB1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Let's go!」"
+	},
+	{
+		"LABEL": "0x3DCB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I stepped outside through the door."
+	},
+	{
+		"LABEL": "0x3DEF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Huh...?」"
+	},
+	{
+		"LABEL": "0x3E0B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Something felt off at my feet."
+	},
+	{
+		"LABEL": "0x3E31",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "When I looked, I saw clear water――"
+	},
+	{
+		"LABEL": "0x3EBA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――――Kh!」"
+	},
+	{
+		"LABEL": "0x3EF8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "For a moment, everything went dark."
+	},
+	{
+		"LABEL": "0x3F1E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Seeing the flooded hallway automatically reminded me of the rear section."
+	},
+	{
+		"LABEL": "0x3F5E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Shaking my head vigorously, I banished the bad memories."
+	},
+	{
+		"LABEL": "0x4067",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Katagiri-san?」"
+	},
+	{
+		"LABEL": "0x4088",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm fine.」"
+	},
+	{
+		"LABEL": "0x40A4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Deep breaths..."
+	},
+	{
+		"LABEL": "0x40BC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...Okay, no problem."
+	},
+	{
+		"LABEL": "0x40DE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That was probably just the water from the sprinklers, but was the drainage system not working?"
+	},
+	{
+		"LABEL": "0x4152",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "While I was thinking that, water seeped into my shoes."
+	},
+	{
+		"LABEL": "0x4194",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I was enveloped in a damp, unpleasant sensation, but I had no time to worry about that."
+	},
+	{
+		"LABEL": "0x41E8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "....."
+	},
+	{
+		"LABEL": "0x4200",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「This...」"
+	},
+	{
+		"LABEL": "0x4229",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Looks like there's nothing we can do about it.」"
+	},
+	{
+		"LABEL": "0x425A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I heard the sound of our footsteps every time we took a step."
+	},
+	{
+		"LABEL": "0x427C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "At this rate, we'd be found out in no time."
+	},
+	{
+		"LABEL": "0x42B4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We had already given up on hiding and were out in the open now..."
+	},
+	{
+		"LABEL": "0x42E8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...Not like we had the means to oppose them, but it was a matter of feeling."
+	},
+	{
+		"LABEL": "0x43A5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Now then..."
+	},
+	{
+		"LABEL": "0x43BB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What should we do?"
+	},
+	{
+		"LABEL": "0x43D7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There were two main options."
+	},
+	{
+		"LABEL": "0x43FD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Should we go back to the room where Reiri and Touri were, or should we go to Hiragino and Tokiwa?"
+	},
+	{
+		"LABEL": "0x4441",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I thought back to the twins from earlier."
+	},
+	{
+		"LABEL": "0x44E6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The two had already been put to sleep by someone."
+	},
+	{
+		"LABEL": "0x451C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We had left them in their room, but I wondered if they were okay."
+	},
+	{
+		"LABEL": "0x455E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It bothered me, but..."
+	},
+	{
+		"LABEL": "0x4588",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If someone wanted to hurt them,"
+	},
+	{
+		"LABEL": "0x45C4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "they would've done so already instead of leaving them lying there unattended."
+	},
+	{
+		"LABEL": "0x4622",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Considering they hadn't done that, shouldn't those two still be safe?"
+	},
+	{
+		"LABEL": "0x46E4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What do you think, Yukari-san?」"
+	},
+	{
+		"LABEL": "0x4774",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Well, let's see...」"
+	},
+	{
+		"LABEL": "0x4794",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm not sure about their intent to harm the twins any further after putting them to sleep.」"
+	},
+	{
+		"LABEL": "0x47F0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If we have the spare time to go check up on Reiri-san and Touri-san,"
+	},
+	{
+		"LABEL": "0x488F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "shouldn't we go tell Hiragino-sensei and Tokiwa-san about the situation as soon as possible instead?」"
+	},
+	{
+		"LABEL": "0x48E4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I completely agreed with her."
+	},
+	{
+		"LABEL": "0x4910",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The two of them were supposed to be on the third floor."
+	},
+	{
+		"LABEL": "0x4932",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I couldn't help but wonder what Hiragino and Tokiwa were doing right now."
+	},
+	{
+		"LABEL": "0x4996",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I directed my gaze automatically upward toward the third floor."
+	},
+	{
+		"LABEL": "0x49BE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "For a while now, I hadn't heard any footsteps other than ours."
+	},
+	{
+		"LABEL": "0x49F6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The floor itself was fairly spacious, so there was no telling for sure."
+	},
+	{
+		"LABEL": "0x4A44",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was highly likely that the owner of the footsteps that had walked off earlier was no longer on this floor."
+	},
+	{
+		"LABEL": "0x4A8E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If they went to the spiral staircase, it was natural to assume that they'd gone up."
+	},
+	{
+		"LABEL": "0x4AEC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Okay, let's go to the third floor.」"
+	},
+	{
+		"LABEL": "0x4B12",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「To the emergency room where those two are.」"
+	},
+	{
+		"LABEL": "0x4C1B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We immediately headed to the third floor."
+	},
+	{
+		"LABEL": "0x4C3B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "With all the water, I was worried that the automatic bulkhead might have activated, but my fears were unfounded."
+	},
+	{
+		"LABEL": "0x4CA7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Come to think of it, when Reiri had been strangled, the sprinklers were activated as well, but the bulkhead hadn't closed."
+	},
+	{
+		"LABEL": "0x4D11",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That said, it wasn't as flooded back then as it was now..."
+	},
+	{
+		"LABEL": "0x4D57",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Was it set up to not react to the sprinklers?"
+	},
+	{
+		"LABEL": "0x4D9B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Or was there something wrong with the system?"
+	},
+	{
+		"LABEL": "0x4DD5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In any case, even if the front section was divided here, there was nothing we could do about it."
+	},
+	{
+		"LABEL": "0x4E2F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That would have been dangerous..."
+	},
+	{
+		"LABEL": "0x4E55",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I climbed the stairs and listened closely."
+	},
+	{
+		"LABEL": "0x4EDE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x4EF8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――Silence."
+	},
+	{
+		"LABEL": "0x4F10",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There was no one there..."
+	},
+	{
+		"LABEL": "0x4F2E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...Or was there?"
+	},
+	{
+		"LABEL": "0x4F46",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "At the very least, I couldn't hear anything at all."
+	},
+	{
+		"LABEL": "0x4F70",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The sprinklers seemed to have been activated on the third floor as well, as the floor was thoroughly wet."
+	},
+	{
+		"LABEL": "0x4FBE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If someone moved somewhere, the sound should be enough to convey their presence, but..."
+	},
+	{
+		"LABEL": "0x5002",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's weird...」"
+	},
+	{
+		"LABEL": "0x508E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You're right... I'm worried.」"
+	},
+	{
+		"LABEL": "0x50B6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Let's head there quickly.」"
+	},
+	{
+		"LABEL": "0x5101",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari dashed toward the emergency room."
+	},
+	{
+		"LABEL": "0x512D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "How did she keep her balance on this wet and unstable floor so well?"
+	},
+	{
+		"LABEL": "0x5173",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Not to be outdone, I chased after her."
+	},
+	{
+		"LABEL": "0x51AA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hiragino-sensei!」"
+	},
+	{
+		"LABEL": "0x51CB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The emergency room."
+	},
+	{
+		"LABEL": "0x51E1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We arrived in front of the door."
+	},
+	{
+		"LABEL": "0x5201",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The walls were too thick for me to hear anything."
+	},
+	{
+		"LABEL": "0x522B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I couldn't tell if there was anyone inside."
+	},
+	{
+		"LABEL": "0x525D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino..."
+	},
+	{
+		"LABEL": "0x5273",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa..."
+	},
+	{
+		"LABEL": "0x528B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It had already been more than thirty minutes since we parted ways."
+	},
+	{
+		"LABEL": "0x52C3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Anything could have happened in that time."
+	},
+	{
+		"LABEL": "0x52FB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I couldn't be sure if the two of them were safe at all."
+	},
+	{
+		"LABEL": "0x539F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Sensei! Can you hear me?!」"
+	},
+	{
+		"LABEL": "0x53CE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari repeated herself in front of the door."
+	},
+	{
+		"LABEL": "0x53F0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Was she upset because there was no response?"
+	},
+	{
+		"LABEL": "0x5428",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yukari-san, calm down.」"
+	},
+	{
+		"LABEL": "0x5450",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Let's open the door.」"
+	},
+	{
+		"LABEL": "0x54DE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「!――――」"
+	},
+	{
+		"LABEL": "0x5557",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「O-Of course.」"
+	},
+	{
+		"LABEL": "0x5598",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Without waiting for me to pull my keycard out of my pocket, she pulled out her master key."
+	},
+	{
+		"LABEL": "0x55F8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She held it up to the door."
+	},
+	{
+		"LABEL": "0x5645",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The door opened with a light sound."
+	},
+	{
+		"LABEL": "0x566D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And when it did――"
+	},
+	{
+		"LABEL": "0x5734",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hiragino-sensei!」"
+	},
+	{
+		"LABEL": "0x5755",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "On the floor of the emergency room..."
+	},
+	{
+		"LABEL": "0x576F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...Was his large back, lying face down."
+	},
+	{
+		"LABEL": "0x5799",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "His white coat."
+	},
+	{
+		"LABEL": "0x57AD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari shook him to wake him up."
+	},
+	{
+		"LABEL": "0x5841",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Sensei! Sensei!」"
+	},
+	{
+		"LABEL": "0x5866",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hiragino-san!」"
+	},
+	{
+		"LABEL": "0x5891",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「....」"
+	},
+	{
+		"LABEL": "0x58AB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Aah...」"
+	},
+	{
+		"LABEL": "0x5986",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Sensei!」"
+	},
+	{
+		"LABEL": "0x59A8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "He looked dizzy, but he was still conscious."
+	},
+	{
+		"LABEL": "0x59D6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari let out a cry of joy as Hiragino opened his eyes."
+	},
+	{
+		"LABEL": "0x5A26",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Are you okay?!」"
+	},
+	{
+		"LABEL": "0x5A51",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Ugh...」"
+	},
+	{
+		"LABEL": "0x5A70",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "He only grunted in pain as if he had no idea what was going on."
+	},
+	{
+		"LABEL": "0x5AAC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However, when Yukari called out to him, he managed to produce some sort of reply."
+	},
+	{
+		"LABEL": "0x5AE8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I guess that was a relief for now."
+	},
+	{
+		"LABEL": "0x5B0C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――I was so engrossed in waking Hiragino up that I realized I'd taken the bag out of my mouth."
+	},
+	{
+		"LABEL": "0x5B6A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari had as well, and even after taking as many deep breaths as she had, there was no sign of anything wrong with her body."
+	},
+	{
+		"LABEL": "0x5BC8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It didn't smell as strong as before."
+	},
+	{
+		"LABEL": "0x5BF4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The emergency room didn't seem to be particularly contaminated."
+	},
+	{
+		"LABEL": "0x5C2A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari sat Hiragino up while holding him from behind."
+	},
+	{
+		"LABEL": "0x5C68",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I took another look around the room."
+	},
+	{
+		"LABEL": "0x5C98",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As far as I could tell, there was nothing out of the ordinary."
+	},
+	{
+		"LABEL": "0x5CCA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The room was tidy, and there was no sign of a scuffle."
+	},
+	{
+		"LABEL": "0x5D12",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If anything, it was dirtier yesterday when Tokiwa was messing around with Hiragino's desk――"
+	},
+	{
+		"LABEL": "0x5D74",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...By the way, where was Tokiwa?"
+	},
+	{
+		"LABEL": "0x5D9C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The girl in the dazzlingly colored kimono was nowhere to be seen."
+	},
+	{
+		"LABEL": "0x5DDE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The fact that I couldn't sense her overwhelming presence anywhere made me... uneasy."
+	},
+	{
+		"LABEL": "0x5E3A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Wake up, Hiragino-san.」"
+	},
+	{
+		"LABEL": "0x5E60",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Where the hell did Tokiwa go?」"
+	},
+	{
+		"LABEL": "0x5E9F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Dr...」"
+	},
+	{
+		"LABEL": "0x5EB7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Drugs...」"
+	},
+	{
+		"LABEL": "0x5ED4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――Drugs?"
+	},
+	{
+		"LABEL": "0x5EEA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino said so, deliriously."
+	},
+	{
+		"LABEL": "0x5F14",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Speaking of drugs..."
+	},
+	{
+		"LABEL": "0x5F30",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I rummaged through the pockets of the doctor's coat he was wearing."
+	},
+	{
+		"LABEL": "0x5F68",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I found a small ampule in the chest pocket."
+	},
+	{
+		"LABEL": "0x5F92",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was Reiri's medicine he had recovered yesterday."
+	},
+	{
+		"LABEL": "0x5FBA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A medicine she was said to take all the time, and which Hiragino, a doctor, knew nothing about."
+	},
+	{
+		"LABEL": "0x6016",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We still didn't know anything about it."
+	},
+	{
+		"LABEL": "0x60AE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Drugs...」"
+	},
+	{
+		"LABEL": "0x60C6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I was drugged...」"
+	},
+	{
+		"LABEL": "0x60ED",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The soporific smoke, huh?"
+	},
+	{
+		"LABEL": "0x6107",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Looked like he was put to sleep the same way I was."
+	},
+	{
+		"LABEL": "0x6155",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Still, I guess I should say I was lucky that I woke up so quickly."
+	},
+	{
+		"LABEL": "0x6195",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Maybe I hadn't inhaled much of the smoke at all."
+	},
+	{
+		"LABEL": "0x623B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I let my guard down... Me of all people...」"
+	},
+	{
+		"LABEL": "0x6270",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino regained his bearings in the meantime."
+	},
+	{
+		"LABEL": "0x62C5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What... time is it now?」"
+	},
+	{
+		"LABEL": "0x62EC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's past eight o'clock, looks like.」"
+	},
+	{
+		"LABEL": "0x6316",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I glanced at the clock on the wall and answered."
+	},
+	{
+		"LABEL": "0x6349",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――Where's Tokiwa-kun?」"
+	},
+	{
+		"LABEL": "0x6378",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「We didn't see her anywhere.」"
+	},
+	{
+		"LABEL": "0x640E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――What did you say?」"
+	},
+	{
+		"LABEL": "0x6435",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino tried to get up in surprise."
+	},
+	{
+		"LABEL": "0x6483",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However, he still couldn't put any strength into his body and leaned against Yukari."
+	},
+	{
+		"LABEL": "0x6596",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「So Tokiwa-kun is...」"
+	},
+	{
+		"LABEL": "0x65BD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...What in the hell happened?」"
+	},
+	{
+		"LABEL": "0x65F4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Right...」"
+	},
+	{
+		"LABEL": "0x660E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It was less than five minutes after you left.」"
+	},
+	{
+		"LABEL": "0x663F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「While I was investigating the rescue ship, leaving Tokiwa-kun behind in the room, I heard a sound from outside.」"
+	},
+	{
+		"LABEL": "0x6693",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Surprised, I exited the ship only to be greeted by a strong smell.」"
+	},
+	{
+		"LABEL": "0x66CF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I lost consciousness instantly.」"
+	},
+	{
+		"LABEL": "0x66FD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「All the way until now... I'm ashamed of myself.」"
+	},
+	{
+		"LABEL": "0x672E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "With that, he bowed his head."
+	},
+	{
+		"LABEL": "0x6754",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "His face contorted in frustration."
+	},
+	{
+		"LABEL": "0x6778",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Did you see anyone when you were put to sleep?」"
+	},
+	{
+		"LABEL": "0x6818",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「No... No one.」"
+	},
+	{
+		"LABEL": "0x6836",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I think some sort of sleeping agent was sprayed into the room from the outside.」"
+	},
+	{
+		"LABEL": "0x687A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's why I saw no one at all, let alone anyone's face.」"
+	},
+	{
+		"LABEL": "0x68BA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「To make matters worse, there was no one inside the rescue ship, either.」"
+	},
+	{
+		"LABEL": "0x68F8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm not sure what that means, but...」"
+	},
+	{
+		"LABEL": "0x693D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "They weren't inside the rescue ship, and they hadn't shown themselves inside the <SHEEP III> either."
+	},
+	{
+		"LABEL": "0x6982",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Where the hell was the rescue team, and what were they doing?"
+	},
+	{
+		"LABEL": "0x69BE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What the hell was ROMLES thinking?"
+	},
+	{
+		"LABEL": "0x6A24",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The more I thought about it, the less I understood."
+	},
+	{
+		"LABEL": "0x6A4E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I only had baseless hunches I could work with."
+	},
+	{
+		"LABEL": "0x6A80",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Shit!」"
+	},
+	{
+		"LABEL": "0x6A98",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No good."
+	},
+	{
+		"LABEL": "0x6AAE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There was no point in thinking about it."
+	},
+	{
+		"LABEL": "0x6ACE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There was something more important we had to do first."
+	},
+	{
+		"LABEL": "0x6B0C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Anyway, we need to find Tokiwa.」"
+	},
+	{
+		"LABEL": "0x6B3C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「How are you feeling, Hiragino-san?」"
+	},
+	{
+		"LABEL": "0x6BCC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Oh, I'm fine... "
+	},
+	{
+		"LABEL": "0x6C47",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Gh...」"
+	},
+	{
+		"LABEL": "0x6C77",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm sorry, I guess my head's still...」"
+	},
+	{
+		"LABEL": "0x6CA6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "He was awake now, but it looked like he was pushing his body still."
+	},
+	{
+		"LABEL": "0x6CF6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino clutched his head and leaned against the wall."
+	},
+	{
+		"LABEL": "0x6DF3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hiragino-sensei, here.」"
+	},
+	{
+		"LABEL": "0x6E1A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari handed him some xylitol tablets."
+	},
+	{
+		"LABEL": "0x6E5E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The same ones he was constantly chewing."
+	},
+	{
+		"LABEL": "0x6E90",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino took them and immediately popped one into his mouth."
+	},
+	{
+		"LABEL": "0x6EC8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yukari-san, how did you...?」"
+	},
+	{
+		"LABEL": "0x6F03",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「They were left on the desk there, unopened.」"
+	},
+	{
+		"LABEL": "0x6F55",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I don't carry these around with me if that's what you were thinking.」"
+	},
+	{
+		"LABEL": "0x7004",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Don't lump me in with you.」"
+	},
+	{
+		"LABEL": "0x7098",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Speaking rather quickly, Yukari turned her face away from him."
+	},
+	{
+		"LABEL": "0x70D8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her tone was harsh, but Hiragino didn't seem to mind at all. He took a deep breath with the tablets in hand."
+	},
+	{
+		"LABEL": "0x715D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It would be a waste of time to wait for me to recover.」"
+	},
+	{
+		"LABEL": "0x71EA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Can I leave the search for Tokiwa to you, Katagiri-kun?」"
+	},
+	{
+		"LABEL": "0x7224",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――As soon as I'm feeling better, I'll come after you.」"
+	},
+	{
+		"LABEL": "0x7253",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yeah, got it.」"
+	},
+	{
+		"LABEL": "0x7273",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Let's go, Yukari-san.」"
+	},
+	{
+		"LABEL": "0x7305",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Right. Hiragino-sensei, "
+	},
+	{
+		"LABEL": "0x737A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "don't push yourself too hard.」"
+	},
+	{
+		"LABEL": "0x739D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She spoke with worry in her voice."
+	},
+	{
+		"LABEL": "0x73F9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "He saw us off, and we left the emergency room."
+	},
+	{
+		"LABEL": "0x74C0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But... this was bad."
+	},
+	{
+		"LABEL": "0x74EA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I was still worried about Hiragino, but at least I knew where he was and that he was fully conscious."
+	},
+	{
+		"LABEL": "0x753A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "He also had his xylitol tablets with him, so he should recover in time."
+	},
+	{
+		"LABEL": "0x758C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "He should be able to provide a measure of resistance even now if someone were to come at him."
+	},
+	{
+		"LABEL": "0x763D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However――"
+	},
+	{
+		"LABEL": "0x76B2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――Tokiwa."
+	},
+	{
+		"LABEL": "0x76CC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I wanted to ask what the hell she was up to now, but this time it wasn't her fault."
+	},
+	{
+		"LABEL": "0x7716",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino said he was put to sleep by a sleeping agent."
+	},
+	{
+		"LABEL": "0x7756",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was safe to assume that whoever did that and the culprit who attacked Tokiwa were the same person."
+	},
+	{
+		"LABEL": "0x77AA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And considering that there was no one inside the rescue ship..."
+	},
+	{
+		"LABEL": "0x7869",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I cast a sidelong glance at Yukari."
+	},
+	{
+		"LABEL": "0x788D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There were deep wrinkles around her eyes as she held the makeshift pillowcase bag to her mouth."
+	},
+	{
+		"LABEL": "0x78DF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I felt bad for her, but the rescue team and ROMLES were getting increasingly suspicious."
+	},
+	{
+		"LABEL": "0x7929",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Where did they take Tokiwa?"
+	},
+	{
+		"LABEL": "0x7961",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Was there hope that she hadn't been killed yet? Or――"
+	},
+	{
+		"LABEL": "0x7A21",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Katagiri-san.」"
+	},
+	{
+		"LABEL": "0x7A40",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I turned around and met Yukari's eyes."
+	},
+	{
+		"LABEL": "0x7A6A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "My heart skipped a beat the moment my eyes met hers at the guilt of suspecting her colleagues."
+	},
+	{
+		"LABEL": "0x7ABA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Wh-What is it?」"
+	},
+	{
+		"LABEL": "0x7AE7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's important to find Tokiwa-san, of course, but we don't have any leads at the moment.」"
+	},
+	{
+		"LABEL": "0x7B4A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Well――」"
+	},
+	{
+		"LABEL": "0x7BD2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「So, I'd like to discuss it. Why don't we go check on the sisters first?」"
+	},
+	{
+		"LABEL": "0x7C38",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Putting Hiragino-sensei to sleep and taking Tokiwa-san away is way more forceful than I thought.」"
+	},
+	{
+		"LABEL": "0x7C96",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It would be more efficient to get those two into a safer environment since we know where they are.」"
+	},
+	{
+		"LABEL": "0x7CF5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That makes sense...」"
+	},
+	{
+		"LABEL": "0x7D11",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Touri and Reiri."
+	},
+	{
+		"LABEL": "0x7D2B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We had left them asleep in the crew room, but they weren't the kind of people who could stand their ground under pressure."
+	},
+	{
+		"LABEL": "0x7D93",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "With the two of them still asleep, they would be easily done in if they were to be harmed in any way."
+	},
+	{
+		"LABEL": "0x7DF1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「We can find out more about our culprit's attitude and movements if we go and check on the two of them.」"
+	},
+	{
+		"LABEL": "0x7E57",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Let's head to the second floor.」"
+	},
+	{
+		"LABEL": "0x7F49",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Our search continued with us running through the <SHEEP III>."
+	},
+	{
+		"LABEL": "0x7F96",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We hurried to Touri's and Reiri's room."
+	},
+	{
+		"LABEL": "0x802D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As usual, the room was tidy."
+	},
+	{
+		"LABEL": "0x8057",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There was no trace of anyone entering――"
+	},
+	{
+		"LABEL": "0x8094",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Katagiri-san!」"
+	},
+	{
+		"LABEL": "0x80B5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I turned around at Yukari's voice."
+	},
+	{
+		"LABEL": "0x8132",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She was pointing to the floor at her feet."
+	},
+	{
+		"LABEL": "0x8164",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And there..."
+	},
+	{
+		"LABEL": "0x817E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Footprints...」"
+	},
+	{
+		"LABEL": "0x81A7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's right.」"
+	},
+	{
+		"LABEL": "0x81C1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The last time we were here, these weren't here...」"
+	},
+	{
+		"LABEL": "0x81F6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Did that mean someone had walked along the flooded hallway and entered this room?"
+	},
+	{
+		"LABEL": "0x8246",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But in that case, why――"
+	},
+	{
+		"LABEL": "0x828C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――I continued and looked at the bed."
+	},
+	{
+		"LABEL": "0x82BA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Reiri...!」"
+	},
+	{
+		"LABEL": "0x82D6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She wasn't there."
+	},
+	{
+		"LABEL": "0x82EC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Touri was sleeping in the same position as before."
+	},
+	{
+		"LABEL": "0x8324",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But Reiri, who should have been lying right next to her, was nowhere to be seen."
+	},
+	{
+		"LABEL": "0x8362",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The spot where she was sleeping had a mark on the futon in the shape of her body."
+	},
+	{
+		"LABEL": "0x83A6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It spoke volumes about how she'd been there just a little while ago."
+	},
+	{
+		"LABEL": "0x83F9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Where has Reiri-san gone...?」"
+	},
+	{
+		"LABEL": "0x8420",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari reacted a little later."
+	},
+	{
+		"LABEL": "0x8444",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There was a hint of fatigue in her voice."
+	},
+	{
+		"LABEL": "0x84C9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I couldn't believe that not only Tokiwa, but now Reiri too, had disappeared."
+	},
+	{
+		"LABEL": "0x8501",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The rescue team was nowhere to be seen."
+	},
+	{
+		"LABEL": "0x8521",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The culprit, of course, was nowhere to be seen."
+	},
+	{
+		"LABEL": "0x85A8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The space available on this submarine was limited, even though it was equipped with state-of-the-art facilities for comfort."
+	},
+	{
+		"LABEL": "0x860E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And inside here, on the <SHEEP III>, this many people had gone missing in quick succession..."
+	},
+	{
+		"LABEL": "0x865D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It wasn't possible."
+	},
+	{
+		"LABEL": "0x8677",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Something that should have been impossible was happening."
+	},
+	{
+		"LABEL": "0x86A7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But, this was reality."
+	},
+	{
+		"LABEL": "0x86C1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "They say that something sleeps at the bottom of the deep sea, but I didn't find myself amused by that either."
+	},
+	{
+		"LABEL": "0x8766",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――There was something here."
+	},
+	{
+		"LABEL": "0x8784",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Something I didn't understand."
+	},
+	{
+		"LABEL": "0x87AE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I thought it might be someone's curse or something, but..."
+	},
+	{
+		"LABEL": "0x87E2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Otherwise, this would be strange."
+	},
+	{
+		"LABEL": "0x8818",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was weird..."
+	},
+	{
+		"LABEL": "0x8893",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There had to be some deranged reason."
+	},
+	{
+		"LABEL": "0x88B1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I didn't know what was right or wrong anymore."
+	},
+	{
+		"LABEL": "0x88ED",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Everything was suspicious."
+	},
+	{
+		"LABEL": "0x890B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Everything was irritating."
+	},
+	{
+		"LABEL": "0x892B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Why... Why was nothing going the way I wanted it to?"
+	},
+	{
+		"LABEL": "0x89C8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Reiri, too――"
+	},
+	{
+		"LABEL": "0x89E0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "How many times had she disappeared now?"
+	},
+	{
+		"LABEL": "0x8A71",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Not just her, but even Tokiwa."
+	},
+	{
+		"LABEL": "0x8AD5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The motionless "
+	},
+	{
+		"LABEL": "0x8BA9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Touri and Hiragino."
+	},
+	{
+		"LABEL": "0x8BC3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Weren't we supposed to be saved?"
+	},
+	{
+		"LABEL": "0x8C31",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The rescue ship came to our rescue,"
+	},
+	{
+		"LABEL": "0x8C4F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "and we were finally going to get out of this damn submarine..."
+	},
+	{
+		"LABEL": "0x8C7F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That's how it was supposed to be――"
+	},
+	{
+		"LABEL": "0x8CF8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yukari-san...」"
+	},
+	{
+		"LABEL": "0x8D14",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What's happening...?」"
+	},
+	{
+		"LABEL": "0x8DB4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I don't know.」"
+	},
+	{
+		"LABEL": "0x8DD7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Just what...」"
+	},
+	{
+		"LABEL": "0x8DF1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What the hell is this?」"
+	},
+	{
+		"LABEL": "0x8E28",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Katagiri-san...」"
+	},
+	{
+		"LABEL": "0x8E4B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "My voice trembled without me realizing it."
+	},
+	{
+		"LABEL": "0x8E73",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...I couldn't help it."
+	},
+	{
+		"LABEL": "0x8E99",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What did this all mean?"
+	},
+	{
+		"LABEL": "0x8EBB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Why were we going through this?"
+	},
+	{
+		"LABEL": "0x8EF7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The rescue team did come here, right?」"
+	},
+	{
+		"LABEL": "0x8F91",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...That's right.」"
+	},
+	{
+		"LABEL": "0x8FB8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Are you sure?」"
+	},
+	{
+		"LABEL": "0x903E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Huh?」"
+	},
+	{
+		"LABEL": "0x905B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She raised her voice, not understanding my question."
+	},
+	{
+		"LABEL": "0x909C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You saw it too, right?」"
+	},
+	{
+		"LABEL": "0x90CC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Not just the rescue ship, there was the diving suit too.」"
+	},
+	{
+		"LABEL": "0x9113",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――Are you sure that was the rescue team?」"
+	},
+	{
+		"LABEL": "0x91B1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...What do you mean by that?」"
+	},
+	{
+		"LABEL": "0x91DE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I understood what Yukari was trying to say."
+	},
+	{
+		"LABEL": "0x9206",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That was a rescue ship from ROMLES."
+	},
+	{
+		"LABEL": "0x922A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And a ROMLES rescue team had come to save us."
+	},
+	{
+		"LABEL": "0x9254",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But... was that actually true?"
+	},
+	{
+		"LABEL": "0x927A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If they really wanted to rescue us, they should've met up with us long ago.」"
+	},
+	{
+		"LABEL": "0x92C4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You know that, don't you, Yukari-san?」"
+	},
+	{
+		"LABEL": "0x9304",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It wasn't the rescue team that came here, but someone else.」"
+	},
+	{
+		"LABEL": "0x93BE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「....」"
+	},
+	{
+		"LABEL": "0x93DD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari fell silent."
+	},
+	{
+		"LABEL": "0x93F5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "While crossing her arms, what was she thinking about, I wondered."
+	},
+	{
+		"LABEL": "0x942F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "About the reason why the rescue team didn't show themselves?"
+	},
+	{
+		"LABEL": "0x9459",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "About the possibility of someone from the rescue team arriving on this ship?"
+	},
+	{
+		"LABEL": "0x948D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I didn't know."
+	},
+	{
+		"LABEL": "0x94A7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I didn't know, but――"
+	},
+	{
+		"LABEL": "0x94E3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――At that time."
+	},
+	{
+		"LABEL": "0x9671",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The lights――」"
+	},
+	{
+		"LABEL": "0x968D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And then,"
+	},
+	{
+		"LABEL": "0x96A5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "a flicker――"
+	},
+	{
+		"LABEL": "0x9894",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...A blackout?」"
+	},
+	{
+		"LABEL": "0x98B4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...Not again."
+	},
+	{
+		"LABEL": "0x98CE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I'd get even more annoyed if this kept up."
+	},
+	{
+		"LABEL": "0x9914",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A pale orange light immediately flashed on."
+	},
+	{
+		"LABEL": "0x9944",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The interior of the ship was dimly illuminated by a faint light."
+	},
+	{
+		"LABEL": "0x9980",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Still, what a terrible timing."
+	},
+	{
+		"LABEL": "0x99AE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Why now, in a situation like this...?"
+	},
+	{
+		"LABEL": "0x9A53",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「POL!」"
+	},
+	{
+		"LABEL": "0x9A6F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari immediately called for POL."
+	},
+	{
+		"LABEL": "0x9A92",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She no longer seemed to be deep in thought at all."
+	},
+	{
+		"LABEL": "0x9ACC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There was no response."
+	},
+	{
+		"LABEL": "0x9AEF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I knew it... We could never seem to use it when it counted."
+	},
+	{
+		"LABEL": "0x9B1F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I felt like I had just reevaluated it a moment ago, but this was why POL..."
+	},
+	{
+		"LABEL": "0x9B66",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――Suddenly, a doubt crossed my mind."
+	},
+	{
+		"LABEL": "0x9B92",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The power outage before was a prank by Reiri and Tokiwa...」"
+	},
+	{
+		"LABEL": "0x9C53",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...No way, did they do it again?」"
+	},
+	{
+		"LABEL": "0x9C7C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x9D11",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x9D30",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――No."
+	},
+	{
+		"LABEL": "0x9D48",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No, no. Of course not."
+	},
+	{
+		"LABEL": "0x9D82",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Even they wouldn't ignore the unconscious Touri and Hiragino to do something like that..."
+	},
+	{
+		"LABEL": "0x9DDE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...Right?"
+	},
+	{
+		"LABEL": "0x9DFA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "....."
+	},
+	{
+		"LABEL": "0x9E12",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Maybe?"
+	},
+	{
+		"LABEL": "0x9E30",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa wouldn't be able to contain herself in this darkness."
+	},
+	{
+		"LABEL": "0x9E7C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And Reiri wouldn't stop at just turning off the lights."
+	},
+	{
+		"LABEL": "0x9EBC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――Wait, just how little trust do I have in them?」"
+	},
+	{
+		"LABEL": "0x9F69",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「?」"
+	},
+	{
+		"LABEL": "0x9F82",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That's right."
+	},
+	{
+		"LABEL": "0x9F98",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Unlike the previous blackout, the emergency power supply activated this time."
+	},
+	{
+		"LABEL": "0x9FDC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Which meant there was a good chance it wasn't artificial, but a real blackout...?"
+	},
+	{
+		"LABEL": "0xA0A9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Let's split up.」"
+	},
+	{
+		"LABEL": "0xA0D1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'll search the wheelhouse, and you can search the first floor.」"
+	},
+	{
+		"LABEL": "0xA120",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's dangerous to split into two groups.」"
+	},
+	{
+		"LABEL": "0xA14A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Shouldn't we stick together?」"
+	},
+	{
+		"LABEL": "0xA1F7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Don't treat me like a child.」"
+	},
+	{
+		"LABEL": "0xA220",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "For some reason, Yukari sulked."
+	},
+	{
+		"LABEL": "0xA240",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "This wasn't the time for that, but..."
+	},
+	{
+		"LABEL": "0xA27C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「They got soporific smoke with them.」"
+	},
+	{
+		"LABEL": "0xA2A6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「And most likely, Tokiwa and Reiri are in their hands.」"
+	},
+	{
+		"LABEL": "0xA2E6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If something happens, we can't do anything by ourselves.」"
+	},
+	{
+		"LABEL": "0xA320",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Weren't you there to save me when I lost consciousness just earlier?」"
+	},
+	{
+		"LABEL": "0xA3E7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...You're certainly right.」"
+	},
+	{
+		"LABEL": "0xA47B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Sorry... I seem to be losing my head a bit.」"
+	},
+	{
+		"LABEL": "0xA4B8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari must have been feeling pretty weak to admit her own fault right away."
+	},
+	{
+		"LABEL": "0xA502",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Since Hiragino wasn't here yet, she must be under a lot of pressure as the only one in charge."
+	},
+	{
+		"LABEL": "0xA56E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Should we head back to the wheelhouse for now?」"
+	},
+	{
+		"LABEL": "0xA625",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「No... Don't worry about me.」"
+	},
+	{
+		"LABEL": "0xA653",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's dim, but let's go down to the first floor.」"
+	},
+	{
+		"LABEL": "0xA68C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It didn't look like she was going to back down."
+	},
+	{
+		"LABEL": "0xA6B2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There was no need to make her rest against her will."
+	},
+	{
+		"LABEL": "0xA6F0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If we didn't find Tokiwa and Reiri soon..."
+	},
+	{
+		"LABEL": "0xA7A4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We descended the spiral staircase in the darkness."
+	},
+	{
+		"LABEL": "0xA8F6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari and I descended to the first floor."
+	},
+	{
+		"LABEL": "0xA91C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The hallway was dimly lit."
+	},
+	{
+		"LABEL": "0xA936",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The water level down here was even higher than on the upper floors."
+	},
+	{
+		"LABEL": "0xA988",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Now, where should we start...」"
+	},
+	{
+		"LABEL": "0xA9C9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Huh?」"
+	},
+	{
+		"LABEL": "0xA9E6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari let out a strange voice."
+	},
+	{
+		"LABEL": "0xAAB7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "When I turned around, her eyes were open wide in agitation."
+	},
+	{
+		"LABEL": "0xAB6C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Katagiri-san!」"
+	},
+	{
+		"LABEL": "0xAB88",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Look at the bridge!」"
+	},
+	{
+		"LABEL": "0xABB7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The bridge...?」"
+	},
+	{
+		"LABEL": "0xABF1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I followed her suggestion and faced the bridge."
+	},
+	{
+		"LABEL": "0xAC30",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The watertight door over there... Did we leave it open?」"
+	},
+	{
+		"LABEL": "0xAC7B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The door, which should have separated the front and rear sections, was now open, and seawater was flowing through to the bridge."
+	},
+	{
+		"LABEL": "0xACF7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That door did seem to be closed the last time I saw it..."
+	},
+	{
+		"LABEL": "0xAD39",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Any ideas, Yukari-san?」"
+	},
+	{
+		"LABEL": "0xADD1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「No...」"
+	},
+	{
+		"LABEL": "0xADED",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I wanted to ask you that.」"
+	},
+	{
+		"LABEL": "0xAE30",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What was the meaning of this...?"
+	},
+	{
+		"LABEL": "0xAE52",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Did someone open the door to the rear section...?"
+	},
+	{
+		"LABEL": "0xAE90",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But if that was it, then who?"
+	},
+	{
+		"LABEL": "0xAED3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――It all happened suddenly."
+	},
+	{
+		"LABEL": "0xAFD7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Uwaaah...!!」"
+	},
+	{
+		"LABEL": "0xB0BA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A low cry could be heard in the distance."
+	},
+	{
+		"LABEL": "0xB0E6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was a man's voice."
+	},
+	{
+		"LABEL": "0xB0FC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But it was not Hiragino's..."
+	},
+	{
+		"LABEL": "0xB122",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Then whose was it?!"
+	},
+	{
+		"LABEL": "0xB1A4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yukari-san――」"
+	},
+	{
+		"LABEL": "0xB23B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Let's go!」"
+	},
+	{
+		"LABEL": "0xB27A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She rushed ahead as soon as she said that."
+	},
+	{
+		"LABEL": "0xB29C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As the water splashed beneath our feet, we headed in the direction of the shout."
+	},
+	{
+		"LABEL": "0xB2DE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We ran down the dimly lit hallway."
+	},
+	{
+		"LABEL": "0xB300",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As I ran, I could feel myself getting excited."
+	},
+	{
+		"LABEL": "0xB332",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "\"Someone\" was there."
+	},
+	{
+		"LABEL": "0xB350",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Someone we hadn't seen before."
+	},
+	{
+		"LABEL": "0xB382",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I couldn't even tell if they were an ally or an enemy."
+	},
+	{
+		"LABEL": "0xB3BE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...However, meeting them would definitely get us moving forward."
+	},
+	{
+		"LABEL": "0xB400",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There's got to be some kind of a lead..."
+	},
+	{
+		"LABEL": "0xB422",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――All of this would finally be over!!"
+	},
+	{
+		"LABEL": "0xB448",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Unable to suppress my pounding heart, I was running out of breath."
+	},
+	{
+		"LABEL": "0xB4DD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And――"
+	},
+	{
+		"LABEL": "0xB595",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What gradually came into view..."
+	},
+	{
+		"LABEL": "0xB65D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Was a human form "
+	},
+	{
+		"LABEL": "0xB670",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "emitting light."
+	},
+	{
+		"LABEL": "0xB6A4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Wha...」"
+	},
+	{
+		"LABEL": "0xB6CD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「....」"
+	},
+	{
+		"LABEL": "0xB6EC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What the hell was this?"
+	},
+	{
+		"LABEL": "0xB70A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was something in the shape of a human body, emitting light."
+	},
+	{
+		"LABEL": "0xB736",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The lights ranged from as dim as a firefly,"
+	},
+	{
+		"LABEL": "0xB764",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "to as vivid as a neon sign."
+	},
+	{
+		"LABEL": "0xB79C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "They were colors I'd never seen before."
+	},
+	{
+		"LABEL": "0xB7BE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A luminescent pattern I'd never seen before."
+	},
+	{
+		"LABEL": "0xB7E8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I had never seen light like this on the surface, let alone in the deep sea."
+	},
+	{
+		"LABEL": "0xB820",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――Unknown colors."
+	},
+	{
+		"LABEL": "0xB83E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That was the only way to describe it."
+	},
+	{
+		"LABEL": "0xB866",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A sinister yet divine light,"
+	},
+	{
+		"LABEL": "0xB886",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "that didn't resemble anything else."
+	},
+	{
+		"LABEL": "0xB8AC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I could feel myself get captivated by the strange humanoid form."
+	},
+	{
+		"LABEL": "0xB978",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And, standing in front of it"
+	},
+	{
+		"LABEL": "0xB990",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "with their feet submerged in the water"
+	},
+	{
+		"LABEL": "0xB9B8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "were Tokiwa and Reiri."
+	},
+	{
+		"LABEL": "0xBAA1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0xBACA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0xBAE9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The two of them stood still."
+	},
+	{
+		"LABEL": "0xBB09",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was as if they were being bathed in the divine light before them."
+	},
+	{
+		"LABEL": "0xBB45",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The composition was complete, like a single painting."
+	},
+	{
+		"LABEL": "0xBB75",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Two unmoving people and a humanoid figure."
+	},
+	{
+		"LABEL": "0xBB99",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Neither Yukari nor I could say a word."
+	},
+	{
+		"LABEL": "0xBBCB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Time had frozen."
+	},
+	{
+		"LABEL": "0xBBE7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I had a feeling like this moment would last forever."
+	},
+	{
+		"LABEL": "0xBCAF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But..."
+	},
+	{
+		"LABEL": "0xBCC5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It all happened in an instant."
+	},
+	{
+		"LABEL": "0xBD8D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The light moved."
+	},
+	{
+		"LABEL": "0xBDA9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The humanoid form crumbled."
+	},
+	{
+		"LABEL": "0xBDC7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――Yukari moved immediately."
+	},
+	{
+		"LABEL": "0xBF13",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――Run away!」"
+	},
+	{
+		"LABEL": "0xBF39",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hurry!」"
+	},
+	{
+		"LABEL": "0xBF58",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She screamed."
+	},
+	{
+		"LABEL": "0xBF6C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There was not a shred of her usual rationale left."
+	},
+	{
+		"LABEL": "0xBFA4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Oozing out from the shadows, was light."
+	},
+	{
+		"LABEL": "0xBFCE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It headed toward Reiri and Tokiwa."
+	},
+	{
+		"LABEL": "0xBFFA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari stood in its way as if trying to block it."
+	},
+	{
+		"LABEL": "0xC02C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But――"
+	},
+	{
+		"LABEL": "0xC0BD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――Huh?」"
+	},
+	{
+		"LABEL": "0xC0D7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The oozing light bypassed her as if it had a will of its own."
+	},
+	{
+		"LABEL": "0xC11D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The light continued straight toward Reiri, now free of any obstructions."
+	},
+	{
+		"LABEL": "0xC2A5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The two of them stood still as it approached――"
+	},
+	{
+		"LABEL": "0xC2E9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...I didn't like where this was going."
+	},
+	{
+		"LABEL": "0xC31A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Run!」"
+	},
+	{
+		"LABEL": "0xC339",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A desperate scream."
+	},
+	{
+		"LABEL": "0xC35B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The tone of her voice was hopeless."
+	},
+	{
+		"LABEL": "0xC4BF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Why aren't you two moving?!」"
+	},
+	{
+		"LABEL": "0xC4F2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――Katagiri-san!」"
+	},
+	{
+		"LABEL": "0xC533",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――I didn't need to be told."
+	},
+	{
+		"LABEL": "0xC5C5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Without replying, I broke into a run."
+	},
+	{
+		"LABEL": "0xC5FF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I had to save them."
+	},
+	{
+		"LABEL": "0xC61B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I was the only one who could."
+	},
+	{
+		"LABEL": "0xC78F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As quickly as I could,"
+	},
+	{
+		"LABEL": "0xC7A3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I"
+	},
+	{
+		"LABEL": "0xC7B9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "ran up to them"
+	},
+	{
+		"LABEL": "0xC7D1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "and reached out..."
+	},
+	{
+		"LABEL": "0xCA3A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――And grabbed"
+	},
+	{
+		"LABEL": "0xCA53",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": " Reiri's hand."
+	},
+	{
+		"LABEL": "0xCC5A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――And grabbed"
+	},
+	{
+		"LABEL": "0xCC75",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": " Tokiwa's hand."
+	}
+]

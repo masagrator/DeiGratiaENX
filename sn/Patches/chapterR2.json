@@ -1,0 +1,2534 @@
+[
+	{
+		"LABEL": "0x31F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――A plan."
+	},
+	{
+		"LABEL": "0x337",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That somewhat cliched word had an uncanny ring to it."
+	},
+	{
+		"LABEL": "0x37B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We had to come up with a plan."
+	},
+	{
+		"LABEL": "0x3AB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A plan on how to deal with <COOS>, that light."
+	},
+	{
+		"LABEL": "0x3D7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "For the sake of saving Tokiwa from our unknown enemy."
+	},
+	{
+		"LABEL": "0x487",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I know I'm being obstinate, but let me ask again.」"
+	},
+	{
+		"LABEL": "0x4C3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Please, be honest. If you've ever come into contact with that \"light,\" raise your hand.」"
+	},
+	{
+		"LABEL": "0x53C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No one raised their hand."
+	},
+	{
+		"LABEL": "0x61A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Touri was tilting her head in wonder... Right."
+	},
+	{
+		"LABEL": "0x650",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The only people who saw it were me, Yukari, and Reiri――"
+	},
+	{
+		"LABEL": "0x68E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Touri and Hiragino still didn't know about that light which made me shudder just remembering it."
+	},
+	{
+		"LABEL": "0x725",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「No one's been in contact with it... Thank goodness.」"
+	},
+	{
+		"LABEL": "0x758",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari sighed in relief."
+	},
+	{
+		"LABEL": "0x7E7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yukari-san...?」"
+	},
+	{
+		"LABEL": "0x814",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Ah... Excuse me.」"
+	},
+	{
+		"LABEL": "0x897",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Let's get right to the point. First, let's confirm the premise.」"
+	},
+	{
+		"LABEL": "0x8E0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari continued."
+	},
+	{
+		"LABEL": "0x902",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――However, the words she uttered were not ones I found acceptable."
+	},
+	{
+		"LABEL": "0x977",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「In the future, if anyone is touched by that light――」"
+	},
+	{
+		"LABEL": "0x9B7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「We'll have to abandon that person.」"
+	},
+	{
+		"LABEL": "0x9F4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We would abandon them merely because they had touched the \"light?\""
+	},
+	{
+		"LABEL": "0xA20",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Not bitten, not exposed to bodily fluids, just touched..."
+	},
+	{
+		"LABEL": "0xA6A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But then, what about her?"
+	},
+	{
+		"LABEL": "0xA9C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari cast her eyes downward."
+	},
+	{
+		"LABEL": "0xB24",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It might sound too cruel.」"
+	},
+	{
+		"LABEL": "0xB58",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But that's the one point I cannot concede. If you touch the light, that's it.」"
+	},
+	{
+		"LABEL": "0xC05",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Moving on――」"
+	},
+	{
+		"LABEL": "0xC38",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「No, I can't accept that.」"
+	},
+	{
+		"LABEL": "0xC63",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino's low voice interrupted her."
+	},
+	{
+		"LABEL": "0xD56",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「From the way you're talking, we're not going to die just from touching it, right?」"
+	},
+	{
+		"LABEL": "0xDA2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I don't care how little hope there is for that person.」"
+	},
+	{
+		"LABEL": "0xDDA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I won't abandon someone if there's a chance to save them.」"
+	},
+	{
+		"LABEL": "0xE2B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0xE4A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari hesitated at his straightforward words."
+	},
+	{
+		"LABEL": "0xE76",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She slowly opened her mouth, choosing her words carefully."
+	},
+	{
+		"LABEL": "0xF1C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hiragino-sensei, you would know why the plague spread, right?」"
+	},
+	{
+		"LABEL": "0xFD8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...What?」"
+	},
+	{
+		"LABEL": "0x1001",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The plague, or the Ebola disaster of 20 years ago...」"
+	},
+	{
+		"LABEL": "0x1096",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The common cause for the outbreak were \"characters without knowledge.\"」"
+	},
+	{
+		"LABEL": "0x10DD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Characters without knowledge...?"
+	},
+	{
+		"LABEL": "0x1128",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「People reached out to those who were sick.」"
+	},
+	{
+		"LABEL": "0x116C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「They knew nothing, they could do nothing to help,"
+	},
+	{
+		"LABEL": "0x11AC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "and only helped destroy themselves and society with their ignorance...」"
+	},
+	{
+		"LABEL": "0x125C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...What does that \"light\" have to do with that?」"
+	},
+	{
+		"LABEL": "0x12A9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's the same thing with the \"light.\"」"
+	},
+	{
+		"LABEL": "0x12D5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Once it touches you, there's no cure――」"
+	},
+	{
+		"LABEL": "0x130B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「In the event of an infection, you must be quarantined to prevent further spreading.」"
+	},
+	{
+		"LABEL": "0x135B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's the only thing we can do.」"
+	},
+	{
+		"LABEL": "0x139C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "All we could do was prevent the infection from spreading."
+	},
+	{
+		"LABEL": "0x13D6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We couldn't fight against it or destroy it. We could only try and keep the damage to a minimum."
+	},
+	{
+		"LABEL": "0x1428",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――It was a declaration of defeat of sorts."
+	},
+	{
+		"LABEL": "0x1469",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I see what you're going for with this plague metaphor...」"
+	},
+	{
+		"LABEL": "0x14A7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「However, things are different from back then.」"
+	},
+	{
+		"LABEL": "0x14D7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「This ship may be limited in scale, but it's loaded with advanced medical equipment. There's even an MRI.」"
+	},
+	{
+		"LABEL": "0x15AA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What's your point?」"
+	},
+	{
+		"LABEL": "0x15D6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Even back then, there were medical experts working on it.」"
+	},
+	{
+		"LABEL": "0x1626",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But, they came up short――」"
+	},
+	{
+		"LABEL": "0x1652",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's the same with us...」"
+	},
+	{
+		"LABEL": "0x16D7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Do you understand now?」"
+	},
+	{
+		"LABEL": "0x1710",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x172F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino was unable to answer her and fell silent."
+	},
+	{
+		"LABEL": "0x17A5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was something beyond the reach of modern medicine."
+	},
+	{
+		"LABEL": "0x17CD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "An unknown, mysterious light that we had no way of dealing with."
+	},
+	{
+		"LABEL": "0x1877",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What matters is that as many people as possible survive.」"
+	},
+	{
+		"LABEL": "0x18BE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「As many as possible...」"
+	},
+	{
+		"LABEL": "0x18F1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Exactly.」"
+	},
+	{
+		"LABEL": "0x190F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「As many as possible. And in order to do that, everyone has to share that as their ultimate goal.」"
+	},
+	{
+		"LABEL": "0x195F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「For that goal, we have to make the right decisions and act accordingly.」"
+	},
+	{
+		"LABEL": "0x19FA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Let me repeat myself. If anyone touches that \"light\" even once, they will be abandoned.」"
+	},
+	{
+		"LABEL": "0x1A4E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Also, anyone touched by it should go into quarantine by themselves.」"
+	},
+	{
+		"LABEL": "0x1A90",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's the bare minimum rules we have to follow.」"
+	},
+	{
+		"LABEL": "0x1ACB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her words... were reasonable, but... was it okay for me to accept them?"
+	},
+	{
+		"LABEL": "0x1B1D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was as if she had already given up on all of us making it out alive――"
+	},
+	{
+		"LABEL": "0x1C22",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What does that mean, Yukari-san...?」"
+	},
+	{
+		"LABEL": "0x1C54",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What about Tokiwa-chan? She was already touched by it, right?」"
+	},
+	{
+		"LABEL": "0x1C9E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「How are we going to save her?」"
+	},
+	{
+		"LABEL": "0x1CD7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No one answered Touri's question."
+	},
+	{
+		"LABEL": "0x1D07",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She was swallowed by the light because I hadn't reached out to her."
+	},
+	{
+		"LABEL": "0x1DB7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...I didn't want to say this, but...」"
+	},
+	{
+		"LABEL": "0x1DE1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Even if you see her body, please make sure not to touch her.」"
+	},
+	{
+		"LABEL": "0x1E9F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「So... You're just going to abandon her!?」"
+	},
+	{
+		"LABEL": "0x1EF1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's not what you said!」"
+	},
+	{
+		"LABEL": "0x1F24",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm not abandoning her.」"
+	},
+	{
+		"LABEL": "0x1F50",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's just a plan to prevent further infection from spreading.」"
+	},
+	{
+		"LABEL": "0x1F92",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「We'll do the best we can within that context.」"
+	},
+	{
+		"LABEL": "0x1FC6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...But the chances of survival after being attacked by <COOS> are slim――」"
+	},
+	{
+		"LABEL": "0x2080",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Wh...」"
+	},
+	{
+		"LABEL": "0x209F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Touri was struck speechless."
+	},
+	{
+		"LABEL": "0x20FD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She slowly turned around, asking for help."
+	},
+	{
+		"LABEL": "0x2131",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x214B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She could say nothing, and I had no words to offer to her."
+	},
+	{
+		"LABEL": "0x21F5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Momoi, you should choose your words more carefully――」"
+	},
+	{
+		"LABEL": "0x2232",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I am. Besides――」"
+	},
+	{
+		"LABEL": "0x22CB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Besides, changing the words won't change the truth.」"
+	},
+	{
+		"LABEL": "0x2312",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari maintained her strong tone but lowered her eyes to her feet."
+	},
+	{
+		"LABEL": "0x237B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「We have to accept that.」"
+	},
+	{
+		"LABEL": "0x23B6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We had to accept it. The truth."
+	},
+	{
+		"LABEL": "0x23E8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was almost as if she was trying to convince herself."
+	},
+	{
+		"LABEL": "0x2422",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However, Touri didn't have the composure to be aware of Yukari's thoughts and feelings."
+	},
+	{
+		"LABEL": "0x252D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Liar.」"
+	},
+	{
+		"LABEL": "0x25B5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...I'm not lying.」"
+	},
+	{
+		"LABEL": "0x25EC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But, you said we'd save Tokiwa-chan――」"
+	},
+	{
+		"LABEL": "0x263B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I simply said I would do everything in my power to get us out of here.」"
+	},
+	{
+		"LABEL": "0x2682",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "To bring as many people as possible back alive."
+	},
+	{
+		"LABEL": "0x26AC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What was needed for that was rational judgments and rational sacrifices."
+	},
+	{
+		"LABEL": "0x26EA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「For the best result we can reach right now...」"
+	},
+	{
+		"LABEL": "0x272D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Exactly.」"
+	},
+	{
+		"LABEL": "0x274B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「There's only so much we can do now.」"
+	},
+	{
+		"LABEL": "0x277D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「We'll do the best we can with a proper understanding of our current situation.」"
+	},
+	{
+		"LABEL": "0x2818",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If you can't promise me that, then I can't give you information about <COOS>.」"
+	},
+	{
+		"LABEL": "0x2879",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her sharp tone, which was often meant for Hiragino or me, was now directed at Touri."
+	},
+	{
+		"LABEL": "0x28C5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Even Touri should know that Yukari was right."
+	},
+	{
+		"LABEL": "0x2905",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But, she probably couldn't accept it."
+	},
+	{
+		"LABEL": "0x2969",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And most importantly... She hadn't seen that scene, that moment."
+	},
+	{
+		"LABEL": "0x2A60",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The overwhelming light."
+	},
+	{
+		"LABEL": "0x2A7A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The girl standing there in her kimono."
+	},
+	{
+		"LABEL": "0x2A98",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As she was swallowed up by a vortex of light――"
+	},
+	{
+		"LABEL": "0x2B3F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Geez.」"
+	},
+	{
+		"LABEL": "0x2B62",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And so, she was the one who spoke up in the end."
+	},
+	{
+		"LABEL": "0x2CAC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Aren't you all being too nice?」"
+	},
+	{
+		"LABEL": "0x2CE6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...You know we don't have time for this, right?」"
+	},
+	{
+		"LABEL": "0x2D24",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Didn't she say so, too?」"
+	},
+	{
+		"LABEL": "0x2D50",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「\"Characters without knowledge.\"」"
+	},
+	{
+		"LABEL": "0x2D7D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What we need right now is an accurate perception.」"
+	},
+	{
+		"LABEL": "0x2DBA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's true, but...」"
+	},
+	{
+		"LABEL": "0x2DED",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Reiri tapped on the wall with her fingers continuously as she talked."
+	},
+	{
+		"LABEL": "0x2E29",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The sound of it echoed inside the room like it was cornering us."
+	},
+	{
+		"LABEL": "0x2E77",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In a low and playful voice, she addressed us."
+	},
+	{
+		"LABEL": "0x2F78",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Let me rephrase it for Touri's sake.」"
+	},
+	{
+		"LABEL": "0x2FA6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Saihouji Tokiwa was attacked by a luminescent organism called <COOS> and died.」"
+	},
+	{
+		"LABEL": "0x305E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――――」"
+	},
+	{
+		"LABEL": "0x307D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hey――」"
+	},
+	{
+		"LABEL": "0x30A6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「She may look alive, but she's already as good as dead.」"
+	},
+	{
+		"LABEL": "0x30E4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Even if she still lives, she won't survive.」"
+	},
+	{
+		"LABEL": "0x312A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Do you understand now, Nee-san?」"
+	},
+	{
+		"LABEL": "0x3161",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「No way...」"
+	},
+	{
+		"LABEL": "0x31BA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Touri finally slumped her shoulders before Reiri, who showed no concern or restraint."
+	},
+	{
+		"LABEL": "0x3208",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――She spoke of the things we couldn't."
+	},
+	{
+		"LABEL": "0x324E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She turned away from Touri's downcast demeanor and cast her eyes down."
+	},
+	{
+		"LABEL": "0x32A8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「She's dead... Which means...」"
+	},
+	{
+		"LABEL": "0x32D8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...I guess it wasn't <Alice> after all.」"
+	},
+	{
+		"LABEL": "0x3317",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "<Alice>..."
+	},
+	{
+		"LABEL": "0x3333",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Reiri muttered to herself."
+	},
+	{
+		"LABEL": "0x3353",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That word lingered in my ears."
+	},
+	{
+		"LABEL": "0x3385",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――Tokiwa wasn't <Alice>?"
+	},
+	{
+		"LABEL": "0x33B3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What exactly was <Alice>?"
+	},
+	{
+		"LABEL": "0x3452",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Now then... Let's continue.」"
+	},
+	{
+		"LABEL": "0x3478",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The doctor has no objections, right?」"
+	},
+	{
+		"LABEL": "0x3510",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...I don't.」"
+	},
+	{
+		"LABEL": "0x3587",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「However, as soon as we find her, I want to confirm whether she's alive or dead.」"
+	},
+	{
+		"LABEL": "0x35CE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hiragino-san...」"
+	},
+	{
+		"LABEL": "0x35EC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Had he not lost hope for Tokiwa's survival yet?"
+	},
+	{
+		"LABEL": "0x3628",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Reiri raised her eyebrows in amusement."
+	},
+	{
+		"LABEL": "0x3661",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm not doubting Reiri-kun or Momoi.」"
+	},
+	{
+		"LABEL": "0x3697",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm just a man who doesn't believe something until I see it...」"
+	},
+	{
+		"LABEL": "0x36E1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I have no objections with quarantine as long as I know they're alive.」"
+	},
+	{
+		"LABEL": "0x378F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「\"Blessed is the man who does not see and yet believes.\"」"
+	},
+	{
+		"LABEL": "0x3820",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Well, whatever. It's not up to me to be the judge.」"
+	},
+	{
+		"LABEL": "0x389B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari nodded her head in agreement with Reiri's words."
+	},
+	{
+		"LABEL": "0x3937",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Okay. As soon as we find Tokiwa-san, Hiragino-sensei will confirm whether she's alive or dead.」"
+	},
+	{
+		"LABEL": "0x398F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「In that case, it's safe to assume that an agreement has been reached, correct?」"
+	},
+	{
+		"LABEL": "0x39D0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No one objected."
+	},
+	{
+		"LABEL": "0x39FA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari looked up again resolutely."
+	},
+	{
+		"LABEL": "0x3A3B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Let's go over what we've just talked about.」"
+	},
+	{
+		"LABEL": "0x3A61",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Our goal is to get as many people alive off this ship as possible.」"
+	},
+	{
+		"LABEL": "0x3AB5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「In other words, destroying that creature within the ship――」"
+	},
+	{
+		"LABEL": "0x3B09",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「And to stop its contamination and find a path for us to escape.」"
+	},
+	{
+		"LABEL": "0x3BB0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...First, we must exterminate that creature.」"
+	},
+	{
+		"LABEL": "0x3BE5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A shared objective."
+	},
+	{
+		"LABEL": "0x3C03",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A plan to defeat that \"light.\""
+	},
+	{
+		"LABEL": "0x3C2D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Let me ask you something.」"
+	},
+	{
+		"LABEL": "0x3C57",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That \"light\"... <COOS>, headed straight for Tokiwa.」"
+	},
+	{
+		"LABEL": "0x3CA1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It was like it had locked onto her and didn't even consider anyone else.」"
+	},
+	{
+		"LABEL": "0x3CF1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Is it really possible for deep-sea creatures to grasp the location of their prey so precisely just through sight?」"
+	},
+	{
+		"LABEL": "0x3D49",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What senses does <COOS> use in the first place?」"
+	},
+	{
+		"LABEL": "0x3D99",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The scene replayed over and over again in my mind."
+	},
+	{
+		"LABEL": "0x3DCD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Those \"lights\" sensed her position immediately and attacked her."
+	},
+	{
+		"LABEL": "0x3E19",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "They had attacked in a group like a disciplined army."
+	},
+	{
+		"LABEL": "0x3EE3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'll answer you... But first, let me correct you on one point.」"
+	},
+	{
+		"LABEL": "0x3F2F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Those creatures are not <COOS> themselves.」"
+	},
+	{
+		"LABEL": "0x3F7E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What?」"
+	},
+	{
+		"LABEL": "0x3FA3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The creatures that swarmed and attacked Tokiwa-san earlier were \"infected\" with <COOS>.」"
+	},
+	{
+		"LABEL": "0x4004",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Are you saying that <COOS> is a pathogen?」"
+	},
+	{
+		"LABEL": "0x40A6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「No... Their movement is certainly governed by something akin to the behavioral principles of <COOS>...」"
+	},
+	{
+		"LABEL": "0x4108",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But, they've basically been hijacked... Or maybe brainwashed... Umm...」"
+	},
+	{
+		"LABEL": "0x41AF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Sorry. Let me gather my thoughts.」"
+	},
+	{
+		"LABEL": "0x41EE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She then began to ponder something."
+	},
+	{
+		"LABEL": "0x421E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It infected you, took over your mind, and controlled your behavior...?"
+	},
+	{
+		"LABEL": "0x4258",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was like a myth I had heard a long time ago about a parasite living in the Amazon."
+	},
+	{
+		"LABEL": "0x4310",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I don't know if I can convey it correctly, but...」"
+	},
+	{
+		"LABEL": "0x4348",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The simplest way to put it would be to say that they're a collective life form.」"
+	},
+	{
+		"LABEL": "0x43A3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Is it different from creatures that just flock together?」"
+	},
+	{
+		"LABEL": "0x4453",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's completely different, so let me explain.」"
+	},
+	{
+		"LABEL": "0x4480",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari raised a finger and switched to lecture mode for the first time in a while."
+	},
+	{
+		"LABEL": "0x4534",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「A collective lifeform―individually, there are no rules to their behavior or movement...」"
+	},
+	{
+		"LABEL": "0x458E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But, when they come together as a collective, they move as if they have some kind of \"intention.\"」"
+	},
+	{
+		"LABEL": "0x45E8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Individually, they're insignificant, but...」"
+	},
+	{
+		"LABEL": "0x4636",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「As the hosts for <COOS>, they become a threat once they come together.」"
+	},
+	{
+		"LABEL": "0x4687",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...What does that mean in a nutshell?」"
+	},
+	{
+		"LABEL": "0x472B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...<COOS> uses existing organisms as its \"vehicles.\"」"
+	},
+	{
+		"LABEL": "0x477A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "So the luminescent creatures from before were being used as a vehicle by <COOS>."
+	},
+	{
+		"LABEL": "0x47C4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The real threat is <COOS>, not the organism serving as its vehicle...」"
+	},
+	{
+		"LABEL": "0x4880",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Exactly.」"
+	},
+	{
+		"LABEL": "0x48A3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「All right... I'll keep that in mind.」"
+	},
+	{
+		"LABEL": "0x48CF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Then how do the creatures possessed by <COOS> behave?」"
+	},
+	{
+		"LABEL": "0x491F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Why and how exactly do they attack a living person?」"
+	},
+	{
+		"LABEL": "0x4965",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I asked again."
+	},
+	{
+		"LABEL": "0x499B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari spun around and looked back to Reiri."
+	},
+	{
+		"LABEL": "0x4A92",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Wouldn't Reiri-san be better suited to answer that than me?」"
+	},
+	{
+		"LABEL": "0x4ADB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Reiri...?」"
+	},
+	{
+		"LABEL": "0x4B06",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I may be an employee of ROMLES, but there's a limit to how much information I can give to you.」"
+	},
+	{
+		"LABEL": "0x4B6A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「She might know something that even I don't.」"
+	},
+	{
+		"LABEL": "0x4C14",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You're overestimating me.」"
+	},
+	{
+		"LABEL": "0x4C3B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She didn't seem to care about Yukari's sarcastic tone."
+	},
+	{
+		"LABEL": "0x4C73",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...On the contrary, Reiri answered in a hoarse voice without even looking at her."
+	},
+	{
+		"LABEL": "0x4D33",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「This <COOS> you're talking about communicates with only one physical quantity.」"
+	},
+	{
+		"LABEL": "0x4D87",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Electromagnetic force.」"
+	},
+	{
+		"LABEL": "0x4DC4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Light and magnetism are its two phenotypes.」"
+	},
+	{
+		"LABEL": "0x4DF8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's all they can detect... They're quite simple, don't you think?」"
+	},
+	{
+		"LABEL": "0x4EA1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's hilarious that ROMLES is being pushed around by such a simple creature.」"
+	},
+	{
+		"LABEL": "0x4F02",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "<COOS> only communicated through electromagnetism――"
+	},
+	{
+		"LABEL": "0x4F3A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari nodded slowly as if comparing what Reiri had said to the knowledge she possessed."
+	},
+	{
+		"LABEL": "0x5059",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――We should be able to trust what she told us.」"
+	},
+	{
+		"LABEL": "0x509D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's known that organisms infected with <COOS> are attracted to light.」"
+	},
+	{
+		"LABEL": "0x50F1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That should allow us to manipulate their movements to some degree.」"
+	},
+	{
+		"LABEL": "0x514A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「So, if we first generate light near <COOS>,"
+	},
+	{
+		"LABEL": "0x5188",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "then manipulate it to make them gather in a single location...」"
+	},
+	{
+		"LABEL": "0x51C2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「We might be able to herd all of <COOS> to somewhere we want...」"
+	},
+	{
+		"LABEL": "0x524C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari nodded vaguely in agreement to my strategy."
+	},
+	{
+		"LABEL": "0x5286",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However, we couldn't be sure that it would work yet."
+	},
+	{
+		"LABEL": "0x531C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But that's only in theory... Whether it actually succeeds or not is a different matter.」"
+	},
+	{
+		"LABEL": "0x5370",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「And even though it's drawn to light, the effective frequencies are limited.」"
+	},
+	{
+		"LABEL": "0x53BE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「We can't just use any light. We have to recreate the kind of light they emit.」"
+	},
+	{
+		"LABEL": "0x541C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「So... it's not as simple as it sounds.」"
+	},
+	{
+		"LABEL": "0x545F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari was right."
+	},
+	{
+		"LABEL": "0x547F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It sounded simple, but..."
+	},
+	{
+		"LABEL": "0x54A7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The light they reacted to was the same kind they emitted."
+	},
+	{
+		"LABEL": "0x54DD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It wouldn't be easy to reproduce it."
+	},
+	{
+		"LABEL": "0x55E2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Use light to lure the light...」"
+	},
+	{
+		"LABEL": "0x560E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「This wouldn't work, would it?」"
+	},
+	{
+		"LABEL": "0x563F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Touri grabbed a flashlight that was provided in the room."
+	},
+	{
+		"LABEL": "0x567B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was what we'd always relied on as a light source."
+	},
+	{
+		"LABEL": "0x56C4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's certainly a light source.」"
+	},
+	{
+		"LABEL": "0x56F2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm sure they'll recognize it as a target, but...」"
+	},
+	{
+		"LABEL": "0x5731",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was true that even a flashlight was a \"light.\""
+	},
+	{
+		"LABEL": "0x5767",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However, I didn't have the knowledge to make a judgment on whether it was suited for our plan."
+	},
+	{
+		"LABEL": "0x5810",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari was about to say something again but stopped herself."
+	},
+	{
+		"LABEL": "0x5878",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Unable to deny Touri's suggestion clearly, we naturally turned our attention to her."
+	},
+	{
+		"LABEL": "0x592E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Unfortunately, you can't lure <COOS> with that flashlight.」"
+	},
+	{
+		"LABEL": "0x5984",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The spectrum of light which it responds to best doesn't exist in nature.」"
+	},
+	{
+		"LABEL": "0x59DE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's the light <COOS> itself emits, which hasn't been even experimentally reproduced so far...」"
+	},
+	{
+		"LABEL": "0x5A2B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「So we can't produce it? Then, this whole plan is――」"
+	},
+	{
+		"LABEL": "0x5A80",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Don't jump to conclusions.」"
+	},
+	{
+		"LABEL": "0x5AA3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Reiri reprimanded me while still tapping the wall steadily with her fingers."
+	},
+	{
+		"LABEL": "0x5B45",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「There are two things that <COOS> reacts to in the light.」"
+	},
+	{
+		"LABEL": "0x5B85",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「One is the amount of light.」"
+	},
+	{
+		"LABEL": "0x5BA3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It only reacts to strong light sources. And――」"
+	},
+	{
+		"LABEL": "0x5BE5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The other is the light pattern.」"
+	},
+	{
+		"LABEL": "0x5C22",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Light pattern..."
+	},
+	{
+		"LABEL": "0x5C51",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The light pattern that <COOS> emits is unique.」"
+	},
+	{
+		"LABEL": "0x5C87",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The light it emits as a whole might seem irregular and random.」"
+	},
+	{
+		"LABEL": "0x5CDD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But, if you analyze it carefully...」"
+	},
+	{
+		"LABEL": "0x5D1D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What you'll eventually see is a unique pattern that cannot be reduced to a simple rhythm...」"
+	},
+	{
+		"LABEL": "0x5DD2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's the key.」"
+	},
+	{
+		"LABEL": "0x5DF3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She sounded like a famous detective from classical literature. There was no hesitation in her tone."
+	},
+	{
+		"LABEL": "0x5E53",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And just like that, she turned to leave."
+	},
+	{
+		"LABEL": "0x5E85",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Where are you going?」"
+	},
+	{
+		"LABEL": "0x5EB6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「To the library.」"
+	},
+	{
+		"LABEL": "0x5ED7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Huh?」"
+	},
+	{
+		"LABEL": "0x5EFC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If you take me to the library, I'll figure something out.」"
+	},
+	{
+		"LABEL": "0x5F47",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her words were forceful."
+	},
+	{
+		"LABEL": "0x5F65",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Despite her frail voice and small back, Reiri's voice had magical persuasiveness to it."
+	},
+	{
+		"LABEL": "0x608A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Wh-What do you mean by \"something?\"」"
+	},
+	{
+		"LABEL": "0x6126",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's simple, Touri.」"
+	},
+	{
+		"LABEL": "0x6151",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She waved her hand in the air as she spoke."
+	},
+	{
+		"LABEL": "0x6194",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I have the data of <COOS's> light pattern analysis.」"
+	},
+	{
+		"LABEL": "0x61F1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What...?!」"
+	},
+	{
+		"LABEL": "0x6287",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's what ROMLES does, right?」"
+	},
+	{
+		"LABEL": "0x62B5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「There's no reason I can't do it.」"
+	},
+	{
+		"LABEL": "0x631C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Reiri took one look at the surprised Yukari and answered boldly."
+	},
+	{
+		"LABEL": "0x634A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She talked as if she was an equal to a whole national institution."
+	},
+	{
+		"LABEL": "0x6402",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「There are many PDAs in the library, right?」"
+	},
+	{
+		"LABEL": "0x643B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「We'll program the PDAs to flash with the same pattern using the data I have as a reference.」"
+	},
+	{
+		"LABEL": "0x64A4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「We should be able to use a bunch of them to lure <COOS> that way.」"
+	},
+	{
+		"LABEL": "0x655E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What do you think, Katagiri?」"
+	},
+	{
+		"LABEL": "0x6585",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――What, me?」"
+	},
+	{
+		"LABEL": "0x65A5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I faltered at her sudden question."
+	},
+	{
+		"LABEL": "0x662A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The corners of her mouth curled up into a mean grin."
+	},
+	{
+		"LABEL": "0x6677",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Isn't that obvious? This operation depends on your programming skills.」"
+	},
+	{
+		"LABEL": "0x66CE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Seriously...?」"
+	},
+	{
+		"LABEL": "0x66EA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...So, it was my role to program the PDAs?"
+	},
+	{
+		"LABEL": "0x671E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Reiri examined my face as if testing me."
+	},
+	{
+		"LABEL": "0x6813",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's absurd...」"
+	},
+	{
+		"LABEL": "0x6833",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I don't know how skilled you are, Katagiri-san...」"
+	},
+	{
+		"LABEL": "0x6875",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But, if it's the first time you've seen a PDA, so there's no way you could do something like that right off the bat――」"
+	},
+	{
+		"LABEL": "0x68DF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Shut it, granny.」"
+	},
+	{
+		"LABEL": "0x696D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Wha――?!」"
+	},
+	{
+		"LABEL": "0x69F5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm asking him.」"
+	},
+	{
+		"LABEL": "0x6A1D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「So, let's hear it... We don't have much time.」"
+	},
+	{
+		"LABEL": "0x6A8A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...It would be the first time I'd taken a look at the PDAs."
+	},
+	{
+		"LABEL": "0x6AAB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I didn't even know what their internal structure was like."
+	},
+	{
+		"LABEL": "0x6AEB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "This was a stand-alone environment cut off from the surface network."
+	},
+	{
+		"LABEL": "0x6B2F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I could list any number of reasons why it would be impossible."
+	},
+	{
+		"LABEL": "0x6B5F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However――"
+	},
+	{
+		"LABEL": "0x6B77",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x6B91",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Thirty minutes... No, fifteen minutes will be enough.」"
+	},
+	{
+		"LABEL": "0x6BCE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Katagiri-san...」"
+	},
+	{
+		"LABEL": "0x6BF1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Reiri's face twisted beside the surprised Yukari."
+	},
+	{
+		"LABEL": "0x6C29",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That must be her way of smiling."
+	},
+	{
+		"LABEL": "0x6CC3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You're on our side after all.」"
+	},
+	{
+		"LABEL": "0x702C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Programming light emission patterns into all the PDAs in the library,"
+	},
+	{
+		"LABEL": "0x706F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "and using them as decoys to lure the \"light.\""
+	},
+	{
+		"LABEL": "0x709D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was a simple strategy when you put it like that."
+	},
+	{
+		"LABEL": "0x70C5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But wasn't it... a little too simple?"
+	},
+	{
+		"LABEL": "0x71BE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Katagiri-san!」"
+	},
+	{
+		"LABEL": "0x71E4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「T-Touri... What is it?」"
+	},
+	{
+		"LABEL": "0x7276",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You look awfully scared. What's wrong?」"
+	},
+	{
+		"LABEL": "0x72B5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's nothing...」"
+	},
+	{
+		"LABEL": "0x72CF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...Was I overthinking it?"
+	},
+	{
+		"LABEL": "0x72F3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I had a hard time believing that <COOS>, which Yukari had labeled as extremely dangerous,"
+	},
+	{
+		"LABEL": "0x7329",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "would be that easy to deal with..."
+	},
+	{
+		"LABEL": "0x742C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I know what you're thinking.」"
+	},
+	{
+		"LABEL": "0x745C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's a bit anticlimactic... But, our opponent is a microscopic bacterium.」"
+	},
+	{
+		"LABEL": "0x749C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I can't say I don't agree with you...」"
+	},
+	{
+		"LABEL": "0x74D1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino staggered a bit as he said it. He was a little pale."
+	},
+	{
+		"LABEL": "0x750F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "He hadn't been feeling well for a while, but compared to earlier, he seemed even worse now..."
+	},
+	{
+		"LABEL": "0x75A7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Reiri gave me a very tired look as I worried about Hiragino's condition."
+	},
+	{
+		"LABEL": "0x76CA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Don't tell me, you guys――」"
+	},
+	{
+		"LABEL": "0x76EE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Do you really think all we have to do is control the light, and that's it?」"
+	},
+	{
+		"LABEL": "0x77A2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Huh? Is that not it?」"
+	},
+	{
+		"LABEL": "0x77C5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As Touri said the first thing that popped into her head,"
+	},
+	{
+		"LABEL": "0x77EF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Reiri shook her head in exasperation."
+	},
+	{
+		"LABEL": "0x788F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You really are an idiot, Touri.」"
+	},
+	{
+		"LABEL": "0x78B7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...But, it seems like these two are just as foolish as you.」"
+	},
+	{
+		"LABEL": "0x7938",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She raised two fingers and pointed them at us."
+	},
+	{
+		"LABEL": "0x7976",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Naturally, it wasn't a peace sign or anything like that."
+	},
+	{
+		"LABEL": "0x7A14",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Have you forgotten? The second trait of electromagnetism?」"
+	},
+	{
+		"LABEL": "0x7A4F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Magnetism.」"
+	},
+	{
+		"LABEL": "0x7A78",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Exactly. <COOS> also has magnetosomes.」"
+	},
+	{
+		"LABEL": "0x7ABF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Magnetosomes...?"
+	},
+	{
+		"LABEL": "0x7AE1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Sensing my confusion, Reiri called out to Yukari."
+	},
+	{
+		"LABEL": "0x7BE4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's your specialty, isn't it?」"
+	},
+	{
+		"LABEL": "0x7C76",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...You're well-informed.」"
+	},
+	{
+		"LABEL": "0x7C9D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari answered honestly, no longer surprised."
+	},
+	{
+		"LABEL": "0x7D98",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「<COOS> is a type of magnetic bacteria.」"
+	},
+	{
+		"LABEL": "0x7DC6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Magnetic bacteria possess an organ called magnetosome.」"
+	},
+	{
+		"LABEL": "0x7E0E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It senses electromagnetic signals and uses them to find the best growing environment for itself...」"
+	},
+	{
+		"LABEL": "0x7E68",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You could say that <COOS> is able to accurately track and invade living beings because it has magnetosomes.」"
+	},
+	{
+		"LABEL": "0x7F0B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It locates living things by detecting electrical signals and uses light to attract its companions..."
+	},
+	{
+		"LABEL": "0x7F63",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Wasn't it terribly efficient for how little information it exchanged...?"
+	},
+	{
+		"LABEL": "0x8023",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It senses electrical signals...」"
+	},
+	{
+		"LABEL": "0x804F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Doesn't that mean we're in a pretty bad situation right now?」"
+	},
+	{
+		"LABEL": "0x8098",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Touri?」"
+	},
+	{
+		"LABEL": "0x80BF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If the floor is flooded like this, that means it's that much easier for electricity to pass through, right?」"
+	},
+	{
+		"LABEL": "0x811A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I see..."
+	},
+	{
+		"LABEL": "0x8132",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No wonder they attacked Tokiwa with such precision."
+	},
+	{
+		"LABEL": "0x8186",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Would we really be able to defeat an opponent like that?"
+	},
+	{
+		"LABEL": "0x81D4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Meanwhile, Reiri grinned."
+	},
+	{
+		"LABEL": "0x82CD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Now, now. I'm sure you've had enough scares by now.」"
+	},
+	{
+		"LABEL": "0x8309",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Either way, there's nothing we can do but follow the plan we have. Isn't that right?」"
+	},
+	{
+		"LABEL": "0x836E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She was right."
+	},
+	{
+		"LABEL": "0x8394",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That said, it would be bad if we got attacked on the way to the library."
+	},
+	{
+		"LABEL": "0x8412",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Just until then, if there was some way to keep electricity from flowing――"
+	},
+	{
+		"LABEL": "0x84C4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Oh, in that case, I have rubber shoes.」"
+	},
+	{
+		"LABEL": "0x84F5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Really?!」"
+	},
+	{
+		"LABEL": "0x8520",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「See?」"
+	},
+	{
+		"LABEL": "0x853B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Saying that, Yukari pointed at her feet."
+	},
+	{
+		"LABEL": "0x85D5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「These are boots meant for the attendants. They're made of rubber, but they don't get stuffy.」"
+	},
+	{
+		"LABEL": "0x862D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「So, you can wear them without much concern.」"
+	},
+	{
+		"LABEL": "0x8670",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That would be great!」"
+	},
+	{
+		"LABEL": "0x869F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「One moment, please.」"
+	},
+	{
+		"LABEL": "0x86DC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari sat down on a chair and yanked her boots off."
+	},
+	{
+		"LABEL": "0x872E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I accepted the boots she gave to me and inserted my toes in them."
+	},
+	{
+		"LABEL": "0x876E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...Oh?"
+	},
+	{
+		"LABEL": "0x8786",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I tried putting them on again."
+	},
+	{
+		"LABEL": "0x87B4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...Hmm?"
+	},
+	{
+		"LABEL": "0x87CC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Once again, and once more."
+	},
+	{
+		"LABEL": "0x87F4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I tried stepping into the boots over and over, but..."
+	},
+	{
+		"LABEL": "0x882A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...."
+	},
+	{
+		"LABEL": "0x8851",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Katagiri-san?」"
+	},
+	{
+		"LABEL": "0x8872",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She sounded dubious."
+	},
+	{
+		"LABEL": "0x8892",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Cold sweat ran down my forehead."
+	},
+	{
+		"LABEL": "0x88B4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I held the boot with both of my hands and pushed my foot in――"
+	},
+	{
+		"LABEL": "0x890D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「They don't fit, do they?」"
+	},
+	{
+		"LABEL": "0x893A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Sorry...」"
+	},
+	{
+		"LABEL": "0x8956",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The boots were too small for me, as it turned out."
+	},
+	{
+		"LABEL": "0x8982",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Of course they were."
+	},
+	{
+		"LABEL": "0x8998",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It'd be weird if Yukari had the same shoe size as me."
+	},
+	{
+		"LABEL": "0x89E0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Even though they were just the wrong size, the boots were now rendered completely useless."
+	},
+	{
+		"LABEL": "0x8AA5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Nothing we can do about that.」"
+	},
+	{
+		"LABEL": "0x8B47",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Oh well... Then what are we going to do?」"
+	},
+	{
+		"LABEL": "0x8B8C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'll run. With all my might.」"
+	},
+	{
+		"LABEL": "0x8BAA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's the only way, right?」"
+	},
+	{
+		"LABEL": "0x8BD0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "People, this was what running out of options looked like."
+	},
+	{
+		"LABEL": "0x8C62",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Wha――」"
+	},
+	{
+		"LABEL": "0x8C83",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari was about to say something, but Hiragino held out his arm to stop her."
+	},
+	{
+		"LABEL": "0x8D30",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If I see that light again, I'll run to a nearby room.」"
+	},
+	{
+		"LABEL": "0x8D76",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「So, don't worry.」"
+	},
+	{
+		"LABEL": "0x8DAB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x8E22",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「All right. But...」"
+	},
+	{
+		"LABEL": "0x8E4C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...I feel like someone's had a bad influence on you these couple of days.」"
+	},
+	{
+		"LABEL": "0x8E9D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「....」"
+	},
+	{
+		"LABEL": "0x8EBC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino stood there awkwardly."
+	},
+	{
+		"LABEL": "0x8EE2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Pretending not to notice, I headed for the hallway."
+	},
+	{
+		"LABEL": "0x8F14",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was the correct choice to refer to how he usually handled Yukari. This time at least."
+	},
+	{
+		"LABEL": "0x8FDF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Reiri, hand me the data.」"
+	},
+	{
+		"LABEL": "0x9075",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm coming with you, too.」"
+	},
+	{
+		"LABEL": "0x909C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Huh?」"
+	},
+	{
+		"LABEL": "0x90C1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I won't give you the data otherwise.」"
+	},
+	{
+		"LABEL": "0x90F2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What was she saying at this stage...?"
+	},
+	{
+		"LABEL": "0x912E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If I took her with me, the risk of being attacked by <COOS> would be much higher."
+	},
+	{
+		"LABEL": "0x918C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Touri also spoke up out of concern for her sister."
+	},
+	{
+		"LABEL": "0x91C1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Reiri, let's leave it to him!」"
+	},
+	{
+		"LABEL": "0x91FE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Katagiri.」"
+	},
+	{
+		"LABEL": "0x9214",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Just take me to the library.」"
+	},
+	{
+		"LABEL": "0x9255",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x926F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Without her data, this strategy wouldn't work."
+	},
+	{
+		"LABEL": "0x92A5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Even if I tried to snatch it away by force, I had no idea how to use it..."
+	},
+	{
+		"LABEL": "0x92F1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Certainly, taking her with me would put us in great danger, but..."
+	},
+	{
+		"LABEL": "0x9331",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...I didn't have time to persuade her."
+	},
+	{
+		"LABEL": "0x9375",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I took Reiri's hand again and dashed off."
+	},
+	{
+		"LABEL": "0x93A9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We headed for the library on the third floor."
+	}
+]
