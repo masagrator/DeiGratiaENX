@@ -1,0 +1,482 @@
+[
+	{
+		"LABEL": "0x31D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...giri-san!」"
+	},
+	{
+		"LABEL": "0x339",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Katagiri-san!」"
+	},
+	{
+		"LABEL": "0x40F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I feel uncomfortable, as if I've been forcibly awakened from a distant sleep."
+	},
+	{
+		"LABEL": "0x45F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The place I picture in my mind where I should be doesn't match the way I feel."
+	},
+	{
+		"LABEL": "0x4A9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "My brain confuses the difference between the two, and the result is an intoxicating feeling like seasickness."
+	},
+	{
+		"LABEL": "0x4F5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Are you alright?」"
+	},
+	{
+		"LABEL": "0x513",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Y-Yes.」"
+	},
+	{
+		"LABEL": "0x531",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I blink my eyes a few times to regain my vision."
+	},
+	{
+		"LABEL": "0x563",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Surprised and confused, my senses once again perceive a white room."
+	},
+	{
+		"LABEL": "0x5A1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And――I understand."
+	},
+	{
+		"LABEL": "0x5C3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It's as if a record has stopped playing."
+	},
+	{
+		"LABEL": "0x5EF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The record of the \"first day\" is over."
+	},
+	{
+		"LABEL": "0x621",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You must not be used to this yet.」"
+	},
+	{
+		"LABEL": "0x653",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It may be uncomfortable, so calm down first.」"
+	},
+	{
+		"LABEL": "0x6A3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I breathe in and out like \"she\" tells me."
+	},
+	{
+		"LABEL": "0x6DD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The sensation of my own chest rising and falling feels awfully vivid."
+	},
+	{
+		"LABEL": "0x723",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yes, this is real."
+	},
+	{
+		"LABEL": "0x74F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It's not 2033 anymore."
+	},
+	{
+		"LABEL": "0x779",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「How was it, your recollection?」"
+	},
+	{
+		"LABEL": "0x7A9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Unable to answer immediately, I'm at a loss for words."
+	},
+	{
+		"LABEL": "0x7D7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I was prepared for this, of course, but what I witnessed were... gut-wrenching images."
+	},
+	{
+		"LABEL": "0x81D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Frozen limbs, scattered in the sea."
+	},
+	{
+		"LABEL": "0x8BB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Many people lost their lives――」"
+	},
+	{
+		"LABEL": "0x8E5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Dozens of lives snuffed out in an instant."
+	},
+	{
+		"LABEL": "0x917",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――As I already know."
+	},
+	{
+		"LABEL": "0x93B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's... sad.」"
+	},
+	{
+		"LABEL": "0x959",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "My honest impression naturally comes out of my mouth."
+	},
+	{
+		"LABEL": "0x985",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What is it that you find sad?」"
+	},
+	{
+		"LABEL": "0x9AD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The fact that I can't remember the voices of all those people whose lives were taken in an instant, none of them.」"
+	},
+	{
+		"LABEL": "0xA05",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No, \"she\" says."
+	},
+	{
+		"LABEL": "0xA2D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's not that you can't remember.」"
+	},
+	{
+		"LABEL": "0xA5B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's that you don't know.」"
+	},
+	{
+		"LABEL": "0xA7D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「After all, they were people unrelated to you, weren't they?」"
+	},
+	{
+		"LABEL": "0xABD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "\"Unrelated\" sounds dismissive."
+	},
+	{
+		"LABEL": "0xAE9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Even if they were... no, because they were unrelated...」"
+	},
+	{
+		"LABEL": "0xB21",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We didn't know anything about each other at that point, and there was no way to tell what the future might have brought."
+	},
+	{
+		"LABEL": "0xB85",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's just... sad.」"
+	},
+	{
+		"LABEL": "0xBA9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And now... that tragedy is being repeated again inside the recreation."
+	},
+	{
+		"LABEL": "0xBF7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A tragedy is unfolding before my eyes once more, just as I remember seeing it somewhere."
+	},
+	{
+		"LABEL": "0xC9A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Why can't it be changed?"
+	},
+	{
+		"LABEL": "0xCC8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Why――"
+	},
+	{
+		"LABEL": "0xCE2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Katagiri-san, please don't blame yourself. This was something that could not be prevented.」"
+	},
+	{
+		"LABEL": "0xD34",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "\"Her\" voice keeps back the thoughts swirling inside my head."
+	},
+	{
+		"LABEL": "0xE0C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Once a program has been altered, it will only return one output under fixed conditions.」"
+	},
+	{
+		"LABEL": "0xE70",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「After the ship set sail on August 1st, there was no turning back.」"
+	},
+	{
+		"LABEL": "0xEDC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No matter what choices I make, the sinking can't be avoided."
+	},
+	{
+		"LABEL": "0xF1E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The plan is already in motion."
+	},
+	{
+		"LABEL": "0xF52",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You've probably heard about the trolley problem.」"
+	},
+	{
+		"LABEL": "0xF94",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You decide how many people will be killed by your choice.」"
+	},
+	{
+		"LABEL": "0xFE2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But, you can't go back to before the trolley starts moving.」"
+	},
+	{
+		"LABEL": "0x1028",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It's... a solution outside the definition."
+	},
+	{
+		"LABEL": "0x1050",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――\"The trolley that started moving never existed from the start.\""
+	},
+	{
+		"LABEL": "0x1094",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Such an answer that overturns the premise is not allowed."
+	},
+	{
+		"LABEL": "0x10CC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「In other words, it's like that.」"
+	},
+	{
+		"LABEL": "0x10F6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Your choices will force you to interpret and reflect on the coming events in different ways.」"
+	},
+	{
+		"LABEL": "0x1154",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But not all of it is your responsibility.」"
+	},
+	{
+		"LABEL": "0x1194",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Never forget that.」"
+	},
+	{
+		"LABEL": "0x11C6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "\"Her\" words are gentle."
+	},
+	{
+		"LABEL": "0x11EC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But, is that really true?"
+	},
+	{
+		"LABEL": "0x121E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "While knowing all the outcomes, if you can't avoid them..."
+	},
+	{
+		"LABEL": "0x126C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――There are yet more painful records ahead for you.」"
+	},
+	{
+		"LABEL": "0x12BA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Even so, do you still wish to continue?」"
+	},
+	{
+		"LABEL": "0x12E2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A moment of hesitation."
+	},
+	{
+		"LABEL": "0x12FE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But I know the answer."
+	},
+	{
+		"LABEL": "0x1328",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Of course.」"
+	},
+	{
+		"LABEL": "0x134A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I have to see this through to the end."
+	},
+	{
+		"LABEL": "0x1376",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Even if I'm not responsible for every choice, for every outcome..."
+	},
+	{
+		"LABEL": "0x13C0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Now that I've started, I have a responsibility to see it through to the end."
+	},
+	{
+		"LABEL": "0x13F8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "So I have to aim for the best outcome."
+	},
+	{
+		"LABEL": "0x142E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I mustn't give up and abandon this halfway."
+	},
+	{
+		"LABEL": "0x14CA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「From here on, Katagiri-san...」"
+	},
+	{
+		"LABEL": "0x14F6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...There are still survivors.」"
+	},
+	{
+		"LABEL": "0x1518",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The story for you truly begins from here.」"
+	},
+	{
+		"LABEL": "0x155C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I wonder why."
+	},
+	{
+		"LABEL": "0x1578",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...For a moment, I feel a sense of hopelessness."
+	},
+	{
+		"LABEL": "0x15A8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A feeling that the story that awaits me is a disturbing one."
+	},
+	{
+		"LABEL": "0x15E4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I shake it off as just my imagination."
+	},
+	{
+		"LABEL": "0x160A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Now, let's go back in time.」"
+	},
+	{
+		"LABEL": "0x1634",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "August 2nd."
+	},
+	{
+		"LABEL": "0x164A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The record goes back to the day when a new story was set in motion."
+	}
+]

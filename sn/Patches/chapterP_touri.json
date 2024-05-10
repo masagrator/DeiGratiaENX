@@ -1,0 +1,6260 @@
+[
+	{
+		"LABEL": "0x1F6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "How much of their childhood could people remember?"
+	},
+	{
+		"LABEL": "0x247",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Fun things,"
+	},
+	{
+		"LABEL": "0x265",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "happy things,"
+	},
+	{
+		"LABEL": "0x283",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "sad things,"
+	},
+	{
+		"LABEL": "0x2A1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "and painful things."
+	},
+	{
+		"LABEL": "0x2BD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "You couldn't remember everything."
+	},
+	{
+		"LABEL": "0x2F0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "If it was a memory you absolutely didn't want to forget,"
+	},
+	{
+		"LABEL": "0x31F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "would you be able to remember it forever?"
+	},
+	{
+		"LABEL": "0x34A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "If it was a memory you mustn't forget, then..."
+	},
+	{
+		"LABEL": "0x374",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――――"
+	},
+	{
+		"LABEL": "0x399",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「To live is to forget.」"
+	},
+	{
+		"LABEL": "0x3C2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「It's not human nature to live without forgetting.」"
+	},
+	{
+		"LABEL": "0x459",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Reiri looked taken aback by my unusually philosophical musings."
+	},
+	{
+		"LABEL": "0x494",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "My intelligent sister spoke without looking up from the book she was reading."
+	},
+	{
+		"LABEL": "0x4D1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "As if it didn't matter."
+	},
+	{
+		"LABEL": "0x4FD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "As if she had already given up long ago."
+	},
+	{
+		"LABEL": "0x52F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Maybe those weren't her words."
+	},
+	{
+		"LABEL": "0x563",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Maybe it was someone else's idea, or maybe it was a line of a character from the book in her hand right now."
+	},
+	{
+		"LABEL": "0x5C6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "No matter who said it, Reiri was strong enough to say it without any emotion."
+	},
+	{
+		"LABEL": "0x60C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Unlike me."
+	},
+	{
+		"LABEL": "0x626",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I didn't want to forget."
+	},
+	{
+		"LABEL": "0x644",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I couldn't give up on the fact that I hadn't forgotten, the fact that I remembered."
+	},
+	{
+		"LABEL": "0x689",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It wasn't that I couldn't forget."
+	},
+	{
+		"LABEL": "0x6BB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was already a distant memory."
+	},
+	{
+		"LABEL": "0x6DF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "So distant that it could disappear completely, and I could forget it at any moment."
+	},
+	{
+		"LABEL": "0x728",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "So distant, that I would forget it if I wasn't careful."
+	},
+	{
+		"LABEL": "0x75B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "And that was why I wouldn't forget."
+	},
+	{
+		"LABEL": "0x78F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I thought I mustn't forget."
+	},
+	{
+		"LABEL": "0x7C0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "About our Mother."
+	},
+	{
+		"LABEL": "0x7E0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I remembered the days when she, Reiri, and I lived together."
+	},
+	{
+		"LABEL": "0x821",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I carefully went over each and every one of my gradually fading memories."
+	},
+	{
+		"LABEL": "0x86E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "We weren't well off by any means, but those days were filled with smiles and happiness."
+	},
+	{
+		"LABEL": "0x8B7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "But the day-to-day life I'd thought would last forever came to an abrupt end one day."
+	},
+	{
+		"LABEL": "0x90A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The last memories I had of our Mother were filled with so much fun that――"
+	},
+	{
+		"LABEL": "0x962",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――It was painful."
+	},
+	{
+		"LABEL": "0x9A0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――April 4th, 2026."
+	},
+	{
+		"LABEL": "0x9C0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I was nine years old and looking forward to that day."
+	},
+	{
+		"LABEL": "0x9F3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I had marked the calendar with Reiri and counted down the days with her."
+	},
+	{
+		"LABEL": "0xA3E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The sky that day was clear and cloudless since morning."
+	},
+	{
+		"LABEL": "0xA9A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Here we are. Out of the car―」"
+	},
+	{
+		"LABEL": "0xAC5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Okaay.」"
+	},
+	{
+		"LABEL": "0xADE",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Hup!」"
+	},
+	{
+		"LABEL": "0xAF9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "As Reiri started to unfasten her seatbelt after being told to,"
+	},
+	{
+		"LABEL": "0xB35",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I was already ready to jump out of the door with great enthusiasm."
+	},
+	{
+		"LABEL": "0xB7B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I stepped on the burning asphalt and took a deep breath as I straightened myself up."
+	},
+	{
+		"LABEL": "0xBC5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The scent of the tide and the joyful melody in the distance put me in a good mood, whether I liked it or not."
+	},
+	{
+		"LABEL": "0xC1C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Yes, we had finally arrived... at Aquamarine Park."
+	},
+	{
+		"LABEL": "0xC5E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Hey, have you two ever been to an aquarium?」"
+	},
+	{
+		"LABEL": "0xCA3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "That's what Mom asked us three days ago."
+	},
+	{
+		"LABEL": "0xCDD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Apparently, a distant relative of ours worked for something related to ocean exploration,"
+	},
+	{
+		"LABEL": "0xD2F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "and she received tickets for the aquarium through that connection."
+	},
+	{
+		"LABEL": "0xD6F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Do you know about Aquamarine Park? I got tickets there...」"
+	},
+	{
+		"LABEL": "0xDC4",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「\"Aquamarine Park?!\"」"
+	},
+	{
+		"LABEL": "0xDF1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Not only did I know about it, it was a super famous theme park that had been completed just a few years ago."
+	},
+	{
+		"LABEL": "0xE39",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It wasn't just any aquarium, given that the entire Whatever Cape of the Something-or-other Bay had been turned into its grounds."
+	},
+	{
+		"LABEL": "0xEAA",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "There was no elementary schooler in Japan who didn't know their mascot character."
+	},
+	{
+		"LABEL": "0xEF2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The macaroni penguin that dominated the children's stuffed animal market was an object of yearning for boys and girls under ten all over the country."
+	},
+	{
+		"LABEL": "0xF63",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Mom's lips twitched a little as Reiri and I emphasized that part in unison."
+	},
+	{
+		"LABEL": "0xFC3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I-It's summer vacation, but I haven't been able to take you anywhere. "
+	},
+	{
+		"LABEL": "0x1023",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "All right, let's go there next weekend!」"
+	},
+	{
+		"LABEL": "0x105B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "That was why we came all the way to one of the largest marine theme parks in Japan."
+	},
+	{
+		"LABEL": "0x10C3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Phew. It's been a while since I've driven on a highway...」"
+	},
+	{
+		"LABEL": "0x10FA",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Hey, come on, let's go, shall we?」"
+	},
+	{
+		"LABEL": "0x1121",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「That's right! Time's wasting.」"
+	},
+	{
+		"LABEL": "0x1154",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Yeah!」"
+	},
+	{
+		"LABEL": "0x116E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The sun was high in the clear blue sky."
+	},
+	{
+		"LABEL": "0x1198",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Even though the two of us were excited, Mom's shoulders were drooping as if she'd already burned out."
+	},
+	{
+		"LABEL": "0x120F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "We each took hold of her right and left hands and pulled her in a tug-of-war fashion."
+	},
+	{
+		"LABEL": "0x1279",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「This'll be easy―」"
+	},
+	{
+		"LABEL": "0x129A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Reiri's face turned red as she pulled with all her might."
+	},
+	{
+		"LABEL": "0x12CC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I matched her pace and pulled on her other hand."
+	},
+	{
+		"LABEL": "0x12F8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Mom was dragged along between us."
+	},
+	{
+		"LABEL": "0x133D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Even if it was still morning, we couldn't take it easy once we were inside the park."
+	},
+	{
+		"LABEL": "0x139B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Anyway, Mom?」"
+	},
+	{
+		"LABEL": "0x13C4",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Hmm? What's up, Touri?」"
+	},
+	{
+		"LABEL": "0x13EB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「You actually can drive a car, huh?」"
+	},
+	{
+		"LABEL": "0x1437",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "*Crack*"
+	},
+	{
+		"LABEL": "0x144D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I heard the sound of something cracking."
+	},
+	{
+		"LABEL": "0x147D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "That was what I felt."
+	},
+	{
+		"LABEL": "0x1496",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Reiri, who was doing her best to pull Mom's hand on the other side, didn't seem to notice anything."
+	},
+	{
+		"LABEL": "0x14ED",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "But clearly, for a moment, her grip on my hand had tightened."
+	},
+	{
+		"LABEL": "0x1533",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――Oh no, it was a land mine!"
+	},
+	{
+		"LABEL": "0x1558",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "By the time I realized, it was too late."
+	},
+	{
+		"LABEL": "0x157F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Gigigi..."
+	},
+	{
+		"LABEL": "0x1595",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Mom turned to me with an icy smile."
+	},
+	{
+		"LABEL": "0x15CD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Hmmm‾? What do you mean by that, Touri-chan?」"
+	},
+	{
+		"LABEL": "0x1610",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「No, you see, um... yes! You're so young and beautiful, Mom!"
+	},
+	{
+		"LABEL": "0x165C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "So I can't imagine you driving a car like an adult."
+	},
+	{
+		"LABEL": "0x169C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Your personality is so rough that it's hard to picture you doing delicate stuff like driving."
+	},
+	{
+		"LABEL": "0x16F6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It doesn't really suit you, and I wondered if your feet could even reach the pedals properly,"
+	},
+	{
+		"LABEL": "0x174C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "or whether you could see well through the windshield――」"
+	},
+	{
+		"LABEL": "0x177D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Ho ho... Touri, I get what you're trying to say.」"
+	},
+	{
+		"LABEL": "0x17C8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "She smiled at me gently, making it seem like my desperate excuses had gotten through to her."
+	},
+	{
+		"LABEL": "0x1810",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I'll take you to see God in heaven.」"
+	},
+	{
+		"LABEL": "0x1841",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was a death sentence――"
+	},
+	{
+		"LABEL": "0x1859",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "And just so, Mom gripped my hand even tighter―Ow, ow, ow!"
+	},
+	{
+		"LABEL": "0x18A2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「H-Help! Reiri!」"
+	},
+	{
+		"LABEL": "0x18C9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Reiri laughed as she looked down while hiding her face."
+	},
+	{
+		"LABEL": "0x1901",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I know you were listening."
+	},
+	{
+		"LABEL": "0x194C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "She was flustered for a moment at the sudden change in conversation, then spoke in a reserved tone."
+	},
+	{
+		"LABEL": "0x1998",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「But, that was all Touri's fault.」"
+	},
+	{
+		"LABEL": "0x19C3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「No... no, no, no. When we found out yesterday that Mom was going to drive us here, the one who turned pale and muttered, \"I wonder if she even has a license...\" was Reiri, right?」"
+	},
+	{
+		"LABEL": "0x1A74",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Well, that's...」"
+	},
+	{
+		"LABEL": "0x1A91",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Is that so?」"
+	},
+	{
+		"LABEL": "0x1AAE",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Umm...」"
+	},
+	{
+		"LABEL": "0x1ACA",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Reiri looked at Mom awkwardly, then glared at me as if to ask, \"Why did you say that?\""
+	},
+	{
+		"LABEL": "0x1B2E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "You reap what you sow."
+	},
+	{
+		"LABEL": "0x1B4E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「See? Reiri always acts like a good girl, but behind the scenes, she's always saying whatever she wants!」"
+	},
+	{
+		"LABEL": "0x1BA7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...You said some terrible things too.」"
+	},
+	{
+		"LABEL": "0x1BDA",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Reiri puffed out her little cheeks."
+	},
+	{
+		"LABEL": "0x1C04",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Don't you remember what you said after I said that?」"
+	},
+	{
+		"LABEL": "0x1C4D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Let's see... Nope, don't remember.」"
+	},
+	{
+		"LABEL": "0x1C84",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「\"You're such an idiot, Reiri. If you have time to think about that, write your will instead.\"」"
+	},
+	{
+		"LABEL": "0x1CDD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Umph!」"
+	},
+	{
+		"LABEL": "0x1CF5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I could see stars."
+	},
+	{
+		"LABEL": "0x1D0E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Mom shook off my hand and swung her raised fist down at the top of my head."
+	},
+	{
+		"LABEL": "0x1D62",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Ouch! Domestic violence! DVD!」"
+	},
+	{
+		"LABEL": "0x1D94",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「That's one extra D.」"
+	},
+	{
+		"LABEL": "0x1DB5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「It's DV!」"
+	},
+	{
+		"LABEL": "0x1DCE",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「You're remembering weird words again...」"
+	},
+	{
+		"LABEL": "0x1DF7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "That kind of thing was popular before we were born."
+	},
+	{
+		"LABEL": "0x1E39",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Mom held her brow in exhaustion."
+	},
+	{
+		"LABEL": "0x1E6B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「This is well within the scope of healthy education! Especially lately, since there have been more and more coddled kids, you could say it's actually the right way for parents to act. Oh, education is tough‾」"
+	},
+	{
+		"LABEL": "0x1F08",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Ugh...」"
+	},
+	{
+		"LABEL": "0x1F23",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Reiri seemed to think it was wrong to laugh and was smiling while trying to keep her voice down."
+	},
+	{
+		"LABEL": "0x1F74",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "...Well, in the end, she was smiling."
+	},
+	{
+		"LABEL": "0x1FA0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Honestly, it was all because of my own words that I was suffering like this..."
+	},
+	{
+		"LABEL": "0x1FED",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The three of us walked together like that for a few minutes."
+	},
+	{
+		"LABEL": "0x201C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "After a while, a huge gate appeared in front of us."
+	},
+	{
+		"LABEL": "0x2054",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I-It's huge――」"
+	},
+	{
+		"LABEL": "0x2075",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I ran over and looked up at the gate from below."
+	},
+	{
+		"LABEL": "0x20AA",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "In the background of the large decorative letters was an LCD display with an animated dolphin moving around happily."
+	},
+	{
+		"LABEL": "0x2110",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was a delightful performance that made me feel very happy... but, I wondered why."
+	},
+	{
+		"LABEL": "0x2165",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "There was something frightening about this enormous gate..."
+	},
+	{
+		"LABEL": "0x2195",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Was this huge gate going to open its mouth and swallow us up――"
+	},
+	{
+		"LABEL": "0x21E7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Touri! If you don't hurry, we'll leave you behind!」"
+	},
+	{
+		"LABEL": "0x221E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I snapped back to reality."
+	},
+	{
+		"LABEL": "0x223A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Mom and Reiri were already about to go inside the gate."
+	},
+	{
+		"LABEL": "0x2284",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「W-Wait up!」"
+	},
+	{
+		"LABEL": "0x22A3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I hurriedly chased after them and followed them through the gate."
+	},
+	{
+		"LABEL": "0x22E2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Beyond the gate was a massive entrance plaza."
+	},
+	{
+		"LABEL": "0x2329",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Aquamarine Park was a marine theme park, but you couldn't reach the main aquarium right after going through the gate."
+	},
+	{
+		"LABEL": "0x23A1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "A multitude of attractions inspired by the sea and marine life filled the spacious area."
+	},
+	{
+		"LABEL": "0x23F5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "%[『Eat and Don't Be Eaten! The Whale Shark Monster』"
+	},
+	{
+		"LABEL": "0x242D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "%[『Water Wars Episode 1: Phantom Medaka〜』"
+	},
+	{
+		"LABEL": "0x2476",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "%[『The Hyperborian Samurai Diver』"
+	},
+	{
+		"LABEL": "0x24A0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "%[『Jellyfish is the Merciless Queen of the Night』"
+	},
+	{
+		"LABEL": "0x24C8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "%[『Frilled Shark Panic』"
+	},
+	{
+		"LABEL": "0x24EE",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "....."
+	},
+	{
+		"LABEL": "0x2506",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「What are these supposed to be...?」"
+	},
+	{
+		"LABEL": "0x2531",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Who knows.」"
+	},
+	{
+		"LABEL": "0x254A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "They were attractions that you couldn't begin to guess what they were, with a sense of humor you couldn't understand."
+	},
+	{
+		"LABEL": "0x25A8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Behind the two of us tilting our heads, Mom was holding her head and muttering something."
+	},
+	{
+		"LABEL": "0x25F8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I remember this sense of style... It's been a while since I've felt this way... Wait, is everybody in ROMLES like this...?"
+	},
+	{
+		"LABEL": "0x2684",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It's over... Japan's marine business is done for...」"
+	},
+	{
+		"LABEL": "0x26BB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Mom smiled bitterly every time she saw a name of an attraction."
+	},
+	{
+		"LABEL": "0x2701",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "We proceeded while pulling her hands, and a large dome-shaped building appeared in front of us."
+	},
+	{
+		"LABEL": "0x274B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Mom, look!」"
+	},
+	{
+		"LABEL": "0x276E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...Oh, right. This is that thing.」"
+	},
+	{
+		"LABEL": "0x27A1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "That... In other words, this."
+	},
+	{
+		"LABEL": "0x27C3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was the largest aquarium in Japan and one of the largest in the world."
+	},
+	{
+		"LABEL": "0x2802",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "A short line had formed even though the park hadn't been open for long."
+	},
+	{
+		"LABEL": "0x283C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Couples, parents and children, people with big cameras..."
+	},
+	{
+		"LABEL": "0x287B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Even at a glance, there were all kinds of people waiting in line."
+	},
+	{
+		"LABEL": "0x28C7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Once inside, don't make a fuss. Especially you, Touri.」"
+	},
+	{
+		"LABEL": "0x2900",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Why am I being singled out...?」"
+	},
+	{
+		"LABEL": "0x2929",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Reiri's not feral like you. You're the older sister, so get yourself together―」"
+	},
+	{
+		"LABEL": "0x2992",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "However, my Mom's fears were unfounded."
+	},
+	{
+		"LABEL": "0x29CC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Please keep this on your person while inside.」"
+	},
+	{
+		"LABEL": "0x2A0F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I received a small device like a mobile phone at the chilly entrance,"
+	},
+	{
+		"LABEL": "0x2A61",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "and stepped inside the dome――"
+	},
+	{
+		"LABEL": "0x2AAF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Blue."
+	},
+	{
+		"LABEL": "0x2ACA",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Blue filled my entire field of vision."
+	},
+	{
+		"LABEL": "0x2AFA",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "There was a huge tank in front of me."
+	},
+	{
+		"LABEL": "0x2B20",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was filled with water to the height of two or three stories of a normal building."
+	},
+	{
+		"LABEL": "0x2B6F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Inside were colorful sea creatures."
+	},
+	{
+		"LABEL": "0x2BA3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "A small fish with a white belly,"
+	},
+	{
+		"LABEL": "0x2BC1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "a flat fish, colored like a highlighter pen,"
+	},
+	{
+		"LABEL": "0x2BEB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "sea slugs with various colors and patterns,"
+	},
+	{
+		"LABEL": "0x2C11",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "and other colorful sea creatures that I had no idea what they were."
+	},
+	{
+		"LABEL": "0x2C66",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Countless species of fish, some in schools,"
+	},
+	{
+		"LABEL": "0x2CA2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "and some swimming through the seaweeds."
+	},
+	{
+		"LABEL": "0x2CE0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――A blue space."
+	},
+	{
+		"LABEL": "0x2D07",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "...It was simply overwhelming."
+	},
+	{
+		"LABEL": "0x2D2F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "A scene like looking up from the bottom of the sea."
+	},
+	{
+		"LABEL": "0x2D59",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The illusion of being in water made me forget to breathe."
+	},
+	{
+		"LABEL": "0x2D9E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "A closed space that was the origin of life, yet where we couldn't live in."
+	},
+	{
+		"LABEL": "0x2DE8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It wasn't like I'd ever seen the real sea from this angle, but..."
+	},
+	{
+		"LABEL": "0x2E34",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "This was a reproduction of what people imagined a \"sea\" to be."
+	},
+	{
+		"LABEL": "0x2E6F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Forgetting that this was an aquarium,"
+	},
+	{
+		"LABEL": "0x2E9D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "and that I was here with Mom and Reiri,"
+	},
+	{
+		"LABEL": "0x2ECF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I was simply captivated by this sea in front of me."
+	},
+	{
+		"LABEL": "0x2EFD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "A wonderful and... strange moment."
+	},
+	{
+		"LABEL": "0x2F21",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "No sound entered my ears."
+	},
+	{
+		"LABEL": "0x2F48",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Contrary to the silence that felt like all living things had died out, the scene before me was changing at a dizzying rate."
+	},
+	{
+		"LABEL": "0x2FAC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The creatures in the water kept moving in repeated patterns."
+	},
+	{
+		"LABEL": "0x2FF9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Some of them continued to float up and down,"
+	},
+	{
+		"LABEL": "0x3039",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "while others slowly swam around the large water tank."
+	},
+	{
+		"LABEL": "0x3075",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Because everything was moving in its own rhythm,"
+	},
+	{
+		"LABEL": "0x30A9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "the exact same scene could never be reproduced."
+	},
+	{
+		"LABEL": "0x30E9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Even so, what I saw in front of me was a never-changing sea."
+	},
+	{
+		"LABEL": "0x313A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Living without changing,"
+	},
+	{
+		"LABEL": "0x315C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "dying,"
+	},
+	{
+		"LABEL": "0x3170",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "eating,"
+	},
+	{
+		"LABEL": "0x3184",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "being eaten..."
+	},
+	{
+		"LABEL": "0x319C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "And thus, continuing to change endlessly."
+	},
+	{
+		"LABEL": "0x31CB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "That itself... was the sea."
+	},
+	{
+		"LABEL": "0x31F7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「..ri! ...Touri!」"
+	},
+	{
+		"LABEL": "0x321E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "A jolt on my shoulder pulled me back to reality."
+	},
+	{
+		"LABEL": "0x3250",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "When I turned around, I saw Reiri looking at me with a helpless look in her eyes."
+	},
+	{
+		"LABEL": "0x32AC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Reiri... What's wrong?」"
+	},
+	{
+		"LABEL": "0x32D3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Don't ask me what's wrong... I was worried because you didn't seem to hear me no matter how many times I called you.」"
+	},
+	{
+		"LABEL": "0x3346",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Now that she mentioned it,"
+	},
+	{
+		"LABEL": "0x3362",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "However quiet the aquarium might be, there were still many visitors here."
+	},
+	{
+		"LABEL": "0x33A0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "There was no way it could get so quiet that you couldn't hear anything."
+	},
+	{
+		"LABEL": "0x33DB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Apparently, the sheer magnificence of the water tank had captivated my heart, making it impossible to see anything else."
+	},
+	{
+		"LABEL": "0x3445",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Although it was written on my report card that I sometimes lost sight of my surroundings when I concentrated..."
+	},
+	{
+		"LABEL": "0x349F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "This was the first time I had lost sight of the present so easily."
+	},
+	{
+		"LABEL": "0x34DC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I patted Reiri's head, who looked like she was about to start crying, and looked again at the enormous blue sea."
+	},
+	{
+		"LABEL": "0x3534",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「But it's really amazing, isn't it? As you'd expect of the best in Japan!」"
+	},
+	{
+		"LABEL": "0x3577",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...You're right. It's beautiful, it's big, and it has the largest variety of creatures in a single tank in the world.」"
+	},
+	{
+		"LABEL": "0x35E0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Whoa―」"
+	},
+	{
+		"LABEL": "0x35F9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "In the world."
+	},
+	{
+		"LABEL": "0x3613",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "That sounded incredible, but I couldn't help but agree when I looked at the tank in front of me."
+	},
+	{
+		"LABEL": "0x3665",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "If there were more amazing things like this in the world, it would be truly overwhelming."
+	},
+	{
+		"LABEL": "0x36AF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "What was happening on Earth, I wondered."
+	},
+	{
+		"LABEL": "0x36DB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Touri, Reiri!」"
+	},
+	{
+		"LABEL": "0x36FC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Mom called out to us as she came over."
+	},
+	{
+		"LABEL": "0x3728",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "When we ran up to her, she let out a tired sigh."
+	},
+	{
+		"LABEL": "0x3774",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「You two have been staring at this tank the whole time. Is it that interesting?」"
+	},
+	{
+		"LABEL": "0x37BC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Huh? Me too?」"
+	},
+	{
+		"LABEL": "0x37DD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Were we watching for that long?」"
+	},
+	{
+		"LABEL": "0x3808",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I'm sure you're exhausted. It's a little early, but let's take a break and have lunch.」"
+	},
+	{
+		"LABEL": "0x385F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Time passed quickly."
+	},
+	{
+		"LABEL": "0x388B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "If you asked me, my legs were already like sticks, and it hurt a bit to stand."
+	},
+	{
+		"LABEL": "0x38CF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Beside me, Reiri was already wobbling."
+	},
+	{
+		"LABEL": "0x3903",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Also, I was feeling kind of hungry."
+	},
+	{
+		"LABEL": "0x392F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「No objections to lunch!」"
+	},
+	{
+		"LABEL": "0x3954",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「None!」"
+	},
+	{
+		"LABEL": "0x396F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "With that said, we headed to a cafeteria."
+	},
+	{
+		"LABEL": "0x39A5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Almost everything on the menu was fish, shellfish, and seafood..."
+	},
+	{
+		"LABEL": "0x3A03",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Hmm. It's delicious, but... How to put it? It feels like we're being used as a disposal for leftovers.」"
+	},
+	{
+		"LABEL": "0x3A9C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Hey, Mom...」"
+	},
+	{
+		"LABEL": "0x3AC5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I kind of got what Mom was trying to say."
+	},
+	{
+		"LABEL": "0x3AFC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "With such a large number of fish in captivity, it must be very difficult and expensive to dispose of the dead fish."
+	},
+	{
+		"LABEL": "0x3B30",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "If those fish were cooked and served, the company could kill two birds with one stone,"
+	},
+	{
+		"LABEL": "0x3B82",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "saving the time and effort of disposing of them and making money at the same time."
+	},
+	{
+		"LABEL": "0x3BD8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "...Maybe that was a bit of a stretch."
+	},
+	{
+		"LABEL": "0x3C02",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "However, imagining us eating the beautiful fish I'd been looking at"
+	},
+	{
+		"LABEL": "0x3C52",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "just now made me feel a little strange."
+	},
+	{
+		"LABEL": "0x3C86",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I was sure Reiri would be able to think about it more..."
+	},
+	{
+		"LABEL": "0x3CCD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "...Or so I thought, but when I looked to the side, Reiri had put down her food and was staring at Mom with a sullen look on her face."
+	},
+	{
+		"LABEL": "0x3D2B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「You really shouldn't say that, you know?」"
+	},
+	{
+		"LABEL": "0x3D60",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「That's right. Mom doesn't have any delivery.」"
+	},
+	{
+		"LABEL": "0x3D9F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I think you mean \"delicacy.\"」"
+	},
+	{
+		"LABEL": "0x3DCE",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「It's better than your restlessness, Touri.」"
+	},
+	{
+		"LABEL": "0x3E03",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「What?! What part of me is restless?!」"
+	},
+	{
+		"LABEL": "0x3E41",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Ah, watch it. Your spoon is about to fall.」"
+	},
+	{
+		"LABEL": "0x3E76",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「See, I told you. Eat properly.」"
+	},
+	{
+		"LABEL": "0x3EB9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Gununu...」"
+	},
+	{
+		"LABEL": "0x3ED2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「You'll never be popular if you keep acting like a boy. You need to learn to be neat and girly...」"
+	},
+	{
+		"LABEL": "0x3F49",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「It's fine! All the boys in my class are small fry.」"
+	},
+	{
+		"LABEL": "0x3F84",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Small fry? Like in the aquarium?」"
+	},
+	{
+		"LABEL": "0x3FAC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...Wow.」"
+	},
+	{
+		"LABEL": "0x3FC9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...This is stupid.」"
+	},
+	{
+		"LABEL": "0x3FEC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Mom and I made a fuss about stupid things that didn't matter, and Reiri cheerfully reproached us for it."
+	},
+	{
+		"LABEL": "0x4055",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "We finished our meal like that."
+	},
+	{
+		"LABEL": "0x4089",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I'd like to spend the afternoon looking around since this is a good opportunity.」"
+	},
+	{
+		"LABEL": "0x40C2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「No objections.」"
+	},
+	{
+		"LABEL": "0x40DF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「None.」"
+	},
+	{
+		"LABEL": "0x40FB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "And so, we ended up looking around the tanks other than the giant one during the afternoon."
+	},
+	{
+		"LABEL": "0x4143",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Pretty...」"
+	},
+	{
+		"LABEL": "0x4160",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was a jellyfish that Reiri liked."
+	},
+	{
+		"LABEL": "0x4197",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The fluffy creature glowed in the dark water tank, reflecting the lights around it."
+	},
+	{
+		"LABEL": "0x41DB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Its appearance was so mysterious that I could do nothing but stare at it."
+	},
+	{
+		"LABEL": "0x423B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Reiri was most intrigued by the saffron jellyfish."
+	},
+	{
+		"LABEL": "0x426F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Not only did it look beautiful, but she also widened her eyes at the explanatory text attached to it."
+	},
+	{
+		"LABEL": "0x42CE",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It said that they \"didn't die.\""
+	},
+	{
+		"LABEL": "0x42FD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "As it grew old, it rejuvenated and grew again."
+	},
+	{
+		"LABEL": "0x432D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "That was like immortality or reincarnation."
+	},
+	{
+		"LABEL": "0x4359",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Who'd have thought that a phenomenon from fantasy like that existed in real life?"
+	},
+	{
+		"LABEL": "0x43AF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Reiri, who loved to read books, seemed to have particular thoughts about it."
+	},
+	{
+		"LABEL": "0x43F6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Mom, on the other hand, was interested in high-class fish like the ones you'd find in sushi shops and restaurants."
+	},
+	{
+		"LABEL": "0x4452",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Wow, they look so gross! But they taste good. It's true that appearances can be deceiving.」"
+	},
+	{
+		"LABEL": "0x44C9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Reading the explanatory texts while looking at the bunch of tanks was pretty tiring."
+	},
+	{
+		"LABEL": "0x4523",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "By the time we finished our rounds, I was already exhausted, both physically and mentally."
+	},
+	{
+		"LABEL": "0x457F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Whew. That was amazing... as expected of the best in the world!」"
+	},
+	{
+		"LABEL": "0x45BC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「It was great, sure, but also exhausting.」"
+	},
+	{
+		"LABEL": "0x45F3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Getting older must suck.」"
+	},
+	{
+		"LABEL": "0x4618",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Hmm? Did you say something, Touri?」"
+	},
+	{
+		"LABEL": "0x464D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Stop it, you two.」"
+	},
+	{
+		"LABEL": "0x4674",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Reiri chuckled while sighing."
+	},
+	{
+		"LABEL": "0x46AE",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I'm tired too.」"
+	},
+	{
+		"LABEL": "0x46D3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Even saying it as her older sister, Reiri was really cute, and the smile she sometimes showed was very attractive."
+	},
+	{
+		"LABEL": "0x4727",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I was captivated by it in an instant."
+	},
+	{
+		"LABEL": "0x4757",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Mom patted me on the head."
+	},
+	{
+		"LABEL": "0x4790",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I guess it's time for me to bust out my final move.」"
+	},
+	{
+		"LABEL": "0x47CF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「What final move?」"
+	},
+	{
+		"LABEL": "0x47F2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Hehehe... The world's largest tank isn't actually the one we visited.」"
+	},
+	{
+		"LABEL": "0x483B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Mom stuck out her tongue mischievously as she said that."
+	},
+	{
+		"LABEL": "0x4873",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "In her hand was a map of this aquarium."
+	},
+	{
+		"LABEL": "0x48A0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「The world's largest is a two-in-one combo, standing side by side... That's how it's always been.」"
+	},
+	{
+		"LABEL": "0x48ED",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "\"It's a bit of a walk away,\" Mom said, pulling us along by the hand."
+	},
+	{
+		"LABEL": "0x4932",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The second large tank we visited was on the opposite side of the center of the dome from the first."
+	},
+	{
+		"LABEL": "0x4988",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "According to the diagram of the complex from directly above, it was symmetrical from the entrance."
+	},
+	{
+		"LABEL": "0x49DA",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Here we are―」"
+	},
+	{
+		"LABEL": "0x49F5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I was at a loss for words as I passed through the narrow passageway."
+	},
+	{
+		"LABEL": "0x4A4B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――It was like scorched asphalt."
+	},
+	{
+		"LABEL": "0x4A80",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "A dark red tank."
+	},
+	{
+		"LABEL": "0x4A9E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "If the first tank represented the surface of the sea, filled with light and color, this was its underside, submerged in darkness."
+	},
+	{
+		"LABEL": "0x4AFF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The deepest part of the heavy, heavy waters."
+	},
+	{
+		"LABEL": "0x4B45",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――The deep sea."
+	},
+	{
+		"LABEL": "0x4B5D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was different from what came to mind when one said the word \"sea,\" but it was certainly one aspect of it."
+	},
+	{
+		"LABEL": "0x4BB4",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "All life lost its light"
+	},
+	{
+		"LABEL": "0x4BE0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "and abandoned its colors"
+	},
+	{
+		"LABEL": "0x4BF6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "in the middle of that darkness."
+	},
+	{
+		"LABEL": "0x4C1A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "A dark red light oozed out from the depths of that overwhelming blackness, dimly illuminating the tank."
+	},
+	{
+		"LABEL": "0x4C80",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was a strange-looking paradise."
+	},
+	{
+		"LABEL": "0x4CA4",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "There was a creature with eyeballs that looked too big,"
+	},
+	{
+		"LABEL": "0x4CC8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "and its thin limbs were encased in a hard-looking shell."
+	},
+	{
+		"LABEL": "0x4D02",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The creatures possessing strange forms that you wouldn't be able to imagine existing on the surface"
+	},
+	{
+		"LABEL": "0x4D4C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "were slowly swaying inside and carving out their quiet time..."
+	},
+	{
+		"LABEL": "0x4D83",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――No."
+	},
+	{
+		"LABEL": "0x4D9C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was a space where the concept of time didn't even exist."
+	},
+	{
+		"LABEL": "0x4DD4",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I mean, wasn't that right?"
+	},
+	{
+		"LABEL": "0x4DF7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It didn't matter if the sun rose or set here."
+	},
+	{
+		"LABEL": "0x4E37",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Light didn't reach here."
+	},
+	{
+		"LABEL": "0x4E51",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Daily rhythm didn't exist."
+	},
+	{
+		"LABEL": "0x4E76",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Only one's own heart was there to mark the passage of time."
+	},
+	{
+		"LABEL": "0x4E9E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "There was no common time to be shared between everyone."
+	},
+	{
+		"LABEL": "0x4EDB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "There was no \"someone\" or \"something.\""
+	},
+	{
+		"LABEL": "0x4F06",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "You couldn't touch anything."
+	},
+	{
+		"LABEL": "0x4F2F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "You couldn't share anything."
+	},
+	{
+		"LABEL": "0x4F4D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "What did that feel like...?"
+	},
+	{
+		"LABEL": "0x4F70",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――What kind of loneliness would that be?"
+	},
+	{
+		"LABEL": "0x4F95",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "From the time they were born to the time they died,"
+	},
+	{
+		"LABEL": "0x4FD3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "they were without anyone else,"
+	},
+	{
+		"LABEL": "0x4FEB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "by themselves,"
+	},
+	{
+		"LABEL": "0x4FFF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "alone."
+	},
+	{
+		"LABEL": "0x5017",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "That was something I would never know."
+	},
+	{
+		"LABEL": "0x5047",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Because, I hadn't been alone since I was born, or even before that."
+	},
+	{
+		"LABEL": "0x508D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Reiri."
+	},
+	{
+		"LABEL": "0x509F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "My twin sister."
+	},
+	{
+		"LABEL": "0x50B8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "We had always been together, and we would continue to be."
+	},
+	{
+		"LABEL": "0x50EF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "So, I would never know what it felt like to be a deep-sea fish."
+	},
+	{
+		"LABEL": "0x512D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I wouldn't be able to become a deep-sea fish..."
+	},
+	{
+		"LABEL": "0x5177",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Hellooo? Are you awake?」"
+	},
+	{
+		"LABEL": "0x51A6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I'm awake, I'm awake.」"
+	},
+	{
+		"LABEL": "0x51C9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「That's good... It looked like you forgot to breathe again.」"
+	},
+	{
+		"LABEL": "0x5214",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Reiri was stuck snugly behind Mom as she said that."
+	},
+	{
+		"LABEL": "0x525C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Reiri's getting scared, so let's get going, okay?」"
+	},
+	{
+		"LABEL": "0x5295",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I-I'm not scared...」"
+	},
+	{
+		"LABEL": "0x52BE",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Saying so, Reiri hid behind our Mom in embarrassment."
+	},
+	{
+		"LABEL": "0x52FF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "But, I could certainly understand why Reiri would be afraid."
+	},
+	{
+		"LABEL": "0x5333",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "A grotesque creature was wriggling quietly in the dim lighting."
+	},
+	{
+		"LABEL": "0x5368",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It gave off a feeling of unique beauty, but..."
+	},
+	{
+		"LABEL": "0x53A0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "If you looked at it normally, you could say it was quite an eerie sight."
+	},
+	{
+		"LABEL": "0x53D9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Sure, I've had my fill. Besides, isn't it about time?」"
+	},
+	{
+		"LABEL": "0x542D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "We left the aquarium."
+	},
+	{
+		"LABEL": "0x545A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "When I stepped outside, the sky was already dark."
+	},
+	{
+		"LABEL": "0x5490",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Well then, shall we go home?」"
+	},
+	{
+		"LABEL": "0x54C3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Zzz...」"
+	},
+	{
+		"LABEL": "0x54DE",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Reiri, who had been staggering in exhaustion, fell asleep as soon as she got inside the car."
+	},
+	{
+		"LABEL": "0x5532",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "She had been standing the whole day except when we ate, so it couldn't be helped."
+	},
+	{
+		"LABEL": "0x5578",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Touri, are you awake?」"
+	},
+	{
+		"LABEL": "0x559B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I'm awake... for now, but...」"
+	},
+	{
+		"LABEL": "0x55D4",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "On the way home from the park, Mom spoke up as we neared the Aqualine."
+	},
+	{
+		"LABEL": "0x5624",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I rubbed my sleepy eyes and sat up."
+	},
+	{
+		"LABEL": "0x5658",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「How was today? ...Did you have fun?」"
+	},
+	{
+		"LABEL": "0x569B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Of course! This was the first time I've seen a tank that big, and there were a lot of fish there, and... umm... it was amazing!」"
+	},
+	{
+		"LABEL": "0x571C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I see, so it was amazing. That's good. "
+	},
+	{
+		"LABEL": "0x5752",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "...I'm sure he'd be happy if I told him―」"
+	},
+	{
+		"LABEL": "0x5788",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Mom let out a little laugh as she mumbled about something."
+	},
+	{
+		"LABEL": "0x57D0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Is Reiri asleep?」"
+	},
+	{
+		"LABEL": "0x57F3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Yeah, she's drooling already.」"
+	},
+	{
+		"LABEL": "0x5824",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「She must've been exhausted. You can go to sleep, too.」"
+	},
+	{
+		"LABEL": "0x5859",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "When she put it that way, I didn't want to, for some reason."
+	},
+	{
+		"LABEL": "0x5896",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "As I sat down and stretched, I could see lights beyond the window."
+	},
+	{
+		"LABEL": "0x58E5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "With red at its center, the blue-tinged purple, or maybe pink, lights slowly glowed and disappeared over and over."
+	},
+	{
+		"LABEL": "0x594F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Like the large deep-sea tank earlier, the mysterious colors were beautiful yet somehow haunting."
+	},
+	{
+		"LABEL": "0x59B1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Today was so much fun."
+	},
+	{
+		"LABEL": "0x59D3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "There were no lies in those words."
+	},
+	{
+		"LABEL": "0x59F6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "But, after every pleasant event, something bad awaited."
+	},
+	{
+		"LABEL": "0x5A3F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I had a bad feeling."
+	},
+	{
+		"LABEL": "0x5A61",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「? What's wrong, Touri?」"
+	},
+	{
+		"LABEL": "0x5A8A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Nothing.」"
+	},
+	{
+		"LABEL": "0x5AA5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I was just anxious because I'd had too much fun."
+	},
+	{
+		"LABEL": "0x5AD0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I averted my eyes from the lights and looked up at the distant sky."
+	},
+	{
+		"LABEL": "0x5B16",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Suddenly, my eyes were filled with the shine of the night sun――"
+	},
+	{
+		"LABEL": "0x5B75",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――Bang."
+	},
+	{
+		"LABEL": "0x5B8F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "A sudden brake, followed by a powerful impact."
+	},
+	{
+		"LABEL": "0x5BB6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I hit my head and lost consciousness."
+	},
+	{
+		"LABEL": "0x5D09",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The largest water tank in Japan."
+	},
+	{
+		"LABEL": "0x5D2A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I sat down and watched the dolphins swim around in the blue filled with light."
+	},
+	{
+		"LABEL": "0x5D86",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Straddling a bright red dolphin, I spotted her and came down in a straight line, and reached for her hand."
+	},
+	{
+		"LABEL": "0x5DE5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Come with me.」"
+	},
+	{
+		"LABEL": "0x5E04",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Who am I?」"
+	},
+	{
+		"LABEL": "0x5E23",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I'm me. What about you?」"
+	},
+	{
+		"LABEL": "0x5E48",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I'm me.」"
+	},
+	{
+		"LABEL": "0x5E6C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "When I took her hand, I pulled her up and sat her down in front of my chest."
+	},
+	{
+		"LABEL": "0x5EC2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "On the back of the red dolphin, both of me were in that pool where we saw the dolphin show."
+	},
+	{
+		"LABEL": "0x5F19",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Many spectators were in the audience."
+	},
+	{
+		"LABEL": "0x5F40",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "They were looking at us."
+	},
+	{
+		"LABEL": "0x5F62",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "They were looking at Us."
+	},
+	{
+		"LABEL": "0x5F83",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The audience was excited by the appearance of the red dolphin."
+	},
+	{
+		"LABEL": "0x5FBF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「All right, let's go!」"
+	},
+	{
+		"LABEL": "0x5FDD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Whose voice was that?"
+	},
+	{
+		"LABEL": "0x6008",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The red dolphin carrying us started running on the water."
+	},
+	{
+		"LABEL": "0x6042",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "With us still mounting it, it swam around as ordered, left and right..."
+	},
+	{
+		"LABEL": "0x608B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "...And, jumped!"
+	},
+	{
+		"LABEL": "0x60AC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The dolphin jumped up and down, splashing water everywhere."
+	},
+	{
+		"LABEL": "0x60E6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Looking down at the front row of seats behind my back, I spotted a familiar face."
+	},
+	{
+		"LABEL": "0x613C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Mom!」"
+	},
+	{
+		"LABEL": "0x6159",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Jumping off the dolphin's back, I ran over to Mom and jumped to her chest."
+	},
+	{
+		"LABEL": "0x61AD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "However, her arms didn't tighten around me as she caught me."
+	},
+	{
+		"LABEL": "0x61F4",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Mom, what's wrong? It's me!」"
+	},
+	{
+		"LABEL": "0x622B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "When I called out to her, the humanoid figure who was definitely my Mom,"
+	},
+	{
+		"LABEL": "0x6267",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I noticed that she was covered by a red silk hat from the neck up."
+	},
+	{
+		"LABEL": "0x62A7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was a character costume."
+	},
+	{
+		"LABEL": "0x62CC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I wanted Mom to be there,"
+	},
+	{
+		"LABEL": "0x62F2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "but she wasn't my Mom,"
+	},
+	{
+		"LABEL": "0x6312",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "even though I thought she was."
+	},
+	{
+		"LABEL": "0x6336",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was my Mom,"
+	},
+	{
+		"LABEL": "0x6356",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "however,"
+	},
+	{
+		"LABEL": "0x636A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "she wasn't there anymore."
+	},
+	{
+		"LABEL": "0x6384",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "What was inside was not my Mom――"
+	},
+	{
+		"LABEL": "0x63B4",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「It's me.」"
+	},
+	{
+		"LABEL": "0x63CD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Reiri showed her face."
+	},
+	{
+		"LABEL": "0x63F6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "But that wasn't the Reiri I knew."
+	},
+	{
+		"LABEL": "0x6430",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "She was paler, morbid-looking, more mature, and..."
+	},
+	{
+		"LABEL": "0x6467",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――But for some reason, I knew it was her."
+	},
+	{
+		"LABEL": "0x64A5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "She stared at me with a curious look on her face."
+	},
+	{
+		"LABEL": "0x64E1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Why? Why are you looking at me like that, Touri?"
+	},
+	{
+		"LABEL": "0x6525",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Do you hate me that much? "
+	},
+	{
+		"LABEL": "0x6546",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Can you not forgive me?」"
+	},
+	{
+		"LABEL": "0x6567",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...No, I don't hate you. I don't hate Reiri because――」"
+	},
+	{
+		"LABEL": "0x65C0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Heh, heh, heh.」"
+	},
+	{
+		"LABEL": "0x65DC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "As I desperately tried to string my words together, Reiri's lips slowly curled into a smile."
+	},
+	{
+		"LABEL": "0x6620",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「\"I'm glad to hear that.\" "
+	},
+	{
+		"LABEL": "0x6643",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Did you think I'd say that?」"
+	},
+	{
+		"LABEL": "0x666A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "There was a dry sound coming from her throat."
+	},
+	{
+		"LABEL": "0x6684",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I realized after a moment that she was laughing."
+	},
+	{
+		"LABEL": "0x66C3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Nee-san, I already know. \"This girl\" knows, too.」"
+	},
+	{
+		"LABEL": "0x670A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "What was Reiri saying?"
+	},
+	{
+		"LABEL": "0x6739",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I didn't understand..."
+	},
+	{
+		"LABEL": "0x6756",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I didn't want to understand."
+	},
+	{
+		"LABEL": "0x6774",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I don't know what Nee-san's trying to do, but I think \"this girl\" has the right to know.」"
+	},
+	{
+		"LABEL": "0x67DB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I was held in Reiri's arms as she said that."
+	},
+	{
+		"LABEL": "0x6815",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Her arms were so frail and weak that she seemed as lifeless as a doll."
+	},
+	{
+		"LABEL": "0x6866",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "No wonder."
+	},
+	{
+		"LABEL": "0x6882",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "On that distant summer day..."
+	},
+	{
+		"LABEL": "0x68AD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "She had already――right."
+	},
+	{
+		"LABEL": "0x68D5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I knew."
+	},
+	{
+		"LABEL": "0x68F8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I had to know."
+	},
+	{
+		"LABEL": "0x691C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「――Stop it!」"
+	},
+	{
+		"LABEL": "0x693B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I pushed Reiri away and wrapped my arms around the little girl's head."
+	},
+	{
+		"LABEL": "0x6981",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "A burning heat assaulted my arms―and then, my eyes."
+	},
+	{
+		"LABEL": "0x69BE",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Hot, it's hot! Help!」"
+	},
+	{
+		"LABEL": "0x69EB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Stop! Don't open your eyes!」"
+	},
+	{
+		"LABEL": "0x6A1A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The red dolphin jumped at my feet as if to shake me off as I desperately clung to it."
+	},
+	{
+		"LABEL": "0x6A67",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The shocks and tremors felt like they would shake me off, and my arms and eyes felt like they were burning."
+	},
+	{
+		"LABEL": "0x6AAB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Uwaaaaaahhh!」"
+	},
+	{
+		"LABEL": "0x6AD4",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Hahahahaha!」"
+	},
+	{
+		"LABEL": "0x6AFF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The sisters' voices reverberated here and there, from far and near, enveloping me."
+	},
+	{
+		"LABEL": "0x6B51",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I want to see what happens next!」"
+	},
+	{
+		"LABEL": "0x6B75",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「That's not the future!」"
+	},
+	{
+		"LABEL": "0x6BA3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Even so!」"
+	},
+	{
+		"LABEL": "0x6BBD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「There's nothing you can do at this point!」"
+	},
+	{
+		"LABEL": "0x6BED",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Why?!」"
+	},
+	{
+		"LABEL": "0x6C0B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「At the very least, you'll remain happy――」"
+	},
+	{
+		"LABEL": "0x6C4D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――I pulled my fingers away and pushed up my eyelids."
+	},
+	{
+		"LABEL": "0x6D89",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x6DA4",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I quickly closed my thinly opened eyes."
+	},
+	{
+		"LABEL": "0x6DCA",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Was that the morning sun shining through the back of my eyelids...?"
+	},
+	{
+		"LABEL": "0x6DFE",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was so bright that I tried to roll over in my sleep, but I couldn't move."
+	},
+	{
+		"LABEL": "0x6E4B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Meanwhile, it was getting hotter and hotter."
+	},
+	{
+		"LABEL": "0x6E83",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Not that I was wearing a blanket or anything..."
+	},
+	{
+		"LABEL": "0x6EB6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "...The sun was trying too hard."
+	},
+	{
+		"LABEL": "0x6F7C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "As if to add insult to injury, someone was screaming in the distance, and the sirens of an ambulance could be heard."
+	},
+	{
+		"LABEL": "0x6FCC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I tried to cover my ears, but it was too painful to move."
+	},
+	{
+		"LABEL": "0x6FFC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Ah, geez. There's no way I'm getting up――"
+	},
+	{
+		"LABEL": "0x7032",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「What the hell is the rescue team doing?!」"
+	},
+	{
+		"LABEL": "0x705D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I heard an angry shout from somewhere not too far away."
+	},
+	{
+		"LABEL": "0x708D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Where had my earlier determination gone?"
+	},
+	{
+		"LABEL": "0x70B2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I got up... and opened my eyes wide."
+	},
+	{
+		"LABEL": "0x710C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The red of the flames was reflected in my eyes."
+	},
+	{
+		"LABEL": "0x712E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Dancing black smoke."
+	},
+	{
+		"LABEL": "0x7144",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The smell of burning iron."
+	},
+	{
+		"LABEL": "0x7163",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Screams and shouts of people trying to drown out the grating and harsh presence of death."
+	},
+	{
+		"LABEL": "0x71B1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I found myself on a road that was engulfed in flames."
+	},
+	{
+		"LABEL": "0x71FC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "But, what in the world―why was I here?"
+	},
+	{
+		"LABEL": "0x7246",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I could smell the distinct smell of the sea as I stood up."
+	},
+	{
+		"LABEL": "0x7284",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "In the darkness of dawn, I caught sight of lights in the distance."
+	},
+	{
+		"LABEL": "0x72CA",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Strangely vivid lights that switched between red and blue."
+	},
+	{
+		"LABEL": "0x72FE",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "They were the special kind that you could only see on the Aqualine――"
+	},
+	{
+		"LABEL": "0x7343",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――Flashing."
+	},
+	{
+		"LABEL": "0x7357",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――Dizziness."
+	},
+	{
+		"LABEL": "0x736B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――Collision."
+	},
+	{
+		"LABEL": "0x737F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "―Crash."
+	},
+	{
+		"LABEL": "0x7397",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Ugh――」"
+	},
+	{
+		"LABEL": "0x73B2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I felt nauseous and collapsed in an instant."
+	},
+	{
+		"LABEL": "0x73E5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "An accident."
+	},
+	{
+		"LABEL": "0x73F7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "A collision."
+	},
+	{
+		"LABEL": "0x740D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "How?"
+	},
+	{
+		"LABEL": "0x7423",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I..."
+	},
+	{
+		"LABEL": "0x7439",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Why?"
+	},
+	{
+		"LABEL": "0x744E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The heat and unfairness of it all made me vomit out everything in my stomach toward the ground."
+	},
+	{
+		"LABEL": "0x749E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "In exchange for the nausea, I regained my composure."
+	},
+	{
+		"LABEL": "0x74D0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――Right."
+	},
+	{
+		"LABEL": "0x74E8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Remembering everything, I turned around and looked up at the sky."
+	},
+	{
+		"LABEL": "0x7535",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was the night sky."
+	},
+	{
+		"LABEL": "0x754D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "What was illuminating the stars in the bright night sky wasn't the full moon――"
+	},
+	{
+		"LABEL": "0x759C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Midnight... sun――」"
+	},
+	{
+		"LABEL": "0x75BD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "As if absorbing the light of the earth,"
+	},
+	{
+		"LABEL": "0x75E3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "a brilliantly glowing light was shining"
+	},
+	{
+		"LABEL": "0x7607",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "in the direction of the rising flames――"
+	},
+	{
+		"LABEL": "0x7639",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Let this be a dream."
+	},
+	{
+		"LABEL": "0x764F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was an impossible scene, like an illusion."
+	},
+	{
+		"LABEL": "0x7674",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "An overwhelming landscape"
+	},
+	{
+		"LABEL": "0x769C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "that turned the screams of agony on the ground into a hymn."
+	},
+	{
+		"LABEL": "0x76E2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――Ah, it didn't matter anymore."
+	},
+	{
+		"LABEL": "0x770C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Whether this was real or an illusion, what was the difference?"
+	},
+	{
+		"LABEL": "0x774E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Unable to gauge the distance between me and the unreal danger before me,"
+	},
+	{
+		"LABEL": "0x7798",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I was left paralyzed by a helicopter suddenly crossing my field of vision."
+	},
+	{
+		"LABEL": "0x77D3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "There was a sudden silence between the clattering of its wings shredding the air."
+	},
+	{
+		"LABEL": "0x7821",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Aah...」"
+	},
+	{
+		"LABEL": "0x783C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The voice was faint, but I heard it."
+	},
+	{
+		"LABEL": "0x7877",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Mom!」"
+	},
+	{
+		"LABEL": "0x7894",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Even if it lacked its usual vigor, there was no mistaking it."
+	},
+	{
+		"LABEL": "0x78D8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I went toward her voice..."
+	},
+	{
+		"LABEL": "0x78F3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Just as I was about to start running, my feet got caught on something, and I fell over."
+	},
+	{
+		"LABEL": "0x792F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I could feel a sharp pain in my ankle..."
+	},
+	{
+		"LABEL": "0x7950",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――It looked like it was sprained."
+	},
+	{
+		"LABEL": "0x797A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The piercing pain made my consciousness clearer."
+	},
+	{
+		"LABEL": "0x79C0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "In the distance were overturned vehicles."
+	},
+	{
+		"LABEL": "0x79E6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "In the distance, I could see a large bus lying on its side."
+	},
+	{
+		"LABEL": "0x7A24",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "A helicopter was circling in the sky."
+	},
+	{
+		"LABEL": "0x7A53",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Help!」"
+	},
+	{
+		"LABEL": "0x7A6F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「There are still people here!」"
+	},
+	{
+		"LABEL": "0x7A97",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「It hurts... It hurts...!」"
+	},
+	{
+		"LABEL": "0x7ABB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Have you seen my daughter?!」"
+	},
+	{
+		"LABEL": "0x7AE3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Where did she go?!」"
+	},
+	{
+		"LABEL": "0x7B0F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Someone, anyone, I can't move!」"
+	},
+	{
+		"LABEL": "0x7B33",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I'm begging you...」"
+	},
+	{
+		"LABEL": "0x7B4F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "From left and right,"
+	},
+	{
+		"LABEL": "0x7B69",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "from far away and close by,"
+	},
+	{
+		"LABEL": "0x7B87",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "like a machine repeatedly amplifying their reverberations,"
+	},
+	{
+		"LABEL": "0x7BB9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "small and faint voices piled up,"
+	},
+	{
+		"LABEL": "0x7BE3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "reaching my ears as loud moans of suffering."
+	},
+	{
+		"LABEL": "0x7C1E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...uri... Touri...」"
+	},
+	{
+		"LABEL": "0x7C45",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Again, I heard her voice."
+	},
+	{
+		"LABEL": "0x7C61",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I looked around me in a panic."
+	},
+	{
+		"LABEL": "0x7C8B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I soon found the car we had ridden in..."
+	},
+	{
+		"LABEL": "0x7CBF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――I found it, but..."
+	},
+	{
+		"LABEL": "0x7CE5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The car was crushed."
+	},
+	{
+		"LABEL": "0x7D05",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Looking from the front, it looked perfectly straight."
+	},
+	{
+		"LABEL": "0x7D3A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "However, as soon as you went around to the driver's side, the painful reality of the situation became apparent."
+	},
+	{
+		"LABEL": "0x7D85",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Countless cracks appeared on the windows."
+	},
+	{
+		"LABEL": "0x7DA7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I hurriedly tried to pull the door open,"
+	},
+	{
+		"LABEL": "0x7DD5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "but it didn't budge, bent by the impact of the collision."
+	},
+	{
+		"LABEL": "0x7E0E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Before I could think,"
+	},
+	{
+		"LABEL": "0x7E2A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I clenched my fist and punched the windowpane with all my might."
+	},
+	{
+		"LABEL": "0x7E78",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Mom!」"
+	},
+	{
+		"LABEL": "0x7E95",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I punched it over and over again."
+	},
+	{
+		"LABEL": "0x7EB9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "By the time a large crack opened, there was blood flowing from my fist."
+	},
+	{
+		"LABEL": "0x7EF5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Ignoring the shards of glass hurting my fist,"
+	},
+	{
+		"LABEL": "0x7F27",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I tore through the window."
+	},
+	{
+		"LABEL": "0x7F52",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The shattered glass scattered both inside and outside the car."
+	},
+	{
+		"LABEL": "0x7F86",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Once the hole was big enough for my upper body to fit through, I peered into the driver's seat from there."
+	},
+	{
+		"LABEL": "0x7FDB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Mom!」"
+	},
+	{
+		"LABEL": "0x7FF8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「――You're being loud, Touri...」"
+	},
+	{
+		"LABEL": "0x802A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "At the feet of the warped driver's seat, there was a cramped opening."
+	},
+	{
+		"LABEL": "0x8056",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "In that space smeared with shattered glass was my Mom,"
+	},
+	{
+		"LABEL": "0x8082",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "bent in an impossible position but still smiling at me."
+	},
+	{
+		"LABEL": "0x80D9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...! Mom, thank God...」"
+	},
+	{
+		"LABEL": "0x8108",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Oh geez, shut up.」"
+	},
+	{
+		"LABEL": "0x812D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Still trapped in the tight gap, Mom reached out her arm toward me."
+	},
+	{
+		"LABEL": "0x8171",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Her hot, blood-stained palm touched my cheek."
+	},
+	{
+		"LABEL": "0x81AF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Are you hurt? Does your body hurt anywhere? Wait, what happened to your hand? It's covered in wounds! If you don't disinfect it properly, you'll be in trouble later.」"
+	},
+	{
+		"LABEL": "0x823E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Don't worry about me. More importantly, Mom... are you okay?」"
+	},
+	{
+		"LABEL": "0x8293",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "She smiled as if nothing was wrong, but her brow wrinkled from time to time."
+	},
+	{
+		"LABEL": "0x82EB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "She was in pain."
+	},
+	{
+		"LABEL": "0x830D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "How could she not be?"
+	},
+	{
+		"LABEL": "0x832F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「No, I'm just a little stuck and can't move. It's not that big of a deal――"
+	},
+	{
+		"LABEL": "0x839D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "As long as you two are safe, it's okay.」"
+	},
+	{
+		"LABEL": "0x83D0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "You \"two\"――"
+	},
+	{
+		"LABEL": "0x83F4",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Where's Reiri?」"
+	},
+	{
+		"LABEL": "0x8418",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Reiri."
+	},
+	{
+		"LABEL": "0x842A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "My sister."
+	},
+	{
+		"LABEL": "0x843E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The two of us were always together."
+	},
+	{
+		"LABEL": "0x846D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "And yet, why?"
+	},
+	{
+		"LABEL": "0x848A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Why had I forgotten about her?"
+	},
+	{
+		"LABEL": "0x84CB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "We had sat side by side on the back seat."
+	},
+	{
+		"LABEL": "0x84F5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was strange to overlook something like that."
+	},
+	{
+		"LABEL": "0x8522",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was wrong not to notice."
+	},
+	{
+		"LABEL": "0x8550",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I immediately jumped out and looked at the back seat."
+	},
+	{
+		"LABEL": "0x8587",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――Oh, right."
+	},
+	{
+		"LABEL": "0x859F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It wasn't there."
+	},
+	{
+		"LABEL": "0x85C1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Because,"
+	},
+	{
+		"LABEL": "0x85D5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "this car..."
+	},
+	{
+		"LABEL": "0x85FD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "There was only the front half of it left――"
+	},
+	{
+		"LABEL": "0x862D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Reiri!!」"
+	},
+	{
+		"LABEL": "0x8648",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I shouted as I looked around the area."
+	},
+	{
+		"LABEL": "0x867F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "There was a big truck right next to me."
+	},
+	{
+		"LABEL": "0x86A5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was what had done that to the car, to Reiri――"
+	},
+	{
+		"LABEL": "0x86C9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Anger welled up inside me."
+	},
+	{
+		"LABEL": "0x86E8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Unreasonable... It was all unreasonable."
+	},
+	{
+		"LABEL": "0x8719",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "There was no longer anyone in the driver's seat of the truck."
+	},
+	{
+		"LABEL": "0x874B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "With nowhere else to go, my emotions flowed out as a dark red river――"
+	},
+	{
+		"LABEL": "0x878D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Ugh――」"
+	},
+	{
+		"LABEL": "0x87A8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Nausea."
+	},
+	{
+		"LABEL": "0x87BC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "My stomach turned over with nothing to vomit."
+	},
+	{
+		"LABEL": "0x87F2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Tears welled up in my eyes from the pain."
+	},
+	{
+		"LABEL": "0x881D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――Useless."
+	},
+	{
+		"LABEL": "0x8835",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "This wasn't the time for this."
+	},
+	{
+		"LABEL": "0x886A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I'm... her older sister.」"
+	},
+	{
+		"LABEL": "0x889A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I ran over to the crushed part of Mom's car and peered inside again."
+	},
+	{
+		"LABEL": "0x88E2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It wasn't easy to tell what was in the back seat, which was mostly crushed flat."
+	},
+	{
+		"LABEL": "0x8926",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It looked like there was a space deep in the darkness, but..."
+	},
+	{
+		"LABEL": "0x8969",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "But..."
+	},
+	{
+		"LABEL": "0x897D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "There was no way Reiri would be safe in there――"
+	},
+	{
+		"LABEL": "0x89BB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――At that moment."
+	},
+	{
+		"LABEL": "0x89D5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Reiri!」"
+	},
+	{
+		"LABEL": "0x89EE",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Something moved behind the cruelly crushed seat."
+	},
+	{
+		"LABEL": "0x8A1E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The crushed door was heavily warped."
+	},
+	{
+		"LABEL": "0x8A50",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I thrust my fist into the windowpane, but it didn't budge."
+	},
+	{
+		"LABEL": "0x8A8F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Was there nothing――"
+	},
+	{
+		"LABEL": "0x8AAB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I picked up a side mirror lying at my feet and swung it down hard toward the window."
+	},
+	{
+		"LABEL": "0x8AFB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The glass shattered with a light sound."
+	},
+	{
+		"LABEL": "0x8B28",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Tearing off the fragments,"
+	},
+	{
+		"LABEL": "0x8B46",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I used the window frame "
+	},
+	{
+		"LABEL": "0x8B60",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "to enter inside what used to be the back seat."
+	},
+	{
+		"LABEL": "0x8B8C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Uwah.」"
+	},
+	{
+		"LABEL": "0x8BA5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I jumped inside the car through the narrow entrance I had created."
+	},
+	{
+		"LABEL": "0x8BDF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was surprisingly spacious inside, contrary to how it looked from the outside."
+	},
+	{
+		"LABEL": "0x8C22",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Rei...」"
+	},
+	{
+		"LABEL": "0x8C3D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I quickly spotted her."
+	},
+	{
+		"LABEL": "0x8C6A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "She was dead."
+	},
+	{
+		"LABEL": "0x8C84",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――――"
+	},
+	{
+		"LABEL": "0x8C9D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "My body froze."
+	},
+	{
+		"LABEL": "0x8CB9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "My body couldn't move."
+	},
+	{
+		"LABEL": "0x8CD3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It felt like time had stopped in this space."
+	},
+	{
+		"LABEL": "0x8D02",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Her face was devoid of color, illuminated only by the distant flames."
+	},
+	{
+		"LABEL": "0x8D38",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "She was pale like a wax doll."
+	},
+	{
+		"LABEL": "0x8D66",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Her arms, which hung limply, looked even more fake."
+	},
+	{
+		"LABEL": "0x8DA3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "From there, below..."
+	},
+	{
+		"LABEL": "0x8DC5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Even if she wasn't dead, she couldn't possibly be alive――"
+	},
+	{
+		"LABEL": "0x8E11",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Is Reiri... all right?」"
+	},
+	{
+		"LABEL": "0x8E36",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Mom's voice."
+	},
+	{
+		"LABEL": "0x8E50",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Even though she was in a serious state herself, she was still worrying about Reiri."
+	},
+	{
+		"LABEL": "0x8E8B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I couldn't respond."
+	},
+	{
+		"LABEL": "0x8EB1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "My thoughts, urged on by the burning air,"
+	},
+	{
+		"LABEL": "0x8EDB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "wouldn't move on from the fact that I had to save them both."
+	},
+	{
+		"LABEL": "0x8F22",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I sat up Reiri's unconscious body"
+	},
+	{
+		"LABEL": "0x8F54",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "and lifted her as if we were embracing."
+	},
+	{
+		"LABEL": "0x8F86",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "With her stomach pinned between the seats, she wouldn't budge as expected,"
+	},
+	{
+		"LABEL": "0x8FD4",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "but besides my quickening heartbeat, there was another."
+	},
+	{
+		"LABEL": "0x9006",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was slow and uncertain, but I definitely felt another heartbeat."
+	},
+	{
+		"LABEL": "0x9053",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――She was alive."
+	},
+	{
+		"LABEL": "0x9070",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「She's alive! "
+	},
+	{
+		"LABEL": "0x9087",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Reiri's alive!」"
+	},
+	{
+		"LABEL": "0x90AA",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "With a shout, I checked the position of Reiri's waist and kicked the seat across from her stomach."
+	},
+	{
+		"LABEL": "0x9105",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was pointlessly elastic and sturdy."
+	},
+	{
+		"LABEL": "0x9131",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Even though it looked like it moved a little, it immediately returned to its original position."
+	},
+	{
+		"LABEL": "0x917B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I didn't hesitate."
+	},
+	{
+		"LABEL": "0x9197",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I threw my left leg into the small gap that was born the moment I kicked the seat."
+	},
+	{
+		"LABEL": "0x91EC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Guh――」"
+	},
+	{
+		"LABEL": "0x9207",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It hurt."
+	},
+	{
+		"LABEL": "0x9219",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It hurt, it hurt, it hurt, it hurt."
+	},
+	{
+		"LABEL": "0x923F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "My mind, agitated by the extreme situation and lack of oxygen, cleared up due to the pain."
+	},
+	{
+		"LABEL": "0x9280",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "What my now clear mind told me,"
+	},
+	{
+		"LABEL": "0x92A6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "was that this was... unbelievably painful."
+	},
+	{
+		"LABEL": "0x92D6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I had to hurry."
+	},
+	{
+		"LABEL": "0x92F3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "All that was left now was to pull Reiri, who I was still holding, through the space I had created."
+	},
+	{
+		"LABEL": "0x9351",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I put strength into my arms and lifted her up all at once."
+	},
+	{
+		"LABEL": "0x9392",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Come on!」"
+	},
+	{
+		"LABEL": "0x93AF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "There was nothing pinning her down anymore,"
+	},
+	{
+		"LABEL": "0x93E9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "and I was able to easily pull her out with my arms."
+	},
+	{
+		"LABEL": "0x9427",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I pulled my left leg back soon after, and the space I had created disappeared."
+	},
+	{
+		"LABEL": "0x947C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It all happened in an instant."
+	},
+	{
+		"LABEL": "0x949E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I was so stunned that I couldn't help but make sure Reiri wasn't missing anything."
+	},
+	{
+		"LABEL": "0x94FF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I had heard that people who lost their strength were heavier than you'd think."
+	},
+	{
+		"LABEL": "0x954B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I couldn't believe how light Reiri was."
+	},
+	{
+		"LABEL": "0x9578",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Weight, by itself, implied existence."
+	},
+	{
+		"LABEL": "0x95AE",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "She was so light and frail, almost like――"
+	},
+	{
+		"LABEL": "0x95EA",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Touri? What's wrong?!」"
+	},
+	{
+		"LABEL": "0x9613",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The impact just now seemed to have reached the front seat as well, and I could hear my Mom's panicked scream."
+	},
+	{
+		"LABEL": "0x9666",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Don't worry, Reiri's safe.」"
+	},
+	{
+		"LABEL": "0x968F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I carefully carried Reiri out the window and laid her down on the hard, flat ground."
+	},
+	{
+		"LABEL": "0x96D9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I lifted her chest a little to make it easier for her to breathe."
+	},
+	{
+		"LABEL": "0x971A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "However, her breathing was so weak"
+	},
+	{
+		"LABEL": "0x974A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "that it could stop at any moment."
+	},
+	{
+		"LABEL": "0x9776",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Reiri, Reiri!!」"
+	},
+	{
+		"LABEL": "0x9797",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Is she breathing?」"
+	},
+	{
+		"LABEL": "0x97B8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「She won't wake up...」"
+	},
+	{
+		"LABEL": "0x97DF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Say something, anything..."
+	},
+	{
+		"LABEL": "0x97FD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I squeezed her outstretched hand as tightly as I could."
+	},
+	{
+		"LABEL": "0x983A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I felt my nails digging in, but I kept putting strength into it."
+	},
+	{
+		"LABEL": "0x9873",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "She should wake up from the pain."
+	},
+	{
+		"LABEL": "0x9897",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The heat should wake her up, as well."
+	},
+	{
+		"LABEL": "0x98BB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "She should, yet――"
+	},
+	{
+		"LABEL": "0x98DF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I stood up and hurried to my Mom's side."
+	},
+	{
+		"LABEL": "0x9916",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Mom, Reiri won't wake up!」"
+	},
+	{
+		"LABEL": "0x994F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Touri... "
+	},
+	{
+		"LABEL": "0x9962",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "You did a great job.」"
+	},
+	{
+		"LABEL": "0x9989",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "She no longer even groaned in pain as she spoke with a gentle look in her eyes."
+	},
+	{
+		"LABEL": "0x99D7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was definitely not because her pain had passed――"
+	},
+	{
+		"LABEL": "0x9A12",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Now, you just have to wait for the rescue team to arrive.」"
+	},
+	{
+		"LABEL": "0x9A57",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x9A71",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I reached out to Mom, who had her eyes closed."
+	},
+	{
+		"LABEL": "0x9A9D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The coldness of her cheeks against my palm made me pull my hand back."
+	},
+	{
+		"LABEL": "0x9AD3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "At this rate, it'd be the same as with Reiri."
+	},
+	{
+		"LABEL": "0x9AFC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "They were both going to die."
+	},
+	{
+		"LABEL": "0x9B23",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "But, what could I do?"
+	},
+	{
+		"LABEL": "0x9B4A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I wouldn't be able to save them both."
+	},
+	{
+		"LABEL": "0x9B7C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "What was my role?"
+	},
+	{
+		"LABEL": "0x9B98",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The only thing I could do was――"
+	},
+	{
+		"LABEL": "0x9BC4",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I'm going to get the rescue team!」"
+	},
+	{
+		"LABEL": "0x9BF3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Touri...」"
+	},
+	{
+		"LABEL": "0x9C0E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I stood up and stared in the direction the helicopter had flown off."
+	},
+	{
+		"LABEL": "0x9C50",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was on the other side of that truck, if I was right――"
+	},
+	{
+		"LABEL": "0x9C81",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It would be easy."
+	},
+	{
+		"LABEL": "0x9C98",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I could run 50 meters faster than the boys in my class."
+	},
+	{
+		"LABEL": "0x9CC9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Even among the girls, I was the best at long-distance running."
+	},
+	{
+		"LABEL": "0x9CED",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I would go and save them."
+	},
+	{
+		"LABEL": "0x9D17",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The asphalt was peeling in places on the hard road."
+	},
+	{
+		"LABEL": "0x9D55",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The wind, mixed with dust and smoke, stung my skin, eyes, and throat."
+	},
+	{
+		"LABEL": "0x9D8D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I rubbed my eyes and wiped away my tears."
+	},
+	{
+		"LABEL": "0x9DBA",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was all right."
+	},
+	{
+		"LABEL": "0x9DD1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I was going to save them!"
+	},
+	{
+		"LABEL": "0x9E2F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "And so, I dashed off."
+	},
+	{
+		"LABEL": "0x9F35",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Hurry――"
+	},
+	{
+		"LABEL": "0x9F49",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I was running over what used to be cars and guardrails turned into rubble."
+	},
+	{
+		"LABEL": "0x9F94",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "No matter how hard I searched, all I could see was more wreckage."
+	},
+	{
+		"LABEL": "0x9FC8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was hard to imagine the original shape of the metal mass."
+	},
+	{
+		"LABEL": "0xA003",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It looked unmovable, but on the other hand,"
+	},
+	{
+		"LABEL": "0xA03D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "it seemed like it could collapse from the slightest touch."
+	},
+	{
+		"LABEL": "0xA080",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The flames were gone, and even the black smoke was now distant, leaving my vision filled with blackened gray."
+	},
+	{
+		"LABEL": "0xA0C8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was a gruesome landscape enveloped in the smell of death."
+	},
+	{
+		"LABEL": "0xA0F7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "However..."
+	},
+	{
+		"LABEL": "0xA10D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "There were still people here."
+	},
+	{
+		"LABEL": "0xA137",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Aaahhhhhh...」"
+	},
+	{
+		"LABEL": "0xA159",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Someone!」"
+	},
+	{
+		"LABEL": "0xA16F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Is anyone out there!」"
+	},
+	{
+		"LABEL": "0xA18D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Someone!」"
+	},
+	{
+		"LABEL": "0xA1A5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Why are you still alive?!」"
+	},
+	{
+		"LABEL": "0xA1D1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Even though she's dead!!」"
+	},
+	{
+		"LABEL": "0xA1FD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「It hurts... It hurts... It hurts...」"
+	},
+	{
+		"LABEL": "0xA227",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Why, what have I done?!」"
+	},
+	{
+		"LABEL": "0xA25C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Moans and screams―voices filled with hatred."
+	},
+	{
+		"LABEL": "0xA292",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The hideous cries of people throwing their emotions at each other, having no other targets."
+	},
+	{
+		"LABEL": "0xA2CB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Why? It wasn't anyone's fault, so why――"
+	},
+	{
+		"LABEL": "0xA303",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Suddenly, I felt dizzy and nauseous, and I nearly fell to the ground."
+	},
+	{
+		"LABEL": "0xA347",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was no one's fault. No one was to blame, but I was overwhelmed by their swirling resentment."
+	},
+	{
+		"LABEL": "0xA39C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "...Don't be fooled!"
+	},
+	{
+		"LABEL": "0xA3BD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I shook my head and looked straight ahead."
+	},
+	{
+		"LABEL": "0xA3EC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I didn't care about other people."
+	},
+	{
+		"LABEL": "0xA416",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I had to save Mom and Reiri."
+	},
+	{
+		"LABEL": "0xA442",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I strained my eyes, searching for the rescue team."
+	},
+	{
+		"LABEL": "0xA478",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Shut up! Then you should have just died!」"
+	},
+	{
+		"LABEL": "0xA4B3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "A woman was pushed right in front of me."
+	},
+	{
+		"LABEL": "0xA4DF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "She looked mature, yet quite young."
+	},
+	{
+		"LABEL": "0xA51C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I threw my body to the right to avoid her."
+	},
+	{
+		"LABEL": "0xA556",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Nice reflexes."
+	},
+	{
+		"LABEL": "0xA572",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I managed to avoid a collision."
+	},
+	{
+		"LABEL": "0xA59B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "However, it was so sudden that I ended up falling to the ground."
+	},
+	{
+		"LABEL": "0xA5F7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Are you okay――」"
+	},
+	{
+		"LABEL": "0xA614",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Why!? Why do I have to go through this!?」"
+	},
+	{
+		"LABEL": "0xA657",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Just as I brushed myself off and stood up, the woman grabbed onto my shoulders."
+	},
+	{
+		"LABEL": "0xA6A3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Was it hatred?"
+	},
+	{
+		"LABEL": "0xA6BD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Was it pain?"
+	},
+	{
+		"LABEL": "0xA6D7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "She glared at me with a terrifying expression, then collapsed under her own weight."
+	},
+	{
+		"LABEL": "0xA71D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Uuuuughh.」"
+	},
+	{
+		"LABEL": "0xA73C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Whoa!」"
+	},
+	{
+		"LABEL": "0xA755",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I fell down along with her."
+	},
+	{
+		"LABEL": "0xA788",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "She suddenly relaxed her whole body and knelt down in front of me as if she were clinging to me."
+	},
+	{
+		"LABEL": "0xA7D8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Are you okay...? Ow...!」"
+	},
+	{
+		"LABEL": "0xA807",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I took a breath, calmed down, and called out to her."
+	},
+	{
+		"LABEL": "0xA83F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I seemed to have sprained my leg, and my voice leaked out in pain."
+	},
+	{
+		"LABEL": "0xA880",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "But, she didn't seem to notice."
+	},
+	{
+		"LABEL": "0xA8B3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Still kneeling, she didn't try to stand up. She was looking at the distant sky."
+	},
+	{
+		"LABEL": "0xA8F5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Almost like she could see someone there."
+	},
+	{
+		"LABEL": "0xA939",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "When I followed her gaze, I saw the round sun."
+	},
+	{
+		"LABEL": "0xA971",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "...No, that wasn't it."
+	},
+	{
+		"LABEL": "0xA98B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "That couldn't be right."
+	},
+	{
+		"LABEL": "0xA9AC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Because it was the middle of the night."
+	},
+	{
+		"LABEL": "0xA9D8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I could see the night sky out of the corner of my eye..."
+	},
+	{
+		"LABEL": "0xAA04",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――And yet, we were basked in light."
+	},
+	{
+		"LABEL": "0xAA46",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "By the midnight sun."
+	},
+	{
+		"LABEL": "0xAA62",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was impossible, yet this couldn't be a dream――"
+	},
+	{
+		"LABEL": "0xAAA0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I turned around at the sound and saw an older man on his knees."
+	},
+	{
+		"LABEL": "0xAAD8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "His chiseled features made it impossible to tell his age, but he was probably about the same age as the woman."
+	},
+	{
+		"LABEL": "0xAB35",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "He was the man who had pushed this woman."
+	},
+	{
+		"LABEL": "0xAB5F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "His eyes were unfocused."
+	},
+	{
+		"LABEL": "0xAB83",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "He, too, was unable to process the tragedy before him."
+	},
+	{
+		"LABEL": "0xABBC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I..."
+	},
+	{
+		"LABEL": "0xABD5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "If I didn't save them, they would all die."
+	},
+	{
+		"LABEL": "0xAC0D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "My scraped knees were hurting."
+	},
+	{
+		"LABEL": "0xAC2D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "But, I was fine."
+	},
+	{
+		"LABEL": "0xAC4C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I started walking again."
+	},
+	{
+		"LABEL": "0xAC71",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "My ears were seared by sorrow, hatred, and resentment."
+	},
+	{
+		"LABEL": "0xACB2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I could no longer run, but..."
+	},
+	{
+		"LABEL": "0xACDE",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Dragging my sprained leg,"
+	},
+	{
+		"LABEL": "0xAD04",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I clung to what had once been a car."
+	},
+	{
+		"LABEL": "0xAD2E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "My joints hurt."
+	},
+	{
+		"LABEL": "0xAD46",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "My muscles ached."
+	},
+	{
+		"LABEL": "0xAD5E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "My whole body was telling me that I was at my limit."
+	},
+	{
+		"LABEL": "0xAD80",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The rescue team was nowhere to be seen."
+	},
+	{
+		"LABEL": "0xADA1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Nowhere."
+	},
+	{
+		"LABEL": "0xADBD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Why?"
+	},
+	{
+		"LABEL": "0xADD6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I had to hurry."
+	},
+	{
+		"LABEL": "0xADF1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "At this rate,"
+	},
+	{
+		"LABEL": "0xAE0C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Reiri"
+	},
+	{
+		"LABEL": "0xAE23",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "and Mom would――"
+	},
+	{
+		"LABEL": "0xAE3F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Ah――」"
+	},
+	{
+		"LABEL": "0xAE5A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "All the strength suddenly drained from my body, and I couldn't fight gravity anymore."
+	},
+	{
+		"LABEL": "0xAE96",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Even though I had to save them..."
+	},
+	{
+		"LABEL": "0xAEC6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Even though I was the only one who could save them..."
+	},
+	{
+		"LABEL": "0xAEF5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Why?――"
+	},
+	{
+		"LABEL": "0xAF13",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――――"
+	},
+	{
+		"LABEL": "0xAF29",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "And just like that, I fell into his arms."
+	},
+	{
+		"LABEL": "0xAF62",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Are you all right? "
+	},
+	{
+		"LABEL": "0xAF7D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Your hand is badly injured! We've got to get you%Npatched up...」"
+	},
+	{
+		"LABEL": "0xAFC6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The man shouting in front of me looked like an ordinary person."
+	},
+	{
+		"LABEL": "0xAFFF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "He was dressed like a young man with a modern hairstyle."
+	},
+	{
+		"LABEL": "0xB029",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "He looked like a university student."
+	},
+	{
+		"LABEL": "0xB062",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "He tore the hem of the shirt he was wearing and covered my hand from the elbow down."
+	},
+	{
+		"LABEL": "0xB0B8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I can't give you treatment, and that wound will have to be disinfected... Anyway, I'm taking you to the base, so come along quietly――」"
+	},
+	{
+		"LABEL": "0xB12F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Treatment?"
+	},
+	{
+		"LABEL": "0xB141",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Disinfection?"
+	},
+	{
+		"LABEL": "0xB153",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "He'll help?"
+	},
+	{
+		"LABEL": "0xB16F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Help who?"
+	},
+	{
+		"LABEL": "0xB181",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Me?"
+	},
+	{
+		"LABEL": "0xB19D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "That didn't matter."
+	},
+	{
+		"LABEL": "0xB1C3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I shook off his arm."
+	},
+	{
+		"LABEL": "0xB1FD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「You have to save them! "
+	},
+	{
+		"LABEL": "0xB210",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "You have to save Mom and Reiri!!」"
+	},
+	{
+		"LABEL": "0xB2F8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "That must have been a commonplace cry."
+	},
+	{
+		"LABEL": "0xB32B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "That's what I thought as I was held in his arms as he ran."
+	},
+	{
+		"LABEL": "0xB354",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Death was mixing with the wind that entered my ears."
+	},
+	{
+		"LABEL": "0xB386",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "If I looked around, I would see many people dying."
+	},
+	{
+		"LABEL": "0xB3BC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Only those who happened to be reached by the rescue team would be saved."
+	},
+	{
+		"LABEL": "0xB3FA",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I knew he had no intention of saving anyone or leaving anyone to die."
+	},
+	{
+		"LABEL": "0xB441",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "But still, I pulled his arm forcefully."
+	},
+	{
+		"LABEL": "0xB47F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Sacrificing someone in order to save two people――"
+	},
+	{
+		"LABEL": "0xB4AF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Around here?」"
+	},
+	{
+		"LABEL": "0xB4D0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Umm, on the other side of that truck... "
+	},
+	{
+		"LABEL": "0xB503",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Ah――」"
+	},
+	{
+		"LABEL": "0xB51F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I turned to look in the direction they were in and jumped straight out of his arms, and ran."
+	},
+	{
+		"LABEL": "0xB57B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Hey, wait!」"
+	},
+	{
+		"LABEL": "0xB59E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I ran without hearing the man's voice trying to stop me."
+	},
+	{
+		"LABEL": "0xB5D1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Not caring that my knees and arms were aching,"
+	},
+	{
+		"LABEL": "0xB605",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I rushed at the men surrounding our car."
+	},
+	{
+		"LABEL": "0xB63D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「What are you doing?!」"
+	},
+	{
+		"LABEL": "0xB664",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Don't touch them!」"
+	},
+	{
+		"LABEL": "0xB67F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Don't touch them!"
+	},
+	{
+		"LABEL": "0xB693",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Don't touch them!!"
+	},
+	{
+		"LABEL": "0xB6A7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Stop!"
+	},
+	{
+		"LABEL": "0xB6BB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Only I could touch Reiri and Mom!"
+	},
+	{
+		"LABEL": "0xB6F7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "You people have nothing to do with this, so don't touch them!"
+	},
+	{
+		"LABEL": "0xB723",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Don't you dare touch them!!"
+	},
+	{
+		"LABEL": "0xB741",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「That's enough!」"
+	},
+	{
+		"LABEL": "0xB763",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I heard a dry sound and felt a sharp pain soon after."
+	},
+	{
+		"LABEL": "0xB793",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The man who had raised his hand was a not-so-young rescue worker in front of me."
+	},
+	{
+		"LABEL": "0xB7D4",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The man yelled at me without regard for my cries."
+	},
+	{
+		"LABEL": "0xB80D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「What can you do, then?」"
+	},
+	{
+		"LABEL": "0xB843",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「How are you going to save them?!」"
+	},
+	{
+		"LABEL": "0xB86F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Do you have any idea how many people have been running around for nothing,"
+	},
+	{
+		"LABEL": "0xB89F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "because you didn't stay here obediently?」"
+	},
+	{
+		"LABEL": "0xB8D5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「We could have gotten to them quicker... But because we couldn't see them――」"
+	},
+	{
+		"LABEL": "0xB920",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Why don't you leave it at that?」"
+	},
+	{
+		"LABEL": "0xB952",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The man put his hand on the rescue worker's shoulder."
+	},
+	{
+		"LABEL": "0xB980",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "His eyes grew even sharper as he stared straight at the rescue worker, who turned to him in anger."
+	},
+	{
+		"LABEL": "0xB9D1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「You're dealing with children here... You can't lose your cool.」"
+	},
+	{
+		"LABEL": "0xBA30",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The rescue worker stared at the man for a while, then turned his face away as if he had surrendered."
+	},
+	{
+		"LABEL": "0xBBC7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Haah...」"
+	},
+	{
+		"LABEL": "0xBBE2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "He let out a sigh, relaxed his shoulders, and smiled bashfully at me as he stood there."
+	},
+	{
+		"LABEL": "0xBC41",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「It's all right now. We're all a bit worked up. "
+	},
+	{
+		"LABEL": "0xBC7B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "This situation is just... You have to forgive him.」"
+	},
+	{
+		"LABEL": "0xBCB4",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...Yeah.」"
+	},
+	{
+		"LABEL": "0xBCD2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "His voice was gentle as he patted me on the head."
+	},
+	{
+		"LABEL": "0xBD22",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Was everything I did for nothing?"
+	},
+	{
+		"LABEL": "0xBD50",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Should I have waited here obediently?"
+	},
+	{
+		"LABEL": "0xBD7A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Did I do something selfish and wrong again?"
+	},
+	{
+		"LABEL": "0xBDB5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Hey, looks like those two are okay.」"
+	},
+	{
+		"LABEL": "0xBDE6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Unable to move from where I stood, the man called out to me."
+	},
+	{
+		"LABEL": "0xBE25",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I followed his lead and looked to the other side of the crushed car."
+	},
+	{
+		"LABEL": "0xBE5D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Mom, Reiri...」"
+	},
+	{
+		"LABEL": "0xBE82",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The two of them were laid down side by side next to the car."
+	},
+	{
+		"LABEL": "0xBEB2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Both of them were unconscious and sleeping."
+	},
+	{
+		"LABEL": "0xBEE1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Mom's body had bloodstains all over, but I couldn't see any major injuries."
+	},
+	{
+		"LABEL": "0xBF3D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I couldn't see any on Reiri either, but her stomach was tightly bandaged."
+	},
+	{
+		"LABEL": "0xBF9D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Thank God...」"
+	},
+	{
+		"LABEL": "0xBFBC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "That was what the rescue workers were doing earlier."
+	},
+	{
+		"LABEL": "0xBFF6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "And still, I..."
+	},
+	{
+		"LABEL": "0xC01A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――I then realized something."
+	},
+	{
+		"LABEL": "0xC04A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Hey, what's that on their fingers?」"
+	},
+	{
+		"LABEL": "0xC075",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Both of them had a similar device attached to their ring fingers on their right hands."
+	},
+	{
+		"LABEL": "0xC0B7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "They looked to be the same, but the color they were lit by was different."
+	},
+	{
+		"LABEL": "0xC114",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "On Mom's hand, red."
+	},
+	{
+		"LABEL": "0xC134",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "On Reiri's hand, black."
+	},
+	{
+		"LABEL": "0xC153",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Red and black..."
+	},
+	{
+		"LABEL": "0xC16E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I looked down at my own hand, and the man grabbed it with his own."
+	},
+	{
+		"LABEL": "0xC1B0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "A man's calloused, warm hand..."
+	},
+	{
+		"LABEL": "0xC1E8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「You absolutely can't take this off. Same goes for those two.」"
+	},
+	{
+		"LABEL": "0xC229",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「S-Sure.」"
+	},
+	{
+		"LABEL": "0xC244",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "His face was serious."
+	},
+	{
+		"LABEL": "0xC25A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "He looked a little scary..."
+	},
+	{
+		"LABEL": "0xC27B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "After hearing a cold sound from my fingertip, he removed his hand."
+	},
+	{
+		"LABEL": "0xC2B1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "After he released my hand, I found that the same kind of device was attached to my finger."
+	},
+	{
+		"LABEL": "0xC313",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The color of the light was green."
+	},
+	{
+		"LABEL": "0xC32D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The vibrant and healthy-looking color stood out in this darkened world."
+	},
+	{
+		"LABEL": "0xC37C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was almost like a ring..."
+	},
+	{
+		"LABEL": "0xC3A0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I held my hand in front of my face and stared at it."
+	},
+	{
+		"LABEL": "0xC3D8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The gentle glow it emitted was like that of the sea creatures I had seen during the day."
+	},
+	{
+		"LABEL": "0xC427",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I forgot about the tension of the situation and was lost in admiration."
+	},
+	{
+		"LABEL": "0xC461",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0xC47C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "When I came to, the man was looking at Mom and Reiri's hands with a stern expression."
+	},
+	{
+		"LABEL": "0xC4C8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Two hands."
+	},
+	{
+		"LABEL": "0xC4E3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "He quietly made the sign of the cross on his chest and turned back to me."
+	},
+	{
+		"LABEL": "0xC53A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「It's all right now. The rest of the rescue team will be here to pick you up, so just wait here.」"
+	},
+	{
+		"LABEL": "0xC5A3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0xC5BE",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Just wait quietly. "
+	},
+	{
+		"LABEL": "0xC5DB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The same words that rescue worker had said."
+	},
+	{
+		"LABEL": "0xC605",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The same words Mom had said."
+	},
+	{
+		"LABEL": "0xC627",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I knew there was nothing I could do."
+	},
+	{
+		"LABEL": "0xC659",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "All I could do was wait here for someone to help me..."
+	},
+	{
+		"LABEL": "0xC69A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I hung my head, unable to say anything. I looked up when I felt a heavy weight on my shoulders."
+	},
+	{
+		"LABEL": "0xC6F3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Ah.」"
+	},
+	{
+		"LABEL": "0xC70A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "C-Close..."
+	},
+	{
+		"LABEL": "0xC722",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The man's face was right in front of me."
+	},
+	{
+		"LABEL": "0xC746",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "He was crouching down and grabbing my shoulders, staring me in the face."
+	},
+	{
+		"LABEL": "0xC791",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "So close..."
+	},
+	{
+		"LABEL": "0xC7A7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「You were very brave... You did a great job.」"
+	},
+	{
+		"LABEL": "0xC7D6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Goodbye."
+	},
+	{
+		"LABEL": "0xC7EC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I watched him leave after he brushed his knees, unable to say anything."
+	},
+	{
+		"LABEL": "0xC848",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「..."
+	},
+	{
+		"LABEL": "0xC85A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I'm sorry.」"
+	},
+	{
+		"LABEL": "0xC872",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It might've been an auditory hallucination."
+	},
+	{
+		"LABEL": "0xC890",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "His eyes were filled with pain like he was enduring something."
+	},
+	{
+		"LABEL": "0xC8D7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "A voice, mingling with the flames and sirens, reached my ears."
+	},
+	{
+		"LABEL": "0xC933",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...Tou...ri...」"
+	},
+	{
+		"LABEL": "0xC95A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Mom?」"
+	},
+	{
+		"LABEL": "0xC977",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "A faint voice, lost in the wind."
+	},
+	{
+		"LABEL": "0xC999",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Still, I didn't miss it."
+	},
+	{
+		"LABEL": "0xC9CA",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I ran to her side."
+	},
+	{
+		"LABEL": "0xC9F2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Touri, the color...」"
+	},
+	{
+		"LABEL": "0xCA13",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「What is it, Mom?」"
+	},
+	{
+		"LABEL": "0xCA3C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "She held her hand up in front of her face and squinted."
+	},
+	{
+		"LABEL": "0xCA8A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The device was glowing red."
+	},
+	{
+		"LABEL": "0xCAA7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Her hand was cold and lost its strength as soon as I took it."
+	},
+	{
+		"LABEL": "0xCAF6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Touri, what color is the tag?」"
+	},
+	{
+		"LABEL": "0xCB1B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Tag? You mean this?」"
+	},
+	{
+		"LABEL": "0xCB45",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I held out my right hand."
+	},
+	{
+		"LABEL": "0xCB6D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The green-glowing device the man had given me was there."
+	},
+	{
+		"LABEL": "0xCBB4",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "When she saw the light, Mom let out a relieved breath."
+	},
+	{
+		"LABEL": "0xCBFD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Thank goodness... What about Reiri's?」"
+	},
+	{
+		"LABEL": "0xCC31",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I glanced at Reiri."
+	},
+	{
+		"LABEL": "0xCC5F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Her body was cold."
+	},
+	{
+		"LABEL": "0xCC7B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It felt like her consciousness would never return."
+	},
+	{
+		"LABEL": "0xCC98",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Was... Reiri really going to be okay?"
+	},
+	{
+		"LABEL": "0xCCC7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "A glowing... no. A black tag was on her hand."
+	},
+	{
+		"LABEL": "0xCD03",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was black, no matter how I looked at it."
+	},
+	{
+		"LABEL": "0xCD33",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「It's black, I think. Is it broken? It's not glowing.」"
+	},
+	{
+		"LABEL": "0xCD72",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...I see.」"
+	},
+	{
+		"LABEL": "0xCD8D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Mom nodded as if she was convinced of something and quietly lowered her eyelids."
+	},
+	{
+		"LABEL": "0xCDD8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Naturally, like falling asleep, "
+	},
+	{
+		"LABEL": "0xCE0A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "as if she was going to die just like that――"
+	},
+	{
+		"LABEL": "0xCE42",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Mom――」"
+	},
+	{
+		"LABEL": "0xCE61",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "When I worriedly called out to her, she opened her eyes slowly."
+	},
+	{
+		"LABEL": "0xCEA1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Her eyes were filled with willpower, completely different from before."
+	},
+	{
+		"LABEL": "0xCED0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "She weakly raised her body and looked at me firmly."
+	},
+	{
+		"LABEL": "0xCF10",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Touri.」"
+	},
+	{
+		"LABEL": "0xCF27",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Her voice calling me was stronger than just now."
+	},
+	{
+		"LABEL": "0xCF5E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Surprised at her slightly angry-sounding voice, I answered."
+	},
+	{
+		"LABEL": "0xCFA8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「What is it?」"
+	},
+	{
+		"LABEL": "0xCFC3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Swap your Mom's and Reiri's tags. Right now.」"
+	},
+	{
+		"LABEL": "0xCFFE",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Eh...?」"
+	},
+	{
+		"LABEL": "0xD019",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I looked at the device she called a \"tag\" for the third time."
+	},
+	{
+		"LABEL": "0xD05D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "『You absolutely can't take this off. Same goes for those two.』"
+	},
+	{
+		"LABEL": "0xD09D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I was supposed to remove and switch these, even though he told me to never do that?"
+	},
+	{
+		"LABEL": "0xD0E5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Was that really okay?"
+	},
+	{
+		"LABEL": "0xD112",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I didn't understand."
+	},
+	{
+		"LABEL": "0xD12D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Why would Mom ask me to do that?"
+	},
+	{
+		"LABEL": "0xD165",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Why? "
+	},
+	{
+		"LABEL": "0xD17A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "That man just now said that if I just put this on and waited, the rescue workers would come and――」"
+	},
+	{
+		"LABEL": "0xD1D3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「You want to help Reiri, right?!」"
+	},
+	{
+		"LABEL": "0xD200",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...!」"
+	},
+	{
+		"LABEL": "0xD21D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I looked at Reiri's hand once more."
+	},
+	{
+		"LABEL": "0xD24A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "A black tag."
+	},
+	{
+		"LABEL": "0xD260",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "In contrast to the green color on my hand, there was not the slightest sign of life on hers."
+	},
+	{
+		"LABEL": "0xD2A2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "What did it represent...?"
+	},
+	{
+		"LABEL": "0xD2C5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "...That was something I didn't know."
+	},
+	{
+		"LABEL": "0xD2F5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Reiri will die like this.」"
+	},
+	{
+		"LABEL": "0xD31E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "That was what Mom said."
+	},
+	{
+		"LABEL": "0xD33F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I couldn't do anything."
+	},
+	{
+		"LABEL": "0xD366",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I was of no use to them."
+	},
+	{
+		"LABEL": "0xD391",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "However――"
+	},
+	{
+		"LABEL": "0xD3A7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "If I didn't do anything, Reiri would die."
+	},
+	{
+		"LABEL": "0xD3D7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Switching the tags on their hands..."
+	},
+	{
+		"LABEL": "0xD3FB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "That alone might be enough to help Reiri."
+	},
+	{
+		"LABEL": "0xD43B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "『It's all right now. The rest of the rescue team will be here to pick you up, so just wait here.』"
+	},
+	{
+		"LABEL": "0xD4A4",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Without doing anything――"
+	},
+	{
+		"LABEL": "0xD4C1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "If I didn't do anything――"
+	},
+	{
+		"LABEL": "0xD4E5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "But for what reason――?"
+	},
+	{
+		"LABEL": "0xD503",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Touri! "
+	},
+	{
+		"LABEL": "0xD514",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "If you don't hurry, she might not make it!」"
+	},
+	{
+		"LABEL": "0xD54B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「But... "
+	},
+	{
+		"LABEL": "0xD55E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Will that really――?」"
+	},
+	{
+		"LABEL": "0xD583",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Would that really save her?"
+	},
+	{
+		"LABEL": "0xD5A8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Was it really all right?"
+	},
+	{
+		"LABEL": "0xD5CE",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Was it really all right for me to do that?"
+	},
+	{
+		"LABEL": "0xD5F4",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Only you can do it!」"
+	},
+	{
+		"LABEL": "0xD619",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Mom's appealing voice..."
+	},
+	{
+		"LABEL": "0xD63B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Her eyes..."
+	},
+	{
+		"LABEL": "0xD64D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "They blew away my hesitation."
+	},
+	{
+		"LABEL": "0xD679",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「You're the only one who can do it, Touri... so please!」"
+	},
+	{
+		"LABEL": "0xD77F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The rescue team arrived soon after."
+	},
+	{
+		"LABEL": "0xD88B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Okay, then. Let me introduce myself.」"
+	},
+	{
+		"LABEL": "0xD8B4",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I took a step forward as prompted."
+	},
+	{
+		"LABEL": "0xD8E3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Everyone's gazes gathered to me."
+	},
+	{
+		"LABEL": "0xD8FB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "All the children of my age were looking at me."
+	},
+	{
+		"LABEL": "0xD930",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I took a deep breath."
+	},
+	{
+		"LABEL": "0xD946",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「My name is Nomura Touri. I look forward to getting to know you.」"
+	},
+	{
+		"LABEL": "0xD979",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「――Umm, I have a sister called Reiri, but she's not here right now... "
+	},
+	{
+		"LABEL": "0xD9C1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Anyway, I hope we get along.」"
+	},
+	{
+		"LABEL": "0xD9EA",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I bowed."
+	},
+	{
+		"LABEL": "0xDA0E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Clap, clap, clap."
+	},
+	{
+		"LABEL": "0xDA2F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I was met with a modest round of applause."
+	},
+	{
+		"LABEL": "0xDA75",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The room was a unique space that was like a mix of an elementary school classroom and a family living room."
+	},
+	{
+		"LABEL": "0xDAB9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "There were people of the same age who were neither classmates nor family members there."
+	},
+	{
+		"LABEL": "0xDAF8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "They were all there for different reasons."
+	},
+	{
+		"LABEL": "0xDB32",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The circumstances differed from person to person, but there was one thing in common."
+	},
+	{
+		"LABEL": "0xDB7E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Everyone was missing their parents."
+	},
+	{
+		"LABEL": "0xDBA8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Which meant that none of them had families――"
+	},
+	{
+		"LABEL": "0xDBD5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――Except for me."
+	},
+	{
+		"LABEL": "0xDBF5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I grabbed my hand behind my body.."
+	},
+	{
+		"LABEL": "0xDC28",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Reiri, who was supposed to be there to grab it back, was not here."
+	},
+	{
+		"LABEL": "0xDC6C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "My precious sister."
+	},
+	{
+		"LABEL": "0xDC90",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "My precious family member."
+	},
+	{
+		"LABEL": "0xDCAE",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I wouldn't lose anyone again."
+	},
+	{
+		"LABEL": "0xDCC8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I didn't want to lose her."
+	},
+	{
+		"LABEL": "0xDCE8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I was already――"
+	}
+]

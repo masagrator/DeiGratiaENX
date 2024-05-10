@@ -1,0 +1,3146 @@
+[
+	{
+		"LABEL": "0x77",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I remember."
+	},
+	{
+		"LABEL": "0x94",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The tragedy of that night, seven years ago..."
+	},
+	{
+		"LABEL": "0xD1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――April 4th, 2026."
+	},
+	{
+		"LABEL": "0x16E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I was working at a university hospital as an intern at the time, and that day, she begged for us to visit Aquamarine Park on the other side of Kurama Bay."
+	},
+	{
+		"LABEL": "0x1F9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "%[『WELCOME!』"
+	},
+	{
+		"LABEL": "0x217",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "On top of the gate, a deformed fish danced by the side of some fancy letters."
+	},
+	{
+		"LABEL": "0x261",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was one of the largest marine theme parks in the country, and it was completed in the blink of an eye after it was announced a few years ago."
+	},
+	{
+		"LABEL": "0x2DB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "With its impressive melody, the theme song would lift your spirits whether you liked it or not."
+	},
+	{
+		"LABEL": "0x32F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Once inside the gates, you'd find yourself in a dreamland floating on the sea."
+	},
+	{
+		"LABEL": "0x36C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "%[『Sea Serpent vs. Sea Shepherd - Skipjack fishing without virtue〜』"
+	},
+	{
+		"LABEL": "0x3B6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "%[『The Orbit of the New Century! Bermuda Triangle Coaster!』"
+	},
+	{
+		"LABEL": "0x3FE",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "%[『Fear of Falling Forever from Sea Level Zero! Atlantis Fall!』"
+	},
+	{
+		"LABEL": "0x44C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "%[『Light it! St. Elmo's Fire!』"
+	},
+	{
+		"LABEL": "0x478",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "%[『Undersea Man Appears! It's a Water World』"
+	},
+	{
+		"LABEL": "0x4B9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「What's with these names...?」"
+	},
+	{
+		"LABEL": "0x4E8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Government initiative, indeed."
+	},
+	{
+		"LABEL": "0x506",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Once we passed through a group of attractions with bizarre names, we arrived at the entrance to the largest and best-known aquarium in the country."
+	},
+	{
+		"LABEL": "0x59B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The aquarium was characterized by its minimal use of written explanatory boards."
+	},
+	{
+		"LABEL": "0x5FC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The latest AR technology―a glasses-type device for those wanting to see the explanations―had been a hot topic since the park opened."
+	},
+	{
+		"LABEL": "0x666",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Furthermore, it was said that the creatures inside the exhibition, in other words, the contents of the displays, were highly regarded among enthusiasts of the field, because not only were there fish that were commonly found in regular aquariums, but also rare and peculiar marine creatures that were seldom seen elsewhere could be easily observed."
+	},
+	{
+		"LABEL": "0x750",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「It's not just a matter of bringing in fish and displaying them, though. The water quality and temperature are carefully controlled to accurately reproduce the natural ecosystem of the area."
+	},
+	{
+		"LABEL": "0x7D4",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It's a balance between predator and prey, a symbiotic and competitive relationship, and...」"
+	},
+	{
+		"LABEL": "0x82B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "She, who spoke with sparkling eyes about things like that, was undoubtedly one of the fans of the field."
+	},
+	{
+		"LABEL": "0x87D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Moreover, she wasn't looking for colorful tropical fish, but rather strangely shaped deep-sea fish that lived in the dark seas, so she was the real deal."
+	},
+	{
+		"LABEL": "0x8ED",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "There was a giant tank several dozen meters wide, said to be the result of cutting-edge technology."
+	},
+	{
+		"LABEL": "0x92B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "You're not a little kid, and yet..."
+	},
+	{
+		"LABEL": "0x955",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I didn't have the energy to play along with her, who ran back and forth in front of me without getting tired."
+	},
+	{
+		"LABEL": "0x9C2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Hwaah...」"
+	},
+	{
+		"LABEL": "0x9E1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I let out a yawn and rubbed my sleepy eyes."
+	},
+	{
+		"LABEL": "0xA0D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It wasn't surprising since we had come racing down the highway early in the morning despite me just finishing a night shift."
+	},
+	{
+		"LABEL": "0xA6F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I suddenly reached into my chest pocket."
+	},
+	{
+		"LABEL": "0xA99",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...Hmm... Huh?」"
+	},
+	{
+		"LABEL": "0xABC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "They weren't there."
+	},
+	{
+		"LABEL": "0xACE",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Oh, right, my cigarettes had been confiscated by her."
+	},
+	{
+		"LABEL": "0xB0F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was true that smoking wasn't allowed in the aquarium, so there was nothing I could do about it, but it was unsettling nonetheless."
+	},
+	{
+		"LABEL": "0xB6D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "%[She didn't like the smell of tobacco, so I didn't smoke before or after driving."
+	},
+	{
+		"LABEL": "0xBB5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I was just intending to wake myself up by indulging a bit..."
+	},
+	{
+		"LABEL": "0xBF7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Oh, right.」"
+	},
+	{
+		"LABEL": "0xC14",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I reached into my waist pocket."
+	},
+	{
+		"LABEL": "0xC3C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I was pretty sure there were some tablets around there somewhere that were handed to me as a \"replacement\" when she took my cigarettes away..."
+	},
+	{
+		"LABEL": "0xC95",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「There it is... Hm?」"
+	},
+	{
+		"LABEL": "0xCBE",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The palm-sized case I pulled out was dark."
+	},
+	{
+		"LABEL": "0xCF6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "On the package was an American comic-book-style illustration of a white face contorted in grief and shedding red tears."
+	},
+	{
+		"LABEL": "0xD4F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「\"Menthol that made all of America cry\"...」"
+	},
+	{
+		"LABEL": "0xD80",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Let's not."
+	},
+	{
+		"LABEL": "0xD9A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I slowly sealed it deep inside my pocket, then stifled a yawn."
+	},
+	{
+		"LABEL": "0xDEB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "At the end of the day, not only had she not sensed the slightest bit of my hardships, but watching her enjoy herself from a distance, like she had forgotten about my existence, was the most relaxing thing of all."
+	},
+	{
+		"LABEL": "0xE94",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "By the way, one of the highlights of the Aqualine was the beautiful scenery that could be seen from there."
+	},
+	{
+		"LABEL": "0xEF1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It overlooked office buildings and theme parks across the bay."
+	},
+	{
+		"LABEL": "0xF31",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "This alone was a rare sight to see, but in addition, the lighting there was different depending on the season."
+	},
+	{
+		"LABEL": "0xFA7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was breathtaking, especially in the summer."
+	},
+	{
+		"LABEL": "0xFCC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The red and blue lights surrounding the bay, each with a slightly different hue, slowly flickering on and off."
+	},
+	{
+		"LABEL": "0x103A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "This wasn't allowed along ordinary roadways due to the risk of misidentification with traffic signal colors, and it was allowed only because the Aqualine was designed exclusively for high-speed lanes."
+	},
+	{
+		"LABEL": "0x10D4",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "However, it seemed that there were many significant obstacles to overcome before it could be realized. To ensure that the display could only be seen from the Aqualine, highly directional lighting was used for the illumination, and various cutting-edge technologies were employed to achieve this feat."
+	},
+	{
+		"LABEL": "0x119E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Still, the effort paid off, and the sight of the colorful lights and twinkling stars reflecting on the sea was so romantic that even someone like me, who was often ridiculed for being indifferent to things like atmosphere and ambiance, couldn't help but be impressed and moved."
+	},
+	{
+		"LABEL": "0x125B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "No wonder it was introduced as a standard date location on TV and the Internet."
+	},
+	{
+		"LABEL": "0x12B7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "That was probably the reason why there were so many couples in Aquamarine Park today, as well as families."
+	},
+	{
+		"LABEL": "0x132D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Come to think of it, we were technically one of those couples too..."
+	},
+	{
+		"LABEL": "0x136A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Sousuke! Next up are the dolphins!」"
+	},
+	{
+		"LABEL": "0x13A7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I get it. Stop running. You'll get hurt.」"
+	},
+	{
+		"LABEL": "0x13DA",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was unlikely that a good atmosphere would be created between her, who had come purely to see the fish, and me."
+	},
+	{
+		"LABEL": "0x1431",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "...Geez, what a pain."
+	},
+	{
+		"LABEL": "0x1459",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「It's about time to go home.」"
+	},
+	{
+		"LABEL": "0x147A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "But, I couldn't leave right away..."
+	},
+	{
+		"LABEL": "0x14A8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I was used to tearing her away from the water tank she was frozen in front of, carrying her to the parking lot, and pushing her into the passenger seat by now."
+	},
+	{
+		"LABEL": "0x1521",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Normally, she would throw a tantrum, but by the time I'd start the engine, she would be fast asleep from exhaustion. I would collect my cigarettes from her and take a drag before transporting her back home."
+	},
+	{
+		"LABEL": "0x15B7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It should be that simple of a job, but..."
+	},
+	{
+		"LABEL": "0x15F0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "For some reason, she was toying with the car navigation system and audio, and unlike other days, she showed no signs of falling asleep at all."
+	},
+	{
+		"LABEL": "0x1666",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...Hey, aren't you going to sleep?」"
+	},
+	{
+		"LABEL": "0x168D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「? Why are you asking me that?」"
+	},
+	{
+		"LABEL": "0x16BE",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「No reason... More importantly, give me back my cigarettes.」"
+	},
+	{
+		"LABEL": "0x16FD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Now's not the time! Hurry up and start the car!」"
+	},
+	{
+		"LABEL": "0x173A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Yeah, yeah.」"
+	},
+	{
+		"LABEL": "0x1755",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Had she not had enough fun yet?"
+	},
+	{
+		"LABEL": "0x177D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "She seemed completely unfazed, and her restless body movements suggested that she was anything but calm."
+	},
+	{
+		"LABEL": "0x17DD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Perhaps because of my schedule as a medical intern, we had a bit of extra time until the aquarium closed, and we were able to exit smoothly, even though I might have unintentionally put her in a bad mood."
+	},
+	{
+		"LABEL": "0x1875",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was a straight shot to the Aqualine."
+	},
+	{
+		"LABEL": "0x18A8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "As I was driving, I spoke to her, who was fidgeting in the passenger seat."
+	},
+	{
+		"LABEL": "0x18F6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Hey.」"
+	},
+	{
+		"LABEL": "0x190D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「? What's with you today?」"
+	},
+	{
+		"LABEL": "0x193A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Can you cheer up already?」"
+	},
+	{
+		"LABEL": "0x1964",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Hm? What do you mean?」"
+	},
+	{
+		"LABEL": "0x1985",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I get that I may have seemed sleepy all day and that you may be unhappy about leaving so early. "
+	},
+	{
+		"LABEL": "0x19F8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "But, I have work to do, too...」"
+	},
+	{
+		"LABEL": "0x1A29",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Wait, I think you're mistaken, Sousuke. I'm not unhappy at all.%N"
+	},
+	{
+		"LABEL": "0x1A90",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I mean, well――」"
+	},
+	{
+		"LABEL": "0x1AB5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "If she wasn't unhappy, then what?"
+	},
+	{
+		"LABEL": "0x1AE5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I didn't get it―I was the one who wanted to know."
+	},
+	{
+		"LABEL": "0x1B22",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Just as I was thinking that, our car reached the Aqualine and we caught sight of the bewitching light fixtures..."
+	},
+	{
+		"LABEL": "0x1B8E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Whoaaa!!」"
+	},
+	{
+		"LABEL": "0x1BB5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Instantly, she let out a strange cry."
+	},
+	{
+		"LABEL": "0x1BDF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "What was going on...? Her eyes were glued to the lights."
+	},
+	{
+		"LABEL": "0x1C1C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I see..."
+	},
+	{
+		"LABEL": "0x1C35",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "She was always sleeping comfortably in the passenger seat while leaving the driving to me, so she had never seen this scene before."
+	},
+	{
+		"LABEL": "0x1CAB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "She sighed at the beauty of the light art, forgetting that she had been talking to me just now."
+	},
+	{
+		"LABEL": "0x1D09",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "She had a girlish side to her even at her age to be moved by this beautiful scenery."
+	},
+	{
+		"LABEL": "0x1D68",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「It's amazing... Bioluminescence!!」"
+	},
+	{
+		"LABEL": "0x1D93",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "...Or so I thought, but it seemed I was too hasty."
+	},
+	{
+		"LABEL": "0x1DC8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Hm, what did you say?」"
+	},
+	{
+		"LABEL": "0x1DEB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I must have misheard her. "
+	},
+	{
+		"LABEL": "0x1E06",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Yes, surely."
+	},
+	{
+		"LABEL": "0x1E31",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I asked her, anticipating that."
+	},
+	{
+		"LABEL": "0x1E55",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Like I said, bioluminescence! That pattern is the self-luminescence of deep-sea creatures!"
+	},
+	{
+		"LABEL": "0x1E9F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Wow, as expected of Japan's largest marine theme park! I was skeptical about believing the rumors on the internet, but I was wrong! I never imagined they would incorporate marine-themed illumination as well!」"
+	},
+	{
+		"LABEL": "0x1F40",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x1F5B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Sousuke, you're a science major, right? If you can't talk about stuff like this, you'll never get a girlfriend, you hear me?」"
+	},
+	{
+		"LABEL": "0x1FB6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...No, I think you're the one mistaking what a \"science-type\" person's like.」"
+	},
+	{
+		"LABEL": "0x2015",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Sheesh."
+	},
+	{
+		"LABEL": "0x2027",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I felt like a fool for expecting even the slightest romantic development."
+	},
+	{
+		"LABEL": "0x2075",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I crushed the mint gum in my mouth with my back teeth."
+	},
+	{
+		"LABEL": "0x20AC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "However, as I watched her truly enjoy the scenery, my irritation faded away."
+	},
+	{
+		"LABEL": "0x212B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "%[She was truly being herself."
+	},
+	{
+		"LABEL": "0x215E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "That alone made this time invaluable to me."
+	},
+	{
+		"LABEL": "0x2199",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I might be the one energized by her today, despite saying I was tired."
+	},
+	{
+		"LABEL": "0x21FD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "We were approaching the halfway point of the bridge."
+	},
+	{
+		"LABEL": "0x2230",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "This was the point where the lights were most visible."
+	},
+	{
+		"LABEL": "0x2263",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The caution signs ahead were annoying. Wasn't it the worst that they told people not to look around while driving here?"
+	},
+	{
+		"LABEL": "0x22C8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I was just kidding, but it was admirable that there had never been a traffic accident since the Aqualine had opened to traffic."
+	},
+	{
+		"LABEL": "0x2330",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「The city is alive!!」"
+	},
+	{
+		"LABEL": "0x2355",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Hey, what are you doing?!」"
+	},
+	{
+		"LABEL": "0x2378",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I noticed that she had unbuckled her seatbelt and was leaning out the window, sitting upright in her seat."
+	},
+	{
+		"LABEL": "0x23DF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I spoke loudly so as not to lose to the volume of the radio she'd turned up."
+	},
+	{
+		"LABEL": "0x2423",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「That's dangerous! Sit down!」"
+	},
+	{
+		"LABEL": "0x2454",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I'm telling you it's fine.」"
+	},
+	{
+		"LABEL": "0x247D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Hey, this is the highway! It doesn't matter if it's a high-speed road or not, don't unfasten your seatbelt!」"
+	},
+	{
+		"LABEL": "0x24D8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I guess I don't have a choice...」"
+	},
+	{
+		"LABEL": "0x24FB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "She agreed with an air of reluctance, but I couldn't rest easy until she sat back down."
+	},
+	{
+		"LABEL": "0x255A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "%[Half-conscious of her behavior, I drove carefully."
+	},
+	{
+		"LABEL": "0x25C0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――It was then."
+	},
+	{
+		"LABEL": "0x2600",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Ah!!」"
+	},
+	{
+		"LABEL": "0x261B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "%[I heard her shout."
+	},
+	{
+		"LABEL": "0x2648",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I'd been telling her not to shout while driving, but..."
+	},
+	{
+		"LABEL": "0x268C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I was so surprised and taken in by the sight that I didn't even think of reproaching her."
+	},
+	{
+		"LABEL": "0x26F0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Aah...」"
+	},
+	{
+		"LABEL": "0x270B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "A sky full of stars."
+	},
+	{
+		"LABEL": "0x2721",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Illumination."
+	},
+	{
+		"LABEL": "0x273F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Shining in various colors."
+	},
+	{
+		"LABEL": "0x2763",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "What shone even brighter in the dark night sky,"
+	},
+	{
+		"LABEL": "0x2789",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "blocking even the light of the full moon..."
+	},
+	{
+		"LABEL": "0x27AC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "...Was truly the \"sun\"――"
+	},
+	{
+		"LABEL": "0x283E",
+		"CMD": "TEXT",
+		"TYPE": "MESSAGE2",
+		"STRING": "『Then the Lord rained down burning sulfur on Sodom and Gomorrah―"
+	},
+	{
+		"LABEL": "Split2",
+		"CMD": "TEXT",
+		"TYPE": "MESSAGE2",
+		"STRING": "from the Lord out of the heavens."
+	},
+	{
+		"LABEL": "0x2891",
+		"CMD": "TEXT",
+		"TYPE": "MESSAGE2",
+		"STRING": "Thus he overthrew those cities and the entire plain,"
+	},
+	{
+		"LABEL": "0x28D8",
+		"CMD": "TEXT",
+		"TYPE": "MESSAGE2",
+		"STRING": "destroying all those living in the cities―"
+	},
+	{
+		"LABEL": "Split4",
+		"CMD": "TEXT",
+		"TYPE": "MESSAGE2",
+		"STRING": "and also the vegetation in the land."
+	},
+	{
+		"LABEL": "0x2915",
+		"CMD": "TEXT",
+		"TYPE": "MESSAGE2",
+		"STRING": "But Lot's wife looked back, and she became a pillar of salt.』"
+	},
+	{
+		"LABEL": "0x2A39",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Where was I?"
+	},
+	{
+		"LABEL": "0x2A53",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "What was I doing?"
+	},
+	{
+		"LABEL": "0x2A71",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Was this reality?"
+	},
+	{
+		"LABEL": "0x2A91",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Not a dream?"
+	},
+	{
+		"LABEL": "0x2AB0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "My body, which I had tried to move, was pressed against something."
+	},
+	{
+		"LABEL": "0x2AFA",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "However, this pain had to be real."
+	},
+	{
+		"LABEL": "0x2B31",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "If it had been a dream, it wouldn't have mattered."
+	},
+	{
+		"LABEL": "0x2B64",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "What the hell had happened to me?"
+	},
+	{
+		"LABEL": "0x2B9A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "%[The two of us were on our way back from Aquamarine Park."
+	},
+	{
+		"LABEL": "0x2BD9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "For once, she didn't sleep and was excited about the lights."
+	},
+	{
+		"LABEL": "0x2C20",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Yeah, bioluminescence, or something..."
+	},
+	{
+		"LABEL": "0x2C4F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "And... that's right."
+	},
+	{
+		"LABEL": "0x2C6E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "She had shouted."
+	},
+	{
+		"LABEL": "0x2C8A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I had also looked up toward the sky, and what I saw was the \"sun\" itself."
+	},
+	{
+		"LABEL": "0x2CCB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "To be precise, it wasn't bright enough to hide the stars."
+	},
+	{
+		"LABEL": "0x2CFB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Although inferior to the actual sun, the star that shone so bizarrely in the night sky could only be described as such."
+	},
+	{
+		"LABEL": "0x2D5E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I was captivated by its beauty, and then..."
+	},
+	{
+		"LABEL": "0x2D94",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Car horns."
+	},
+	{
+		"LABEL": "0x2DB1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Collision."
+	},
+	{
+		"LABEL": "0x2DC6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Repeated shocks."
+	},
+	{
+		"LABEL": "0x2DE7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Not just once or twice, either."
+	},
+	{
+		"LABEL": "0x2E08",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Assailed by a number of shocks, I had lost consciousness..."
+	},
+	{
+		"LABEL": "0x2E4A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "And now..."
+	},
+	{
+		"LABEL": "0x2E65",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I say \"now,\" but what time was it?"
+	},
+	{
+		"LABEL": "0x2E8B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "How long had I been unconscious?"
+	},
+	{
+		"LABEL": "0x2EB9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "How long had it been since the accident?"
+	},
+	{
+		"LABEL": "0x2EE2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Because of the darkness, I had no sense of time."
+	},
+	{
+		"LABEL": "0x2F25",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I could believe that it had been a couple minutes or an hour."
+	},
+	{
+		"LABEL": "0x2F76",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――But, it couldn't have been that long."
+	},
+	{
+		"LABEL": "0x2FB1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "After an accident of this magnitude, rescue teams should be on their way soon."
+	},
+	{
+		"LABEL": "0x2FFE",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Even if that wasn't the case, it would be strange if no one came to our rescue."
+	},
+	{
+		"LABEL": "0x3049",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "...Strange."
+	},
+	{
+		"LABEL": "0x3066",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Something was not right."
+	},
+	{
+		"LABEL": "0x3084",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...What's going on?!」"
+	},
+	{
+		"LABEL": "0x30B1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "My right leg, forcibly extended while I screamed, pushed back against the weight pressing down on my body."
+	},
+	{
+		"LABEL": "0x310D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was a distorted and dented door."
+	},
+	{
+		"LABEL": "0x3138",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Light and outside air entered through the gap."
+	},
+	{
+		"LABEL": "0x3167",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "All right."
+	},
+	{
+		"LABEL": "0x317C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I kicked the door back with my right leg and successfully crawled out of the car."
+	},
+	{
+		"LABEL": "0x31C6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Gh!」"
+	},
+	{
+		"LABEL": "0x31DF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "In stark contrast to the darkness inside the crushed car, the outside was bright enough to make one wonder if it was daytime."
+	},
+	{
+		"LABEL": "0x3238",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The swirls of light made me involuntarily lower my gaze."
+	},
+	{
+		"LABEL": "0x3261",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The pain and numbness in my body made it hard to move. It was as if my whole body had been hit hard by something."
+	},
+	{
+		"LABEL": "0x32B3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Ow!」"
+	},
+	{
+		"LABEL": "0x32CC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The moment I put strength into my leg to stand up, I felt a sharp pain in my left ankle."
+	},
+	{
+		"LABEL": "0x3312",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Seemed like it was sprained during the collision."
+	},
+	{
+		"LABEL": "0x333B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I waited for the pain to subside, then tried putting strength into it from various angles."
+	},
+	{
+		"LABEL": "0x3379",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Although there was some pain depending on the angle of bending, it was not unbearable."
+	},
+	{
+		"LABEL": "0x33C8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I stood up."
+	},
+	{
+		"LABEL": "0x33DF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "What I saw after standing up and enduring the dazzling brightness..."
+	},
+	{
+		"LABEL": "0x3430",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――Was something far beyond what I'd imagined."
+	},
+	{
+		"LABEL": "0x3480",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Crimson."
+	},
+	{
+		"LABEL": "0x3496",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The world was dominated by an elegant and vicious color that couldn't be expressed by artificial \"red.\""
+	},
+	{
+		"LABEL": "0x34F5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was the color of flames, the color of blood, and the sun itself."
+	},
+	{
+		"LABEL": "0x353A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "A rich, radiant light with a strong presence as if intense light and heat were visualized, struck the people."
+	},
+	{
+		"LABEL": "0x3593",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Yes, \"red\" and \"bright\"――"
+	},
+	{
+		"LABEL": "0x35C2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Exposed to a brightness that made it hard to believe the sun had set, one could only be made aware of their diminutive nature."
+	},
+	{
+		"LABEL": "0x362B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "One of the sources of that brightness were the final results of the tools of civilization burning fiercely on the ground."
+	},
+	{
+		"LABEL": "0x3687",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The fire on the earth covered the heavens."
+	},
+	{
+		"LABEL": "0x36AA",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Although it was a figurative expression often used to describe the development of technology,"
+	},
+	{
+		"LABEL": "0x36EC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "in the face of this literal spectacle, such wording could only be described as arrogance."
+	},
+	{
+		"LABEL": "0x373F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Faced with the flames that engulfed the heavens, all people could do was cry out helplessly."
+	},
+	{
+		"LABEL": "0x3782",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "No, I didn't even want to think about how many lives had been swallowed up and lost without even being able to do that."
+	},
+	{
+		"LABEL": "0x37E2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The flames on the ground, or more accurately, on the sea, did not subside. They continued to grow, engulfing the bridge, which had been touted as the best in the world in terms of construction technology."
+	},
+	{
+		"LABEL": "0x3869",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was like the legend that washed away human arrogance."
+	},
+	{
+		"LABEL": "0x389D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Like the legend that burned down a godless city,"
+	},
+	{
+		"LABEL": "0x38D3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "where the snake of betrayal writhed in sin,"
+	},
+	{
+		"LABEL": "0x38FB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "and the flames sent by God shone brilliantly in the night sky."
+	},
+	{
+		"LABEL": "0x3930",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "And there was another light that watched the people's panic, sorrow, and pleas for forgiveness."
+	},
+	{
+		"LABEL": "0x3989",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Looking up at the sky―at the domain of God―that radiant \"sun\" in the night sky was smiling."
+	},
+	{
+		"LABEL": "0x39D5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "This scene where the light of heaven and earth called out to each other in the dark night was nothing but a hellish sight,"
+	},
+	{
+		"LABEL": "0x3A2B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "but its grand and spectacular beauty was somewhat fleeting,"
+	},
+	{
+		"LABEL": "0x3A5D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "with a precarious charm to it, that once you were captivated by it, you were drawn in."
+	},
+	{
+		"LABEL": "0x3AB2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Yes."
+	},
+	{
+		"LABEL": "0x3AC7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I wanted to be swallowed up by this tragedy God had painted for us――"
+	},
+	{
+		"LABEL": "0x3B11",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Mama...!」"
+	},
+	{
+		"LABEL": "0x3B2E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The sound of a little girl crying brought me back to my senses."
+	},
+	{
+		"LABEL": "0x3B5F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I looked and saw a girl covered in blood, helplessly kneeling in front of a crumpled car, crying."
+	},
+	{
+		"LABEL": "0x3BBB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...Tch!」"
+	},
+	{
+		"LABEL": "0x3BDA",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I slapped myself on the cheek and shook my head... Damn it!"
+	},
+	{
+		"LABEL": "0x3C0B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "What was I thinking?!"
+	},
+	{
+		"LABEL": "0x3C32",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I might be an intern, but I was still a doctor."
+	},
+	{
+		"LABEL": "0x3C5A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "If I gave up, who'd be there to save them from this disaster?"
+	},
+	{
+		"LABEL": "0x3CA1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Yes, a \"disaster.\""
+	},
+	{
+		"LABEL": "0x3CC1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "This might be a disaster on an unprecedented scale, but I wouldn't let it turn into a tragedy."
+	},
+	{
+		"LABEL": "0x3DA9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "With that decided, getting an accurate grasp of the current situation came first."
+	},
+	{
+		"LABEL": "0x3DE3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It should be possible now that I was accustomed to the brightness of midday――"
+	},
+	{
+		"LABEL": "0x3E24",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "All four lanes were on fire, 100 meters in length in front and behind me."
+	},
+	{
+		"LABEL": "0x3E73",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "At the front were three shuttle buses that had fallen sideways."
+	},
+	{
+		"LABEL": "0x3EB5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――The same scene was sure to continue on the other side of them."
+	},
+	{
+		"LABEL": "0x3EFD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The scale of the damage was surely at least twice as much that I could see."
+	},
+	{
+		"LABEL": "0x3F42",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Furthermore, one of the shuttle buses had broken through the transparent derailment prevention guard covering the road and made a long, large hole on the side."
+	},
+	{
+		"LABEL": "0x3FAD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The flames were not dying down,"
+	},
+	{
+		"LABEL": "0x3FD9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "but rather increasing in intensity as they drew in the wind that entered from there."
+	},
+	{
+		"LABEL": "0x4026",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Not only were there cars that remained on the bridge burned by the fire, but there were also some that had crashed through that large hole."
+	},
+	{
+		"LABEL": "0x4086",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The damage was enormous..."
+	},
+	{
+		"LABEL": "0x40A0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "So enormous that I regretted not having a more appropriate word to describe it."
+	},
+	{
+		"LABEL": "0x40E5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Oh, come on...」"
+	},
+	{
+		"LABEL": "0x4103",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It didn't feel real at all."
+	},
+	{
+		"LABEL": "0x4130",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The roaring fires, like something out of a Hollywood movie, were clearly not CGI or a VR simulation due to the heat burning my skin."
+	},
+	{
+		"LABEL": "0x41E1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "This was a real world accident."
+	},
+	{
+		"LABEL": "0x4210",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Reality―my reality."
+	},
+	{
+		"LABEL": "0x4231",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "And, there was something missing from it."
+	},
+	{
+		"LABEL": "0x4267",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Strange."
+	},
+	{
+		"LABEL": "0x4280",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "What was it――"
+	},
+	{
+		"LABEL": "0x4299",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I hesitated... No, I came to a conclusion without hesitation."
+	},
+	{
+		"LABEL": "0x42CB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「That's right... Hey! Are you all right?!」"
+	},
+	{
+		"LABEL": "0x42FA",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I turned back to what used to be my car and shouted."
+	},
+	{
+		"LABEL": "0x4329",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "%[There was no reply from her."
+	},
+	{
+		"LABEL": "0x4350",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The space inside the car was forcibly compressed and warped into an unnatural shape, so it was almost impossible to see what state it was in from the driver's side."
+	},
+	{
+		"LABEL": "0x43CB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I circled around to the passenger-side door and used the principle of leverage to pry it open before removing it."
+	},
+	{
+		"LABEL": "0x4423",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Are you all right――」"
+	},
+	{
+		"LABEL": "0x4440",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "However..."
+	},
+	{
+		"LABEL": "0x4457",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――The devastation inside was beyond description..."
+	},
+	{
+		"LABEL": "0x4496",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The girl in the passenger seat, her limbs, were surely..."
+	},
+	{
+		"LABEL": "0x44D3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――No, I wouldn't let that happen!"
+	},
+	{
+		"LABEL": "0x4507",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "But, she had removed her seat belt and shock absorbers."
+	},
+	{
+		"LABEL": "0x4560",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "That meant she'd taken the shock of the collision with her own body."
+	},
+	{
+		"LABEL": "0x45A3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――There was no way she'd be able to take that with that small body of hers."
+	},
+	{
+		"LABEL": "0x45EA",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I wouldn't go as far as to say she got her just desserts, but――"
+	},
+	{
+		"LABEL": "0x461A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Fuck!」"
+	},
+	{
+		"LABEL": "0x4635",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I shouted out to none in particular."
+	},
+	{
+		"LABEL": "0x465C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "There was no way God would judge someone so innocent."
+	},
+	{
+		"LABEL": "0x4695",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "That was impossible."
+	},
+	{
+		"LABEL": "0x46BC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「That's impossible!」"
+	},
+	{
+		"LABEL": "0x4780",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I carefully and slowly dragged her out of the car while holding her in my arms."
+	},
+	{
+		"LABEL": "0x47E5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Fresh blood continued to pour from her head, which had crashed into the windshield."
+	},
+	{
+		"LABEL": "0x4835",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Her hands, feet, and neck were limp, and there was no sign of voluntary movement."
+	},
+	{
+		"LABEL": "0x4881",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Her chest, which seemed to have been hit hard inside the car, felt strange, as if several of her ribs were broken."
+	},
+	{
+		"LABEL": "0x48E2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Her breathing and pulse..."
+	},
+	{
+		"LABEL": "0x4905",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I lightly pressed my hand to her chest, knowing that she wasn't necessarily dead yet."
+	},
+	{
+		"LABEL": "0x4955",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「.....Ugh...」"
+	},
+	{
+		"LABEL": "0x4980",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I could faintly hear her voice."
+	},
+	{
+		"LABEL": "0x49A6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I didn't miss it."
+	},
+	{
+		"LABEL": "0x49CE",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I hurriedly held her scarred head in my arms and called out to her ear."
+	},
+	{
+		"LABEL": "0x4A0B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Hey, can you hear me?! Answer me!」"
+	},
+	{
+		"LABEL": "0x4A40",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...Uuu...Aaaaah...」"
+	},
+	{
+		"LABEL": "0x4A6C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "――A miracle."
+	},
+	{
+		"LABEL": "0x4A87",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "She was conscious."
+	},
+	{
+		"LABEL": "0x4A9F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "She was breathing."
+	},
+	{
+		"LABEL": "0x4AC0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Yes, she was alive."
+	},
+	{
+		"LABEL": "0x4AEC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Ha ha."
+	},
+	{
+		"LABEL": "0x4AFE",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Wasn't that obvious?"
+	},
+	{
+		"LABEL": "0x4B21",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Yes, there was no way she would die."
+	},
+	{
+		"LABEL": "0x4B4D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "%[There was no way someone as innocent and loved as her could die."
+	},
+	{
+		"LABEL": "0x4B9E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Thank God...」"
+	},
+	{
+		"LABEL": "0x4BBD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Just as I was starting to feel reassured..."
+	},
+	{
+		"LABEL": "0x4BE6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Gh――」"
+	},
+	{
+		"LABEL": "0x4BFF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "No sooner had she taken a sharp breath than she coughed up red blood from the back of her throat and struggled in pain."
+	},
+	{
+		"LABEL": "0x4C63",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Did she block her airways from coughing up blood?!"
+	},
+	{
+		"LABEL": "0x4C8E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "There was no time to hesitate."
+	},
+	{
+		"LABEL": "0x4CB1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Just hang in there.」"
+	},
+	{
+		"LABEL": "0x4CD6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "While lying down, I pried open her lips and sucked out the clots of blood that were blocking her airways."
+	},
+	{
+		"LABEL": "0x4D1E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Her eyes widened like she wanted to complain about something, but I didn't care."
+	},
+	{
+		"LABEL": "0x4D62",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "If it was a fine, I'd pay it after I got her home."
+	},
+	{
+		"LABEL": "0x4D9A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Right now, her life was more important than that."
+	},
+	{
+		"LABEL": "0x4DD6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "After a few mouth-to-mouth breaths, her breathing calmed down."
+	},
+	{
+		"LABEL": "0x4E10",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "However, the pain in her body hadn't subsided at all."
+	},
+	{
+		"LABEL": "0x4E4A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "%[She continued to suffer."
+	},
+	{
+		"LABEL": "0x4E77",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Could this be called being alive?"
+	},
+	{
+		"LABEL": "0x4EA0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「――Don't make me laugh.」"
+	},
+	{
+		"LABEL": "0x4EC1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I shook my head to clear away my optimistic thoughts."
+	},
+	{
+		"LABEL": "0x4EF6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "%[She was not alive."
+	},
+	{
+		"LABEL": "0x4F27",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "She was dying..."
+	},
+	{
+		"LABEL": "0x4F4D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Hey, hang in there!」"
+	},
+	{
+		"LABEL": "0x4F74",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I called out to her, but her head remained slumped."
+	},
+	{
+		"LABEL": "0x4FB2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Did that mean she didn't even have the strength to move her head anymore?"
+	},
+	{
+		"LABEL": "0x4FEB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I called out to her barely open eyelids, which were about to close at any moment."
+	},
+	{
+		"LABEL": "0x5040",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I'm going to save you, I promise!」"
+	},
+	{
+		"LABEL": "0x5074",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "But, what could I do?"
+	},
+	{
+		"LABEL": "0x5099",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I was a medical intern... A medical professional."
+	},
+	{
+		"LABEL": "0x50C8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "In fact, I'd faced many patients during my hospital training."
+	},
+	{
+		"LABEL": "0x510D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I was faced with injuries and illnesses, gave them appropriate treatment, and saved several lives... or so I thought."
+	},
+	{
+		"LABEL": "0x5174",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "However, as someone trained in modern team medicine, I realized that alone and without any equipment, as a mere human being, I was powerless to save anyone."
+	},
+	{
+		"LABEL": "0x520C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I had never deluded myself into thinking that I was a god or anything of the sort."
+	},
+	{
+		"LABEL": "0x523F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Still, I had never imagined a heinous reality like this."
+	},
+	{
+		"LABEL": "0x5286",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "In the midst of this overwhelming sense of helplessness, I looked left and right, flustered, unable to do anything."
+	},
+	{
+		"LABEL": "0x52D0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The place where I was at was somewhat far away from the center of the accident, but there were voices calling for help here and there."
+	},
+	{
+		"LABEL": "0x5343",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I couldn't come forward and identify myself to them."
+	},
+	{
+		"LABEL": "0x5371",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I couldn't be of any help."
+	},
+	{
+		"LABEL": "0x539A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I couldn't even save the girl in front of me, let alone someone I didn't know――"
+	},
+	{
+		"LABEL": "0x53E8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Damn it!!」"
+	},
+	{
+		"LABEL": "0x5403",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I slammed my fist into the ground."
+	},
+	{
+		"LABEL": "0x5428",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Goddamnit!」"
+	},
+	{
+		"LABEL": "0x5443",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "This pain was nothing compared to hers."
+	},
+	{
+		"LABEL": "0x5483",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Damn it!!」"
+	},
+	{
+		"LABEL": "0x549E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Blood oozed from my fist."
+	},
+	{
+		"LABEL": "0x54BB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "No matter how good my grades were,"
+	},
+	{
+		"LABEL": "0x54D9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "or how highly regarded I was at the university hospital,"
+	},
+	{
+		"LABEL": "0x54FD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "if I was powerless at a time like this"
+	},
+	{
+		"LABEL": "0x5529",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "when someone important to me was on the brink of death,"
+	},
+	{
+		"LABEL": "0x5557",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "what was the point"
+	},
+	{
+		"LABEL": "0x5577",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "of all my education and expertise?"
+	},
+	{
+		"LABEL": "0x55AA",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "As I knelt down, unable to do anything, she was growing weaker and weaker in my arms."
+	},
+	{
+		"LABEL": "0x55F6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「God...」"
+	},
+	{
+		"LABEL": "0x5611",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "As I looked up to the heavens, I saw the full moon about to disappear and the dazzling light drowning it out."
+	},
+	{
+		"LABEL": "0x566A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "And――"
+	},
+	{
+		"LABEL": "0x5742",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Confirming the site. Above the Aqualine. Descending.」"
+	},
+	{
+		"LABEL": "0x5779",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The rescue team arrived."
+	},
+	{
+		"LABEL": "0x5793",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "A helicopter, reddish with the light of the sun on its back, descended to the bridge."
+	},
+	{
+		"LABEL": "0x57D6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I stared at it in amazement."
+	},
+	{
+		"LABEL": "0x57FC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The helicopter appeared to have landed some distance from the center of the fiery accident."
+	},
+	{
+		"LABEL": "0x5852",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Fire brigades and ambulances might be on their way, but there was no sign of them reaching us yet."
+	},
+	{
+		"LABEL": "0x58A9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I wondered if they were planning on carrying out a rescue mission in this state."
+	},
+	{
+		"LABEL": "0x58E3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "There was only a small number of people who could ride on the helicopter, and equipment that could carry them."
+	},
+	{
+		"LABEL": "0x592E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was reckless to attempt a rescue like that."
+	},
+	{
+		"LABEL": "0x595E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "There was no way that a few doctors could handle hundreds of injured people."
+	},
+	{
+		"LABEL": "0x59BB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It would take a lot more manpower to do that――"
+	},
+	{
+		"LABEL": "0x59F4",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Even if I was a powerless intern...."
+	},
+	{
+		"LABEL": "0x5A29",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Even though I was helpless on my own, I might be able to help them."
+	},
+	{
+		"LABEL": "0x5A7D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "%[I quietly laid her down next to the car and ran to the rescue helicopter."
+	},
+	{
+		"LABEL": "0x5AD7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Five people in need of rescue already confirmed.」"
+	},
+	{
+		"LABEL": "0x5AFF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「We're shorthanded... Get the tags ready!」"
+	},
+	{
+		"LABEL": "0x5B34",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Argh, what's the main force doing?!」"
+	},
+	{
+		"LABEL": "0x5B69",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "When I reached the front of the helicopter, a base was already being established with blankets laid on the ground."
+	},
+	{
+		"LABEL": "0x5BBF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "They were quick, as expected."
+	},
+	{
+		"LABEL": "0x5BE0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The rescue team members were all rushing around in a hurry, but compared to the scale of the disaster, they were clearly lacking in numbers."
+	},
+	{
+		"LABEL": "0x5C5B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I ran up to the man who was leading the group and giving instructions to the others."
+	},
+	{
+		"LABEL": "0x5CA1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「And you are?」"
+	},
+	{
+		"LABEL": "0x5CBA",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I... I'm an intern at a university hospital.」"
+	},
+	{
+		"LABEL": "0x5CED",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I showed him my ID, and he nodded slightly."
+	},
+	{
+		"LABEL": "0x5D2A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「All right, take this.」"
+	},
+	{
+		"LABEL": "0x5D4D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "He handed me a white box, half-throwing it."
+	},
+	{
+		"LABEL": "0x5D84",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I took it with one hand, expecting it to contain simple supplies like a first-aid kit, and staggered involuntarily under its hefty weight."
+	},
+	{
+		"LABEL": "0x5DFA",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I opened it without thinking and checked to find a large number of small electronic devices packed inside."
+	},
+	{
+		"LABEL": "0x5E46",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "These were..."
+	},
+	{
+		"LABEL": "0x5E5F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...Triage tags.」"
+	},
+	{
+		"LABEL": "0x5E84",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Triage tags."
+	},
+	{
+		"LABEL": "0x5EA3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Designed to be worn on your fingertip, the small electronic tag was a medical device in its own right."
+	},
+	{
+		"LABEL": "0x5EFB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "On the surface was a display that measured and displayed vital signs."
+	},
+	{
+		"LABEL": "0x5F3D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Green, yellow, red, and black buttons were placed on the back."
+	},
+	{
+		"LABEL": "0x5F7A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Triage mainly referred to the process of classifying patients before treatment into these four colors at disaster medical sites."
+	},
+	{
+		"LABEL": "0x5FDF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The order from green to yellow to red indicated the severity of the patient's condition and the priority of their rescue."
+	},
+	{
+		"LABEL": "0x602C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "And, black indicated a serious state of injury―in other words, death."
+	},
+	{
+		"LABEL": "0x6068",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Putting a black tag on a patient meant that there was no hope of them being saved, and that they would not be treated."
+	},
+	{
+		"LABEL": "0x60E5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was better to save as many \"saveable lives\" as possible than to try in vain to rescue those who had little chance of survival."
+	},
+	{
+		"LABEL": "0x615F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was the selection of life in the name of efficiency due to limited medical supplies, human resources, and harsh environments."
+	},
+	{
+		"LABEL": "0x61C8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "That was the meaning of triaging."
+	},
+	{
+		"LABEL": "0x61F4",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I was entrusted with the task of selecting lives."
+	},
+	{
+		"LABEL": "0x6221",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Yes."
+	},
+	{
+		"LABEL": "0x6233",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was the medical staff on the field who made the selection."
+	},
+	{
+		"LABEL": "0x6261",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was not God who chose human lives, only man."
+	},
+	{
+		"LABEL": "0x629E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Powerless... people."
+	},
+	{
+		"LABEL": "0x62BB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "People... to people――"
+	},
+	{
+		"LABEL": "0x62D9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「――――」"
+	},
+	{
+		"LABEL": "0x62F4",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I slung the case full of tags over my shoulder and ran."
+	},
+	{
+		"LABEL": "0x632C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "With great many injured people and their families and acquaintances behind me, I headed straight for her, whom I had to save..."
+	},
+	{
+		"LABEL": "0x6391",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Was this really okay?"
+	},
+	{
+		"LABEL": "0x63B8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "As I ran through the flames and smoke, light and heat, my thoughts continued to spin around in place."
+	},
+	{
+		"LABEL": "0x640B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Was this really okay?"
+	},
+	{
+		"LABEL": "0x642D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It would normally be unforgivable."
+	},
+	{
+		"LABEL": "0x645C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It shouldn't be allowed."
+	},
+	{
+		"LABEL": "0x6482",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was true that doctors were not gods, but that was why they had to be sensitive to mistakes and errors."
+	},
+	{
+		"LABEL": "0x64D9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Deliberately doing something despite knowing it was wrong was an arrogant and foolish act that shouldn't be condoned."
+	},
+	{
+		"LABEL": "0x652C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "All decisions should be made logically, ethically, and justly..."
+	},
+	{
+		"LABEL": "0x6575",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "...They should be."
+	},
+	{
+		"LABEL": "0x6591",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "But still, I was the only one who could save her."
+	},
+	{
+		"LABEL": "0x65C8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "If it was me, she might be saved."
+	},
+	{
+		"LABEL": "0x65FF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Besides, that's right..."
+	},
+	{
+		"LABEL": "0x661E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Whether it was too late or not was actually subjective."
+	},
+	{
+		"LABEL": "0x6656",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "%[Who decided that she had to wear a black tag?"
+	},
+	{
+		"LABEL": "0x66A1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "As long as she received the proper treatment, even if she was barely alive, her chances of survival were not zero."
+	},
+	{
+		"LABEL": "0x66FA",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "However, that would only be possible if medical supplies, which should be used on someone else, were spent to save her."
+	},
+	{
+		"LABEL": "0x6776",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "%[The act of saving her came at the expense of several \"saveable lives.\""
+	},
+	{
+		"LABEL": "0x67CB",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "They should have people important to them, too, and there had to be a lot of people who wanted them to come back alive."
+	},
+	{
+		"LABEL": "0x6828",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I didn't have the right to take the lives of strangers..."
+	},
+	{
+		"LABEL": "0x6872",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "...But, even so."
+	},
+	{
+		"LABEL": "0x688D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I told her I would save her!」"
+	},
+	{
+		"LABEL": "0x68C8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "There was no way I could equate some stranger with that selfish,"
+	},
+	{
+		"LABEL": "0x68F4",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "childish,"
+	},
+	{
+		"LABEL": "0x691E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "egotistical,"
+	},
+	{
+		"LABEL": "0x6944",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "free-spirited,"
+	},
+	{
+		"LABEL": "0x6964",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "%[and irresponsible girl."
+	},
+	{
+		"LABEL": "0x69A5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I rushed over to the wreckage of a familiar car."
+	},
+	{
+		"LABEL": "0x69DC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "There was no hesitation in my mind."
+	},
+	{
+		"LABEL": "0x6A02",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "With this, I could save her."
+	},
+	{
+		"LABEL": "0x6A2A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I could feel the corners of my mouth loosen naturally."
+	},
+	{
+		"LABEL": "0x6A5D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「I'll save you.」"
+	},
+	{
+		"LABEL": "0x6A80",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I took her hand."
+	},
+	{
+		"LABEL": "0x6AA3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I put the triage tag on her slender ring finger and locked in the red button..."
+	},
+	{
+		"LABEL": "0x6AF6",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "And, kissed the tip of her finger as I did."
+	},
+	{
+		"LABEL": "0x6BD3",
+		"CMD": "TEXT",
+		"TYPE": "MESSAGE2",
+		"STRING": "『Because you listened to your wife and ate fruit from the tree"
+	},
+	{
+		"LABEL": "Split6",
+		"CMD": "TEXT",
+		"TYPE": "MESSAGE2",
+		"STRING": "about which I commanded you, \"You must not eat from it,\""
+	},
+	{
+		"LABEL": "0x6C1C",
+		"CMD": "TEXT",
+		"TYPE": "MESSAGE2",
+		"STRING": "Cursed is the ground because of you;"
+	},
+	{
+		"LABEL": "0x6C53",
+		"CMD": "TEXT",
+		"TYPE": "MESSAGE2",
+		"STRING": "through painful toil you will eat food from it all the days of your life."
+	},
+	{
+		"LABEL": "0x6C86",
+		"CMD": "TEXT",
+		"TYPE": "MESSAGE2",
+		"STRING": "It will produce thorns and thistles for you,"
+	},
+	{
+		"LABEL": "0x6CBD",
+		"CMD": "TEXT",
+		"TYPE": "MESSAGE2",
+		"STRING": "and you will eat the plants of the field."
+	},
+	{
+		"LABEL": "0x6CEA",
+		"CMD": "TEXT",
+		"TYPE": "MESSAGE2",
+		"STRING": "By the sweat of your brow you will eat your food"
+	},
+	{
+		"LABEL": "Split8",
+		"CMD": "TEXT",
+		"TYPE": "MESSAGE2",
+		"STRING": "until you return to the ground, since from it you were taken;"
+	},
+	{
+		"LABEL": "0x6D2B",
+		"CMD": "TEXT",
+		"TYPE": "MESSAGE2",
+		"STRING": "for dust you are and to dust you will return.』"
+	},
+	{
+		"LABEL": "0x6DEE",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...Okay. Now, please put this on your index finger.」"
+	},
+	{
+		"LABEL": "0x6E31",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "For some time, I continued triaging in the midst of the disaster that had not subsided."
+	},
+	{
+		"LABEL": "0x6E82",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "%[I did all I could for her."
+	},
+	{
+		"LABEL": "0x6EB2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The rest was up to the paramedics."
+	},
+	{
+		"LABEL": "0x6EDC",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I wanted to stay by her side and watch over her, but that would be of no help and clearly unnatural."
+	},
+	{
+		"LABEL": "0x6F4A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Ideally, the rescue workers would find her without my knowledge, and she would be transported and treated as she was."
+	},
+	{
+		"LABEL": "0x6FB1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Telling myself this, I examined and triaged the people around me."
+	},
+	{
+		"LABEL": "0x7005",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Thank you!」"
+	},
+	{
+		"LABEL": "0x7024",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Words of gratitude were suddenly spoken to me."
+	},
+	{
+		"LABEL": "0x704F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "A \"stranger\" turned to me with an innocent smile."
+	},
+	{
+		"LABEL": "0x70A2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "A \"stranger\" I abandoned――"
+	},
+	{
+		"LABEL": "0x70D3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...You're welcome.」"
+	},
+	{
+		"LABEL": "0x70FA",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I wondered if I was able to smile properly as I said that."
+	},
+	{
+		"LABEL": "0x7228",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I walked around in the flames for a while, continuing my work."
+	},
+	{
+		"LABEL": "0x7262",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "A shout came from the edge of the road."
+	},
+	{
+		"LABEL": "0x7291",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Uwaaaah!」"
+	},
+	{
+		"LABEL": "0x72B0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「What's wrong?」"
+	},
+	{
+		"LABEL": "0x72D1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Drawn in by the shout, a small crowd formed there."
+	},
+	{
+		"LABEL": "0x7319",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I called out to the middle-aged man trembling in its center, and he pointed down the bridge without a voice."
+	},
+	{
+		"LABEL": "0x736C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I followed his hand and looked down――"
+	},
+	{
+		"LABEL": "0x73AA",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Eyes."
+	},
+	{
+		"LABEL": "0x73CE",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Eyes. Eyes. Eyes. Eyes. Eyes."
+	},
+	{
+		"LABEL": "0x73E8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Many eyes were shining in the sea."
+	},
+	{
+		"LABEL": "0x7413",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The red and blue lines of light flickered slowly as if floating in the dark sea."
+	},
+	{
+		"LABEL": "0x7467",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It seemed similar to the luminescence of Aqualine's lights, but not quite the same."
+	},
+	{
+		"LABEL": "0x74B9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "They embodied an instability that could not be created by human hands and the bizarre equilibrium built upon it."
+	},
+	{
+		"LABEL": "0x7513",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Sometimes in sync, sometimes alternating, sometimes random."
+	},
+	{
+		"LABEL": "0x754C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The eyes of the sea, emitting light, would never let me escape my sins."
+	},
+	{
+		"LABEL": "0x758F",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "They would not let me escape――"
+	},
+	{
+		"LABEL": "0x75B3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Ugh?!」"
+	},
+	{
+		"LABEL": "0x75D0",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I felt gastric juices rising up my esophagus, and I covered my mouth and bent down."
+	},
+	{
+		"LABEL": "0x761D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "In addition to nausea, I was so dizzy that I could hardly stand."
+	},
+	{
+		"LABEL": "0x7660",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was watching."
+	},
+	{
+		"LABEL": "0x7676",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "No, that was wrong."
+	},
+	{
+		"LABEL": "0x768C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was just bioluminescence... Noctiluca scintillans."
+	},
+	{
+		"LABEL": "0x76BA",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was a creature with no will of its own, just reacting in large numbers to the shock of the accident."
+	},
+	{
+		"LABEL": "0x7713",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I knew that... It was impossible."
+	},
+	{
+		"LABEL": "0x7753",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "But still――"
+	},
+	{
+		"LABEL": "0x776E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was watching."
+	},
+	{
+		"LABEL": "0x7784",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was watching, yes. Watching everything."
+	},
+	{
+		"LABEL": "0x77B3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...Ah... Ahh...」"
+	},
+	{
+		"LABEL": "0x77D8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "A sense of guilt immediately assaulted me."
+	},
+	{
+		"LABEL": "0x7806",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Every time I found a dead body inside a burned or mangled car after the collision,"
+	},
+	{
+		"LABEL": "0x7846",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "%[I felt as if her chances of survival had increased just a little bit."
+	},
+	{
+		"LABEL": "0x788A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "They were sacrificed instead of her, I thought."
+	},
+	{
+		"LABEL": "0x78C7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I had left people to die and tried saving someone else――"
+	},
+	{
+		"LABEL": "0x7904",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Each and every one of their eyes turned to me with scorn and derision――"
+	},
+	{
+		"LABEL": "0x795C",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「...Aaaaaaaaaaaaah!!」"
+	},
+	{
+		"LABEL": "0x7986",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "At that moment..."
+	},
+	{
+		"LABEL": "0x799A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "A rescue worker who arrived at the scene lifted me up silently."
+	},
+	{
+		"LABEL": "0x79D3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I was then carried on his back to the direction he had come from."
+	},
+	{
+		"LABEL": "0x7A18",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I told them that I would help, yet here I was."
+	},
+	{
+		"LABEL": "0x7A4B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Harboring no strange intentions, I had been completely powerless and unreliable."
+	},
+	{
+		"LABEL": "0x7A90",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I laid down on a blanket that had been carried to the base near the helicopter..."
+	},
+	{
+		"LABEL": "0x7AD5",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "...And, lost consciousness."
+	},
+	{
+		"LABEL": "0x7BD3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was mid-August, and I was visiting the university hospital where I was doing my internship."
+	},
+	{
+		"LABEL": "0x7C18",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Unwilling to replace my wrecked car, I went there by train and bus, which was a mistake."
+	},
+	{
+		"LABEL": "0x7C77",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「So hot...」"
+	},
+	{
+		"LABEL": "0x7C94",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The cicadas chirped loudly."
+	},
+	{
+		"LABEL": "0x7CC3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Even the journey from the bus stop to the hospital under this blazing sun while carrying a paper bag filled with a large number of books made me short of breath."
+	},
+	{
+		"LABEL": "0x7D37",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I entered the hospital through the general entrance and not the staff entrance."
+	},
+	{
+		"LABEL": "0x7D76",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Todays errands had nothing to do with work."
+	},
+	{
+		"LABEL": "0x7DAD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I was just visiting."
+	},
+	{
+		"LABEL": "0x7DCD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「How are you feeling?」"
+	},
+	{
+		"LABEL": "0x7DE8",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Sousuke, you're late! I got tired of waiting.」"
+	},
+	{
+		"LABEL": "0x7E2D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Don't say that. Here, the ones you asked for. Don't you want them?」"
+	},
+	{
+		"LABEL": "0x7E74",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Her face lit up as I held up the paper bag with both hands."
+	},
+	{
+		"LABEL": "0x7EB7",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Inside were picture and photo books that she had requested previously."
+	},
+	{
+		"LABEL": "0x7F01",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Half of them were personal belongings from her room, but the other half that she had begged for, I had bought myself."
+	},
+	{
+		"LABEL": "0x7F78",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "All of them were large imported books that cost over ten thousand yen each... What a cheeky brat."
+	},
+	{
+		"LABEL": "0x7FCD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "It was a painful expense for a poor student, but a small price to pay for her life."
+	},
+	{
+		"LABEL": "0x8015",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Wow! \"144 times the world! Compressed lifetime and the golden ratio!\" What the heck is that supposed to mean? It's a promotional catchphrase, but it's not very clear what it's trying to convey!」"
+	},
+	{
+		"LABEL": "0x808B",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "%[She immediately picked up one of the books and began flipping through it."
+	},
+	{
+		"LABEL": "0x80D1",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「Geh, that's disgusting! This is great... Uhyo!」"
+	},
+	{
+		"LABEL": "0x811A",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Even if this was a private room, shouldn't she be a little quieter inside a hospital?"
+	},
+	{
+		"LABEL": "0x8162",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "Should I scold her as an intern?"
+	},
+	{
+		"LABEL": "0x8193",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "But, if I opened my mouth right now, all I could do was laugh... or so I felt."
+	},
+	{
+		"LABEL": "0x81DD",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "That's right."
+	},
+	{
+		"LABEL": "0x81F2",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "She was mortally injured, but miraculously survived the accident thanks to prompt post-accident care and treatment."
+	},
+	{
+		"LABEL": "0x8253",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I had succeeded in saving her."
+	},
+	{
+		"LABEL": "0x8286",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "My choice was not wrong."
+	},
+	{
+		"LABEL": "0x82B3",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "That was how it should have been."
+	},
+	{
+		"LABEL": "0x838E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x83A9",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "The cold sea breeze stung my skin."
+	},
+	{
+		"LABEL": "0x83CE",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "At this point, everything was in the past."
+	},
+	{
+		"LABEL": "0x83FF",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "%[Was she happy? Was saving her the right thing to do?"
+	},
+	{
+		"LABEL": "0x844E",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "I didn't know."
+	},
+	{
+		"LABEL": "0x846D",
+		"CMD": "TEXT2",
+		"TYPE": 10,
+		"STRING": "After all, there was no one left in this world who could answer me."
+	}
+]

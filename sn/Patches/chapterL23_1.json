@@ -1,0 +1,3080 @@
+[
+	{
+		"LABEL": "0x3C3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Now――」"
+	},
+	{
+		"LABEL": "0x3DD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Let's not lose our energy.」"
+	},
+	{
+		"LABEL": "0x417",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Our time limit is approaching.」"
+	},
+	{
+		"LABEL": "0x452",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari raised her voice again, encouraging everyone."
+	},
+	{
+		"LABEL": "0x482",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her voice made the air feel clear, as if one had just woken up."
+	},
+	{
+		"LABEL": "0x4DE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That's right―nothing was over yet."
+	},
+	{
+		"LABEL": "0x510",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hikari had been sent to the surface, and now everything began."
+	},
+	{
+		"LABEL": "0x53E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We'd already finished everything we needed to do."
+	},
+	{
+		"LABEL": "0x568",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "All that was left was for us to escape ourselves."
+	},
+	{
+		"LABEL": "0x606",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yes...」"
+	},
+	{
+		"LABEL": "0x620",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Let us escape as well.」"
+	},
+	{
+		"LABEL": "0x64E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「My promise―I have to keep it.」"
+	},
+	{
+		"LABEL": "0x689",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa stood up with renewed determination."
+	},
+	{
+		"LABEL": "0x6B5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I couldn't ignore those feelings of hers."
+	},
+	{
+		"LABEL": "0x705",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We would definitely succeed."
+	},
+	{
+		"LABEL": "0x727",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We would definitely get out of here."
+	},
+	{
+		"LABEL": "0x81A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That said, all the preparations are complete.」"
+	},
+	{
+		"LABEL": "0x84E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「All we have to do now is activate the detonator.」"
+	},
+	{
+		"LABEL": "0x898",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「We need to secure our bodies in a safe place because of the impact, but――」"
+	},
+	{
+		"LABEL": "0x901",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「....」"
+	},
+	{
+		"LABEL": "0x920",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Touri looked somewhat glum."
+	},
+	{
+		"LABEL": "0x94A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Reiri saw her and called out to her in a tedious tone."
+	},
+	{
+		"LABEL": "0xA00",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Nee-san.」"
+	},
+	{
+		"LABEL": "0xA18",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What's bothering you?」"
+	},
+	{
+		"LABEL": "0xA46",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's time for us to leave this ship...」"
+	},
+	{
+		"LABEL": "0xA86",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What are you worrying about now that we've come this far?」"
+	},
+	{
+		"LABEL": "0xB56",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Is it... okay for us to survive?」"
+	},
+	{
+		"LABEL": "0xB95",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Touri trembled slightly as she spoke."
+	},
+	{
+		"LABEL": "0xBCD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She looked like she was terrified."
+	},
+	{
+		"LABEL": "0xC45",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What she was looking at was――"
+	},
+	{
+		"LABEL": "0xC69",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Touri's eyes were looking in the other direction."
+	},
+	{
+		"LABEL": "0xC9B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "At the end of her line of sight was the bridge, and further beyond that, the rear section."
+	},
+	{
+		"LABEL": "0xCE3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There lay the many dead, still drifting without rest."
+	},
+	{
+		"LABEL": "0xD29",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That was what frightened her."
+	},
+	{
+		"LABEL": "0xDBF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「There were so many people at the launch ceremony, and most of them boarded this ship...」"
+	},
+	{
+		"LABEL": "0xE1D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「All those people who were on the observation deck back then should still be there.」"
+	},
+	{
+		"LABEL": "0xE6B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「And yet... why?」"
+	},
+	{
+		"LABEL": "0xE95",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Why are we the only ones saved?」"
+	},
+	{
+		"LABEL": "0xEDA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――――」"
+	},
+	{
+		"LABEL": "0xEF9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Why were we the only ones?"
+	},
+	{
+		"LABEL": "0xF21",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari's shoulders trembled as she listened to Touri's confession."
+	},
+	{
+		"LABEL": "0xFD0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Looking back at her memories from seven years ago――"
+	},
+	{
+		"LABEL": "0x1002",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As a result of an accident that had occurred on the deep-sea exploration ship <SHEEP>,"
+	},
+	{
+		"LABEL": "0x1039",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "she was the only one among its three members to \"survive.\" Her anguish must be similar to Touri's."
+	},
+	{
+		"LABEL": "0x10A5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Why me?"
+	},
+	{
+		"LABEL": "0x10C3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If it wasn't me, then maybe..."
+	},
+	{
+		"LABEL": "0x10F1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If it wasn't for me, then..."
+	},
+	{
+		"LABEL": "0x1113",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Countless questions rose up one after another and constricted your heart even if you knew it was futile."
+	},
+	{
+		"LABEL": "0x118A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Honestly...」"
+	},
+	{
+		"LABEL": "0x11A8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's all nonsense.」"
+	},
+	{
+		"LABEL": "0x12BB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Reiri chuckled, then looked up and opened her eyes wide."
+	},
+	{
+		"LABEL": "0x1301",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What I saw in her wide-open eyes was not madness."
+	},
+	{
+		"LABEL": "0x133B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was her reasoning."
+	},
+	{
+		"LABEL": "0x1361",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That our troubles were \"nonsense.\""
+	},
+	{
+		"LABEL": "0x13A4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What a stupid thing to say, Touri... And――」"
+	},
+	{
+		"LABEL": "0x1449",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――Katagiri.」"
+	},
+	{
+		"LABEL": "0x1468",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yes. I'd also made a choice."
+	},
+	{
+		"LABEL": "0x1496",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And I was certain that I had made a mistake."
+	},
+	{
+		"LABEL": "0x14BE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "After taking 50 lives, I'd return to the surface as if nothing had happened."
+	},
+	{
+		"LABEL": "0x150C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Could I truly be forgiven?"
+	},
+	{
+		"LABEL": "0x153C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I――"
+	},
+	{
+		"LABEL": "0x1554",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If I could do it all over, I would.」"
+	},
+	{
+		"LABEL": "0x1584",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's what I think.」"
+	},
+	{
+		"LABEL": "0x15BB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Katagiri-san...」"
+	},
+	{
+		"LABEL": "0x15DE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's just useless drivel, I know.」"
+	},
+	{
+		"LABEL": "0x1614",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Even so, I have no choice but to think about it...」"
+	},
+	{
+		"LABEL": "0x165A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「How and why things ended up this way.」"
+	},
+	{
+		"LABEL": "0x168C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――That was the answer I arrived at."
+	},
+	{
+		"LABEL": "0x16AE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We'd all survive... The choice should have been for that reason."
+	},
+	{
+		"LABEL": "0x16EE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But at the end of it all, only those here and Hikari would survive――"
+	},
+	{
+		"LABEL": "0x1734",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The people who had died when we sank were gone, never to return."
+	},
+	{
+		"LABEL": "0x1778",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I should have forgotten about my sister from the start."
+	},
+	{
+		"LABEL": "0x17C8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Since that day seven years ago, everything had been wrong, hadn't it...?"
+	},
+	{
+		"LABEL": "0x187E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Living―in other words, survival―is a race in itself.」"
+	},
+	{
+		"LABEL": "0x18BC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Everyone keeps running. If you don't run, you'll be left behind.」"
+	},
+	{
+		"LABEL": "0x195D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's the famous Red Queen hypothesis.」"
+	},
+	{
+		"LABEL": "0x198C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The harsh reality Reiri acknowledged."
+	},
+	{
+		"LABEL": "0x19B2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Should we take the words of this girl who had lived her life by increasing her value,"
+	},
+	{
+		"LABEL": "0x1A00",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "and winning through knowledge as the childishness of a high school student, or――"
+	},
+	{
+		"LABEL": "0x1AA2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「\"It takes all the running you can do to stay in the same place.\"」"
+	},
+	{
+		"LABEL": "0x1AF7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「All living things expend energy just to stay in place.」"
+	},
+	{
+		"LABEL": "0x1B51",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The cost of maintaining the current situation is infinite if you aim for an infinite amount of time.」"
+	},
+	{
+		"LABEL": "0x1BA3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「And on a battlefield like that... we survived.」"
+	},
+	{
+		"LABEL": "0x1BDF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If surviving and winning isn't enough, then we should've obediently waved the white flag right there and then.」"
+	},
+	{
+		"LABEL": "0x1C4E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But... we didn't."
+	},
+	{
+		"LABEL": "0x1C82",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "This was the answer we desperately sought, searched for, and chose to survive for."
+	},
+	{
+		"LABEL": "0x1CD6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The place we arrived at――"
+	},
+	{
+		"LABEL": "0x1D07",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You fought to survive, and you won. So, what is there to worry about?」"
+	},
+	{
+		"LABEL": "0x1D59",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Why don't you just enjoy the future you've chosen?」"
+	},
+	{
+		"LABEL": "0x1D9A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But... that's not what I wanted.」"
+	},
+	{
+		"LABEL": "0x1DD6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Touri, Reiri, Tokiwa, Yukari-san, Hiragino-san...」"
+	},
+	{
+		"LABEL": "0x1E2A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I had no choice but to live so that everyone else could survive――」"
+	},
+	{
+		"LABEL": "0x1E60",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Live, and survive."
+	},
+	{
+		"LABEL": "0x1E8A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Return everyone to the surface."
+	},
+	{
+		"LABEL": "0x1EAC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As long as I could do that, I was satisfied."
+	},
+	{
+		"LABEL": "0x1EDE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There was no need for me to survive and return to with them."
+	},
+	{
+		"LABEL": "0x1F88",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Katagiri... do you even know what the hell you're talking about?」"
+	},
+	{
+		"LABEL": "0x1FDD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Was it exasperation or anger that seeped into Reiri's words?"
+	},
+	{
+		"LABEL": "0x2041",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She walked up to me, shaking."
+	},
+	{
+		"LABEL": "0x20D7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Wishing you wouldn't survive――」"
+	},
+	{
+		"LABEL": "0x210D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Are you joking?」"
+	},
+	{
+		"LABEL": "0x2142",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x21C8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I see. I get it.」"
+	},
+	{
+		"LABEL": "0x21EF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "At my inability to answer, Reiri gave me a sad look."
+	},
+	{
+		"LABEL": "0x222B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And, began to speak."
+	},
+	{
+		"LABEL": "0x22BD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Let me tell you a story from the past.」"
+	},
+	{
+		"LABEL": "0x22DB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...I survived by killing my mother.」"
+	},
+	{
+		"LABEL": "0x2316",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Huh...?」"
+	},
+	{
+		"LABEL": "0x2332",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Reiri's voice suddenly lowered."
+	},
+	{
+		"LABEL": "0x2356",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She killed her own mother...?"
+	},
+	{
+		"LABEL": "0x2376",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "According to what I'd heard earlier, Touri and Reiri's mother was caught up in the Aqualine accident――"
+	},
+	{
+		"LABEL": "0x23C8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Reiri nodded as I stared in wonder."
+	},
+	{
+		"LABEL": "0x246C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The truth is, my mother should've survived.」"
+	},
+	{
+		"LABEL": "0x24A6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Even though she was in a critical condition and given the red rating, she was in a better state than me, who was on the verge of death.」"
+	},
+	{
+		"LABEL": "0x250A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「She would've survived if she'd been given the appropriate treatment.」"
+	},
+	{
+		"LABEL": "0x25B1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Despite that, I was the one who was saved.」"
+	},
+	{
+		"LABEL": "0x25E7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If they didn't devote so many resources to patients that needed rehabilitation even after surviving,"
+	},
+	{
+		"LABEL": "0x2643",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "they could've saved several other people, not just my mother――」"
+	},
+	{
+		"LABEL": "0x268D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「How many lives were sacrificed for me to survive?」"
+	},
+	{
+		"LABEL": "0x26DE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's not it!!」"
+	},
+	{
+		"LABEL": "0x26FD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Touri shouted as if she couldn't take it anymore."
+	},
+	{
+		"LABEL": "0x2727",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her face was pale as she stared at Reiri."
+	},
+	{
+		"LABEL": "0x2763",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Perhaps her sister was the only thing she could see."
+	},
+	{
+		"LABEL": "0x2868",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You're wrong... Don't say that, Reiri.」"
+	},
+	{
+		"LABEL": "0x28FB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It was right that you survived... It was right, so...」"
+	},
+	{
+		"LABEL": "0x2954",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x296E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yes... You're right, Touri.」"
+	},
+	{
+		"LABEL": "0x29F7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm sorry for putting it that way, so don't worry.」"
+	},
+	{
+		"LABEL": "0x2A40",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yeah...」"
+	},
+	{
+		"LABEL": "0x2A5F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Reiri tried to soothe her sister."
+	},
+	{
+		"LABEL": "0x2A7F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She reached out her hand toward Touri, who she normally found to be a nuisance, and patted her on the head."
+	},
+	{
+		"LABEL": "0x2AE5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The scene was like... a mother loving her daughter."
+	},
+	{
+		"LABEL": "0x2B8D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You're not wrong.」"
+	},
+	{
+		"LABEL": "0x2C12",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's why... I have to grasp the future.」"
+	},
+	{
+		"LABEL": "0x2CE3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――Yes."
+	},
+	{
+		"LABEL": "0x2CFD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I now understood everything."
+	},
+	{
+		"LABEL": "0x2D23",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Why had Reiri reached for the archive of the universe that <COOS> possessed?"
+	},
+	{
+		"LABEL": "0x2D71",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Why did she have to take her knowledge to even greater heights,"
+	},
+	{
+		"LABEL": "0x2DAF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "even after reaching a level unheard of considering she was still a high school student?"
+	},
+	{
+		"LABEL": "0x2DF7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She――"
+	},
+	{
+		"LABEL": "0x2E0F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Because she, too, had \"survived\"――"
+	},
+	{
+		"LABEL": "0x2F9A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Do you understand, Katagiri?」"
+	},
+	{
+		"LABEL": "0x2FBE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「We survived.」"
+	},
+	{
+		"LABEL": "0x2FEE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「And now that we've survived, we have to live.」"
+	},
+	{
+		"LABEL": "0x303C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I can't deny that you're unwilling to think, act,"
+	},
+	{
+		"LABEL": "0x308C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "and choose the present and future ahead of you.」"
+	},
+	{
+		"LABEL": "0x30C9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x30F2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Because, it could come to an end at any point.」"
+	},
+	{
+		"LABEL": "0x312E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You should've been able to die, or maybe even run away.」"
+	},
+	{
+		"LABEL": "0x3178",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「However――」"
+	},
+	{
+		"LABEL": "0x3199",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It's just as Reiri said."
+	},
+	{
+		"LABEL": "0x31BB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I didn't stop."
+	},
+	{
+		"LABEL": "0x31DD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I kept choosing until the end."
+	},
+	{
+		"LABEL": "0x31FF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A path to keep everyone alive, and to keep myself alive――"
+	},
+	{
+		"LABEL": "0x3237",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That was the present I chose and grasped."
+	},
+	{
+		"LABEL": "0x3269",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We couldn't deny what we'd grasped, even if we had closed off the possibilities that should've been there."
+	},
+	{
+		"LABEL": "0x32BD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The present I've reached.」"
+	},
+	{
+		"LABEL": "0x334D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yes... That's how we've lived our lives, seizing the present and the future.」"
+	},
+	{
+		"LABEL": "0x339D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It would be stupid to deny and halt that progress because of petty sentimentality.」"
+	},
+	{
+		"LABEL": "0x33FC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "With that, Reiri turned from Touri and faced me."
+	},
+	{
+		"LABEL": "0x34CA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「So, Katagiri.」"
+	},
+	{
+		"LABEL": "0x34EA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「We survived. This world was for the best.」"
+	},
+	{
+		"LABEL": "0x352C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「There's no need to worry about obtaining the best answer. That's the natural order of things.」"
+	},
+	{
+		"LABEL": "0x3586",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「So, let's return. Back to the surface――」"
+	},
+	{
+		"LABEL": "0x35C1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Please wait.」"
+	},
+	{
+		"LABEL": "0x3600",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Suddenly, a hand was raised straight up in the air."
+	},
+	{
+		"LABEL": "0x362E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The sleeves of her kimono slid down, revealing her white upper arm."
+	},
+	{
+		"LABEL": "0x3670",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Saihouji Tokiwa stood in front of me."
+	},
+	{
+		"LABEL": "0x3775",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Reiri-san, I understand what you're trying to say,"
+	},
+	{
+		"LABEL": "0x37B7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "but I don't think it's a good idea to twist the \"natural order of things.\"」"
+	},
+	{
+		"LABEL": "0x380E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x382D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Reiri didn't respond to Tokiwa's straightforward gaze."
+	},
+	{
+		"LABEL": "0x3865",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Survival was victory, and the winner was good."
+	},
+	{
+		"LABEL": "0x38A9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She said that it was natural, but Tokiwa denied it."
+	},
+	{
+		"LABEL": "0x3908",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Natural selection――」"
+	},
+	{
+		"LABEL": "0x394B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Selection and choice are just two sides of the same coin.」"
+	},
+	{
+		"LABEL": "0x398E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「In Darwin's theory of evolution, it's pure providence, free of value judgments.」"
+	},
+	{
+		"LABEL": "0x39F3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In other words, the good didn't survive, and the bad didn't get exterminated."
+	},
+	{
+		"LABEL": "0x3A47",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What survived was not good; what died out was not bad."
+	},
+	{
+		"LABEL": "0x3B10",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What are you trying to say?」"
+	},
+	{
+		"LABEL": "0x3B36",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Do you think we could've done more?」"
+	},
+	{
+		"LABEL": "0x3B66",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Or, are you trying to tell me that we were hopelessly wrong from the start?」"
+	},
+	{
+		"LABEL": "0x3C2E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「No, not at all.」"
+	},
+	{
+		"LABEL": "0x3C5F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If the future we grasped was not the best, then what was?"
+	},
+	{
+		"LABEL": "0x3CAB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What should I have done...?"
+	},
+	{
+		"LABEL": "0x3CF6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「In the first place, natural selection was an essential concept of evolutionary theory,"
+	},
+	{
+		"LABEL": "0x3D3C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "but its meaning is often greatly misunderstood―even up to present day.」"
+	},
+	{
+		"LABEL": "0x3D8A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's like what Reiri-san said earlier――」"
+	},
+	{
+		"LABEL": "0x3DC6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The most typical example is that the best and the brightest surviving is \"natural.\"」"
+	},
+	{
+		"LABEL": "0x3E14",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「In other words, that evolution is progress.」"
+	},
+	{
+		"LABEL": "0x3E5F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Evolution was progress――"
+	},
+	{
+		"LABEL": "0x3E81",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The implication was that in each generation, \"good things\" survived,"
+	},
+	{
+		"LABEL": "0x3ECB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "and one generation after another, they evolved into better species."
+	},
+	{
+		"LABEL": "0x3F1B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But... in the end, that was a mistake."
+	},
+	{
+		"LABEL": "0x3F4D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa hummed in agreement with her own words and continued."
+	},
+	{
+		"LABEL": "0x3FF9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That... seems consistent in a way.」"
+	},
+	{
+		"LABEL": "0x4035",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「There are fruits that grow on tall trees, and the long-necked giraffe, that was better suited to eating them, survived――」"
+	},
+	{
+		"LABEL": "0x4095",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's why giraffes have long necks.」"
+	},
+	{
+		"LABEL": "0x40BF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「In other words, the giraffe's neck grew for the purpose of eating the fruit.」"
+	},
+	{
+		"LABEL": "0x4125",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That may seem like a reasonable and understandable explanation.」"
+	},
+	{
+		"LABEL": "0x4181",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「However... it's not the truth.」"
+	},
+	{
+		"LABEL": "0x41B4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa spoke quietly and slowly."
+	},
+	{
+		"LABEL": "0x41E0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That was the foundation of the theory of evolution――"
+	},
+	{
+		"LABEL": "0x4204",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "To \"evolve\" was not equal to \"moving in a better direction.\""
+	},
+	{
+		"LABEL": "0x4263",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Darwin's theory of evolution discarded such a teleological interpretation.」"
+	},
+	{
+		"LABEL": "0x42B7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「He denied that evolution was toward a purpose, to become better.」"
+	},
+	{
+		"LABEL": "0x430A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "\"For example,\" she said."
+	},
+	{
+		"LABEL": "0x433D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Living creatures acquired \"eyes\" during their evolution.」"
+	},
+	{
+		"LABEL": "0x4377",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Living creatures with \"eyes\" had the advantage in the struggle for survival.」"
+	},
+	{
+		"LABEL": "0x43B7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Eventually, those \"eyes\" created competition between predator and prey.」"
+	},
+	{
+		"LABEL": "0x4401",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It was an important trait that accelerated the diversity of living beings in one go.」"
+	},
+	{
+		"LABEL": "0x4456",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The so-called Cambrian explosion."
+	},
+	{
+		"LABEL": "0x4480",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I once read in a textbook that it was the birth of \"eyes\" that triggered it."
+	},
+	{
+		"LABEL": "0x44F1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But look at these creatures in the deep sea.」"
+	},
+	{
+		"LABEL": "0x4531",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「As time went by, creatures dived into the deep sea, and the \"eyes\" they had acquired quickly degenerated.」"
+	},
+	{
+		"LABEL": "0x4589",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「In the deep sea, maintaining unused \"eyes\" is costly.」"
+	},
+	{
+		"LABEL": "0x45D7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But there's one thing we mustn't forget at this time.」"
+	},
+	{
+		"LABEL": "0x4615",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「They didn't decide that they didn't need their \"eyes\" on their own.」"
+	},
+	{
+		"LABEL": "0x466F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's just that in the deep sea, the creatures who used fewer resources to maintain their \"eyes\" survived to the next generation.」"
+	},
+	{
+		"LABEL": "0x46D9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It was just a coincidence.」"
+	},
+	{
+		"LABEL": "0x46FF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hypothetically, if the deep sea were not dark at the time...」"
+	},
+	{
+		"LABEL": "0x4745",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If something like <COOS> appeared at the bottom of the sea, shining brightly...」"
+	},
+	{
+		"LABEL": "0x478D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「At that time, the creatures with \"eyes\" would've survived and gained the upper hand.」"
+	},
+	{
+		"LABEL": "0x47F0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The definition of \"good\" changed depending on time and space."
+	},
+	{
+		"LABEL": "0x482A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What was right at this moment might turn out to be wrong in the next."
+	},
+	{
+		"LABEL": "0x488D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「There was no intention there, no value judgment.」"
+	},
+	{
+		"LABEL": "0x48CB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It doesn't matter if it's the future or the past. It's just that, in that moment, the choice is made.」"
+	},
+	{
+		"LABEL": "0x4911",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「We keep on being chosen.」"
+	},
+	{
+		"LABEL": "0x4933",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「We're living here today as a result of countless unseen and repeated \"best\" choices for their time.」"
+	},
+	{
+		"LABEL": "0x499F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's all there is to it.」"
+	},
+	{
+		"LABEL": "0x49CC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's all――」"
+	},
+	{
+		"LABEL": "0x49F0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Not chosen because of an intent."
+	},
+	{
+		"LABEL": "0x4A96",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's why, Katagiri-san...」"
+	},
+	{
+		"LABEL": "0x4ABC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Even if this present isn't what you want...」"
+	},
+	{
+		"LABEL": "0x4B02",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You're saying that you can't start over.」"
+	},
+	{
+		"LABEL": "0x4B4B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That was obvious."
+	},
+	{
+		"LABEL": "0x4B77",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Wanting to rewind time and start over was just a metaphor."
+	},
+	{
+		"LABEL": "0x4BBD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I know. But no matter what, it won't disappear.」"
+	},
+	{
+		"LABEL": "0x4BFF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If I had done that then, no, if I hadn't done that,"
+	},
+	{
+		"LABEL": "0x4C4B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "or if I could go back as far as I could, I would've tried to grab hold of it.」"
+	},
+	{
+		"LABEL": "0x4C91",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The choice to make the best possible \"present\"――」"
+	},
+	{
+		"LABEL": "0x4CD6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Katagiri-san.」"
+	},
+	{
+		"LABEL": "0x4D0A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Listen carefully.」"
+	},
+	{
+		"LABEL": "0x4D33",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa walked over to me."
+	},
+	{
+		"LABEL": "0x4D5B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I could see myself reflected in her clear eyes."
+	},
+	{
+		"LABEL": "0x4DF1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's only when we know the future that we can form causality.」"
+	},
+	{
+		"LABEL": "0x4E3D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But that cause and effect,"
+	},
+	{
+		"LABEL": "0x4E5F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "that causality... is false.」"
+	},
+	{
+		"LABEL": "0x4E90",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Then the only thing we can do in the present is――」"
+	},
+	{
+		"LABEL": "0x4ED2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa quietly stated her answer."
+	},
+	{
+		"LABEL": "0x4F72",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「At those times, choose the path you believe is good.」"
+	},
+	{
+		"LABEL": "0x4FB0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「And, accept the consequences.」"
+	},
+	{
+		"LABEL": "0x4FED",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her answer was extremely simple."
+	},
+	{
+		"LABEL": "0x501F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Accept it――」"
+	},
+	{
+		"LABEL": "0x50AB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Everything you've done up until now and everything you will do going forward.」"
+	},
+	{
+		"LABEL": "0x50F3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Was the choice you faced really a choice?」"
+	},
+	{
+		"LABEL": "0x5144",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Huh?」"
+	},
+	{
+		"LABEL": "0x516D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You may be able to answer the question once it's posed.」"
+	},
+	{
+		"LABEL": "0x51B1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「However, it's meaningless to interpret afterward whether one was right or wrong on the path they walked,"
+	},
+	{
+		"LABEL": "0x51F7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "seeking answers before being asked the question.」"
+	},
+	{
+		"LABEL": "0x524A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x5273",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You mustn't ignore the past by denying your steps in that moment.」"
+	},
+	{
+		"LABEL": "0x52CD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's a mistake to think that we can grasp the best future simply because we made the best choices at the time,"
+	},
+	{
+		"LABEL": "0x5319",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "denying the past we accumulated to reach out to an unseen future.」"
+	},
+	{
+		"LABEL": "0x5389",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If this is the path you chose with pride...」"
+	},
+	{
+		"LABEL": "0x53C1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「No matter the outcome, you should be proud and accept it.」"
+	},
+	{
+		"LABEL": "0x5402",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What didn't happen couldn't exist in the first place."
+	},
+	{
+		"LABEL": "0x5444",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "One choice didn't determine the future, but at the end of your accumulated choices lay the present."
+	},
+	{
+		"LABEL": "0x54FE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Reiri-san called <COOS> an archive of the universe, but...」"
+	},
+	{
+		"LABEL": "0x5552",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「We ourselves are the archive of 4.6 billion years, living in the present after the accumulation of the past.」"
+	},
+	{
+		"LABEL": "0x55B2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「We are the result of 4.6 billion years of repeated choices and selections.」"
+	},
+	{
+		"LABEL": "0x5617",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Are you saying there's no point in having regrets?」"
+	},
+	{
+		"LABEL": "0x565A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I wouldn't say it's pointless. On an individual level, it will lead to good reflection and feedback.」"
+	},
+	{
+		"LABEL": "0x56CC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But the idea that the present result is wrong or that we should change it is endlessly futile.」"
+	},
+	{
+		"LABEL": "0x5730",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「This place that we've been led to, even if we did not choose it...」"
+	},
+	{
+		"LABEL": "0x57D3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...All we can do is accept it.」"
+	},
+	{
+		"LABEL": "0x5838",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Accept it all and keep living."
+	},
+	{
+		"LABEL": "0x5866",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa said that the past accumulated here and now was neither right nor wrong, but just there."
+	},
+	{
+		"LABEL": "0x58C2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Or, as Reiri had put it, the present we had won."
+	},
+	{
+		"LABEL": "0x59C5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Either way, Katagiri.」"
+	},
+	{
+		"LABEL": "0x59EB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You'll be the one to choose.」"
+	},
+	{
+		"LABEL": "0x5A0B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「As it always has been, and will be from now on――」"
+	},
+	{
+		"LABEL": "0x5A47",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You will continue to choose.」"
+	},
+	{
+		"LABEL": "0x5B46",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Another crashing sound echoed from outside the ship."
+	},
+	{
+		"LABEL": "0x5B8B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――We're running out of time, everyone.」"
+	},
+	{
+		"LABEL": "0x5BC0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What was going on outside the ship, and what was going on the surface?"
+	},
+	{
+		"LABEL": "0x5C02",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I didn't know the details, but... I didn't think there was much time left."
+	},
+	{
+		"LABEL": "0x5C44",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Touri... Have you made up your mind to escape?」"
+	},
+	{
+		"LABEL": "0x5CE2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yeah... I get it now.」"
+	},
+	{
+		"LABEL": "0x5D08",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「For the sake of the people who died, and for the future...」"
+	},
+	{
+		"LABEL": "0x5DA9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「We'll absolutely make it out of here alive!」"
+	},
+	{
+		"LABEL": "0x5DF2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No longer were there any concerns."
+	},
+	{
+		"LABEL": "0x5E12",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And, there was no time."
+	},
+	{
+		"LABEL": "0x5E34",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Everyone's wills were united."
+	},
+	{
+		"LABEL": "0x5E58",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Let's escape from here―all of us.」"
+	},
+	{
+		"LABEL": "0x60F6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Our journey to the surface would follow the ozone explosion."
+	},
+	{
+		"LABEL": "0x612A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was easy to imagine that the <SHEEP III>, once separated from the rear section and almost spherical in shape,"
+	},
+	{
+		"LABEL": "0x6171",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "could easily spin around and around depending on the force applied."
+	},
+	{
+		"LABEL": "0x61C9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The shock of the accident on the first day was significant, but this time it was different."
+	},
+	{
+		"LABEL": "0x6215",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There wouldn't be just shaking."
+	},
+	{
+		"LABEL": "0x623F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "First, we had to find an empty area."
+	},
+	{
+		"LABEL": "0x6304",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――As a result, the theater room was chosen."
+	},
+	{
+		"LABEL": "0x633E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Fixed seats, as if gazing at the ceiling in the shape of a sphere."
+	},
+	{
+		"LABEL": "0x637A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Each person strapped themselves into a seat that had only a loose seatbelt as a safety device."
+	},
+	{
+		"LABEL": "0x63E9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「This is kind of a strange feeling.」"
+	},
+	{
+		"LABEL": "0x6417",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's like we're all at the movies together.」"
+	},
+	{
+		"LABEL": "0x644D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's strange, but I'm starting to get excited.」"
+	},
+	{
+		"LABEL": "0x648C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Touri smiled cheerfully as if she had completely gotten over herself."
+	},
+	{
+		"LABEL": "0x64C6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It seemed mismatched considering what was about to happen, but..."
+	},
+	{
+		"LABEL": "0x6508",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――There was no point worrying about it anymore."
+	},
+	{
+		"LABEL": "0x6540",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Getting desperate was no good, so that level of ease was probably just right."
+	},
+	{
+		"LABEL": "0x6590",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Maybe more like a roller coaster than a movie theater.」"
+	},
+	{
+		"LABEL": "0x65CC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「No, a cutting-edge scream machine made by ROMLES, the like of which has never been seen before.」"
+	},
+	{
+		"LABEL": "0x660E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Our emotions at the finish line... I can't even imagine it.」"
+	},
+	{
+		"LABEL": "0x6642",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In front of us was a temporary night sky."
+	},
+	{
+		"LABEL": "0x6668",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Countless stars―each and every one of them glowing as if guiding us."
+	},
+	{
+		"LABEL": "0x66C0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Each of them illuminated us as countless possibilities."
+	},
+	{
+		"LABEL": "0x6763",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Even if their light was false..."
+	},
+	{
+		"LABEL": "0x678B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As long as they guided us to the place we needed to go, it was fine."
+	},
+	{
+		"LABEL": "0x67E4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hey, Katagiri-san.」"
+	},
+	{
+		"LABEL": "0x6808",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Don't say anything weird about the <SHEEP III> or ROMLES.」"
+	},
+	{
+		"LABEL": "0x684E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「S-Sorry.」"
+	},
+	{
+		"LABEL": "0x68C7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I was just joking around..."
+	},
+	{
+		"LABEL": "0x68ED",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However, Yukari's reprimanding tone was more theatrical than genuinely angry."
+	},
+	{
+		"LABEL": "0x694F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "When I apologized, she gave a small chuckle."
+	},
+	{
+		"LABEL": "0x6992",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Have you ever been to Aquamarine Park?」"
+	},
+	{
+		"LABEL": "0x69D9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Nee-san took me there a few times...」"
+	},
+	{
+		"LABEL": "0x6A16",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm sure you're aware,"
+	},
+	{
+		"LABEL": "0x6A64",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "but ROMLES' attractions have pretty bizarre names.」"
+	},
+	{
+		"LABEL": "0x6A9F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Indeed.」"
+	},
+	{
+		"LABEL": "0x6ACA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That said, that unique sense of style was controversial even within ROMLES...」"
+	},
+	{
+		"LABEL": "0x6B1D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari smiled bitterly as she remembered."
+	},
+	{
+		"LABEL": "0x6B43",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I remembered some of them too... but I don't think there were any \"Water Wars - Barreleye's Awakening\" or anything like that."
+	},
+	{
+		"LABEL": "0x6BAF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "According to the rumors I'd heard when I went in and out of ROMLES,"
+	},
+	{
+		"LABEL": "0x6BE9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "one of the higher-ups was responsible for the naming process."
+	},
+	{
+		"LABEL": "0x6C43",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No matter how you spun it, there was no doubt that they should be dismissed immediately."
+	},
+	{
+		"LABEL": "0x6C8E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Everyone, have you secured your bodies properly?」"
+	},
+	{
+		"LABEL": "0x6CCC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Tokiwa-san, what's the ozone concentration?」"
+	},
+	{
+		"LABEL": "0x6D09",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「33vol%%―it's enough.」"
+	},
+	{
+		"LABEL": "0x6D2D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Wait for me... Rumi-chan.」"
+	},
+	{
+		"LABEL": "0x6D57",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm sure we'll be there soon.」"
+	},
+	{
+		"LABEL": "0x6D8A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa closed her eyes."
+	},
+	{
+		"LABEL": "0x6DB4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She took a deep breath"
+	},
+	{
+		"LABEL": "0x6DEC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "and opened her eyes wide."
+	},
+	{
+		"LABEL": "0x6E80",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Ah, could this be my honeymoon with Sousuke-san?!」"
+	},
+	{
+		"LABEL": "0x6F25",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm not an expert in geography, but I'd like our first stop to be the surface!」"
+	},
+	{
+		"LABEL": "0x6F8C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You heard her, Sousuke-san.」"
+	},
+	{
+		"LABEL": "0x6FC1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Do I have to respond?」"
+	},
+	{
+		"LABEL": "0x7004",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino let out a tired voice."
+	},
+	{
+		"LABEL": "0x7036",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "He was a pitiful man to the very end."
+	},
+	{
+		"LABEL": "0x7066",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa laughed jokingly at the situation."
+	},
+	{
+		"LABEL": "0x70A7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I was just joking, of course.」"
+	},
+	{
+		"LABEL": "0x70CD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Once we get to the surface safely, I'll have you take me to a better location.」"
+	},
+	{
+		"LABEL": "0x711D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Like a yakiniku restaurant.」"
+	},
+	{
+		"LABEL": "0x714C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I see...」"
+	},
+	{
+		"LABEL": "0x7177",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Like I said, I'm just kidding.」"
+	},
+	{
+		"LABEL": "0x71A2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Which part was the joke?"
+	},
+	{
+		"LABEL": "0x71C8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She was smart, childish, optimistic, and genuine."
+	},
+	{
+		"LABEL": "0x7204",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa's behavior left others at her mercy."
+	},
+	{
+		"LABEL": "0x723A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "From somewhere, I could hear a coughing laugh."
+	},
+	{
+		"LABEL": "0x728B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Doctor, don't let your stress get the better of you.」"
+	},
+	{
+		"LABEL": "0x72C6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Just worry about your own weak body. Don't die of shock.」"
+	},
+	{
+		"LABEL": "0x7323",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Well, that's not my domain.」"
+	},
+	{
+		"LABEL": "0x7357",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If anything happens, it'll be all over.」"
+	},
+	{
+		"LABEL": "0x738E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If anything happens, I'll take care of it. Don't worry.」"
+	},
+	{
+		"LABEL": "0x73D7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「How reliable.」"
+	},
+	{
+		"LABEL": "0x7404",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm a doctor, after all.」"
+	},
+	{
+		"LABEL": "0x7433",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hmm‾」"
+	},
+	{
+		"LABEL": "0x7450",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino didn't like to be called or call himself a doctor."
+	},
+	{
+		"LABEL": "0x7494",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hearing his declaration, Reiri seemed somehow satisfied."
+	},
+	{
+		"LABEL": "0x74D0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Even if she threw around hateful words, she wasn't a bad guy..."
+	},
+	{
+		"LABEL": "0x750E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If you got used to her sharp tongue, it was kind of endearing. Like a child who couldn't be honest with herself."
+	},
+	{
+		"LABEL": "0x7577",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hey, Katagiri.」"
+	},
+	{
+		"LABEL": "0x7593",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What are you grinning about? It's disgusting.」"
+	},
+	{
+		"LABEL": "0x75C1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Do you want to go activate the detonator manually?」"
+	},
+	{
+		"LABEL": "0x7600",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x7629",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Just kidding.」"
+	},
+	{
+		"LABEL": "0x7648",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――Then say it like one!」"
+	},
+	{
+		"LABEL": "0x7687",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm not good at making jokes.」"
+	},
+	{
+		"LABEL": "0x76AE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Saying that, Reiri turned her face away."
+	},
+	{
+		"LABEL": "0x76D8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As usual, there was a veil of offensive remarks surrounding her. She was a girl who couldn't reveal her true feelings."
+	},
+	{
+		"LABEL": "0x7720",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Maybe that just now was some of her honest thoughts she'd let slip."
+	},
+	{
+		"LABEL": "0x77D8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「POL, what time is it?」"
+	},
+	{
+		"LABEL": "0x7826",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【It's 3:30 AM.】"
+	},
+	{
+		"LABEL": "0x7843",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It would be the middle of the night on the surface."
+	},
+	{
+		"LABEL": "0x7877",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【In addition, sunrise today is at 04:51 AM, bearing 68.1°E.】"
+	},
+	{
+		"LABEL": "0x78B5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "An hour until sunrise――"
+	},
+	{
+		"LABEL": "0x7937",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Tokiwa, do you know how long it takes to get to the surface?」"
+	},
+	{
+		"LABEL": "0x7986",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hnnnn――――――――――」"
+	},
+	{
+		"LABEL": "0x79AE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Ten minutes at most!」"
+	},
+	{
+		"LABEL": "0x79E4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「By the time we get there, we'll probably be able to see the real night sky.」"
+	},
+	{
+		"LABEL": "0x7A29",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The night sky, huh?"
+	},
+	{
+		"LABEL": "0x7A41",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Come to think of it, I hadn't seen the real sky in days."
+	},
+	{
+		"LABEL": "0x7A7B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The blue sky I'd seen on the observation deck before diving had been clear and summer-like, but..."
+	},
+	{
+		"LABEL": "0x7ABF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That was like a distant memory now."
+	},
+	{
+		"LABEL": "0x7AEF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It'll be okay... right?」"
+	},
+	{
+		"LABEL": "0x7B20",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Feeling anxious?」"
+	},
+	{
+		"LABEL": "0x7B3F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Reiri bit back at the weak voice I let out."
+	},
+	{
+		"LABEL": "0x7B82",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Why do you think the story of the Mary Celeste has been passed down until now?」"
+	},
+	{
+		"LABEL": "0x7BD3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Well...」"
+	},
+	{
+		"LABEL": "0x7BFC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The answer's simple. Because it's a tragic story.」"
+	},
+	{
+		"LABEL": "0x7C2E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The Toya Maru accident, the sinking of the Titanic...」"
+	},
+	{
+		"LABEL": "0x7C68",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「They're all attracting people because they're tragic stories.」"
+	},
+	{
+		"LABEL": "0x7CB4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――Struggling in futility and perishing.」"
+	},
+	{
+		"LABEL": "0x7CF0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Stories like that are popular with everyone.」"
+	},
+	{
+		"LABEL": "0x7D31",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Reiri-san, stop thinking about the worst-case scenarios.」"
+	},
+	{
+		"LABEL": "0x7D69",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Besides, according to my calculations...」"
+	},
+	{
+		"LABEL": "0x7D93",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「This plan will succeed.」"
+	},
+	{
+		"LABEL": "0x7DCA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I told you, I'm just kidding...」"
+	},
+	{
+		"LABEL": "0x7E07",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Reiri looked annoyed after being scolded by Tokiwa."
+	},
+	{
+		"LABEL": "0x7E52",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Let me revise one more thing.」"
+	},
+	{
+		"LABEL": "0x7ED9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「This plan will succeed \"according to my calculations\" as well.」"
+	},
+	{
+		"LABEL": "0x7F14",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Saying that, she took out her PDA."
+	},
+	{
+		"LABEL": "0x7F43",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A four-digit input screen appeared on it."
+	},
+	{
+		"LABEL": "0x7F6C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That was the remote detonator switch."
+	},
+	{
+		"LABEL": "0x7FAF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Katagiri――」"
+	},
+	{
+		"LABEL": "0x7FC9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'll leave the timing to you.」"
+	},
+	{
+		"LABEL": "0x7FFA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Got it.」"
+	},
+	{
+		"LABEL": "0x8010",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I took a deep breath and exhaled."
+	},
+	{
+		"LABEL": "0x8036",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In the past few days――"
+	},
+	{
+		"LABEL": "0x8058",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A lot had happened within the confines of the <SHEEP III>."
+	},
+	{
+		"LABEL": "0x8104",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "At times we hated each other, fought with each other, and despaired,"
+	},
+	{
+		"LABEL": "0x8138",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "but now that it was over, it seemed that all of it was a necessary process."
+	},
+	{
+		"LABEL": "0x81E1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Whether we succeeded or failed, I had no regrets."
+	},
+	{
+		"LABEL": "0x8223",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I'd be lying if I said I wasn't worried―but my mind was clear."
+	},
+	{
+		"LABEL": "0x82CA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Right, what should I do once I was saved?"
+	},
+	{
+		"LABEL": "0x82FA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "My life on the surface flashed before my eyes."
+	},
+	{
+		"LABEL": "0x8336",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Scenes filled with nostalgia... But before returning to my normal life, there were things that had to be done."
+	},
+	{
+		"LABEL": "0x83F9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The first was to atone for this sin."
+	},
+	{
+		"LABEL": "0x8425",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa had said that no one was guilty, but that was only true within this limited space."
+	},
+	{
+		"LABEL": "0x847D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If I returned to earthly society, I would be a criminal who had broken the law."
+	},
+	{
+		"LABEL": "0x84B9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I'd have to pay for my crimes for social order to be maintained."
+	},
+	{
+		"LABEL": "0x84F9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And, the other thing was..."
+	},
+	{
+		"LABEL": "0x8587",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Nee-san...」"
+	},
+	{
+		"LABEL": "0x85A3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I had been told that she was long dead."
+	},
+	{
+		"LABEL": "0x85CF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But now, there was a possibility that she was alive."
+	},
+	{
+		"LABEL": "0x85F7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I would go to her."
+	},
+	{
+		"LABEL": "0x8670",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x868A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Everyone ready?」"
+	},
+	{
+		"LABEL": "0x86B2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――Let's go!」"
+	},
+	{
+		"LABEL": "0x872D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I pressed the switch."
+	},
+	{
+		"LABEL": "0x892C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Almost simultaneously..."
+	},
+	{
+		"LABEL": "0x8950",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There was a terrible roar, and a vibration hit us."
+	},
+	{
+		"LABEL": "0x897C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Whoa...」"
+	},
+	{
+		"LABEL": "0x89A7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――!」"
+	},
+	{
+		"LABEL": "0x89CE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Gh...」"
+	},
+	{
+		"LABEL": "0x89ED",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "My body floated up and slammed into the seat again."
+	},
+	{
+		"LABEL": "0x8A27",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If my body hadn't been fixed in place, that blow might have done me in."
+	},
+	{
+		"LABEL": "0x8A75",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――Was everyone all right?"
+	},
+	{
+		"LABEL": "0x8A97",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I tried calling out to check, but I was in no condition to open my mouth."
+	},
+	{
+		"LABEL": "0x8AEF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No matter how hard I tried, all I could do was pray."
+	},
+	{
+		"LABEL": "0x8BA2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "For the grace of God――"
+	},
+	{
+		"LABEL": "0x8BC0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There was a loud pop."
+	},
+	{
+		"LABEL": "0x8BF8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A rumbling sound followed soon after."
+	},
+	{
+		"LABEL": "0x8C36",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Following the initial impact, the ongoing tremors gradually lessened..."
+	},
+	{
+		"LABEL": "0x8C78",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Eventually――"
+	},
+	{
+		"LABEL": "0x8C90",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "....."
+	},
+	{
+		"LABEL": "0x8CA8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Before I knew it, the tremors had subsided."
+	},
+	{
+		"LABEL": "0x8CD4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I raised my head and stared straight ahead."
+	},
+	{
+		"LABEL": "0x8D5F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The false starry sky was still there."
+	},
+	{
+		"LABEL": "0x8D95",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Nothing had changed... Did we fail?"
+	},
+	{
+		"LABEL": "0x8DC3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Did the bridge not break?"
+	},
+	{
+		"LABEL": "0x8DEF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Is everyone all right...?」"
+	},
+	{
+		"LABEL": "0x8E15",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――In an instant."
+	},
+	{
+		"LABEL": "0x8E2D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "My sitting body felt like it was accelerating."
+	},
+	{
+		"LABEL": "0x8E5D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was like riding an elevator with the sensation of your body lifting up, space and all."
+	},
+	{
+		"LABEL": "0x8EC2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The <SHEEP III>... is floating...」"
+	},
+	{
+		"LABEL": "0x8F00",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Does this mean everything went smoothly?」"
+	},
+	{
+		"LABEL": "0x8F3B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「『Mamma Mia!』」"
+	},
+	{
+		"LABEL": "0x8F62",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Cheerful voices."
+	},
+	{
+		"LABEL": "0x8F7E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It... wasn't a failure!"
+	},
+	{
+		"LABEL": "0x8FAA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was a success!"
+	},
+	{
+		"LABEL": "0x8FCF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「We did it, Katagiri-kun!」"
+	},
+	{
+		"LABEL": "0x8FF8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Y-Yeah!」"
+	},
+	{
+		"LABEL": "0x9012",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was only for a moment that we were able to have a leisurely conversation."
+	},
+	{
+		"LABEL": "0x904E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A moment later, my legs wobbled, and then――"
+	},
+	{
+		"LABEL": "0x9084",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In the blink of an eye, my sense of balance was overturned."
+	},
+	{
+		"LABEL": "0x911D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Gh――――!」"
+	},
+	{
+		"LABEL": "0x913B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Were we... spinning?"
+	},
+	{
+		"LABEL": "0x915F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I desperately clung to the railing."
+	},
+	{
+		"LABEL": "0x9187",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "My body, which should have been thrown about a long time ago, was supported by the fixtures tied to the seat."
+	},
+	{
+		"LABEL": "0x91D7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The rotation wasn't in a fixed direction."
+	},
+	{
+		"LABEL": "0x92BD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Back and forth, left and right, in circles..."
+	},
+	{
+		"LABEL": "0x92E1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We were shaken from every possible direction."
+	},
+	{
+		"LABEL": "0x93CD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Where was the sky,"
+	},
+	{
+		"LABEL": "0x93E5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "and where was the Earth, I didn't know anymore."
+	},
+	{
+		"LABEL": "0x940D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "All I knew was..."
+	},
+	{
+		"LABEL": "0x9427",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We were heading toward the surface for certain."
+	},
+	{
+		"LABEL": "0x94BC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I closed my eyes, unable to keep up with my shaky vision."
+	},
+	{
+		"LABEL": "0x94F0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In the darkness,"
+	},
+	{
+		"LABEL": "0x9508",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "semi-circular canals were stirring."
+	},
+	{
+		"LABEL": "0x952A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The confusing sensation didn't subside, leaving no time for nausea to set in."
+	},
+	{
+		"LABEL": "0x957A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Freed from gravity,"
+	},
+	{
+		"LABEL": "0x959A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "turning into bubbles,"
+	},
+	{
+		"LABEL": "0x95BA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "getting caught by a big surge,"
+	},
+	{
+		"LABEL": "0x95E2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "rising..."
+	},
+	{
+		"LABEL": "0x95F8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――At that moment."
+	},
+	{
+		"LABEL": "0x9612",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "My pendant slipped out of my pocket."
+	},
+	{
+		"LABEL": "0x96B9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Ngh――――」"
+	},
+	{
+		"LABEL": "0x96D5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I opened my eyes and followed it."
+	},
+	{
+		"LABEL": "0x96F3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The warped coin flew through the air."
+	},
+	{
+		"LABEL": "0x9719",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――\"DEI GRATIA\" was not written on it."
+	},
+	{
+		"LABEL": "0x9743",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I was only able to track the coin for a moment."
+	},
+	{
+		"LABEL": "0x97D7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I lost sight of it in an instant."
+	},
+	{
+		"LABEL": "0x97F3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "My vision became unfocused again."
+	},
+	{
+		"LABEL": "0x981F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Flowing like a storm,"
+	},
+	{
+		"LABEL": "0x9841",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I could hear intermittent sounds in the distance."
+	},
+	{
+		"LABEL": "0x986D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Was that... a voice?"
+	},
+	{
+		"LABEL": "0x9889",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Was that a dolphin,"
+	},
+	{
+		"LABEL": "0x98A1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "a whale,"
+	},
+	{
+		"LABEL": "0x98B9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "or..."
+	},
+	{
+		"LABEL": "0x98D3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I closed my eyes again."
+	},
+	{
+		"LABEL": "0x98F9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――And just like that, I lost consciousness."
+	}
+]

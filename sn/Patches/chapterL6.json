@@ -1,0 +1,2570 @@
+[
+	{
+		"LABEL": "0x2C2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Heey! Tokiwa!」"
+	},
+	{
+		"LABEL": "0x2E2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "My voice aimlessly calling out for Tokiwa was sucked into the walls, dampening without reaching anyone."
+	},
+	{
+		"LABEL": "0x334",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was so quiet it felt like the waves had receded."
+	},
+	{
+		"LABEL": "0x362",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Damn it... I have no idea where Hiragino-sensei and Reiri went, either...」"
+	},
+	{
+		"LABEL": "0x3AA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Me muttering to myself wasn't involuntary at all."
+	},
+	{
+		"LABEL": "0x3E4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "This feeling of loneliness was getting unbearable."
+	},
+	{
+		"LABEL": "0x40C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I sounded like a little girl who was afraid of ghosts..."
+	},
+	{
+		"LABEL": "0x444",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Oh, right――"
+	},
+	{
+		"LABEL": "0x45C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「POL! Can you hear me?」"
+	},
+	{
+		"LABEL": "0x47F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I raised my voice in the hallway. There must be a POL receiver somewhere around here."
+	},
+	{
+		"LABEL": "0x4C4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I was sure if I called for it..."
+	},
+	{
+		"LABEL": "0x513",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【You called?】"
+	},
+	{
+		"LABEL": "0x533",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A calm, androgynous voice could be heard from who knows where."
+	},
+	{
+		"LABEL": "0x571",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "All right, POL was still operational."
+	},
+	{
+		"LABEL": "0x5A0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "With this thing that could see everything inside the <SHEEP III>, the search would be a piece of cake."
+	},
+	{
+		"LABEL": "0x5FF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「POL, do you know where Tokiwa is?」"
+	},
+	{
+		"LABEL": "0x630",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【Tokiwa?】"
+	},
+	{
+		"LABEL": "0x652",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Saihouji Tokiwa, a passenger. Look, she's a strange girl wearing a kimono.」"
+	},
+	{
+		"LABEL": "0x694",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【My apologies. I am prohibited from giving out personal information.】"
+	},
+	{
+		"LABEL": "0x6EE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Seriously...?」"
+	},
+	{
+		"LABEL": "0x70A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【Seriously.】"
+	},
+	{
+		"LABEL": "0x724",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x73E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "POL sounded apologetic."
+	},
+	{
+		"LABEL": "0x76B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Come to think of it, the crew couldn't tell the whereabouts of a passenger to anyone who wasn't their companion..."
+	},
+	{
+		"LABEL": "0x7D1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However, this was an abnormal situation."
+	},
+	{
+		"LABEL": "0x7F7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "POL should know by now that the rear section was submerged."
+	},
+	{
+		"LABEL": "0x844",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Did this mean that even if POL could pick up the information through its sensors, it didn't know what it meant?"
+	},
+	{
+		"LABEL": "0x90B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Geez... I guess this was as far as this state-of-the-art AI could go."
+	},
+	{
+		"LABEL": "0x951",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In unexpected situations, humans still held the advantage..."
+	},
+	{
+		"LABEL": "0x991",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We had the ability to dynamically interpret the meaning of each event we came across."
+	},
+	{
+		"LABEL": "0x9CB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However, in order to obtain the information needed to interpret it first,"
+	},
+	{
+		"LABEL": "0xA17",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "we had no choice but to walk on our own two feet."
+	},
+	{
+		"LABEL": "0xCCD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I briskly continued down the hallway."
+	},
+	{
+		"LABEL": "0xCF9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She could be in the lobby or in one of the rooms here..."
+	},
+	{
+		"LABEL": "0xD2F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I had left in such a hurry, but I guess all I could do now was look around everywhere."
+	},
+	{
+		"LABEL": "0xD7F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But still――"
+	},
+	{
+		"LABEL": "0xD9D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In a small ship like this,"
+	},
+	{
+		"LABEL": "0xDC1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "with our limited numbers,"
+	},
+	{
+		"LABEL": "0xDE3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "why was it so hard for us to stay together in one place?"
+	},
+	{
+		"LABEL": "0xE8C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Why...?」"
+	},
+	{
+		"LABEL": "0xEB2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I muttered to myself, this time without thinking."
+	},
+	{
+		"LABEL": "0xEDE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Why was it?"
+	},
+	{
+		"LABEL": "0xF04",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The communications were about to be restored―I wasn't saying that was the only guarantee we had."
+	},
+	{
+		"LABEL": "0xF52",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The components necessary for our escape were in sight. And yet, our goal was still far away."
+	},
+	{
+		"LABEL": "0xFFB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Why couldn't we escape?"
+	},
+	{
+		"LABEL": "0x1021",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I didn't know each individual reason."
+	},
+	{
+		"LABEL": "0x1047",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "This may be irrational, but here's what I think."
+	},
+	{
+		"LABEL": "0x107D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We couldn't return yet."
+	},
+	{
+		"LABEL": "0x10A1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Wasn't that how it was?"
+	},
+	{
+		"LABEL": "0x10CB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In other words, Reiri, Tokiwa, and perhaps everyone else too..."
+	},
+	{
+		"LABEL": "0x110F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "They were all holding onto something."
+	},
+	{
+		"LABEL": "0x112F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If we couldn't escape as we were..."
+	},
+	{
+		"LABEL": "0x11C0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If there are still obstacles somewhere――」"
+	},
+	{
+		"LABEL": "0x11F0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――I had no choice but to solve each and every one of them."
+	},
+	{
+		"LABEL": "0x1498",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "My first stop was the library."
+	},
+	{
+		"LABEL": "0x14C2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was the place where I'd been reunited with Tokiwa after the accident had occurred, and the rear section was submerged."
+	},
+	{
+		"LABEL": "0x150A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I remembered Tokiwa emerging from under the desk and bringing her back to everyone."
+	},
+	{
+		"LABEL": "0x15B5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However――"
+	},
+	{
+		"LABEL": "0x15CD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I crouched down and looked under the same desk, but there was no sign of the kimono-clad girl."
+	},
+	{
+		"LABEL": "0x188F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa seemed to adore Hiragino a lot..."
+	},
+	{
+		"LABEL": "0x18C5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Thinking back, it didn't seem like there had been any kind of trigger for it."
+	},
+	{
+		"LABEL": "0x1911",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "When things were more peaceful, she was so clingy that you could call her a stalker."
+	},
+	{
+		"LABEL": "0x1955",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I guess some people would feel envious, but after seeing how troubled Hiragino was by it..."
+	},
+	{
+		"LABEL": "0x19B9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The desk in the emergency room, and the bed."
+	},
+	{
+		"LABEL": "0x19DF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I took a quick look around, but there was no sign of anyone there."
+	},
+	{
+		"LABEL": "0x1A21",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hm...?」"
+	},
+	{
+		"LABEL": "0x1A3D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...What was with this strange feeling?"
+	},
+	{
+		"LABEL": "0x1A67",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There was something about how things were arranged here..."
+	},
+	{
+		"LABEL": "0x1A9B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However, I couldn't remember the exact placement of everything in the room in the first place."
+	},
+	{
+		"LABEL": "0x1AE3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Just my imagination, maybe?"
+	},
+	{
+		"LABEL": "0x1B66",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I left the emergency room without any evidence."
+	},
+	{
+		"LABEL": "0x1E31",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And then――"
+	},
+	{
+		"LABEL": "0x1E49",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Next up was the theater room."
+	},
+	{
+		"LABEL": "0x1E73",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The display that covered the entire surface of the room, which resembled a hemispherical planetarium, was showing the night sky."
+	},
+	{
+		"LABEL": "0x1ECF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "At the bottom of the sea, the night sky was recreated inside this cage."
+	},
+	{
+		"LABEL": "0x1EFF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A fleeting scene built upon countless people's ingenuity."
+	},
+	{
+		"LABEL": "0x1F41",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There, right under that sky, she stood."
+	},
+	{
+		"LABEL": "0x1F71",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Tokiwa...」"
+	},
+	{
+		"LABEL": "0x1FAD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I wasn't even calling out to her."
+	},
+	{
+		"LABEL": "0x1FD9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I could only marvel at the sight of the kimono-wearing girl standing under this beautiful artificial starry sky, as if it were a painting."
+	},
+	{
+		"LABEL": "0x204B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But even so, my quiet voice seemed to reach her."
+	},
+	{
+		"LABEL": "0x209A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――My father used to say...」"
+	},
+	{
+		"LABEL": "0x20C2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「\"Two things fill the mind with ever new and increasing admiration and awe, the more often and steadily we reflect upon them:"
+	},
+	{
+		"LABEL": "0x20FA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "the starry heavens above me and the moral law within me.\"」"
+	},
+	{
+		"LABEL": "0x2139",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa quoted the famous words of Kant."
+	},
+	{
+		"LABEL": "0x216F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Under the sky full of stars, she seemed to be mulling over each word."
+	},
+	{
+		"LABEL": "0x21AD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Not as a quote from Kant but as a remembrance of her father."
+	},
+	{
+		"LABEL": "0x21F3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Those words were not just a quote to her."
+	},
+	{
+		"LABEL": "0x222F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "With no context, I couldn't tell what the words meant to her."
+	},
+	{
+		"LABEL": "0x226B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I couldn't tell, but..."
+	},
+	{
+		"LABEL": "0x228B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Eventually, her tone changed, and she began to speak in a feeble voice."
+	},
+	{
+		"LABEL": "0x233B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...I've always been trying to do the \"right\" thing, I thought.」"
+	},
+	{
+		"LABEL": "0x2388",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x23B1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Science can save people.」"
+	},
+	{
+		"LABEL": "0x23D3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Thinking back on it now, it seems conceited of me, but at the time I truly thought so.」"
+	},
+	{
+		"LABEL": "0x2421",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Noblesse Oblige――I am a genius.」"
+	},
+	{
+		"LABEL": "0x245E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「And as a genius, I must help people. Science is the means to do that.」"
+	},
+	{
+		"LABEL": "0x24BD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x24E6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But, maybe I was wrong.」"
+	},
+	{
+		"LABEL": "0x2526",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Rather than helping...」"
+	},
+	{
+		"LABEL": "0x2548",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x25BF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Why did I make something like that?」"
+	},
+	{
+		"LABEL": "0x260C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa directed her question to the heavens."
+	},
+	{
+		"LABEL": "0x263E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was regret."
+	},
+	{
+		"LABEL": "0x265A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And, repentance."
+	},
+	{
+		"LABEL": "0x2676",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her emotionless eyes yearned for the stars."
+	},
+	{
+		"LABEL": "0x26A2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However, her feelings couldn't reach them――"
+	},
+	{
+		"LABEL": "0x26D0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The false stars continued to shine in silence, as if mocking the girl."
+	},
+	{
+		"LABEL": "0x272E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x2748",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...I don't know anything, but...」"
+	},
+	{
+		"LABEL": "0x2772",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「People have talked for a long time about the corruption and declining level of education in Japanese universities.」"
+	},
+	{
+		"LABEL": "0x27C0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I graduated with a degree, but the most I can do is some programming.」"
+	},
+	{
+		"LABEL": "0x281C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「As it turns out... I'm not even close to a high schooler like Reiri in that regard.」"
+	},
+	{
+		"LABEL": "0x286C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「And as you know... I keep making mistakes.」"
+	},
+	{
+		"LABEL": "0x28A6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I said I didn't think it would turn out this way, and I――」"
+	},
+	{
+		"LABEL": "0x2958",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...What are you trying to say?」"
+	},
+	{
+		"LABEL": "0x2989",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x29A3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I don't think I'll ever be able to understand everything that you're going through.」"
+	},
+	{
+		"LABEL": "0x29F9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「However... I've made a mountain of mistakes and failures that I can't take back.」"
+	},
+	{
+		"LABEL": "0x2A59",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If you want to talk to me, it might offer some relief.」"
+	},
+	{
+		"LABEL": "0x2A97",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm willing to listen.」"
+	},
+	{
+		"LABEL": "0x2AD4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x2B4B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Even if it's a long story?」"
+	},
+	{
+		"LABEL": "0x2B76",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa showed unusually honest concern."
+	},
+	{
+		"LABEL": "0x2BAC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I guess she wasn't aware that she was always talking about long-winded and meaningless things... Well, maybe not."
+	},
+	{
+		"LABEL": "0x2C0E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But at this moment, that was exactly what I wanted."
+	},
+	{
+		"LABEL": "0x2C3C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "When I nodded, Tokiwa smiled a little, and before long, she began to talk with narrowed eyes as if recalling the distant past."
+	},
+	{
+		"LABEL": "0x2CB3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「In the past, ROMLES approached me with a request――」"
+	},
+	{
+		"LABEL": "0x2CF1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「A question of whether marine life could be contained within a specific area without harming it.」"
+	},
+	{
+		"LABEL": "0x2D4E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x2D77",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It sounded simple, but it turned out to be a difficult problem.」"
+	},
+	{
+		"LABEL": "0x2DD1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「To use a metaphor, it was like asking me to verify the Abel-Ruffini theorem...」"
+	},
+	{
+		"LABEL": "0x2E29",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Even aquariums can't fulfill the requirement of \"not harming\" the creatures inside them.」"
+	},
+	{
+		"LABEL": "0x2E75",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Not to mention, they wanted to implement it in an open sea.」"
+	},
+	{
+		"LABEL": "0x2EC2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Trying to contain the fish swimming freely in the sea..."
+	},
+	{
+		"LABEL": "0x2F00",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "By \"not harming,\" did they mean that physical barriers were not an option?"
+	},
+	{
+		"LABEL": "0x2F50",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That was easy to say, but no matter how you looked at it, it went against the laws of nature."
+	},
+	{
+		"LABEL": "0x2F9C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I see. Contrary to how simple it was to imagine, you couldn't come up with a solution easily."
+	},
+	{
+		"LABEL": "0x306C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「They were barking up the wrong tree to begin with.」"
+	},
+	{
+		"LABEL": "0x309E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'd already been involved in some research and development,"
+	},
+	{
+		"LABEL": "0x30EC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "but I wasn't some renowned marine researcher.」"
+	},
+	{
+		"LABEL": "0x312E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Perhaps they came to me out of desperation,"
+	},
+	{
+		"LABEL": "0x3188",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "after being rejected by more prominent experts than myself.」"
+	},
+	{
+		"LABEL": "0x3229",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Given the situation, it was almost like an entreaty to God.」"
+	},
+	{
+		"LABEL": "0x3260",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa gave off a bitter smile."
+	},
+	{
+		"LABEL": "0x327E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Entreaty to God――"
+	},
+	{
+		"LABEL": "0x3296",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I shuddered at the weight of those words."
+	},
+	{
+		"LABEL": "0x32BE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It had been a request to a single girl from people who had no choice but to cling to God."
+	},
+	{
+		"LABEL": "0x330A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A few years ago, she would have still been in high school..."
+	},
+	{
+		"LABEL": "0x333C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There was no way that a young girl like her could bear a heavy responsibility like that."
+	},
+	{
+		"LABEL": "0x3402",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But for me, it was my duty to answer that impossible question.」"
+	},
+	{
+		"LABEL": "0x3452",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「So, what I referred to was...」"
+	},
+	{
+		"LABEL": "0x347C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――Bubble-net feeding.」"
+	},
+	{
+		"LABEL": "0x34B5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Bubble-net feeding...」"
+	},
+	{
+		"LABEL": "0x34E3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The hunting technique used by humpback whales that Tokiwa had explained earlier."
+	},
+	{
+		"LABEL": "0x353E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「By using air bubbles to surround the sea creatures, you might be able to contain them without harming them.」"
+	},
+	{
+		"LABEL": "0x35A8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「And... the <Isle of Wind> that I was working on at the time for another project,"
+	},
+	{
+		"LABEL": "0x366A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "just happened to be the perfect match for the task.」"
+	},
+	{
+		"LABEL": "0x36A5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The <Isle of Wind>."
+	},
+	{
+		"LABEL": "0x36BF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was a man-made island built in Kurama Bay after the Aqualine accident."
+	},
+	{
+		"LABEL": "0x3772",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A landmark that was now hailed as a symbol of technology. Sealed inside were the events of that disaster."
+	},
+	{
+		"LABEL": "0x37C4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was a white tombstone that would never let the memory of the accident be forgotten."
+	},
+	{
+		"LABEL": "0x381F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The fundamental concept of the <Isle of Wind> has nothing to do with wind power.」"
+	},
+	{
+		"LABEL": "0x3869",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The main focus was on the practical application of artificial photosynthesis to harness energy.」"
+	},
+	{
+		"LABEL": "0x38B6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I had read about that in the papers."
+	},
+	{
+		"LABEL": "0x38E6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "How many years ago was it that Tokiwa wrote that journal?"
+	},
+	{
+		"LABEL": "0x3938",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「ARPChem―the Artificial Photosynthesis Chemical Process Technology Research Association―was founded in 2012.」"
+	},
+	{
+		"LABEL": "0x3995",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「For the next ten years, the Ministry of Economy, Trade and Industry gave them a budget.」"
+	},
+	{
+		"LABEL": "0x39D7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「One day, my father invited me to a debriefing, and when I went to observe...」"
+	},
+	{
+		"LABEL": "0x3A29",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's when it occurred to me.」"
+	},
+	{
+		"LABEL": "0x3A57",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「By combining the energy of wind and wave power generators with photoelectromagnetic electrodes, which are infinitely beautiful,"
+	},
+	{
+		"LABEL": "0x3AB1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "it's possible to increase the energy conversion efficiency of artificial photosynthesis to 12%%...」"
+	},
+	{
+		"LABEL": "0x3B0E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x3B37",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But in doing so, not only are methane and other organic matter produced at the same time, but also oxygen.」"
+	},
+	{
+		"LABEL": "0x3B95",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I thought that you could create a bubble net with the oxygen produced in that process.」"
+	},
+	{
+		"LABEL": "0x3BF5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Not only that, but just by using oxygen,"
+	},
+	{
+		"LABEL": "0x3C39",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "we would be able to tackle the problem of the anoxic waters that are unique to Kurama Bay...」"
+	},
+	{
+		"LABEL": "0x3C8D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Well, that was just a bonus.」"
+	},
+	{
+		"LABEL": "0x3CC0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In other words,"
+	},
+	{
+		"LABEL": "0x3CE6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "if it was under the <Isle of Wind> in Kurama Bay,"
+	},
+	{
+		"LABEL": "0x3D76",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "isolating the area was possible――"
+	},
+	{
+		"LABEL": "0x3DFF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That plan...」"
+	},
+	{
+		"LABEL": "0x3E8B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I just thought...」"
+	},
+	{
+		"LABEL": "0x3EB7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I merely suggested that it could be possible that way.」"
+	},
+	{
+		"LABEL": "0x3EF1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Even if it wasn't in Kurama Bay, if we used a facility that worked the same way as the <Isle of Wind>, then...」"
+	},
+	{
+		"LABEL": "0x3F41",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I thought it was all over and done with...」"
+	},
+	{
+		"LABEL": "0x3F93",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――But...」"
+	},
+	{
+		"LABEL": "0x3FAF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I had no idea this was going to happen――!」"
+	},
+	{
+		"LABEL": "0x3FEE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her voice trembled."
+	},
+	{
+		"LABEL": "0x4018",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...Was she crying?"
+	},
+	{
+		"LABEL": "0x403C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Under the starry sky, I couldn't see Tokiwa's downcast face."
+	},
+	{
+		"LABEL": "0x4076",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However, there was something unusually emotional about her voice, which had always maintained a steady tone."
+	},
+	{
+		"LABEL": "0x40D0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...What happened?」"
+	},
+	{
+		"LABEL": "0x40FF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...I understood everything just now.」"
+	},
+	{
+		"LABEL": "0x4131",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What I've done...!」"
+	},
+	{
+		"LABEL": "0x416E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x41F4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It seems that the area ROMLES wanted to isolate was in this very Kurama Bay.」"
+	},
+	{
+		"LABEL": "0x424A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But, they didn't adopt my proposal as is...!」"
+	},
+	{
+		"LABEL": "0x4298",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What they were looking for wasn't a way to \"safely\" isolate the creatures.」"
+	},
+	{
+		"LABEL": "0x42EC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「They wanted to make sure absolutely no creatures would leave this area.」"
+	},
+	{
+		"LABEL": "0x433B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What do you mean...?」"
+	},
+	{
+		"LABEL": "0x4372",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What they've put in this sea is ozone―a cage of deadly poison.」"
+	},
+	{
+		"LABEL": "0x43BD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Wh――」"
+	},
+	{
+		"LABEL": "0x43D7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――Ozone."
+	},
+	{
+		"LABEL": "0x43F1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A gas with strong oxidizing properties used to kill various viruses and bacteria."
+	},
+	{
+		"LABEL": "0x4445",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If you used that to create a cage of bubbles, you'd be able to completely contain the marine life in the area..."
+	},
+	{
+		"LABEL": "0x44AE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If you think about it that way... everything makes sense.」"
+	},
+	{
+		"LABEL": "0x44E4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The cause of this accident, as well.」"
+	},
+	{
+		"LABEL": "0x450B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The cause...?」"
+	},
+	{
+		"LABEL": "0x452D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Come to think of it, Tokiwa did say it wasn't because of methane hydrate..."
+	},
+	{
+		"LABEL": "0x45E9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――Ozone explosion.」"
+	},
+	{
+		"LABEL": "0x460D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「High concentrations of ozone had somehow accumulated on the seafloor.」"
+	},
+	{
+		"LABEL": "0x464F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「High-density, low-purity ozone can cause an explosion if stimulated by an electrical discharge or otherwise.」"
+	},
+	{
+		"LABEL": "0x46BA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「So when the <SHEEP III> ran into it――」"
+	},
+	{
+		"LABEL": "0x4704",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...It's a hypothesis, but I think it's very plausible.」"
+	},
+	{
+		"LABEL": "0x4741",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa nodded to herself."
+	},
+	{
+		"LABEL": "0x47D3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I heard her explanation, but had something like that really happened...?"
+	},
+	{
+		"LABEL": "0x4813",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was so grandiose that it was hard to believe."
+	},
+	{
+		"LABEL": "0x48A0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Complete isolation of marine life in a specific area of the sea―it sounded insane, if anything."
+	},
+	{
+		"LABEL": "0x48FE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa's research results were astonishing, but even before that,"
+	},
+	{
+		"LABEL": "0x4942",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "there was something wrong with ROMLES for thinking about doing it in the first place."
+	},
+	{
+		"LABEL": "0x4988",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "ROMLES had asked Tokiwa to do such a reckless thing, as if putting their trust in God."
+	},
+	{
+		"LABEL": "0x49D6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What the hell were they――"
+	},
+	{
+		"LABEL": "0x4A51",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...What the hell did ROMLES want to contain so badly?」"
+	},
+	{
+		"LABEL": "0x4A9D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "They didn't want anything escaping this area."
+	},
+	{
+		"LABEL": "0x4ACF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "They were trying to contain something in these waters."
+	},
+	{
+		"LABEL": "0x4B03",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "For what reason did ROMLES have to go to these lengths, even operating in secret...?"
+	},
+	{
+		"LABEL": "0x4B5B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I had no idea."
+	},
+	{
+		"LABEL": "0x4B81",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa shook her head as well."
+	},
+	{
+		"LABEL": "0x4C1B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...I wasn't informed about the purpose.」"
+	},
+	{
+		"LABEL": "0x4C59",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「In the first place, I was asked to do it through my father... I don't know if even he knew what they were up to...」"
+	},
+	{
+		"LABEL": "0x4CBC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I see...」"
+	},
+	{
+		"LABEL": "0x4D44",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Nevertheless...」"
+	},
+	{
+		"LABEL": "0x4D62",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I should've been responsible for the purpose as well...!」"
+	},
+	{
+		"LABEL": "0x4DAF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x4DD8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I've done a terrible thing.」"
+	},
+	{
+		"LABEL": "0x4E10",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm sure the ozone has already killed many innocent creatures...」"
+	},
+	{
+		"LABEL": "0x4E56",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Not only that, but this accident has taken the lives of many more...」"
+	},
+	{
+		"LABEL": "0x4EA9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...But, that was something you didn't know――」"
+	},
+	{
+		"LABEL": "0x4F74",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I could have found out!!」"
+	},
+	{
+		"LABEL": "0x4FA8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "When I tried to comfort her, she deflected my arm and raised her voice."
+	},
+	{
+		"LABEL": "0x4FE6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her eyes were wider than ever."
+	},
+	{
+		"LABEL": "0x5012",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She was looking straight at me as if trying to pierce me with her true feelings."
+	},
+	{
+		"LABEL": "0x5066",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Seeing her wide-open eyes, I flinched."
+	},
+	{
+		"LABEL": "0x5096",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa repeated herself."
+	},
+	{
+		"LABEL": "0x5122",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I could have found out...」"
+	},
+	{
+		"LABEL": "0x514E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I just didn't want to know.」"
+	},
+	{
+		"LABEL": "0x5184",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I should have thought harder about it.」"
+	},
+	{
+		"LABEL": "0x51BA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But I failed to do so... There was no sense of responsibility, nothing. I was just a fool.」"
+	},
+	{
+		"LABEL": "0x520D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Tokiwa...」"
+	},
+	{
+		"LABEL": "0x5238",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「ROMLES must have asked me to do it because they knew I wouldn't look into it.」"
+	},
+	{
+		"LABEL": "0x529A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Like a device that automatically spits out an answer when you input a question.」"
+	},
+	{
+		"LABEL": "0x52DC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「A puppet who gets used by the adults and is proud of it...」"
+	},
+	{
+		"LABEL": "0x5335",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Don't say that――」"
+	},
+	{
+		"LABEL": "0x5366",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm not a machine!」"
+	},
+	{
+		"LABEL": "0x53AE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「My... inner moral code...!」"
+	},
+	{
+		"LABEL": "0x53E7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Quietly, tears began to run down her cheeks."
+	},
+	{
+		"LABEL": "0x540F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her eyes wavered."
+	},
+	{
+		"LABEL": "0x5427",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But eventually, as if giving up, she wiped her eyes and whispered in a low voice."
+	},
+	{
+		"LABEL": "0x5478",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Maybe I don't possess a human heart.」"
+	},
+	{
+		"LABEL": "0x54C1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What are you――」"
+	},
+	{
+		"LABEL": "0x54EA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I've been told that for a long time.」"
+	},
+	{
+		"LABEL": "0x5517",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "With her eyes still dark, Tokiwa spat out those words like she had given up on something."
+	},
+	{
+		"LABEL": "0x55CD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I've been told that for a long time.」"
+	},
+	{
+		"LABEL": "0x55F5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That I might be smart, sure, but there's something greater missing.」"
+	},
+	{
+		"LABEL": "0x563B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That I have a major personality problem.」"
+	},
+	{
+		"LABEL": "0x566E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's just the resentment of people who don't have what you do.」"
+	},
+	{
+		"LABEL": "0x56AA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「There's no need to pay them any mind――」"
+	},
+	{
+		"LABEL": "0x56EF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I thought the same thing.」"
+	},
+	{
+		"LABEL": "0x571F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But, it's no use at that point. I'm disqualified. As a person.」"
+	},
+	{
+		"LABEL": "0x576C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x5795",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I couldn't find out what I was missing.」"
+	},
+	{
+		"LABEL": "0x57DF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's only now that I realize I've been used as a machine...」"
+	},
+	{
+		"LABEL": "0x5831",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「After all, I――」"
+	},
+	{
+		"LABEL": "0x58BB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Shut up.」"
+	},
+	{
+		"LABEL": "0x58D5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A low voice slipped out of my mouth."
+	},
+	{
+		"LABEL": "0x58FB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa, who was talking on the verge of tears like she was desperate for an answer, suddenly fell silent."
+	},
+	{
+		"LABEL": "0x5953",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I was surprised myself."
+	},
+	{
+		"LABEL": "0x5981",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I couldn't believe the words coming out of my mouth."
+	},
+	{
+		"LABEL": "0x59BF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However, there was no mistaking what I was thinking deep inside."
+	},
+	{
+		"LABEL": "0x5A01",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I didn't want to hear any more self-deprecating words from Tokiwa's mouth."
+	},
+	{
+		"LABEL": "0x5B06",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Tokiwa, I don't presume to know how you feel, but...」"
+	},
+	{
+		"LABEL": "0x5B46",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I don't think of you as a machine.」"
+	},
+	{
+		"LABEL": "0x5B80",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You don't possess a human heart? Bullshit.」"
+	},
+	{
+		"LABEL": "0x5BD5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But I really don't understand...」"
+	},
+	{
+		"LABEL": "0x5C03",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「People's hearts――」"
+	},
+	{
+		"LABEL": "0x5C93",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「There's no one who does!」"
+	},
+	{
+		"LABEL": "0x5CC7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I rebuked Tokiwa, who was still condemning herself."
+	},
+	{
+		"LABEL": "0x5CF3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But, the light in her eyes was still dark and focused on a single point."
+	},
+	{
+		"LABEL": "0x5D2F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "My words didn't reach her... No, she had no intention of accepting them."
+	},
+	{
+		"LABEL": "0x5D7F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What a stupid... Yeah, you sure are an idiot."
+	},
+	{
+		"LABEL": "0x5DB7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "You don't understand anything――"
+	},
+	{
+		"LABEL": "0x5DD9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「No one can understand it. No one can know what's in people's hearts.」"
+	},
+	{
+		"LABEL": "0x5E0B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Even so, everyone's trying their best in their personal relationships.」"
+	},
+	{
+		"LABEL": "0x5E4D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I don't know what you've been told in the past but don't run away over something like that.」"
+	},
+	{
+		"LABEL": "0x5F07",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...I'm not running away.」"
+	},
+	{
+		"LABEL": "0x5F40",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You are.」"
+	},
+	{
+		"LABEL": "0x5F5A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「By telling yourself that you're lacking something,"
+	},
+	{
+		"LABEL": "0x5F9C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "you're running away from what you should be able to do, what you couldn't do, and what you can make up for.」"
+	},
+	{
+		"LABEL": "0x5FFF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――But, there's no making up for it now!」"
+	},
+	{
+		"LABEL": "0x6047",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Just thinking of all the inventions I've made, all the research I've done, and what it will lead to...」"
+	},
+	{
+		"LABEL": "0x60AF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I... I've already made a mistake that I can't take back.」"
+	},
+	{
+		"LABEL": "0x60FD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Knowing that, what am I supposed to do?」"
+	},
+	{
+		"LABEL": "0x614D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「There's nothing you can do to change it now!」"
+	},
+	{
+		"LABEL": "0x6192",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As I lashed out, Tokiwa's face contorted as if she were about to burst into tears."
+	},
+	{
+		"LABEL": "0x61D8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her face looked like that of a child throwing a tantrum,"
+	},
+	{
+		"LABEL": "0x6212",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "much younger than one would expect from her normally aloof appearance."
+	},
+	{
+		"LABEL": "0x62AF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yes―Tokiwa was childish."
+	},
+	{
+		"LABEL": "0x62D3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She was still a teenage girl, of course, but it was beyond that."
+	},
+	{
+		"LABEL": "0x6323",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However, she was definitely not a defect."
+	},
+	{
+		"LABEL": "0x6359",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She just didn't know it yet."
+	},
+	{
+		"LABEL": "0x642C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Tokiwa.」"
+	},
+	{
+		"LABEL": "0x6444",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「There's no mistake you can't make up for.」"
+	},
+	{
+		"LABEL": "0x6487",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You're just saying that...」"
+	},
+	{
+		"LABEL": "0x64AC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm not.」"
+	},
+	{
+		"LABEL": "0x64D2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「We may not be able to get back what we lost, but we can do what we can to not lose any more.」"
+	},
+	{
+		"LABEL": "0x652C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That can only be done by those who have lost something.」"
+	},
+	{
+		"LABEL": "0x656C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's how you make up for your mistakes. No matter how long it takes.」"
+	},
+	{
+		"LABEL": "0x65BE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Or, are you going to irresponsibly repeat the same mistakes, saying they cannot be undone?」"
+	},
+	{
+		"LABEL": "0x668A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x66A4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Is it okay for me to make a mistake?」"
+	},
+	{
+		"LABEL": "0x66E1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was an infinitely pure question."
+	},
+	{
+		"LABEL": "0x6711",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa looked at me with strained eyebrows, like she was holding something back."
+	},
+	{
+		"LABEL": "0x676C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I don't want to make mistakes. No, I can't make mistakes...」"
+	},
+	{
+		"LABEL": "0x67B8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I thought that continuing to answer an endless stream of questions was the reason for my existence...」"
+	},
+	{
+		"LABEL": "0x6816",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Otherwise, I'd be worthless――」"
+	},
+	{
+		"LABEL": "0x6859",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「People make mistakes. We all do. We say we won't make the same mistake twice, but even that's not perfect.」"
+	},
+	{
+		"LABEL": "0x68C3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The same goes for you. Tokiwa, you're not a machine.」"
+	},
+	{
+		"LABEL": "0x6910",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Then, I...」"
+	},
+	{
+		"LABEL": "0x6995",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Am I allowed to cry?」"
+	},
+	{
+		"LABEL": "0x69E8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The bursting point came soon after."
+	},
+	{
+		"LABEL": "0x6A12",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The door to the theater room was closed."
+	},
+	{
+		"LABEL": "0x6A40",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "This facility was soundproof, most likely."
+	},
+	{
+		"LABEL": "0x6A86",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I caught the loudly crying Tokiwa on my chest."
+	},
+	{
+		"LABEL": "0x6AC9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――――!」"
+	},
+	{
+		"LABEL": "0x6AEA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was always hard to tell her true feelings when she acted so wildly and said things at her own pace."
+	},
+	{
+		"LABEL": "0x6B34",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And so, while she was shunned, she was also relied upon in times of emergency."
+	},
+	{
+		"LABEL": "0x6B72",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "From software to hardware, she continued to meet our expectations with her extensive knowledge and ideas."
+	},
+	{
+		"LABEL": "0x6BBE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I was sure that wasn't the case just here, either."
+	},
+	{
+		"LABEL": "0x6BF4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She must have played that role many times during her life."
+	},
+	{
+		"LABEL": "0x6C99",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Detached―the role of the girl genius."
+	},
+	{
+		"LABEL": "0x6CC9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That was her fate... She would gain and lose things from it, but she couldn't avoid it."
+	},
+	{
+		"LABEL": "0x6D31",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She was never allowed to err or regret."
+	},
+	{
+		"LABEL": "0x6DD4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――What a violation of humanity."
+	},
+	{
+		"LABEL": "0x6DFA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Doing that to a girl who wasn't even 20 years old..."
+	},
+	{
+		"LABEL": "0x6E47",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――――!」"
+	},
+	{
+		"LABEL": "0x6E68",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa cried."
+	},
+	{
+		"LABEL": "0x6E8C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I hugged her, but I had no words to say to her."
+	},
+	{
+		"LABEL": "0x6ED8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "These thoughts would be cliched if put into words."
+	},
+	{
+		"LABEL": "0x6F0A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Instead, I tightened my arms around her."
+	},
+	{
+		"LABEL": "0x6F3C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa's arms trembled in response."
+	},
+	{
+		"LABEL": "0x6F6E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "My unspoken thoughts must have made it through to her."
+	},
+	{
+		"LABEL": "0x6FBE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She was neither a machine nor a doll."
+	},
+	{
+		"LABEL": "0x7047",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She was just a girl――"
+	},
+	{
+		"LABEL": "0x739B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...I'm sorry for all the trouble.」"
+	},
+	{
+		"LABEL": "0x73CE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It was no trouble at all.」"
+	},
+	{
+		"LABEL": "0x7460",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Well then, thank you very much.」"
+	},
+	{
+		"LABEL": "0x749B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa bowed her head laudably."
+	},
+	{
+		"LABEL": "0x74C1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her eyes were red after she rubbed them."
+	},
+	{
+		"LABEL": "0x74E1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa didn't seem to be bothered by any of this,"
+	},
+	{
+		"LABEL": "0x7513",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "but perhaps because I'd just seen her crying, I felt a bit embarrassed as she looked at me with that expression."
+	},
+	{
+		"LABEL": "0x7590",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「After crying this much,"
+	},
+	{
+		"LABEL": "0x75C8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I've made a decision.」"
+	},
+	{
+		"LABEL": "0x7603",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x7689",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Noblesse Oblige――I am a genius.」"
+	},
+	{
+		"LABEL": "0x76C6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If those around me wish for me to be like that, then I will fulfill my role.」"
+	},
+	{
+		"LABEL": "0x7721",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But, what about...」"
+	},
+	{
+		"LABEL": "0x7758",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...And, even if I make mistakes...」"
+	},
+	{
+		"LABEL": "0x7790",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I can keep on living with the stars as my guide.」"
+	},
+	{
+		"LABEL": "0x77F1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa looked up at the false starry sky."
+	},
+	{
+		"LABEL": "0x781B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her tragic determination stung my heart."
+	},
+	{
+		"LABEL": "0x7845",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa was trying to overcome her own mistakes."
+	},
+	{
+		"LABEL": "0x7885",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Would I... be able to walk forward again in search of the right thing?"
+	},
+	{
+		"LABEL": "0x78CB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No..."
+	},
+	{
+		"LABEL": "0x78E5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I had no choice but to start walking again――"
+	},
+	{
+		"LABEL": "0x7919",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Yeah.」"
+	},
+	{
+		"LABEL": "0x7933",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The stars―the constellations...」"
+	},
+	{
+		"LABEL": "0x7953",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「They've been humanity's compass for a long time.」"
+	},
+	{
+		"LABEL": "0x79E2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In this vast sea, in the dark with no clues..."
+	},
+	{
+		"LABEL": "0x7A1A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...The stars remained as our only guide."
+	},
+	{
+		"LABEL": "0x7A4E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I looked up at the sphere and gazed at the stars."
+	},
+	{
+		"LABEL": "0x7A78",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Even if this was just a temporary night sky,"
+	},
+	{
+		"LABEL": "0x7AA0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I was certain that the stars twinkling light would show us the way forward."
+	},
+	{
+		"LABEL": "0x7ADE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I was certain..."
+	},
+	{
+		"LABEL": "0x7B0D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Hm?」"
+	},
+	{
+		"LABEL": "0x7B29",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「This planetarium is wrong.」"
+	},
+	{
+		"LABEL": "0x7B64",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Wrong how...?」"
+	},
+	{
+		"LABEL": "0x7B8A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Just as I was about to ask what she meant, I followed her gaze..."
+	},
+	{
+		"LABEL": "0x7BC2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...And immediately noticed it myself."
+	},
+	{
+		"LABEL": "0x7BF4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――Orion was visible."
+	},
+	{
+		"LABEL": "0x7C1A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Gemini and Taurus, too."
+	},
+	{
+		"LABEL": "0x7C3C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Looks like the settings are wrong.」"
+	},
+	{
+		"LABEL": "0x7C64",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's the middle of summer right now, but isn't this a winter sky?」"
+	},
+	{
+		"LABEL": "0x7CAB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Huh?」"
+	},
+	{
+		"LABEL": "0x7CC1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Oh, no, that's true, but...」"
+	},
+	{
+		"LABEL": "0x7CF5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Those constellations――」"
+	},
+	{
+		"LABEL": "0x7D1B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Orion isn't complete.」"
+	},
+	{
+		"LABEL": "0x7D5A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Huh?」"
+	},
+	{
+		"LABEL": "0x7D70",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What the hell was she talking about?"
+	},
+	{
+		"LABEL": "0x7DA0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa raised her hand and pointed to Orion as I was lost in confusion."
+	},
+	{
+		"LABEL": "0x7DFF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Look, Betelgeuse――」"
+	},
+	{
+		"LABEL": "0x7E2E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yeah, but what about it――」"
+	},
+	{
+		"LABEL": "0x7E56",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...I stopped myself mid-sentence."
+	},
+	{
+		"LABEL": "0x7E7E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Could it be...? But was that even possible?"
+	},
+	{
+		"LABEL": "0x7EC0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Now was the only time to make sure."
+	},
+	{
+		"LABEL": "0x7F97",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Hey, Tokiwa.」"
+	},
+	{
+		"LABEL": "0x7FB9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Do you know what the \"Fourth Day\" is?」"
+	},
+	{
+		"LABEL": "0x7FF8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Huh?」"
+	},
+	{
+		"LABEL": "0x8013",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She tilted her head at my sudden question."
+	},
+	{
+		"LABEL": "0x803F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "After seemingly thinking for a while, Tokiwa answered with confidence."
+	},
+	{
+		"LABEL": "0x80F7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Something from the Bible?」"
+	},
+	{
+		"LABEL": "0x81E7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――――」"
+	},
+	{
+		"LABEL": "0x8201",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I knew it... But how?!"
+	},
+	{
+		"LABEL": "0x8229",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Intense discomfort washed over me."
+	},
+	{
+		"LABEL": "0x8245",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Fear of an overwhelming abnormality."
+	},
+	{
+		"LABEL": "0x8277",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I suppressed my emotions and turned away from Tokiwa so that she wouldn't realize my shock."
+	},
+	{
+		"LABEL": "0x8374",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...No, it's nothing.」"
+	},
+	{
+		"LABEL": "0x8406",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Huh... You're being weird, Katagiri-san.」"
+	},
+	{
+		"LABEL": "0x8437",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa yawned. She was already back to her usual self."
+	},
+	{
+		"LABEL": "0x8485",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Okay... It should be fine now."
+	},
+	{
+		"LABEL": "0x84AD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Tokiwa.」"
+	},
+	{
+		"LABEL": "0x84C5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Let's go back to the others.」"
+	},
+	{
+		"LABEL": "0x8559",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yes, let's.」"
+	},
+	{
+		"LABEL": "0x858E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa gripped the hand I had instinctively extended toward her."
+	},
+	{
+		"LABEL": "0x85C2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I instantly felt embarrassed but didn't let go."
+	},
+	{
+		"LABEL": "0x8600",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "One by one, we were regaining our connections."
+	},
+	{
+		"LABEL": "0x8636",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Like weaving a broken chain back together."
+	},
+	{
+		"LABEL": "0x866A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And so, the two of us started walking forward, side by side."
+	}
+]

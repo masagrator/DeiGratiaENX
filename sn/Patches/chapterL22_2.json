@@ -1,0 +1,926 @@
+[
+	{
+		"LABEL": "0x126",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Good work.」"
+	},
+	{
+		"LABEL": "0x149",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yeah...」"
+	},
+	{
+		"LABEL": "0x163",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "My work was done――"
+	},
+	{
+		"LABEL": "0x19D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And just as I was about to take a breather..."
+	},
+	{
+		"LABEL": "0x1E8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There was the sound of a door opening."
+	},
+	{
+		"LABEL": "0x213",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Everyone――」"
+	},
+	{
+		"LABEL": "0x234",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino's voice blew away all my fatigue at once."
+	},
+	{
+		"LABEL": "0x268",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Had Hikari woken up...?"
+	},
+	{
+		"LABEL": "0x28A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I immediately stood up and tried to enter the treatment room but was blocked by Hiragino with his arms spread wide."
+	},
+	{
+		"LABEL": "0x352",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Wait, wait, don't rush.」"
+	},
+	{
+		"LABEL": "0x3D1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Put this on, just in case.」"
+	},
+	{
+		"LABEL": "0x3FC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino handed me a plastic mask and gloves."
+	},
+	{
+		"LABEL": "0x42E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Did I really need these at this point? I guess I should obey him since this was the emergency room."
+	},
+	{
+		"LABEL": "0x49C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I quickly put on the gloves and mask, and Hiragino invited me into the treatment room."
+	},
+	{
+		"LABEL": "0x556",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There――"
+	},
+	{
+		"LABEL": "0x56E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――On the bed."
+	},
+	{
+		"LABEL": "0x58E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The girl in white had her eyes slightly open."
+	},
+	{
+		"LABEL": "0x61F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa was kneeling beside her."
+	},
+	{
+		"LABEL": "0x658",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Do you understand, Rumi-chan?」"
+	},
+	{
+		"LABEL": "0x682",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's your sister...」"
+	},
+	{
+		"LABEL": "0x6B5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Nee...san?」"
+	},
+	{
+		"LABEL": "0x6DE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hikari still looked dazed and unaware."
+	},
+	{
+		"LABEL": "0x716",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Thank goodness..."
+	},
+	{
+		"LABEL": "0x73A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "While she had been breathing in her sleep, so I knew she was alive,"
+	},
+	{
+		"LABEL": "0x78E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "seeing her awake like this made me feel at ease."
+	},
+	{
+		"LABEL": "0x7EC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She let out a quiet sigh with her eyes still half-closed."
+	},
+	{
+		"LABEL": "0x847",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Was that a dream?」"
+	},
+	{
+		"LABEL": "0x86F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It felt like... I was surrounded by a beautiful light.」"
+	},
+	{
+		"LABEL": "0x8A1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I think I saw something like that.」"
+	},
+	{
+		"LABEL": "0x8D2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hikari began to talk in a small voice."
+	},
+	{
+		"LABEL": "0x8FE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Holding her chest, she spoke slowly as if trying to remember something."
+	},
+	{
+		"LABEL": "0x95D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「When I woke up... No one was there.」"
+	},
+	{
+		"LABEL": "0x98D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「So, I went to the window.」"
+	},
+	{
+		"LABEL": "0x9B9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I looked out the window and...」"
+	},
+	{
+		"LABEL": "0x9DD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――There was a mermaid.」"
+	},
+	{
+		"LABEL": "0xA04",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "With that, Hikari smiled at Tokiwa."
+	},
+	{
+		"LABEL": "0xA42",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A mermaid, huh?"
+	},
+	{
+		"LABEL": "0xA5C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What kind of a metaphor was that supposed to be?"
+	},
+	{
+		"LABEL": "0xA8A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I couldn't help but think about it."
+	},
+	{
+		"LABEL": "0xAC5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Did the mermaid say anything?」"
+	},
+	{
+		"LABEL": "0xAFA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa asked her gently. She seemed to be acting like a proper older sister."
+	},
+	{
+		"LABEL": "0xB5E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa... I could feel myself getting moved."
+	},
+	{
+		"LABEL": "0xB90",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hikari nodded back quietly――"
+	},
+	{
+		"LABEL": "0xC2C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「\"Humans are the kindest creatures in the world.\"」"
+	},
+	{
+		"LABEL": "0xC6A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――That's what she said.」"
+	},
+	{
+		"LABEL": "0xC93",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hikari smiled even brighter while saying that."
+	},
+	{
+		"LABEL": "0xCC1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her unclouded smile struck a chord in my guilt-ridden heart――"
+	},
+	{
+		"LABEL": "0xD0F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As a carrier of <Alice>, she'd been kept alive while still infected."
+	},
+	{
+		"LABEL": "0xD5D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "On the other hand, her sister, Tokiwa, was given gene therapy to make use of her brain."
+	},
+	{
+		"LABEL": "0xDB5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "These girls―both of them―were kept alive for the convenience of adults."
+	},
+	{
+		"LABEL": "0xDF7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It wasn't according to their will, they weren't informed of anything, and they were simply made to live as tools."
+	},
+	{
+		"LABEL": "0xE4B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "How were they able to remain so innocent?"
+	},
+	{
+		"LABEL": "0xE8B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Or perhaps... they had to remain innocent."
+	},
+	{
+		"LABEL": "0xED3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "At the bottom of this dark sea, her pure white appearance was almost painful."
+	},
+	{
+		"LABEL": "0xF89",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That mermaid――」"
+	},
+	{
+		"LABEL": "0xFA7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I think it was the second time we'd met.」"
+	},
+	{
+		"LABEL": "0xFE3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm sure the mermaid wanted to be human.」"
+	},
+	{
+		"LABEL": "0x1015",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「To do that, she has to go to the surface――」"
+	},
+	{
+		"LABEL": "0x1058",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The fairy tale of a mermaid princess――"
+	},
+	{
+		"LABEL": "0x107C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She had to become a human in order to go up to the surface."
+	},
+	{
+		"LABEL": "0x10B0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However, in reality, other organisms had gone up to the surface first."
+	},
+	{
+		"LABEL": "0x10F4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "They went up to the surface, saw the wide world, and evolved."
+	},
+	{
+		"LABEL": "0x1140",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Their goal wasn't to become human."
+	},
+	{
+		"LABEL": "0x1170",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But as a result, we have this world inhabited by humans."
+	},
+	{
+		"LABEL": "0x11C7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Rumi-chan, listen carefully.」"
+	},
+	{
+		"LABEL": "0x11F7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You're going to go up to the surface now.」"
+	},
+	{
+		"LABEL": "0x1238",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The surface?」"
+	},
+	{
+		"LABEL": "0x12B4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hikari looked around restlessly."
+	},
+	{
+		"LABEL": "0x13E3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Ah――」"
+	},
+	{
+		"LABEL": "0x1400",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I felt like my eyes met hers."
+	},
+	{
+		"LABEL": "0x142E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She clapped her hands together, then turned back to Tokiwa."
+	},
+	{
+		"LABEL": "0x1533",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Come to think of it, I was on the <SHEEP III>.」"
+	},
+	{
+		"LABEL": "0x1570",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I caused a lot of trouble for a lot of people...」"
+	},
+	{
+		"LABEL": "0x15C3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Did you see the sea?」"
+	},
+	{
+		"LABEL": "0x1657",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The sea?」"
+	},
+	{
+		"LABEL": "0x1672",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hikari tilted her head in confusion."
+	},
+	{
+		"LABEL": "0x170A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The sea is what you wanted to see, wasn't it?」"
+	},
+	{
+		"LABEL": "0x174F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「More than the sea...」"
+	},
+	{
+		"LABEL": "0x17CC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm glad I met you, Onee-san.」"
+	},
+	{
+		"LABEL": "0x1843",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She squeezed Tokiwa's hand."
+	},
+	{
+		"LABEL": "0x1875",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa squeezed hers in return."
+	},
+	{
+		"LABEL": "0x1893",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Finally able to talk with each other, the sisters continued holding each other's hands wordlessly."
+	},
+	{
+		"LABEL": "0x18DD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If only this scene could go on forever――"
+	},
+	{
+		"LABEL": "0x1911",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However, our time limit was approaching."
+	},
+	{
+		"LABEL": "0x1950",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Tokiwa-san.」"
+	},
+	{
+		"LABEL": "0x19DC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――Yes, I know.」"
+	},
+	{
+		"LABEL": "0x1A15",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Even though we just met...」"
+	},
+	{
+		"LABEL": "0x1A39",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Is this goodbye already?」"
+	},
+	{
+		"LABEL": "0x1A66",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hikari asked reluctantly."
+	},
+	{
+		"LABEL": "0x1A8C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa stood up and spoke to her as gently as she could."
+	},
+	{
+		"LABEL": "0x1B95",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It'll be fine.」"
+	},
+	{
+		"LABEL": "0x1BAD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'll catch up with you later.」"
+	},
+	{
+		"LABEL": "0x1BDD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I promise.」"
+	},
+	{
+		"LABEL": "0x1BF7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Has your sister ever broken a promise?」"
+	},
+	{
+		"LABEL": "0x1C9B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "After thinking for a moment, Hikari lowered her head to the side."
+	},
+	{
+		"LABEL": "0x1CCF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The way she acted made her seem so childish..."
+	},
+	{
+		"LABEL": "0x1D01",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Physically she looked young already, but due to <Alice>, her heart seemed even younger."
+	},
+	{
+		"LABEL": "0x1D5D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "ROMLES had imprisoned an innocent girl who didn't know right from wrong, whether people were being honest or not――"
+	},
+	{
+		"LABEL": "0x1DC5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She had to be protected."
+	},
+	{
+		"LABEL": "0x1DEB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We had to get her to the surface, no matter what."
+	},
+	{
+		"LABEL": "0x1E68",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Then let's get going.」"
+	},
+	{
+		"LABEL": "0x1E9B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We managed to get Hikari, who was unsteady on her feet, to stand up and move her to the diving suit."
+	},
+	{
+		"LABEL": "0x1EF9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We put the diving suit on her, which had its weights removed earlier..."
+	},
+	{
+		"LABEL": "0x1F35",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Or rather, we put Hikari inside the diving suit."
+	},
+	{
+		"LABEL": "0x1F6D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Against the spacious diving suit, her slender body looked too small."
+	},
+	{
+		"LABEL": "0x1FBD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Not only was she small, she didn't seem to have any muscles at all, probably due to being asleep for so long."
+	},
+	{
+		"LABEL": "0x2025",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If she wasn't careful, she could probably slip her arms into the torso section."
+	},
+	{
+		"LABEL": "0x2075",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She had the diving suit on, but it wasn't like she could walk around in it."
+	},
+	{
+		"LABEL": "0x211D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's right, I mustn't forget.」"
+	},
+	{
+		"LABEL": "0x214E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino put a triage tag on Hikari's finger and flipped the switch."
+	},
+	{
+		"LABEL": "0x2198",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That signal would probably lead her to survival."
+	},
+	{
+		"LABEL": "0x2240",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I hope your stamina lasts...」"
+	},
+	{
+		"LABEL": "0x2271",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino muttered worriedly."
+	},
+	{
+		"LABEL": "0x22A2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'll be fine.」"
+	},
+	{
+		"LABEL": "0x22C7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hikari responded through the glass of her diving suit."
+	},
+	{
+		"LABEL": "0x22F5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...Her voice was somewhat uneasy, but she looked healthy enough with her loose smile."
+	},
+	{
+		"LABEL": "0x2375",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino and I carried her in her diving suit into the pressurization room."
+	},
+	{
+		"LABEL": "0x23C7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We also brought the other diving suit into the cramped pressurization room and fastened them with the wires we'd procured from the warehouse."
+	},
+	{
+		"LABEL": "0x2429",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Does it hurt?」"
+	},
+	{
+		"LABEL": "0x2458",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Not one bit.」"
+	},
+	{
+		"LABEL": "0x247D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I believed her words."
+	},
+	{
+		"LABEL": "0x24A3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Just as I was about to close the door to the pressurization room..."
+	},
+	{
+		"LABEL": "0x24E2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Rumi-chan!」"
+	},
+	{
+		"LABEL": "0x2505",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa rushed inside."
+	},
+	{
+		"LABEL": "0x252D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Through her diving suit, their eyes met."
+	},
+	{
+		"LABEL": "0x25CD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'll be right with you.」"
+	},
+	{
+		"LABEL": "0x264E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Good luck.」"
+	},
+	{
+		"LABEL": "0x2675",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hikari smiled silently."
+	},
+	{
+		"LABEL": "0x2712",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And then, the pressurization room was closed."
+	},
+	{
+		"LABEL": "0x2740",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Water began pouring in immediately."
+	},
+	{
+		"LABEL": "0x2764",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa watched on without moving an inch, not being able to do anything else."
+	},
+	{
+		"LABEL": "0x27B0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Finally, once the water was poured,"
+	},
+	{
+		"LABEL": "0x27D6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hikari"
+	},
+	{
+		"LABEL": "0x27EC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "embarked for the surface――"
+	},
+	{
+		"LABEL": "0x2A84",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "After finishing our first operation,"
+	},
+	{
+		"LABEL": "0x2AA8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "the <SHEEP III> had a relaxed atmosphere about it."
+	},
+	{
+		"LABEL": "0x2AFE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「She was found infected by <Alice> on a beach.」"
+	},
+	{
+		"LABEL": "0x2C39",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Reiri had been the one who brought Hikari into the <SHEEP III>."
+	},
+	{
+		"LABEL": "0x2C7C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She spoke to no one in particular inside the emergency room."
+	},
+	{
+		"LABEL": "0x2D20",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「At the time, she said she saw a mermaid.」"
+	},
+	{
+		"LABEL": "0x2D64",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「As you know, <Alice's> natural host has yet to be discovered.」"
+	},
+	{
+		"LABEL": "0x2DAE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「In which case, one could think of it this way...」"
+	},
+	{
+		"LABEL": "0x2DEC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That maybe there really was a mermaid in these waters――」"
+	},
+	{
+		"LABEL": "0x2E7D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...As if.」"
+	},
+	{
+		"LABEL": "0x2E9B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「She must have mistaken a whale for one or something.」"
+	},
+	{
+		"LABEL": "0x2EEC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The mermaid that the girl in white said she saw――"
+	},
+	{
+		"LABEL": "0x2F18",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Was it really just a dream?"
+	},
+	{
+		"LABEL": "0x2F3E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Or, had she seen a whale or something crossing the side of the ship the moment she happened to wake up?"
+	},
+	{
+		"LABEL": "0x2F9E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Was it a fantasy born from a fairy tale she'd read as a child mixing with reality?"
+	},
+	{
+		"LABEL": "0x2FEC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I didn't know what the truth was."
+	},
+	{
+		"LABEL": "0x3078",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――I didn't know, but..."
+	},
+	{
+		"LABEL": "0x309C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "At this moment."
+	},
+	{
+		"LABEL": "0x30B2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Anything could be out there in this sea."
+	},
+	{
+		"LABEL": "0x30E6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "So, I felt like I could believe that mermaids existed as well."
+	}
+]

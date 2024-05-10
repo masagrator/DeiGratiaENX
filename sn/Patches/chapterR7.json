@@ -1,0 +1,1604 @@
+[
+	{
+		"LABEL": "0x3B4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「He... It's possible he's infected with <Alice>.」"
+	},
+	{
+		"LABEL": "0x3F4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari made a painful declaration."
+	},
+	{
+		"LABEL": "0x416",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her eyes were red, like she was about to cry."
+	},
+	{
+		"LABEL": "0x444",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino was infected?"
+	},
+	{
+		"LABEL": "0x462",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And, not with <COOS>..."
+	},
+	{
+		"LABEL": "0x4A6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――But <Alice>."
+	},
+	{
+		"LABEL": "0x4C4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I remembered that name Yukari mentioned."
+	},
+	{
+		"LABEL": "0x4F6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I heard it in the observation deck at the time of the accident."
+	},
+	{
+		"LABEL": "0x588",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was what Misasagi had been looking for in the darkness while wading through the fleeing people."
+	},
+	{
+		"LABEL": "0x5DC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I have to find <Alice> soon...」"
+	},
+	{
+		"LABEL": "0x60E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「<Alice>...」"
+	},
+	{
+		"LABEL": "0x630",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That――"
+	},
+	{
+		"LABEL": "0x73A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...That wasn't a person's name?」"
+	},
+	{
+		"LABEL": "0x768",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari shook her head as I spoke my thoughts out loud."
+	},
+	{
+		"LABEL": "0x79A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Then is it the same kind of bacteria as <COOS>...?」"
+	},
+	{
+		"LABEL": "0x83C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「No.」"
+	},
+	{
+		"LABEL": "0x859",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She shook her head again."
+	},
+	{
+		"LABEL": "0x877",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She began to explain in a matter-of-fact voice."
+	},
+	{
+		"LABEL": "0x8A4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「<Alice> is not a bacteria―"
+	},
+	{
+		"LABEL": "0x929",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "it's a virus.」"
+	},
+	{
+		"LABEL": "0x945",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's very different from the bacterial threat of <COOS>.」"
+	},
+	{
+		"LABEL": "0x988",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Not a bacteria, but a virus?」"
+	},
+	{
+		"LABEL": "0x9C1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yes.」"
+	},
+	{
+		"LABEL": "0x9D7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「<COOS> was a living being in and of itself and had a collective will.」"
+	},
+	{
+		"LABEL": "0xA2D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「<Alice> isn't like that. It's more mysterious...」"
+	},
+	{
+		"LABEL": "0xA7A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari lowered her eyes, at a loss for words."
+	},
+	{
+		"LABEL": "0xAA6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino, on the other hand, furrowed his brow in thought."
+	},
+	{
+		"LABEL": "0xBA9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm sure you know about <Alice>, Hiragino-sensei.」"
+	},
+	{
+		"LABEL": "0xBF8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yes, I've heard of it, of course...」"
+	},
+	{
+		"LABEL": "0xC91",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But, why does it come up now?」"
+	},
+	{
+		"LABEL": "0xCC3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Why would such a rare virus be a problem right now――」"
+	},
+	{
+		"LABEL": "0xD02",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino looked up as if he'd realized something."
+	},
+	{
+		"LABEL": "0xDA8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Momoi.」"
+	},
+	{
+		"LABEL": "0xDBE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That girl we were trying to retrieve... Was she the carrier for <Alice>?」"
+	},
+	{
+		"LABEL": "0xE76",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0xE90",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――Yes.」"
+	},
+	{
+		"LABEL": "0xEAA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I don't know her name, but――」"
+	},
+	{
+		"LABEL": "0xEDC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「She was the girl ROMLES was protecting as an <Alice> carrier.」"
+	},
+	{
+		"LABEL": "0xF8F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「And, that finger inside the fish most likely belonged to her.」"
+	},
+	{
+		"LABEL": "0xFE1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Of course, it's natural to assume that the fish was also contaminated by <Alice>.」"
+	},
+	{
+		"LABEL": "0x1048",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What...」"
+	},
+	{
+		"LABEL": "0x1073",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「So, unfortunately, it's possible that you may have already been infected as well.」"
+	},
+	{
+		"LABEL": "0x10CC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x10EB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino looked dismayed."
+	},
+	{
+		"LABEL": "0x110D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "He seemed to be convinced of something, but I had no idea what their back-and-forth meant."
+	},
+	{
+		"LABEL": "0x1161",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm sorry... Could you elaborate a little?」"
+	},
+	{
+		"LABEL": "0x119D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What exactly is <Alice>?」"
+	},
+	{
+		"LABEL": "0x11D3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「From what you're telling me, it's not just a virus, is it?」"
+	},
+	{
+		"LABEL": "0x1215",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「And, is this person you're talking about Hikari?」"
+	},
+	{
+		"LABEL": "0x1259",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You're saying she was a... carrier?」"
+	},
+	{
+		"LABEL": "0x128B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "<Alice> and Hikari."
+	},
+	{
+		"LABEL": "0x1341",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The face of the girl who had referred to herself as a poet flashed through my mind."
+	},
+	{
+		"LABEL": "0x13DE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The girl who had called Touri her sister and had died without ever meeting her."
+	},
+	{
+		"LABEL": "0x148E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Why did her name come up now of all times...?"
+	},
+	{
+		"LABEL": "0x14BE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "So, that finger was――"
+	},
+	{
+		"LABEL": "0x14F7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Momoi.」"
+	},
+	{
+		"LABEL": "0x1665",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「According to your story, there's a chance we may have come into contact with <Alice>, right?」"
+	},
+	{
+		"LABEL": "0x16B7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If that's true, then he has the right to know.」"
+	},
+	{
+		"LABEL": "0x1700",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You knew about <Alice>, Hiragino-san...?」"
+	},
+	{
+		"LABEL": "0x174D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I used to be involved, just a little bit.」"
+	},
+	{
+		"LABEL": "0x17EA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Not that I got any credit for it.」"
+	},
+	{
+		"LABEL": "0x1825",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "He smiled lightly as he said it."
+	},
+	{
+		"LABEL": "0x1851",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I could see a hint of self-derision in his lonely smile."
+	},
+	{
+		"LABEL": "0x1885",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was a deep and painful smile, as if he still had a lingering attachment to something that he had to let go of."
+	},
+	{
+		"LABEL": "0x18ED",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Like he was remembering something from the distant past."
+	},
+	{
+		"LABEL": "0x1A00",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...I don't mind letting him know.」"
+	},
+	{
+		"LABEL": "0x1A32",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「<Alice> is not something nearly as top-secret as <COOS>...」"
+	},
+	{
+		"LABEL": "0x1AF7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「However, Hiragino-sensei...」"
+	},
+	{
+		"LABEL": "0x1B19",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Shouldn't the first step be to find a cure?」"
+	},
+	{
+		"LABEL": "0x1BC9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「A cure...?」"
+	},
+	{
+		"LABEL": "0x1BF6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yes. The cure for <Alice> should've been stored in this ship's laboratory.」"
+	},
+	{
+		"LABEL": "0x1C48",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「So, let's hurry up and search for it―"
+	},
+	{
+		"LABEL": "0x1CC3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "before it's too late.」"
+	},
+	{
+		"LABEL": "0x1D22",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari slowly took Hiragino's hand and pulled him with her out into the hallway."
+	},
+	{
+		"LABEL": "0x1DD4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hurry up, Katagiri-san!」"
+	},
+	{
+		"LABEL": "0x1E05",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Momoi, there's no point in being in such a hurry.」"
+	},
+	{
+		"LABEL": "0x1E3B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「And Katagiri-kun, you don't have to――」"
+	},
+	{
+		"LABEL": "0x1EDB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I don't understand how you can be so calm.」"
+	},
+	{
+		"LABEL": "0x1F7C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If now isn't the time to hurry, then when will it be?!」"
+	},
+	{
+		"LABEL": "0x1FB4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You do realize that your life is at stake here?」"
+	},
+	{
+		"LABEL": "0x2011",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...I understand that very well.」"
+	},
+	{
+		"LABEL": "0x2062",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino patted Yukari on the head."
+	},
+	{
+		"LABEL": "0x209C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She raised her voice in protest."
+	},
+	{
+		"LABEL": "0x218B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...What's with you?」"
+	},
+	{
+		"LABEL": "0x21BE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Let's take our time. I'm feeling a little tired.」"
+	},
+	{
+		"LABEL": "0x21FB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x221A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her footsteps slowly stopped,"
+	},
+	{
+		"LABEL": "0x2262",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "either because Hiragino's calm demeanor threw her off, or because she had calmed down herself."
+	},
+	{
+		"LABEL": "0x22C6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I lay Touri down on the bed carefully so she wouldn't wake up."
+	},
+	{
+		"LABEL": "0x2312",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Now that <COOS> was gone, it wouldn't be a problem to let her sleep here alone."
+	},
+	{
+		"LABEL": "0x2364",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She looked defenseless, sleeping there with her mouth slightly open."
+	},
+	{
+		"LABEL": "0x2394",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Even though Hikari, who had called this girl her sister, was now dead."
+	},
+	{
+		"LABEL": "0x23DE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...Even though she died because of me."
+	},
+	{
+		"LABEL": "0x2416",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――It'd be too selfish of me to forget about that."
+	},
+	{
+		"LABEL": "0x2469",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Katagiri-kun, are you okay?」"
+	},
+	{
+		"LABEL": "0x2494",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yeah... I'm coming.」"
+	},
+	{
+		"LABEL": "0x24B4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I stood up and tried to follow them."
+	},
+	{
+		"LABEL": "0x2554",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But for some reason, I couldn't walk very well."
+	},
+	{
+		"LABEL": "0x257C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It felt like half of my body was still wearing a thick diving suit."
+	},
+	{
+		"LABEL": "0x25C4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I managed to keep my balance somehow and forcibly dragged myself to catch up with them."
+	},
+	{
+		"LABEL": "0x2616",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The emergency room was on the third floor, while the laboratory was on the first..."
+	},
+	{
+		"LABEL": "0x263E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "This was going to be tough."
+	},
+	{
+		"LABEL": "0x2662",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I no longer hesitated to ask for Hiragino's help."
+	},
+	{
+		"LABEL": "0x2912",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I reached the first floor while leaning most of my weight against Hiragino's shoulder."
+	},
+	{
+		"LABEL": "0x29B5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Suddenly――"
+	},
+	{
+		"LABEL": "0x29CB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "For some reason, my eyes were drawn to the watertight doors."
+	},
+	{
+		"LABEL": "0x2A09",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "To the bridge ahead, and the rear section beyond."
+	},
+	{
+		"LABEL": "0x2A3F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Perhaps Reiri, who had disappeared, was..."
+	},
+	{
+		"LABEL": "0x2A7E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Don't even think about going to the rear section.」"
+	},
+	{
+		"LABEL": "0x2ABF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A sharp voice rose up from behind me."
+	},
+	{
+		"LABEL": "0x2B8E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I turned around to see Yukari with a stern look on her face."
+	},
+	{
+		"LABEL": "0x2BCD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You were already caught up in that explosion, and on top of that...」"
+	},
+	{
+		"LABEL": "0x2C07",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「We need to find the vaccine quickly.」"
+	},
+	{
+		"LABEL": "0x2C4C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yeah... I know.」"
+	},
+	{
+		"LABEL": "0x2C8A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I turned on my heel and hurried down the dim hallway."
+	},
+	{
+		"LABEL": "0x2CBA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We eventually made our way to the laboratory in the thin darkness."
+	},
+	{
+		"LABEL": "0x2D98",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x2DC1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What's wrong?」"
+	},
+	{
+		"LABEL": "0x2DEC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's nothing.」"
+	},
+	{
+		"LABEL": "0x2E0E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "My eyes surveyed the laboratory unconsciously."
+	},
+	{
+		"LABEL": "0x2E42",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...I was looking for Reiri, who I had thought might be here."
+	},
+	{
+		"LABEL": "0x2E88",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But in the end, she was not."
+	},
+	{
+		"LABEL": "0x2EC4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I listened to Yukari's explanation of <Alice>"
+	},
+	{
+		"LABEL": "0x2F00",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "while searching for the cure in the midst of all the beakers."
+	},
+	{
+		"LABEL": "0x2FA0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「<Alice> is a highly lethal virus.」"
+	},
+	{
+		"LABEL": "0x2FDB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her voice sounded loathing."
+	},
+	{
+		"LABEL": "0x2FFD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I sensed a personal hatred in her tone."
+	},
+	{
+		"LABEL": "0x303F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was so strong that I couldn't help but think if <Alice> had killed her parents or something――"
+	},
+	{
+		"LABEL": "0x3101",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「By the way, Katagiri-san...」"
+	},
+	{
+		"LABEL": "0x3121",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You know the difference between viruses and bacteria, right?」"
+	},
+	{
+		"LABEL": "0x3162",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She fired a question at me."
+	},
+	{
+		"LABEL": "0x317E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "My hands stopped for a moment as her words somehow reminded me of the conversation I'd had with Reiri."
+	},
+	{
+		"LABEL": "0x31CC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Even though I had a scientific background, I specialized in information science."
+	},
+	{
+		"LABEL": "0x31FE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "My knowledge of some subjects was not even on the level of a first-year undergraduate unless I had a personal interest in it."
+	},
+	{
+		"LABEL": "0x3252",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However――"
+	},
+	{
+		"LABEL": "0x326C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Bacteria are living beings, right?」"
+	},
+	{
+		"LABEL": "0x3292",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「They have their own cells, steal nutrients from infected creatures, and multiply themselves.」"
+	},
+	{
+		"LABEL": "0x32DC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Viruses, on the other hand... I don't really know if it's correct to call them living things.」"
+	},
+	{
+		"LABEL": "0x332C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「They have no cells of their own but thrive by tricking their host's cells into multiplying themselves.」"
+	},
+	{
+		"LABEL": "0x3391",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's correct.」"
+	},
+	{
+		"LABEL": "0x33B4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari didn't seem surprised when I answered her in textbook fashion."
+	},
+	{
+		"LABEL": "0x33F4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "This much was within her expectations since I was the younger brother of that deep-sea creature maniac, I suppose."
+	},
+	{
+		"LABEL": "0x345F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「As a virus, <Alice> must have a natural host.」"
+	},
+	{
+		"LABEL": "0x3506",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It hasn't been discovered as of yet, however.」"
+	},
+	{
+		"LABEL": "0x353D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「....」"
+	},
+	{
+		"LABEL": "0x3566",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Not only that, but there have been very few cases of infection.」"
+	},
+	{
+		"LABEL": "0x359A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's an extremely rare virus that's barely been observed.」"
+	},
+	{
+		"LABEL": "0x35DC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Even if you don't die, you're left with aftereffects, the treatment for which has not yet been established...」"
+	},
+	{
+		"LABEL": "0x3691",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Ah, Katagiri-san, could you get that green flask over there for me?」"
+	},
+	{
+		"LABEL": "0x36E4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――Huh?」"
+	},
+	{
+		"LABEL": "0x3718",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari's voice brought my thoughts that were stuck on <Alice> back to reality."
+	},
+	{
+		"LABEL": "0x375E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I hurriedly looked up at the top of the shelf... Wait, a flask?"
+	},
+	{
+		"LABEL": "0x3794",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There were only petri dishes there."
+	},
+	{
+		"LABEL": "0x37C0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Where was this flask she was talking about supposed to be――"
+	},
+	{
+		"LABEL": "0x3874",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Oh, come on!」"
+	},
+	{
+		"LABEL": "0x38AE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Growing impatient, Yukari reached out and grabbed a flask from somewhere."
+	},
+	{
+		"LABEL": "0x38FC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She looked at it closely for a second, but quickly put it away."
+	},
+	{
+		"LABEL": "0x39AC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...This isn't it, either.」"
+	},
+	{
+		"LABEL": "0x39CC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「And they dare claim this is all organized...」"
+	},
+	{
+		"LABEL": "0x3A1B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari mumbled something in blatant dissatisfaction."
+	},
+	{
+		"LABEL": "0x3A4F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She was the very picture of a wicked mother-in-law, but she didn't seem to be aware of it herself."
+	},
+	{
+		"LABEL": "0x3AA9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hey, Yukari-san.」"
+	},
+	{
+		"LABEL": "0x3AC7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「This <Alice>... Just how big of a virus is it?」"
+	},
+	{
+		"LABEL": "0x3B7D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――What do you mean?」"
+	},
+	{
+		"LABEL": "0x3BA8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm honestly a bit surprised I'm hearing about a deadly virus like that for the first time now.」"
+	},
+	{
+		"LABEL": "0x3BFC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You said it wasn't as top secret as <COOS>, but...」"
+	},
+	{
+		"LABEL": "0x3C49",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Oh, that's what you meant.」"
+	},
+	{
+		"LABEL": "0x3C6F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's probably not nearly as well known as it should be.」"
+	},
+	{
+		"LABEL": "0x3CC4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari answered evasively while fiddling with another shelf."
+	},
+	{
+		"LABEL": "0x3CFA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...And it has such a simple name like \"Alice\"――」"
+	},
+	{
+		"LABEL": "0x3D51",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「\"Alice\" is just a common name, of course.」"
+	},
+	{
+		"LABEL": "0x3D9B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Maybe it's more accurate to say that it's a jargon that only we understand...」"
+	},
+	{
+		"LABEL": "0x3DEF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「In any case, it's not its official name.」"
+	},
+	{
+		"LABEL": "0x3E2C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "So, <Alice> was just a nickname, I guess."
+	},
+	{
+		"LABEL": "0x3E66",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But why call it that?"
+	},
+	{
+		"LABEL": "0x3F10",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The name <Alice> is derived from its distinctive aftereffect.」"
+	},
+	{
+		"LABEL": "0x3F59",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Distinctive aftereffect...?」"
+	},
+	{
+		"LABEL": "0x3F7F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari had talked about that earlier as well."
+	},
+	{
+		"LABEL": "0x3FA5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The aftereffect that no cure had been established for."
+	},
+	{
+		"LABEL": "0x3FD7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What was this aftereffect that made <Alice> so vicious, in addition to being lethal...?"
+	},
+	{
+		"LABEL": "0x4047",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I looked back to Hiragino for help."
+	},
+	{
+		"LABEL": "0x40DD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――It's sleep.」"
+	},
+	{
+		"LABEL": "0x40F9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Sleeping is literally the aftereffect of <Alice>.」"
+	},
+	{
+		"LABEL": "0x413C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x41C2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If left alone, you'll sleep forever.」"
+	},
+	{
+		"LABEL": "0x41F8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「As if you weren't bound by time and had lost your internal clock.」"
+	},
+	{
+		"LABEL": "0x424A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...In fact, the infected person's entire biological clock mechanism is destroyed.」"
+	},
+	{
+		"LABEL": "0x4305",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「A malfunctioning clock... You get the idea, right?」"
+	},
+	{
+		"LABEL": "0x4342",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I see. So that was why it was called <Alice>."
+	},
+	{
+		"LABEL": "0x436A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The cute name the virus had finally made sense to me."
+	},
+	{
+		"LABEL": "0x43BA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But, naming a virus after a person...?"
+	},
+	{
+		"LABEL": "0x43F0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I recalled what Reiri had told me about the difference between a natural and a computer virus."
+	},
+	{
+		"LABEL": "0x4454",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I didn't know the definition of an organism or what a biological virus actually was,"
+	},
+	{
+		"LABEL": "0x4498",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "but computer viruses in the context of information science were my specialty."
+	},
+	{
+		"LABEL": "0x44DE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "When a computer virus was observed, the first thing that was done was \"name erasure.\""
+	},
+	{
+		"LABEL": "0x453C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "You should never let the name given by its creator spread."
+	},
+	{
+		"LABEL": "0x45E6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Because that was exactly what they wanted."
+	},
+	{
+		"LABEL": "0x4614",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Allowing a name that contained the creator's claims and intentions to proliferate was unacceptable."
+	},
+	{
+		"LABEL": "0x4670",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The purpose for which computer viruses were created was, for the most part,"
+	},
+	{
+		"LABEL": "0x46B2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "a sorry cliche in relation to the means."
+	},
+	{
+		"LABEL": "0x46F0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In other words, a desire for self-expression――"
+	},
+	{
+		"LABEL": "0x4775",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「A way to make the world remember your name.」"
+	},
+	{
+		"LABEL": "0x480A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「A way to leave your name behind in the world.」"
+	},
+	{
+		"LABEL": "0x4899",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「A way to record your name in the world.」"
+	},
+	{
+		"LABEL": "0x48CF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Countless multiplying programs were being created every day for just that purpose."
+	},
+	{
+		"LABEL": "0x492B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And, the hackers who discovered them were desperate to erase those names before they became public."
+	},
+	{
+		"LABEL": "0x4985",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "They purposefully rewrote the names."
+	},
+	{
+		"LABEL": "0x49AF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Rewriting the name to be as inorganic as possible, as unassertive as possible, as mundane as possible."
+	},
+	{
+		"LABEL": "0x4A03",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That act killed computer viruses."
+	},
+	{
+		"LABEL": "0x4A3F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And when choosing a new name, a person's name should always be avoided."
+	},
+	{
+		"LABEL": "0x4ADC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A striking name such as <Alice> was, therefore, hard for me to accept."
+	},
+	{
+		"LABEL": "0x4BE0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Even if it's just a nickname, naming a virus after a person...」"
+	},
+	{
+		"LABEL": "0x4C35",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「There is a reason for that.」"
+	},
+	{
+		"LABEL": "0x4C62",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari responded to me muttering to myself."
+	},
+	{
+		"LABEL": "0x4D02",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The reason a female name was given to this virus――」"
+	},
+	{
+		"LABEL": "0x4D48",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It came from the girl who had been infected with it... or so I've been told.」"
+	},
+	{
+		"LABEL": "0x4DAF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There had been extremely few cases of infection."
+	},
+	{
+		"LABEL": "0x4DD3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She must have been the only specimen that ROMLES had."
+	},
+	{
+		"LABEL": "0x4E11",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I see... There was no better name for the girl with that innocent smile."
+	},
+	{
+		"LABEL": "0x4E86",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I was involved in the research as well, but I never saw the patient.」"
+	},
+	{
+		"LABEL": "0x4EE4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「So, that was her...」"
+	},
+	{
+		"LABEL": "0x4F1F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Well, you were only involved for a very limited time, after all.」"
+	},
+	{
+		"LABEL": "0x4F71",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「In addition, while the virus itself was widely researched within the organization,"
+	},
+	{
+		"LABEL": "0x4FCF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "the personal information of its carrier was kept secret by ROMLES.」"
+	},
+	{
+		"LABEL": "0x503E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A girl whose personal information was held by ROMLES and whose existence was kept secret."
+	},
+	{
+		"LABEL": "0x507C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Lumiere=Hikari."
+	},
+	{
+		"LABEL": "0x509E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What was going through her head as she introduced herself to me as a poet with a smile on her face...?"
+	},
+	{
+		"LABEL": "0x50F1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――Hm?」"
+	},
+	{
+		"LABEL": "0x5177",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What's the matter?」"
+	},
+	{
+		"LABEL": "0x51A4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Why is ROMLES researching <Alice> to begin with?」"
+	},
+	{
+		"LABEL": "0x51EF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「There are two reasons for that.」"
+	},
+	{
+		"LABEL": "0x521D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The first is because <Alice's> natural host was thought to be in the sea."
+	},
+	{
+		"LABEL": "0x5269",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I've heard that the <Alice>-carrier was discovered on a beach.」"
+	},
+	{
+		"LABEL": "0x52BF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「As for the other reason...」"
+	},
+	{
+		"LABEL": "0x52EC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What is it...?」"
+	},
+	{
+		"LABEL": "0x531B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Momoi, take a look at this!」"
+	},
+	{
+		"LABEL": "0x5362",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino's voice interrupted my attempt to question her."
+	},
+	{
+		"LABEL": "0x53A2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "He was pointing to a section of a shelf."
+	},
+	{
+		"LABEL": "0x53CC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There was something clearly unnatural there."
+	},
+	{
+		"LABEL": "0x5406",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Among the neatly arranged rows of medicine bottles, one section was completely empty."
+	},
+	{
+		"LABEL": "0x544E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It looked like the bottles of medicine that were once there had been taken out."
+	},
+	{
+		"LABEL": "0x5571",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Hiragino-sensei, what is this...?」"
+	},
+	{
+		"LABEL": "0x55A6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――I'm not sure... No.」"
+	},
+	{
+		"LABEL": "0x55CE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I don't know for sure, but from the looks of it,"
+	},
+	{
+		"LABEL": "0x5602",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "it's probably safe to assume that someone stole them.」"
+	},
+	{
+		"LABEL": "0x564D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Someone――"
+	},
+	{
+		"LABEL": "0x5667",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What had they taken?"
+	},
+	{
+		"LABEL": "0x568B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Something worth stealing."
+	},
+	{
+		"LABEL": "0x56B3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Something useful to entrap us."
+	},
+	{
+		"LABEL": "0x56E1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Something we were looking for and needed to exist."
+	},
+	{
+		"LABEL": "0x57D3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――The cure for <Alice> had been stolen...?"
+	},
+	{
+		"LABEL": "0x5809",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――――」"
+	},
+	{
+		"LABEL": "0x5823",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――Nothing was over yet."
+	},
+	{
+		"LABEL": "0x584F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That fact was made known to us whether we liked it or not."
+	},
+	{
+		"LABEL": "0x587B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If someone really did take the cure, what was their goal?"
+	},
+	{
+		"LABEL": "0x58C5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "My vision warped."
+	},
+	{
+		"LABEL": "0x58DD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "My perception of reality inverted."
+	},
+	{
+		"LABEL": "0x58FD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――The <SHEEP III> was still seeped in someone's malice."
+	},
+	{
+		"LABEL": "0x59F7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Why would anyone――」"
+	},
+	{
+		"LABEL": "0x5A37",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There was a sound of something falling with a thud."
+	},
+	{
+		"LABEL": "0x5A5F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I turned around to look in its direction and――"
+	},
+	{
+		"LABEL": "0x5A8D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Wha――?!」"
+	},
+	{
+		"LABEL": "0x5AA7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari was there, collapsed on the floor."
+	},
+	{
+		"LABEL": "0x5AD9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What the hell was happening――?"
+	},
+	{
+		"LABEL": "0x5AF5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino and I stood there frozen, unable to take a single step."
+	},
+	{
+		"LABEL": "0x5B54",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yukari!! Yukari――!?」"
+	},
+	{
+		"LABEL": "0x5B7D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Things were quickly getting out of hand."
+	}
+]

@@ -1,0 +1,1838 @@
+[
+	{
+		"LABEL": "0x37A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――――」"
+	},
+	{
+		"LABEL": "0x394",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I return."
+	},
+	{
+		"LABEL": "0x3B2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It's the same white room."
+	},
+	{
+		"LABEL": "0x3D2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I don't realize it for a while."
+	},
+	{
+		"LABEL": "0x408",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...Maybe I don't want to realize."
+	},
+	{
+		"LABEL": "0x43C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Those vivid events, and..."
+	},
+	{
+		"LABEL": "0x464",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...An unwanted ending."
+	},
+	{
+		"LABEL": "0x480",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I can't admit it, as if refusing to wake up from a dream."
+	},
+	{
+		"LABEL": "0x4C2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I wish for a continuation, for a true ending..."
+	},
+	{
+		"LABEL": "0x5A8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...However."
+	},
+	{
+		"LABEL": "0x5C2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As time passes, I wake up."
+	},
+	{
+		"LABEL": "0x5EA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The fact that it was over, that the record has been cut off,"
+	},
+	{
+		"LABEL": "0x61E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "is forcibly etched into my body and consciousness."
+	},
+	{
+		"LABEL": "0x664",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Why――?」"
+	},
+	{
+		"LABEL": "0x67E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I look at \"her.\""
+	},
+	{
+		"LABEL": "0x6A0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Why are you the only one left alive again?!」"
+	},
+	{
+		"LABEL": "0x6D6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Why...?」"
+	},
+	{
+		"LABEL": "0x6FC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Emotional words naturally flow out of my mouth."
+	},
+	{
+		"LABEL": "0x72A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――Momoi Yukari looks as if she's stifling her own emotions."
+	},
+	{
+		"LABEL": "0x7FC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Well, Katagiri-san...」"
+	},
+	{
+		"LABEL": "0x820",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's because only the two of us survived.」"
+	},
+	{
+		"LABEL": "0x854",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her line, which sounds like a tautology, carries a distinctly different meaning."
+	},
+	{
+		"LABEL": "0x8AA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Past tense against present tense."
+	},
+	{
+		"LABEL": "0x8D0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "This is the predetermined ending..."
+	},
+	{
+		"LABEL": "0x8F6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No matter how much I struggle, no matter how much I search for other possibilities,"
+	},
+	{
+		"LABEL": "0x936",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "no matter how many detours or steps I take..."
+	},
+	{
+		"LABEL": "0x968",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...The end result will always be the same."
+	},
+	{
+		"LABEL": "0x9F7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――No."
+	},
+	{
+		"LABEL": "0xA0F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Everything I see before me is merely the result of several simulations."
+	},
+	{
+		"LABEL": "0xA5F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Why, then, should I let myself be influenced by that?"
+	},
+	{
+		"LABEL": "0xA9F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No matter how hopeless the sea is, there's always a path that leads to the best possible outcome."
+	},
+	{
+		"LABEL": "0xAEF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Then... what am I missing?"
+	},
+	{
+		"LABEL": "0xBBF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0xBD9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Before I know it, I'm looking straight into Yukari's eyes."
+	},
+	{
+		"LABEL": "0xC09",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "They're very cold――"
+	},
+	{
+		"LABEL": "0xC29",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What do her eyes see, I wonder."
+	},
+	{
+		"LABEL": "0xC5B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What is reflected there?"
+	},
+	{
+		"LABEL": "0xC87",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Do you still want to return to 2033, Katagiri-san?」"
+	},
+	{
+		"LABEL": "0xCBF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "How many times have I nodded my head in confirmation to her question?"
+	},
+	{
+		"LABEL": "0xCFD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Of course... Please, let me try again.」"
+	},
+	{
+		"LABEL": "0xD3B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I repeat the same line once more, as if it has been decided for me."
+	},
+	{
+		"LABEL": "0xD6D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Where should I start over from this time?」"
+	},
+	{
+		"LABEL": "0xD9F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Where――」"
+	},
+	{
+		"LABEL": "0xDBD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "From what point, I wonder."
+	},
+	{
+		"LABEL": "0xDDD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The choice between Saihouji Tokiwa and Nomura Reiri..."
+	},
+	{
+		"LABEL": "0xE0B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That had definitely been a major turning point."
+	},
+	{
+		"LABEL": "0xE3D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A choice between two lives."
+	},
+	{
+		"LABEL": "0xE5D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Letting one live and killing the other."
+	},
+	{
+		"LABEL": "0xE8D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There will always be one loser."
+	},
+	{
+		"LABEL": "0xEB3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As long as I have to make that choice, I won't be able to reach the best possible result."
+	},
+	{
+		"LABEL": "0xF03",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If that's the case... then it's already too late on the second day."
+	},
+	{
+		"LABEL": "0xF35",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I need an earlier point..."
+	},
+	{
+		"LABEL": "0xFC8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Unfortunately, there are no records from before August 1st.」"
+	},
+	{
+		"LABEL": "0x1004",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The trolley has already started moving."
+	},
+	{
+		"LABEL": "0x1026",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "You can't stop it."
+	},
+	{
+		"LABEL": "0x1048",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It contains within a single hopeless truth."
+	},
+	{
+		"LABEL": "0x1084",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Then... there's no way to stop the sinking.」"
+	},
+	{
+		"LABEL": "0x10BA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As of August 1st, there's no way to stop the navigation program that \"he\" had changed."
+	},
+	{
+		"LABEL": "0x110A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's correct.」"
+	},
+	{
+		"LABEL": "0x1126",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That's obvious."
+	},
+	{
+		"LABEL": "0x1146",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The worst disaster itself can't be prevented."
+	},
+	{
+		"LABEL": "0x118C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I have to aim for the best possible outcome within the worst."
+	},
+	{
+		"LABEL": "0x1240",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...But."
+	},
+	{
+		"LABEL": "0x1258",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Even so, there are still those who have a chance."
+	},
+	{
+		"LABEL": "0x128E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "They were alive."
+	},
+	{
+		"LABEL": "0x12AE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Everyone left in the front section was still alive, even if the ship had sunk."
+	},
+	{
+		"LABEL": "0x130C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "This tragic story that has been repeated over and over begins after the sinking."
+	},
+	{
+		"LABEL": "0x1356",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...Then, what?"
+	},
+	{
+		"LABEL": "0x1378",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What triggers further tragedy?"
+	},
+	{
+		"LABEL": "0x13A8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I look back and rummage through my memories."
+	},
+	{
+		"LABEL": "0x13CE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I wonder if there's a clue somewhere."
+	},
+	{
+		"LABEL": "0x13FA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I survey my surroundings in the empty room with no one but her inside it."
+	},
+	{
+		"LABEL": "0x1436",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A pure white room."
+	},
+	{
+		"LABEL": "0x1450",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A pure white――girl."
+	},
+	{
+		"LABEL": "0x157A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hikari."
+	},
+	{
+		"LABEL": "0x158E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――In the records, that frail girl had already lost her life by the time we met again."
+	},
+	{
+		"LABEL": "0x15DE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "This is just a hunch..."
+	},
+	{
+		"LABEL": "0x1602",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A baseless idea, but..."
+	},
+	{
+		"LABEL": "0x163C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If I can save her, if I can save Hikari, maybe something will change."
+	},
+	{
+		"LABEL": "0x168C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In the records, Nomura Touri had locked Hikari inside the pressurization room."
+	},
+	{
+		"LABEL": "0x16CE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "When she was found again, she was already floating in the sea as a corpse."
+	},
+	{
+		"LABEL": "0x1714",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That pressurization room where she was trapped in led into a sea of darkness..."
+	},
+	{
+		"LABEL": "0x17CC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Remember... When and why was that door opened――?"
+	},
+	{
+		"LABEL": "0x1869",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Was it back then――?!」"
+	},
+	{
+		"LABEL": "0x1897",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Then the key is Saihouji Tokiwa."
+	},
+	{
+		"LABEL": "0x18BF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What caused her to make that statement?"
+	},
+	{
+		"LABEL": "0x18F9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I'm so close to reaching the end of this thread of causality."
+	},
+	{
+		"LABEL": "0x192D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Just a little more..."
+	},
+	{
+		"LABEL": "0x194B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However, Momoi Yukari shakes her head silently."
+	},
+	{
+		"LABEL": "0x1979",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Katagiri-san, you should have realized by now.」"
+	},
+	{
+		"LABEL": "0x19BB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Because... you already know.」"
+	},
+	{
+		"LABEL": "0x19EF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Know... Know what?"
+	},
+	{
+		"LABEL": "0x1A6E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「There's something you're misunderstanding.」"
+	},
+	{
+		"LABEL": "0x1AA8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Listen, said Yukari."
+	},
+	{
+		"LABEL": "0x1AD2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――This is reality.」"
+	},
+	{
+		"LABEL": "0x1AF8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Me talking to you, this place, none of it is a simulation.」"
+	},
+	{
+		"LABEL": "0x1B4C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's all real.」"
+	},
+	{
+		"LABEL": "0x1B6C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That... can't be."
+	},
+	{
+		"LABEL": "0x1B9A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...This conversation."
+	},
+	{
+		"LABEL": "0x1BB8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It's an illusion the machine is showing me."
+	},
+	{
+		"LABEL": "0x1BE0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If you think I'm lying, then make sure for yourself.」"
+	},
+	{
+		"LABEL": "0x1C12",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Make sure... How?"
+	},
+	{
+		"LABEL": "0x1C38",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That's easy..."
+	},
+	{
+		"LABEL": "0x1CBC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I put my hand on my smart glasses, close my eyes, and take them off."
+	},
+	{
+		"LABEL": "0x1D02",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's not a lie... It's the undeniable truth.」"
+	},
+	{
+		"LABEL": "0x1D36",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「No matter how many times you redo it, it will all be the same.」"
+	},
+	{
+		"LABEL": "0x1D6C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Once fixed, the past cannot be changed.」"
+	},
+	{
+		"LABEL": "0x1D9C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What you're seeing are the \"two survivors\" that are set in stone.」"
+	},
+	{
+		"LABEL": "0x1E53",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Again――I open my eyes."
+	},
+	{
+		"LABEL": "0x1E75",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Reality regains its contours."
+	},
+	{
+		"LABEL": "0x1EA1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A white room and a white desk."
+	},
+	{
+		"LABEL": "0x1EC1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Even if I remove my smart glasses and end the simulation,"
+	},
+	{
+		"LABEL": "0x1EFD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Momoi Yukari is still there."
+	},
+	{
+		"LABEL": "0x1F1F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "This... is reality?"
+	},
+	{
+		"LABEL": "0x1F3D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It's decided that there are only two survivors?"
+	},
+	{
+		"LABEL": "0x1F67",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...I feel terribly dizzy."
+	},
+	{
+		"LABEL": "0x1F8B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I don't want to admit it, but I accept it somewhere deep in my mind."
+	},
+	{
+		"LABEL": "0x1FD3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Even so...!」"
+	},
+	{
+		"LABEL": "0x1FF7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The best path is still there!」"
+	},
+	{
+		"LABEL": "0x2023",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Even if only two people survive, I can still search for the best outcome."
+	},
+	{
+		"LABEL": "0x2075",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The possibility remains."
+	},
+	{
+		"LABEL": "0x209B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You're still in denial, aren't you? ...It can't be helped. I used to be the same.」"
+	},
+	{
+		"LABEL": "0x20F3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In the brief silence, I can see Yukari choosing her next words carefully."
+	},
+	{
+		"LABEL": "0x2137",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Finally, as if she had made up her mind, she opens her mouth."
+	},
+	{
+		"LABEL": "0x216F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Katagiri-san, I've been reviewing these records, and I have a question for you.」"
+	},
+	{
+		"LABEL": "0x21C1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「This may sound strange, but could you answer it? You...」"
+	},
+	{
+		"LABEL": "0x220B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Who are you?」"
+	},
+	{
+		"LABEL": "0x222B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Who... am I?"
+	},
+	{
+		"LABEL": "0x2247",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「In these records, you never introduced yourself in front of everyone.」"
+	},
+	{
+		"LABEL": "0x229B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You used a false name when you boarded.」"
+	},
+	{
+		"LABEL": "0x22CD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「After that, even when your name was pointed out, you never gave your name yourself.」"
+	},
+	{
+		"LABEL": "0x2335",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You unconsciously ran away from being yourself.」"
+	},
+	{
+		"LABEL": "0x2377",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her words are carefully spun, like a thin thread."
+	},
+	{
+		"LABEL": "0x23B5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「So... This is an extension of that, a hypothesis.」"
+	},
+	{
+		"LABEL": "0x23F3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Even after the accident, you unconsciously denied it, didn't you?」"
+	},
+	{
+		"LABEL": "0x2447",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You still haven't identified yourself with \"him,\" have you?」"
+	},
+	{
+		"LABEL": "0x2489",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Then, she slowly pulls out a newspaper clipping."
+	},
+	{
+		"LABEL": "0x24C5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You are you, and no one else.」"
+	},
+	{
+		"LABEL": "0x24F3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The names of the two survivors are written there."
+	},
+	{
+		"LABEL": "0x25A9",
+		"CMD": "TEXT2",
+		"TYPE": 70,
+		"STRING": "――A few days ago on August 1st at 14:00, <SHEEP III> left the coast of Kurama Bay and lost contact with the communications room at 17:19 the same day."
+	},
+	{
+		"LABEL": "0x261D",
+		"CMD": "TEXT2",
+		"TYPE": 70,
+		"STRING": "%N%N　　Then at 17:33, due to an accident of unknown cause,%Ncontact with the surface was completely cut off."
+	},
+	{
+		"LABEL": "0x267A",
+		"CMD": "TEXT2",
+		"TYPE": 70,
+		"STRING": "%N%N　　The next day, at around 13:00 on the 2nd, communication%Nwas temporarily restored."
+	},
+	{
+		"LABEL": "0x26AC",
+		"CMD": "TEXT2",
+		"TYPE": 70,
+		"STRING": "%N%N　　Means to make contact was searched for, but accurate%Nlocation information couldn't be obtained. Shortly after,%Ncommunications were cut off again."
+	},
+	{
+		"LABEL": "0x271C",
+		"CMD": "TEXT2",
+		"TYPE": 70,
+		"STRING": "%N%N　　On August 5th, the rescue team succeeded in entering%Nthe sunken <SHEEP III>. Two survivors were rescued."
+	},
+	{
+		"LABEL": "0x2786",
+		"CMD": "TEXT2",
+		"TYPE": 70,
+		"STRING": "%N%N　　There were two survivors. One was Momoi Yukari of ROMLES,%Nwho was in charge of the voyage."
+	},
+	{
+		"LABEL": "0x27DF",
+		"CMD": "TEXT2",
+		"TYPE": 70,
+		"STRING": "%N%N　　The other was a graduate student named――"
+	},
+	{
+		"LABEL": "0x2816",
+		"CMD": "TEXT2",
+		"TYPE": 70,
+		"STRING": "Katagiri "
+	},
+	{
+		"LABEL": "0x2821",
+		"CMD": "TEXT2",
+		"TYPE": 70,
+		"STRING": "Hitoha."
+	},
+	{
+		"LABEL": "0x2857",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Names written in ink on a piece of paper."
+	},
+	{
+		"LABEL": "0x287F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Momoi Yukari and Katagiri Hitoha."
+	},
+	{
+		"LABEL": "0x289F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Those words, which won't disappear even if I touch them, stand before me as a truth that doesn't allow me to alter it."
+	},
+	{
+		"LABEL": "0x28FB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Everything I've been trying not to remember is about to overflow."
+	},
+	{
+		"LABEL": "0x2941",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Katagiri... Hitoha."
+	},
+	{
+		"LABEL": "0x295B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That name."
+	},
+	{
+		"LABEL": "0x2975",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It overlaps with my own."
+	},
+	{
+		"LABEL": "0x2999",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's a lie...」"
+	},
+	{
+		"LABEL": "0x29B3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's a lie, a lie, a lie, a lie, a lie, a lie, a lie!」"
+	},
+	{
+		"LABEL": "0x29E5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I have to save everyone... I have to save them...」"
+	},
+	{
+		"LABEL": "0x2A29",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――One more time! Let me go back one more time!」"
+	},
+	{
+		"LABEL": "0x2A65",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If you give me one more chance, I'll definitely save everyone――」"
+	},
+	{
+		"LABEL": "0x2A93",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "This time..."
+	},
+	{
+		"LABEL": "0x2AA9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...She doesn't nod."
+	},
+	{
+		"LABEL": "0x2B75",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Katagiri-san.」"
+	},
+	{
+		"LABEL": "0x2B93",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Have you finally come to terms with the meaning of this \"story?\"」"
+	},
+	{
+		"LABEL": "0x2BD7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I want to cover my ears and close my eyes."
+	},
+	{
+		"LABEL": "0x2C03",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「No matter how many times you repeat the past, it doesn't change the fact that only the two of us survive.」"
+	},
+	{
+		"LABEL": "0x2C65",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Even so, reality doesn't disappear."
+	},
+	{
+		"LABEL": "0x2C97",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You know that. That's why... you say you want to save everyone, but in the end, you resign to the truth that only two people will survive.」"
+	},
+	{
+		"LABEL": "0x2D1B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The newspaper article flashes back to my mind."
+	},
+	{
+		"LABEL": "0x2D3F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「However, there's a contradiction there. You recognize the conclusion of the \"two survivors,\" yet you still try to save as many people as possible.」"
+	},
+	{
+		"LABEL": "0x2DB9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The confusion between the records and my memories is unraveling."
+	},
+	{
+		"LABEL": "0x2DE1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's why you can't accept the fact that you survived.」"
+	},
+	{
+		"LABEL": "0x2E37",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The words in the newspaper article are like a mirror, reflecting the existence of \"myself.\""
+	},
+	{
+		"LABEL": "0x2E83",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You couldn't accept that \"Katagiri Hitoha\" survived.」"
+	},
+	{
+		"LABEL": "0x2EC7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I had survived, leaving everyone else behind."
+	},
+	{
+		"LABEL": "0x2F05",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Why... How did this happen?」"
+	},
+	{
+		"LABEL": "0x2F67",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Vertigo."
+	},
+	{
+		"LABEL": "0x2F7B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Scenes from my memories surround me."
+	},
+	{
+		"LABEL": "0x2F9F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Images of various moments appear and disappear before my eyes."
+	},
+	{
+		"LABEL": "0x2FE1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It wasn't an artificial reproduction from a record."
+	},
+	{
+		"LABEL": "0x300D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Memories that I've left behind assault me without context."
+	},
+	{
+		"LABEL": "0x304B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I...」"
+	},
+	{
+		"LABEL": "0x3067",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I was just trying to find out the truth behind Nee-san's death...」"
+	},
+	{
+		"LABEL": "0x30B3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If I had known this would happen,"
+	},
+	{
+		"LABEL": "0x30E7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I wouldn't have planned any of it in the first place!」"
+	},
+	{
+		"LABEL": "0x311B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "With nowhere to strike, I clench my fists and hang them mid-air."
+	},
+	{
+		"LABEL": "0x315B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Regret and remorse turn into anger, and I cry out."
+	},
+	{
+		"LABEL": "0x3191",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari looks at me calmly, even as my outburst of emotions hits her."
+	},
+	{
+		"LABEL": "0x3243",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「In the world of finance, there's something called the \"black swan theory.\"」"
+	},
+	{
+		"LABEL": "0x328B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「In Europe, swans used to be thought of as nothing more than white birds.」"
+	},
+	{
+		"LABEL": "0x32D5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But in 1697, a black bird―a black swan―was found in Australia.」"
+	},
+	{
+		"LABEL": "0x3325",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「This was a huge shock to the ornithologists of the time. It rewrote their conventional knowledge.」"
+	},
+	{
+		"LABEL": "0x3387",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「This anecdote"
+	},
+	{
+		"LABEL": "0x33AD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "led to the term \"black swan,\""
+	},
+	{
+		"LABEL": "0x33FD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "which refers to \"unpredictable events that, because they are unpredictable, have major effects.\"」"
+	},
+	{
+		"LABEL": "0x3445",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A black swan was discovered."
+	},
+	{
+		"LABEL": "0x3467",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But... had this accident really been unpredictable?"
+	},
+	{
+		"LABEL": "0x34B3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari continues."
+	},
+	{
+		"LABEL": "0x34CD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――This black swan theory has another interesting point.」"
+	},
+	{
+		"LABEL": "0x3513",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「\"Once it has happened, we assume as if we could have predicted it in advance.\"」"
+	},
+	{
+		"LABEL": "0x3573",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Take the bursting of the financial bubble that occurred nearly half a century ago, for example.」"
+	},
+	{
+		"LABEL": "0x35C1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Perhaps the \"Fourth Day\" was a black swan, as well.」"
+	},
+	{
+		"LABEL": "0x360D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「And now, this accident.」"
+	},
+	{
+		"LABEL": "0x3635",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It should have been predictable――"
+	},
+	{
+		"LABEL": "0x365F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "This accident was bound to happen."
+	},
+	{
+		"LABEL": "0x368F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The worst possible outcome could have been avoided."
+	},
+	{
+		"LABEL": "0x36C1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That's what I had thought."
+	},
+	{
+		"LABEL": "0x36E1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But... is that really true?"
+	},
+	{
+		"LABEL": "0x3766",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The truth is, no one could have predicted it.」"
+	},
+	{
+		"LABEL": "0x379A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That's..."
+	},
+	{
+		"LABEL": "0x37B4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――That's just empty consolation!」"
+	},
+	{
+		"LABEL": "0x37E0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The reality is, I could have stopped the accident!」"
+	},
+	{
+		"LABEL": "0x3820",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And yet, I...!"
+	},
+	{
+		"LABEL": "0x3842",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's impossible.」"
+	},
+	{
+		"LABEL": "0x385C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You didn't know a single thing about the cage that stretched across the sea.」"
+	},
+	{
+		"LABEL": "0x38AA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You had no way of knowing. How were you supposed to stop that?」"
+	},
+	{
+		"LABEL": "0x38FC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...Even if that's true..."
+	},
+	{
+		"LABEL": "0x3920",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Even if the accident was unavoidable, the tragedy that followed could've been prevented!」"
+	},
+	{
+		"LABEL": "0x396E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari shouts as if to cover my words."
+	},
+	{
+		"LABEL": "0x3992",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's the same thing!」"
+	},
+	{
+		"LABEL": "0x39AE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It was absolutely unpredictable.」"
+	},
+	{
+		"LABEL": "0x39D6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You couldn't have prevented the worst from happening.」"
+	},
+	{
+		"LABEL": "0x3A1E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She doesn't back down."
+	},
+	{
+		"LABEL": "0x3A3A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She won't allow me to make things easier for myself by yelling in a fit of emotion."
+	},
+	{
+		"LABEL": "0x3A88",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But, if I couldn't have prevented it..."
+	},
+	{
+		"LABEL": "0x3AB6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If I can't bear the responsibility for this tragedy..."
+	},
+	{
+		"LABEL": "0x3AFE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If I accept that I was a victim of an unforeseen, unavoidable disaster..."
+	},
+	{
+		"LABEL": "0x3BC0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「So please... don't blame yourself.」"
+	},
+	{
+		"LABEL": "0x3BF2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――――」"
+	},
+	{
+		"LABEL": "0x3C0C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I find myself crying."
+	},
+	{
+		"LABEL": "0x3C36",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Shouting and screaming."
+	},
+	{
+		"LABEL": "0x3CB9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was me who caused the accident!"
+	},
+	{
+		"LABEL": "0x3CE1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "They all lost their lives because of me!"
+	},
+	{
+		"LABEL": "0x3D11",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I couldn't even keep everyone who survived alive!"
+	},
+	{
+		"LABEL": "0x3D6B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That heavy wedge was binding me to my purpose."
+	},
+	{
+		"LABEL": "0x3DA7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I have to find a way to save everyone!"
+	},
+	{
+		"LABEL": "0x3DDD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I have to do something with my own two hands...!"
+	},
+	{
+		"LABEL": "0x3E76",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But――"
+	},
+	{
+		"LABEL": "0x3E8E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari releases me from those shackles."
+	},
+	{
+		"LABEL": "0x3EBC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She says that I don't have to suffer anymore."
+	},
+	{
+		"LABEL": "0x3EE2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She says that I don't have to fight anymore."
+	},
+	{
+		"LABEL": "0x3F06",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――And, that I'm allowed to grieve their deaths, their tragedies."
+	},
+	{
+		"LABEL": "0x3F4E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I'm the one who survived."
+	},
+	{
+		"LABEL": "0x3F76",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It's alright to lament their deaths and move forward."
+	},
+	{
+		"LABEL": "0x3FAE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――――」"
+	},
+	{
+		"LABEL": "0x3FC8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I want to save the dead."
+	},
+	{
+		"LABEL": "0x4000",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It doesn't matter if I don't survive myself."
+	},
+	{
+		"LABEL": "0x4030",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I want to save them―and yet! "
+	},
+	{
+		"LABEL": "0x405E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The feelings I can't put into words turn into overflowing tears and screams."
+	},
+	{
+		"LABEL": "0x40A4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I can't stop myself."
+	},
+	{
+		"LABEL": "0x40E0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari――"
+	},
+	{
+		"LABEL": "0x40F6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Momoi Yukari, who says she forgives me,"
+	},
+	{
+		"LABEL": "0x4120",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "is still staring at me, crying inside this white room."
+	},
+	{
+		"LABEL": "0x43DA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hey, Katagiri-san.」"
+	},
+	{
+		"LABEL": "0x43FA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The Mary Celeste lived on as a story, and it has been passed down to this day.」"
+	},
+	{
+		"LABEL": "0x4450",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Why do you think that is?」"
+	},
+	{
+		"LABEL": "0x4472",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Finally, she begins to speak again."
+	},
+	{
+		"LABEL": "0x453A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's because of that strange story.」"
+	},
+	{
+		"LABEL": "0x4568",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If the crew of the Dei Gratia hadn't found it, the story wouldn't have been passed down.」"
+	},
+	{
+		"LABEL": "0x45BC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「In that sense, the Dei Gratia kept them alive for future generations.」"
+	},
+	{
+		"LABEL": "0x460A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What is spoken of lives on."
+	},
+	{
+		"LABEL": "0x4636",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Unbeknownst to anyone, the Mary Celeste hadn't disappeared with death,"
+	},
+	{
+		"LABEL": "0x467C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "but continues to live on."
+	},
+	{
+		"LABEL": "0x46B2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Through people's memories. Through stories."
+	},
+	{
+		"LABEL": "0x46E0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Do you think that it's unforgivable... to turn a tragedy into entertainment?」"
+	},
+	{
+		"LABEL": "0x4732",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Would it have been better, then, if they had been forgotten altogether?」"
+	},
+	{
+		"LABEL": "0x4780",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Is that question directed at me?"
+	},
+	{
+		"LABEL": "0x47BC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Or is it for herself――"
+	},
+	{
+		"LABEL": "0x47E6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Tragedies will never disappear from this world because everyone is looking for them――」"
+	},
+	{
+		"LABEL": "0x4832",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――Someone wrote about it that way, but my thoughts are different.」"
+	},
+	{
+		"LABEL": "0x487C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Even if it's a tragedy someone sought to kill time,"
+	},
+	{
+		"LABEL": "0x48BA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "even if it's consumed in a way that goes against the will of the people involved,"
+	},
+	{
+		"LABEL": "0x4902",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "it's still a memory.」"
+	},
+	{
+		"LABEL": "0x4928",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「They can live on in our memories through stories.」"
+	},
+	{
+		"LABEL": "0x4976",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In our memories――"
+	},
+	{
+		"LABEL": "0x4992",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I recall the records I've experienced through my smart glasses."
+	},
+	{
+		"LABEL": "0x49C8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Inside there, they are definitely alive."
+	},
+	{
+		"LABEL": "0x49F8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Their figures are burned into my memory."
+	},
+	{
+		"LABEL": "0x4A95",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Katagiri-san, here's what I think...」"
+	},
+	{
+		"LABEL": "0x4AC3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「When you aim for the best result and are met with the worst――」"
+	},
+	{
+		"LABEL": "0x4AFB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――I still think that's the best outcome.」"
+	},
+	{
+		"LABEL": "0x4B35",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The newspaper article has the unchangeable past carved into it."
+	},
+	{
+		"LABEL": "0x4B79",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In writing, it's only a few lines long."
+	},
+	{
+		"LABEL": "0x4BAD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Sternly written information. A diminutive record that no one will remember."
+	},
+	{
+		"LABEL": "0x4C65",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However... everyone's stories are contained within."
+	},
+	{
+		"LABEL": "0x4C9B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Nomura Touri's,"
+	},
+	{
+		"LABEL": "0x4CB5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Nomura Reiri's,"
+	},
+	{
+		"LABEL": "0x4CCF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hiragino Sousuke's,"
+	},
+	{
+		"LABEL": "0x4CE9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Saihouji Tokiwa's..."
+	},
+	{
+		"LABEL": "0x4D07",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The fifty people's, whose lives were taken in an instant..."
+	},
+	{
+		"LABEL": "0x4D33",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "All of their stories are there."
+	},
+	{
+		"LABEL": "0x4D6B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You survived.」"
+	},
+	{
+		"LABEL": "0x4D8F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「There's no meaning behind it. No one could have foreseen why you or I survived.」"
+	},
+	{
+		"LABEL": "0x4DFD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The meaning of your survival is something you have to grasp from now on.」"
+	},
+	{
+		"LABEL": "0x4E4F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――Don't pretend that it never happened."
+	},
+	{
+		"LABEL": "0x4E7F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Even if their unavoidable deaths are set in stone,"
+	},
+	{
+		"LABEL": "0x4EB7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "you mustn't let it all end there."
+	},
+	{
+		"LABEL": "0x4EF3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Just as the Dei Gratia has passed down the tragedy of the Mary Celeste to future generations,"
+	},
+	{
+		"LABEL": "0x4F41",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I have to pass on this tale."
+	},
+	{
+		"LABEL": "0x4F67",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yes...」"
+	},
+	{
+		"LABEL": "0x4F81",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "For that reason."
+	},
+	{
+		"LABEL": "0x4F9B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "For that reason, I..."
+	},
+	{
+		"LABEL": "0x4FBD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Katagiri Hitoha, survived."
+	},
+	{
+		"LABEL": "0x4FE7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I――"
+	},
+	{
+		"LABEL": "0x4FFF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Once more, "
+	},
+	{
+		"LABEL": "0x5012",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I look down at the newspaper article."
+	}
+]

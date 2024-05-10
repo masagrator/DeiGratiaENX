@@ -1,0 +1,6482 @@
+[
+	{
+		"LABEL": "0x31F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「14:30, huh?」"
+	},
+	{
+		"LABEL": "0x33A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The LCD clock embedded in the wall had a vaguely sea-blue dial."
+	},
+	{
+		"LABEL": "0x37A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I checked the time without meaning to."
+	},
+	{
+		"LABEL": "0x3A2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "We were ushered into our respective rooms after seeing off those who remained on land from the observation deck."
+	},
+	{
+		"LABEL": "0x400",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Even though the passengers were all sensible people, it was still a challenge for all 50 people to get on board."
+	},
+	{
+		"LABEL": "0x464",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Even though it wasn't chaotic, I was tired."
+	},
+	{
+		"LABEL": "0x49E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Well then..."
+	},
+	{
+		"LABEL": "0x4B4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I let out a sigh and looked out of the circular window by the desk."
+	},
+	{
+		"LABEL": "0x55D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Wow...」"
+	},
+	{
+		"LABEL": "0x577",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Blue sea and blue skies spread out before me."
+	},
+	{
+		"LABEL": "0x5A7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It gave off a different impression from inside the submarine than seeing it from land."
+	},
+	{
+		"LABEL": "0x609",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The sky was an endless blue from just beyond the window frame to the distant horizon."
+	},
+	{
+		"LABEL": "0x657",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There were big clouds in the distance, typical of the summer sky."
+	},
+	{
+		"LABEL": "0x6A7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "My view was cut into a circle thanks to the window."
+	},
+	{
+		"LABEL": "0x6F5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Round and spherical shapes offered the most pressure resistance."
+	},
+	{
+		"LABEL": "0x72D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The outside of the submarine was stylishly designed, but its inner workings were quite simple."
+	},
+	{
+		"LABEL": "0x797",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was made up of two large spherical shells joined by a bridge."
+	},
+	{
+		"LABEL": "0x7FD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And these windows were not only circular but also extremely thick."
+	},
+	{
+		"LABEL": "0x841",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If you looked from near the edges, the view distorted as if looking through a pair of strong glasses."
+	},
+	{
+		"LABEL": "0x895",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There was something romantic about glass that you couldn't see through."
+	},
+	{
+		"LABEL": "0x90A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I turned toward the electronic sound."
+	},
+	{
+		"LABEL": "0x9A1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【Welcome to the <SHEEP III>!】"
+	},
+	{
+		"LABEL": "0x9D8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【Thank you for coming aboard!】"
+	},
+	{
+		"LABEL": "0xA12",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【I am POL, the brains of this ship and your assistant.】"
+	},
+	{
+		"LABEL": "0xA64",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【I hope you don't mind, but I will not be able to appear before you in person.】"
+	},
+	{
+		"LABEL": "0xABA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A voice, neither male nor female, flowed out of the ceiling speaker."
+	},
+	{
+		"LABEL": "0xB00",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I would've thought a staff member was talking to me if I didn't know beforehand."
+	},
+	{
+		"LABEL": "0xB4C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The reason why this submarine was considered a breakthrough was because it used the latest AI technology for navigation and communication."
+	},
+	{
+		"LABEL": "0xBBC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "This was their cutting-edge artificial intelligence, POL."
+	},
+	{
+		"LABEL": "0xBE5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【I hope everyone is in their rooms by now.】"
+	},
+	{
+		"LABEL": "0xC1F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【The red sections near the door and by the bed are microphones.】"
+	},
+	{
+		"LABEL": "0xC67",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【These are installed in various places inside the submarine.】"
+	},
+	{
+		"LABEL": "0xCA9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【If you need anything from me, you can contact me through them.】"
+	},
+	{
+		"LABEL": "0xCE3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【I'll be sure to get back to you as soon as possible, 24 hours a day.】"
+	},
+	{
+		"LABEL": "0xD17",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【POL is a chatty AI, so even if you don't need anything, feel free to talk to me.】"
+	},
+	{
+		"LABEL": "0xD7A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【Whoops, even if I'm a bit of a chatterbox, I'll make sure to keep your secrets.】"
+	},
+	{
+		"LABEL": "0xDCE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "An easygoing AI."
+	},
+	{
+		"LABEL": "0xDF0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There was indeed a microphone and what appeared to be a speaker by my bed."
+	},
+	{
+		"LABEL": "0xE3A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【Well then, our attendants will give you a briefing about the <SHEEP III> and the deep sea before we begin the dive in a little less than an hour.】"
+	},
+	{
+		"LABEL": "0xEC0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【However, I believe most of our guests today are already familiar with those subjects...】"
+	},
+	{
+		"LABEL": "0xF1A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【But I'm sure it'll be less boring than the launch ceremony we just had!】"
+	},
+	{
+		"LABEL": "0xF54",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【Ladies and gentlemen, please gather in the observation deck on the 3rd floor of the rear section.】"
+	},
+	{
+		"LABEL": "0xF9E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was a chatty AI, just like it said."
+	},
+	{
+		"LABEL": "0xFDA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Well, less than an hour before the dive starts..."
+	},
+	{
+		"LABEL": "0x100B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I still had preparations and final checks to make."
+	},
+	{
+		"LABEL": "0x105F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Well, no point in rushing too much."
+	},
+	{
+		"LABEL": "0x108D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "With the time remaining, should I enjoy some sightseeing first?"
+	},
+	{
+		"LABEL": "0x10C5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yep, let's go!」"
+	},
+	{
+		"LABEL": "0x10E3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I stood up."
+	},
+	{
+		"LABEL": "0x1103",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【Don't forget your keycard.】"
+	},
+	{
+		"LABEL": "0x1188",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...What a considerate AI."
+	},
+	{
+		"LABEL": "0x1234",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "When you thought of a submarine, you thought of cramped spaces, but the <SHEEP III> was about the size of four university server rooms."
+	},
+	{
+		"LABEL": "0x12AF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The <SHEEP III> had a theatre room, a library, and other intriguing facilities, but the observation deck was undoubtedly the main attraction."
+	},
+	{
+		"LABEL": "0x1332",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A floor in the rear section had been cut through to create a space where all the passengers could gather without feeling cramped."
+	},
+	{
+		"LABEL": "0x138E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The wall, curved along the spherical exterior, was almost half covered by large methacrylate windows, which offered a view of the outside from anywhere on the deck."
+	},
+	{
+		"LABEL": "0x1412",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Like this, one could enjoy the deep sea all around them during the dive."
+	},
+	{
+		"LABEL": "0x144E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Oops!」"
+	},
+	{
+		"LABEL": "0x1466",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Sorry!」"
+	},
+	{
+		"LABEL": "0x147E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Suddenly, I bumped shoulders with someone."
+	},
+	{
+		"LABEL": "0x14A0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A middle-aged man passed me by in a hurry from behind."
+	},
+	{
+		"LABEL": "0x14DC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And so, the corridor quickly filled with more and more people."
+	},
+	{
+		"LABEL": "0x150E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I didn't realize there were this many people on board..."
+	},
+	{
+		"LABEL": "0x153A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A bustling crowd of passengers."
+	},
+	{
+		"LABEL": "0x1562",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I knew there would be about 50 people, but it was much denser than I expected."
+	},
+	{
+		"LABEL": "0x15A8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The atmosphere was more like a school corridor than a station platform..."
+	},
+	{
+		"LABEL": "0x15F4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The well-lit corridor was filling with buzzing enthusiasm."
+	},
+	{
+		"LABEL": "0x1630",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Even though most of them were older than me, they were as cheerful as if they were still students."
+	},
+	{
+		"LABEL": "0x1686",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Most of them were ROMLES staff... In other words, marine enthusiasts, so it was not surprising that they were excited."
+	},
+	{
+		"LABEL": "0x16F2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Their anticipation was palpable, and their steps were light."
+	},
+	{
+		"LABEL": "0x1A2F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "By the time I arrived, many people had already gathered in the observation room."
+	},
+	{
+		"LABEL": "0x1A6D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The uniformed staff stood out amongst the plain-clothed passengers."
+	},
+	{
+		"LABEL": "0x1AB9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "They wore a uniform that was unmistakable from a distance, per tourism industry standards."
+	},
+	{
+		"LABEL": "0x1B13",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Their friendly banter with the passengers was understandable, given the exclusive nature of this event."
+	},
+	{
+		"LABEL": "0x1B83",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "For this voyage, they were both hosts and guests."
+	},
+	{
+		"LABEL": "0x1BD3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I passed by a few familiar faces but no one I knew very well."
+	},
+	{
+		"LABEL": "0x1C35",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Well, that was a good thing in and of itself..."
+	},
+	{
+		"LABEL": "0x1C69",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Karaoke, yakiniku, amusement parks... Always by myself..."
+	},
+	{
+		"LABEL": "0x1C99",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And now, I was alone inside this submarine."
+	},
+	{
+		"LABEL": "0x1CB3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I gazed at the large window in boredom, and after a few moments, the entrance to the observation deck opened, and a woman walked in."
+	},
+	{
+		"LABEL": "0x1D96",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She had a small, childlike body."
+	},
+	{
+		"LABEL": "0x1DB6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "You could call her slender, but not unbalanced."
+	},
+	{
+		"LABEL": "0x1DFE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There was definitely still room for growth."
+	},
+	{
+		"LABEL": "0x1E3A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "On the other hand, her facial features were quite refined."
+	},
+	{
+		"LABEL": "0x1E6C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was a shame her eyes gave off this tough impression."
+	},
+	{
+		"LABEL": "0x1EA2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She had the sharp eyes and posture of a class president."
+	},
+	{
+		"LABEL": "0x1EE0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her uniform looked somehow inappropriate for her height, which made me smile."
+	},
+	{
+		"LABEL": "0x1F22",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Nearly half of the people present had noticed her and were staring at her."
+	},
+	{
+		"LABEL": "0x1F64",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As the chatter gradually died down, she stepped up onto a small stage built right in the middle of a large window and bowed to us with her back to it."
+	},
+	{
+		"LABEL": "0x2068",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I wish to thank you all for joining us on this voyage on the <SHEEP III>.」"
+	},
+	{
+		"LABEL": "0x20BB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「My name is Momoi Yukari, and I serve as the chief attendant of this submarine.」"
+	},
+	{
+		"LABEL": "0x2113",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「As you may have heard in the previous broadcast, this submarine has no captain or any crew members directly at the controls.」"
+	},
+	{
+		"LABEL": "0x218F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's because we're letting POL, the most advanced AI to date, do the work for us.」"
+	},
+	{
+		"LABEL": "0x21D6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「However, POL doesn't have the limbs we do.」"
+	},
+	{
+		"LABEL": "0x2213",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I might not look like the most competent person, as you can see... But if you need help with anything, please don't hesitate to call out to me.」"
+	},
+	{
+		"LABEL": "0x2282",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her voice was so clear that I wondered if it was really coming from that small body."
+	},
+	{
+		"LABEL": "0x2332",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「So, as POL just announced, we will hold an introduction to help you enjoy the voyage ahead.」"
+	},
+	{
+		"LABEL": "0x23B3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Let's start with the description of our route, although I'm sure you're all already familiar with it...」"
+	},
+	{
+		"LABEL": "0x241C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A few laughs rose from here and there."
+	},
+	{
+		"LABEL": "0x2442",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No wonder since today's passengers were people directly involved with the project."
+	},
+	{
+		"LABEL": "0x2480",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "When it came time to give the explanation, the look on her face changed."
+	},
+	{
+		"LABEL": "0x252E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Turn your attention toward the large window in front of you, please.」"
+	},
+	{
+		"LABEL": "0x255B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As soon as Yukari said that, an image was displayed on the window as if it was a large monitor."
+	},
+	{
+		"LABEL": "0x262C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Wow...」"
+	},
+	{
+		"LABEL": "0x2646",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A polymer-structured transmissive display."
+	},
+	{
+		"LABEL": "0x2672",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Generously high-tech."
+	},
+	{
+		"LABEL": "0x2698",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "An audible gasp rose not just from me but from everyone around the deck."
+	},
+	{
+		"LABEL": "0x26E6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "This was even more luxurious than I thought it would be."
+	},
+	{
+		"LABEL": "0x2726",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "After an intro screen lasting less than ten seconds, a simple round map was displayed."
+	},
+	{
+		"LABEL": "0x2795",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If you look here, you can see Kurama Bay is shaped like a horseshoe with a narrow mouth at the top of the U-shape.」"
+	},
+	{
+		"LABEL": "0x2804",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Currently, the <SHEEP III> that carries us is at the bottom of it, in the inner part of the bay.」"
+	},
+	{
+		"LABEL": "0x2859",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The sea here is still very shallow, with a depth of 30 to 50 meters at most.」"
+	},
+	{
+		"LABEL": "0x28BB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「On the other hand, the upper part of the U, the mouth of the bay, is about 13 kilometers wide from east to west. Around this area, the sea deepens rapidly.」"
+	},
+	{
+		"LABEL": "0x2926",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――That's where the so-called \"deep sea\" is.」"
+	},
+	{
+		"LABEL": "0x2972",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「We'll first proceed by sea toward the mouth of the bay and then dive from there.」"
+	},
+	{
+		"LABEL": "0x2A92",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Well then, everyone. Do you know how deep the deep sea is?」"
+	},
+	{
+		"LABEL": "0x2AE7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her tone was forcefully cheerful."
+	},
+	{
+		"LABEL": "0x2B0F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Well, everyone here was more or less an expert on the subject."
+	},
+	{
+		"LABEL": "0x2B55",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was inevitable that this would turn into a farce at some point. "
+	},
+	{
+		"LABEL": "0x2B8F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her question was so obvious that no one dared to raise their hand."
+	},
+	{
+		"LABEL": "0x2BDF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Perhaps losing interest as soon as she heard the question, a girl in the crowd wandered toward the windows."
+	},
+	{
+		"LABEL": "0x2C5F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Wouldn't ignoring Yukari make her feel terrible?"
+	},
+	{
+		"LABEL": "0x2C9F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It wouldn't hurt for someone to play along, would it?"
+	},
+	{
+		"LABEL": "0x2CE1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Circumstances being what they were, I was not able to take on that role..."
+	},
+	{
+		"LABEL": "0x2D57",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "One hand rose quickly."
+	},
+	{
+		"LABEL": "0x2D7D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I was impressed because I didn't know how someone could raise their hand in this atmosphere."
+	},
+	{
+		"LABEL": "0x2DE2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Okay, give her a microphone.」"
+	},
+	{
+		"LABEL": "0x2E87",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was a young girl who stood up after being nominated by Yukari."
+	},
+	{
+		"LABEL": "0x2ED1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Was she a high school student?"
+	},
+	{
+		"LABEL": "0x2EEF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She was a girl who seemed surprisingly cheerful among the adults, who all had a researcher-like aura surrounding them."
+	},
+	{
+		"LABEL": "0x2F54",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her irreverent attitude seemed somehow nostalgic."
+	},
+	{
+		"LABEL": "0x2F94",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yes, just like..."
+	},
+	{
+		"LABEL": "0x2FDC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No, no, no."
+	},
+	{
+		"LABEL": "0x2FFC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I shook my head to dispel the illusion."
+	},
+	{
+		"LABEL": "0x302A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In the meantime, she was invited up to the stage where she received a microphone and, after some thought, answered slowly."
+	},
+	{
+		"LABEL": "0x3171",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hmm, I think it's... "
+	},
+	{
+		"LABEL": "0x3241",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "1000 meters! ..."
+	},
+	{
+		"LABEL": "0x32C3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Or maybe not?」"
+	},
+	{
+		"LABEL": "0x32F0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Unfortunately, it's not quite that deep.」"
+	},
+	{
+		"LABEL": "0x332E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What we call the deep sea is where the water is more than 200 meters deep.」"
+	},
+	{
+		"LABEL": "0x33ED",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Wow! It's a lot less than I thought!」"
+	},
+	{
+		"LABEL": "0x3420",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Laughter broke out all around me."
+	},
+	{
+		"LABEL": "0x3444",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "How normal to think that 200 meters wasn't deep..."
+	},
+	{
+		"LABEL": "0x347A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The crowd wasn't ridiculing the girl's ignorance. They were laughing at her honesty."
+	},
+	{
+		"LABEL": "0x34DC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A warm atmosphere pervaded the room."
+	},
+	{
+		"LABEL": "0x353A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hmm..."
+	},
+	{
+		"LABEL": "0x3554",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I thought all the passengers were related to the project, but it seemed like that was not the case."
+	},
+	{
+		"LABEL": "0x35B4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Maybe she was the daughter of one of the researchers."
+	},
+	{
+		"LABEL": "0x35F0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Anyway, a person with her general sensibilities was a precious thing among this group of experts."
+	},
+	{
+		"LABEL": "0x364C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari smiled at her and asked the next question."
+	},
+	{
+		"LABEL": "0x376B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Then... do you know what the temperature is in the deep sea?」"
+	},
+	{
+		"LABEL": "0x382A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Uhh... I have no idea, but at zero degrees, it would freeze...」"
+	},
+	{
+		"LABEL": "0x38E1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...So, about ten degrees?」"
+	},
+	{
+		"LABEL": "0x3912",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That was a good line of thinking. Around here, if you go below 200 meters, the temperature will drop to about 4 degrees.」"
+	},
+	{
+		"LABEL": "0x39E2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「So cold! Ah, so that's why the diving suits are so thick...」"
+	},
+	{
+		"LABEL": "0x3A67",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The exchange, which seemed like it was staged, elicited another round of laughter."
+	},
+	{
+		"LABEL": "0x3B7E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But why bother measuring it that deep?」"
+	},
+	{
+		"LABEL": "0x3C20",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...I mean, how do you even measure it?」"
+	},
+	{
+		"LABEL": "0x3C65",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Good question. But before I answer that, how about one more quiz?」"
+	},
+	{
+		"LABEL": "0x3CC2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari turned from the girl toward the audience."
+	},
+	{
+		"LABEL": "0x3D7E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「This great sea we're sailing on...」"
+	},
+	{
+		"LABEL": "0x3DBC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「This huge volume of water that fills the sea is, in fact, constantly moving.」"
+	},
+	{
+		"LABEL": "0x3E0C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Water chilled in the North Atlantic and Antarctica sinks into the deep sea and heads toward the tropics and subtropics.」"
+	},
+	{
+		"LABEL": "0x3E6E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Water warmed in the tropical and subtropical seas rises to the surface again and travels through the oceans again to the polar regions.」"
+	},
+	{
+		"LABEL": "0x3EDA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That is how the waters of the oceans travel the world.%N"
+	},
+	{
+		"LABEL": "0x3FD4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Now then, how long do you think it'll take for it to go \"around the world\"?」"
+	},
+	{
+		"LABEL": "0x40A2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Eh? Another question?」"
+	},
+	{
+		"LABEL": "0x40C2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hnn... 50 years...?」"
+	},
+	{
+		"LABEL": "0x4152",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「No, 100 years!」"
+	},
+	{
+		"LABEL": "0x41B6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "This time it was not common knowledge for everyone in the audience."
+	},
+	{
+		"LABEL": "0x4208",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There was the girl who had gone behind Yukari to look out the windows as if she had lost interest,"
+	},
+	{
+		"LABEL": "0x4262",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "and all the adults who had started chatting here and there. They were all quietly waiting for Yukari to continue."
+	},
+	{
+		"LABEL": "0x42BA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She looked around at her audience and then slowly opened her mouth."
+	},
+	{
+		"LABEL": "0x438F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――In fact, it is said to take 2000 years.」"
+	},
+	{
+		"LABEL": "0x43C1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But of course, we haven't been tracing the waters of the sea for 2000 years.」"
+	},
+	{
+		"LABEL": "0x4419",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「How do you measure the speed at which water moves in the sea?」"
+	},
+	{
+		"LABEL": "0x445D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「To tell you the truth, the same system is used here to measure the temperature of the deep sea.」"
+	},
+	{
+		"LABEL": "0x44E7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari began to talk eloquently."
+	},
+	{
+		"LABEL": "0x450B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Perhaps this wasn't the content they had planned since the subject wasn't for the general public."
+	},
+	{
+		"LABEL": "0x4633",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The girl on stage listened intently to Yukari's words, tilting her head at the occasional jargon."
+	},
+	{
+		"LABEL": "0x468F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was like master and pupil, or teacher and student."
+	},
+	{
+		"LABEL": "0x4730",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「*Yawn...*」"
+	},
+	{
+		"LABEL": "0x474A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I turned my head away from the stage, almost yawning."
+	},
+	{
+		"LABEL": "0x478E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "At that time."
+	},
+	{
+		"LABEL": "0x4810",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Oh?」"
+	},
+	{
+		"LABEL": "0x482A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As I turned around, I saw a girl who looked out of place."
+	},
+	{
+		"LABEL": "0x4882",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She looked even younger than the girl on stage."
+	},
+	{
+		"LABEL": "0x48E4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She looked toward the stage with a kind, almost nostalgic look in her eyes."
+	},
+	{
+		"LABEL": "0x4950",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She had pale skin and was wearing white clothes."
+	},
+	{
+		"LABEL": "0x4972",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her clothes might be plain, but they were unique enough that I wanted to call them an outfit."
+	},
+	{
+		"LABEL": "0x49CA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "All in all, she was a lightly-colored girl."
+	},
+	{
+		"LABEL": "0x49F2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She had a fragile quality to her, like she was about to disappear at any moment."
+	},
+	{
+		"LABEL": "0x4A2A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "You could say she was underdeveloped if you wanted to be mean or had a delicate figure if you put it nicely."
+	},
+	{
+		"LABEL": "0x4A62",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Although she seemed comfortable in her fluffy, princess-like clothing, her complexion didn't look that good."
+	},
+	{
+		"LABEL": "0x4ABE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The soft smile on her face made her look like a Western doll."
+	},
+	{
+		"LABEL": "0x4B10",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She was the complete opposite of the lively girl on stage, but they seemed to be about the same age."
+	},
+	{
+		"LABEL": "0x4B9B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Still, I wondered how she got on this boat."
+	},
+	{
+		"LABEL": "0x4BE1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Not to be rude, but she didn't look like someone involved with the project."
+	},
+	{
+		"LABEL": "0x4C2F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Although there were rumors that a girl genius would be boarding, I didn't think this was \"her,\" either."
+	},
+	{
+		"LABEL": "0x4C9B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "You couldn't get these tickets by chance."
+	},
+	{
+		"LABEL": "0x4CCF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In fact, getting a ticket was the hardest part of the plan for me."
+	},
+	{
+		"LABEL": "0x4D8D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And then, the girl looked back at me."
+	},
+	{
+		"LABEL": "0x4DB7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Ah.」"
+	},
+	{
+		"LABEL": "0x4DCB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I found myself staring at her, and our eyes met awkwardly."
+	},
+	{
+		"LABEL": "0x4E17",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The girl smiled at me as I was frozen, unable to look away."
+	},
+	{
+		"LABEL": "0x4E6F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Was I overly self-conscious, or did she mistake me for someone else? I looked around forcibly."
+	},
+	{
+		"LABEL": "0x4EBD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The girl giggled."
+	},
+	{
+		"LABEL": "0x4EDF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She quickly turned toward me."
+	},
+	{
+		"LABEL": "0x4F0D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "This girl with a unique aura, combined with her pure white clothes, was approaching me leisurely."
+	},
+	{
+		"LABEL": "0x4FD9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She stopped me before I could escape like a snake staring down her prey."
+	},
+	{
+		"LABEL": "0x5072",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The girl bowed deeply."
+	},
+	{
+		"LABEL": "0x511A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hello. Do you happen to know my sister?」"
+	},
+	{
+		"LABEL": "0x5157",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Huh? Your sister?」"
+	},
+	{
+		"LABEL": "0x51F2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Look, over there, the cheerful one――」"
+	},
+	{
+		"LABEL": "0x5231",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She nodded her head."
+	},
+	{
+		"LABEL": "0x5251",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I think she meant that lively girl talking with that attendant."
+	},
+	{
+		"LABEL": "0x530C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That's my sister right there.」"
+	},
+	{
+		"LABEL": "0x5343",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x53D8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「As I thought, you must be a friend of hers!」"
+	},
+	{
+		"LABEL": "0x5416",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――And such a cool guy, too.」"
+	},
+	{
+		"LABEL": "0x549E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She looked at me for a moment, then nodded her head."
+	},
+	{
+		"LABEL": "0x54E3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The girl, who spoke in a low voice to not disturb the exchange on stage, seemed somewhat proud of herself."
+	},
+	{
+		"LABEL": "0x5543",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She must be happy to have everyone's attention focused on her sister."
+	},
+	{
+		"LABEL": "0x5581",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But were they really sisters? They didn't look alike that much if you asked me..."
+	},
+	{
+		"LABEL": "0x55F1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Anyway, it was unexpected that there was someone who would talk to me here."
+	},
+	{
+		"LABEL": "0x565A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I glanced sideways around me."
+	},
+	{
+		"LABEL": "0x5682",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Although most eyes focused on the stage, the out-of-place girl was attracting some attention."
+	},
+	{
+		"LABEL": "0x56E2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If we continued like this, people might start wondering what our relationship was."
+	},
+	{
+		"LABEL": "0x573C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――I quickly smiled back at her, as eloquently as possible."
+	},
+	{
+		"LABEL": "0x57E8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「No, it's... Look, I'm not a friend of hers.」"
+	},
+	{
+		"LABEL": "0x583A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「She just stood out and... caught my eye.」"
+	},
+	{
+		"LABEL": "0x587A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Sorry to give you the wrong idea.」"
+	},
+	{
+		"LABEL": "0x58B9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Huh...?」"
+	},
+	{
+		"LABEL": "0x58D3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Ah, no... If you're not, then that's alright.」"
+	},
+	{
+		"LABEL": "0x590B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Sorry for speaking to you out of the blue.」"
+	},
+	{
+		"LABEL": "0x594C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She looked apologetic and embarrassed."
+	},
+	{
+		"LABEL": "0x5978",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her shrinking figure made her look even younger than she was."
+	},
+	{
+		"LABEL": "0x59B6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "All the more strange that she was in this submarine among all these involved people."
+	},
+	{
+		"LABEL": "0x5A0C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...I didn't want to prolong this line of conversation."
+	},
+	{
+		"LABEL": "0x5A38",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As if to break the deadlock, I asked her a question."
+	},
+	{
+		"LABEL": "0x5A8A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「By the way, you're...?」"
+	},
+	{
+		"LABEL": "0x5ABD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hikari. "
+	},
+	{
+		"LABEL": "0x5B47",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "You can call me Lumiere=Hikari.」"
+	},
+	{
+		"LABEL": "0x5B8A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「And how... Excuse me?」"
+	},
+	{
+		"LABEL": "0x5BA6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "\"And how did you come to be on this boat?\""
+	},
+	{
+		"LABEL": "0x5BD0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That was what I meant to ask, but her introduction cut my thoughts short."
+	},
+	{
+		"LABEL": "0x5C14",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Lumi... What did you say?」"
+	},
+	{
+		"LABEL": "0x5CB7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Lumiere=Hikari. It's my pen name.」"
+	},
+	{
+		"LABEL": "0x5DB0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm actually a poet, you see?」"
+	},
+	{
+		"LABEL": "0x5DE8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Huh...」"
+	},
+	{
+		"LABEL": "0x5DFE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I replied absentmindedly... But what else could I say?"
+	},
+	{
+		"LABEL": "0x5E44",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The girl puffed out her chest in pride, even more than a moment ago."
+	},
+	{
+		"LABEL": "0x5E78",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She declared herself a poet and gave her pen name on our first meeting?"
+	},
+	{
+		"LABEL": "0x5EB0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...This kid was more troublesome than I expected――"
+	},
+	{
+		"LABEL": "0x5F6D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Ah, mister!」"
+	},
+	{
+		"LABEL": "0x5F8B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You just thought that I was troublesome, didn't you?」"
+	},
+	{
+		"LABEL": "0x5FCA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――She was sharp."
+	},
+	{
+		"LABEL": "0x5FE6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I didn't let my inner thoughts get in the way of my smile."
+	},
+	{
+		"LABEL": "0x602C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Well you see――」"
+	},
+	{
+		"LABEL": "0x610C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hmm? Hmmmmm...?」"
+	},
+	{
+		"LABEL": "0x613C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The girl smiled mischievously and pointed her finger at me."
+	},
+	{
+		"LABEL": "0x61F5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Well, well, well. Your face tells me I hit the nail on the head.」"
+	},
+	{
+		"LABEL": "0x6227",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You're awful, mister...」"
+	},
+	{
+		"LABEL": "0x62B9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But... I forgive you!」"
+	},
+	{
+		"LABEL": "0x62E8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "This kid wouldn't listen at all, would she?"
+	},
+	{
+		"LABEL": "0x6318",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "This girl, Hikari, was more than just troublesome."
+	},
+	{
+		"LABEL": "0x6356",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She was trouble itself."
+	},
+	{
+		"LABEL": "0x6374",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was a mistake to get involved with her."
+	},
+	{
+		"LABEL": "0x63CF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Ugh...」"
+	},
+	{
+		"LABEL": "0x63E5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was hopeless... I let out a sigh and slumped my shoulders."
+	},
+	{
+		"LABEL": "0x6417",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Then, Hikari let out a giggle."
+	},
+	{
+		"LABEL": "0x6445",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What is it now?」"
+	},
+	{
+		"LABEL": "0x6469",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Without even trying to hide my annoyance, I asked her."
+	},
+	{
+		"LABEL": "0x64AF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Anyone looking could see that I was pretty annoyed."
+	},
+	{
+		"LABEL": "0x655F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However, even after seeing that, she smiled happily."
+	},
+	{
+		"LABEL": "0x65A7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Is something funny?」"
+	},
+	{
+		"LABEL": "0x664A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Weeelll...」"
+	},
+	{
+		"LABEL": "0x6666",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm just happy that you finally dropped your mask.」"
+	},
+	{
+		"LABEL": "0x66AD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Mask?」"
+	},
+	{
+		"LABEL": "0x6740",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yea, your mask.」"
+	},
+	{
+		"LABEL": "0x6765",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "When I asked her, she nodded her head repeatedly."
+	},
+	{
+		"LABEL": "0x6818",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「We all wear masks to protect ourselves and our true feelings.」"
+	},
+	{
+		"LABEL": "0x6866",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But if you wear your mask too tightly, you might suffocate your heart.」"
+	},
+	{
+		"LABEL": "0x68C1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What are you getting at...?」"
+	},
+	{
+		"LABEL": "0x68EE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You were suffocating, mister.」"
+	},
+	{
+		"LABEL": "0x6923",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x6966",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Wearing a mask to the point of suffocating, huh...?"
+	},
+	{
+		"LABEL": "0x699C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was like she saw right through me."
+	},
+	{
+		"LABEL": "0x69D8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But strangely, it didn't feel bad."
+	},
+	{
+		"LABEL": "0x6A06",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Was it because I couldn't deny her words?"
+	},
+	{
+		"LABEL": "0x6A48",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No, it wasn't just that."
+	},
+	{
+		"LABEL": "0x6A74",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I thought she was just a weird kid who couldn't read the air, but――"
+	},
+	{
+		"LABEL": "0x6B23",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hmm?」"
+	},
+	{
+		"LABEL": "0x6B3F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Did your opinion of me rise a bit by any chance, mister?」"
+	},
+	{
+		"LABEL": "0x6BE9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm a bit embarrassed... Ehehe‾」"
+	},
+	{
+		"LABEL": "0x6C14",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Ugh...」"
+	},
+	{
+		"LABEL": "0x6C2E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Nope, she was a weird girl, after all."
+	},
+	{
+		"LABEL": "0x6C5E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The girl smiled shyly, not hearing my reply at all."
+	},
+	{
+		"LABEL": "0x6C9E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A strange kid..."
+	},
+	{
+		"LABEL": "0x6CB6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But the vulnerable smile on her face disarmed me."
+	},
+	{
+		"LABEL": "0x6D2B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――I shook my head from side to side to clear my mind."
+	},
+	{
+		"LABEL": "0x6D63",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And at that moment..."
+	},
+	{
+		"LABEL": "0x6DB8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Please watch where you're going, everyone.」"
+	},
+	{
+		"LABEL": "0x6DEB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "At Yukari's announcement, everyone started turning away from the stage."
+	},
+	{
+		"LABEL": "0x6EC4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Ah, I almost forgot!」"
+	},
+	{
+		"LABEL": "0x6EE2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「There was someone I was supposed to be looking for.」"
+	},
+	{
+		"LABEL": "0x6F0E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Well then, see you around!」"
+	},
+	{
+		"LABEL": "0x6F5A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――The girl left."
+	},
+	{
+		"LABEL": "0x6F8A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I was relieved to be left alone."
+	},
+	{
+		"LABEL": "0x6FB8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I didn't want to get involved in any more trouble before the dive even started."
+	},
+	{
+		"LABEL": "0x700C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...She was an interesting kid, though."
+	},
+	{
+		"LABEL": "0x7038",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In the meantime, the submarine seemed to have come a long way from the harbor."
+	},
+	{
+		"LABEL": "0x7107",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I could see the Aqualine and a floating island up close through the large windows."
+	},
+	{
+		"LABEL": "0x7164",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What you see there is the <Isle of Wind>.」"
+	},
+	{
+		"LABEL": "0x718C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「In addition to generating electricity using both wave and wind power, it's equipped with a revolutionary artificial photosynthesis system with an energy conversion efficiency"
+	},
+	{
+		"LABEL": "0x720A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "of over 12%%. It was developed as a symbol for a new generation of clean energy.」"
+	},
+	{
+		"LABEL": "0x7259",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Clean energy surpassed 50%% of the country's electricity supply in terms of numbers three years ago."
+	},
+	{
+		"LABEL": "0x72B4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I didn't know the significance of those numbers, but it stuck in my mind since our government was so eager to reach that goal."
+	},
+	{
+		"LABEL": "0x7334",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "How much money was subsidized for the construction of the <Isle of Wind>, I didn't know, but it was one of the biggest wind power facilities in Japan."
+	},
+	{
+		"LABEL": "0x741E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The many white windmills lining the sea are a famous night viewing spot, but they look great in the daytime too.」"
+	},
+	{
+		"LABEL": "0x748D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The <Isle of Wind> was a floating island with a radius of 500 meters that supported the middle of Kurama Bay Aqualine."
+	},
+	{
+		"LABEL": "0x74EF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Even though it was called an island, it wasn't a natural one."
+	},
+	{
+		"LABEL": "0x7531",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If we thought of the number of interconnected wave power units as an island,"
+	},
+	{
+		"LABEL": "0x75CC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "then the white windmills standing on%Nthem must be trees."
+	},
+	{
+		"LABEL": "0x75FC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The blades of the windmills were like branches swaying in the wind."
+	},
+	{
+		"LABEL": "0x7632",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The colorless and isolated man-made island was indeed a supernatural beauty."
+	},
+	{
+		"LABEL": "0x76E2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But I wondered why."
+	},
+	{
+		"LABEL": "0x770A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The beauty of it all seemed somehow frightening to me."
+	},
+	{
+		"LABEL": "0x774A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The Mother Sea was full of life but also linked to countless deaths."
+	},
+	{
+		"LABEL": "0x7796",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Even if it was the location of the Aqualine, it reminded me of that \"accident.\""
+	},
+	{
+		"LABEL": "0x77E8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "How many years had it been?"
+	},
+	{
+		"LABEL": "0x7812",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The <Isle of Wind> was a symbol of death―a white tombstone to mourn the dead."
+	},
+	{
+		"LABEL": "0x7864",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The <SHEEP III> was gradually approaching the <Isle of Wind>."
+	},
+	{
+		"LABEL": "0x78A3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――Speaking of which."
+	},
+	{
+		"LABEL": "0x78C1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It had been a young girl who'd designed the <Isle of Wind> along with its wind and wave power generation systems."
+	},
+	{
+		"LABEL": "0x7929",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I wondered what she had thought while designing them..."
+	},
+	{
+		"LABEL": "0x7A5A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The submarine changed direction to go around the floating island."
+	},
+	{
+		"LABEL": "0x7A96",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It looked like we would go under the Aqualine while avoiding the <Isle of Wind>."
+	},
+	{
+		"LABEL": "0x7ADC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The Kurama Bay Aqualine was famous for the popular marine theme park at other the end of it."
+	},
+	{
+		"LABEL": "0x7B3A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I, too, went there once when it first opened, but I couldn't remember how long ago that was now..."
+	},
+	{
+		"LABEL": "0x7B92",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The giant aquariums and attractions were undoubtedly a breath of fresh air but――"
+	},
+	{
+		"LABEL": "0x7BDA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I didn't get why the mascot character was so popular."
+	},
+	{
+		"LABEL": "0x7C1A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It made the children cry..."
+	},
+	{
+		"LABEL": "0x7C4D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「We will now pass right next to the <Isle of Wind>.」"
+	},
+	{
+		"LABEL": "0x7C83",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The <SHEEP III> is the only means by which to view the island this close.」"
+	},
+	{
+		"LABEL": "0x7CD2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm sure the scenery you'll see on this maiden voyage will be exceptional.」"
+	},
+	{
+		"LABEL": "0x7D25",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Although it sounded a bit exaggerated, there were no lies in Yukari's words."
+	},
+	{
+		"LABEL": "0x7D5F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In the shadow of the Aqualine, the submarine approached the <Isle of Wind> at a very close range."
+	},
+	{
+		"LABEL": "0x7DAF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As expected, seeing the windmills from this close was very powerful."
+	},
+	{
+		"LABEL": "0x7DE7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Sighs were leaking out from all around me from the people overwhelmed by the grandeur of this scene."
+	},
+	{
+		"LABEL": "0x7E25",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The wings of the windmills were spinning high above our heads."
+	},
+	{
+		"LABEL": "0x7E49",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "They looked surprisingly thin, considering their huge base."
+	},
+	{
+		"LABEL": "0x7E87",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Literal feathers, like thin blades of ice cutting through the sky with the wind."
+	},
+	{
+		"LABEL": "0x7EBD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Its wings cracking and falling on the <SHEEP III> like swords――"
+	},
+	{
+		"LABEL": "0x7F02",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "For some reason, a vision like that flashed through my mind."
+	},
+	{
+		"LABEL": "0x7F46",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Odd."
+	},
+	{
+		"LABEL": "0x7F64",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The <Isle of Wind> had been in operation for three years now, and I'd never heard of such an accident."
+	},
+	{
+		"LABEL": "0x7FB7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Who on earth would think about the wings of the white windmills breaking?"
+	},
+	{
+		"LABEL": "0x809F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Huh...?」"
+	},
+	{
+		"LABEL": "0x80B9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A small sound."
+	},
+	{
+		"LABEL": "0x80E5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I might've been the only one to hear it... a very slight sound."
+	},
+	{
+		"LABEL": "0x8135",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However, due to the ominous thoughts I just had, that sound like something breaking rang unpleasantly clear in my ears."
+	},
+	{
+		"LABEL": "0x81A1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What was that sound?"
+	},
+	{
+		"LABEL": "0x81BD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I looked backward, toward the direction where it came from."
+	},
+	{
+		"LABEL": "0x82CC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Naturally, there was nothing."
+	},
+	{
+		"LABEL": "0x82F2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "When I looked back, all I saw were the relaxed faces of the passengers as they marveled the <Isle of Wind>."
+	},
+	{
+		"LABEL": "0x8350",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――Except..."
+	},
+	{
+		"LABEL": "0x8370",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Who would have thought?"
+	},
+	{
+		"LABEL": "0x8398",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In the corner of the observation deck, standing by the door, was a somewhat peculiar-looking man."
+	},
+	{
+		"LABEL": "0x8468",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Seeing him leaning against a pillar with his arms folded caught my attention for some reason."
+	},
+	{
+		"LABEL": "0x84B0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "He wore a different uniform than the attendants and other crew members, but it was evident that he was a member of the crew."
+	},
+	{
+		"LABEL": "0x8512",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The sleeves of his lab coat were rolled up to his elbows on both arms... So, he was the ship's doctor, was he?"
+	},
+	{
+		"LABEL": "0x856E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However, his appearance was far from the image I had of a doctor."
+	},
+	{
+		"LABEL": "0x85B4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "His sleeves were rolled up to expose his strong arms, and a shirt with a wide collar was under his coat."
+	},
+	{
+		"LABEL": "0x8610",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Don't you think you look just a bit too rough?"
+	},
+	{
+		"LABEL": "0x8642",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I was wondering if it was okay for a ship's doctor to leave his post in the first place."
+	},
+	{
+		"LABEL": "0x86A5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But... there was something else about him that made me feel uncomfortable."
+	},
+	{
+		"LABEL": "0x86E7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Like the passengers around him, he was staring at the <Isle of Wind>."
+	},
+	{
+		"LABEL": "0x8727",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However, unlike the people around him, he was not overwhelmed or excited by the powerful scene."
+	},
+	{
+		"LABEL": "0x87E7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "His eyes were stern but not angry as he stared at the <Isle of Wind> without moving."
+	},
+	{
+		"LABEL": "0x8855",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "They looked like the eyes of someone bearing or cherishing something."
+	},
+	{
+		"LABEL": "0x88A5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "He remained silent."
+	},
+	{
+		"LABEL": "0x88CB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Was he making a wish, or maybe praying...?"
+	},
+	{
+		"LABEL": "0x8A8F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【We'll begin diving shortly.】"
+	},
+	{
+		"LABEL": "0x8AB9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【You will have to say goodbye to the surface scenery for a while, so make sure to remember it well.】"
+	},
+	{
+		"LABEL": "0x8B25",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【Everyone, if you would please look out the windows.】"
+	},
+	{
+		"LABEL": "0x8B51",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I checked my watch."
+	},
+	{
+		"LABEL": "0x8B71",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "15:30... Right on schedule."
+	},
+	{
+		"LABEL": "0x8B9B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The voyage was going well so far."
+	},
+	{
+		"LABEL": "0x8BCF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The AI's announcement brought more and more people into the observation deck."
+	},
+	{
+		"LABEL": "0x8C27",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Now everyone on the ship, passengers and crew alike, must be in here――no."
+	},
+	{
+		"LABEL": "0x8C85",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I don't think anyone else would've noticed it, but..."
+	},
+	{
+		"LABEL": "0x8CB3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The ship's doctor had disappeared from the deck some time ago."
+	},
+	{
+		"LABEL": "0x8CF3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Incidentally, as I looked at the door he had been standing beside, I saw the girl named Lumi-something leaving the observation deck as well."
+	},
+	{
+		"LABEL": "0x8D67",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What's with the timing...?"
+	},
+	{
+		"LABEL": "0x8D9B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In the midst of the sea and sky and separated from the Aqualine, the <SHEEP III> stopped its advance."
+	},
+	{
+		"LABEL": "0x8DF0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I could feel the rising anticipation on my skin."
+	},
+	{
+		"LABEL": "0x8E16",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The temperature in the observation room was also rising."
+	},
+	{
+		"LABEL": "0x8E44",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【The <SHEEP III> will now begin diving――】"
+	},
+	{
+		"LABEL": "0x8E97",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As if prompted by that announcement, the submarine began to shake differently from when it sailed on the waves."
+	},
+	{
+		"LABEL": "0x8EED",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The submarine began sinking into the sea――"
+	},
+	{
+		"LABEL": "0x8F21",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【It's going to be a bit bumpy for a while from now on, so please be careful.】"
+	},
+	{
+		"LABEL": "0x8FD4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Everyone, it's going to be a real bumpy ride, so hold on tight to something close to you!」"
+	},
+	{
+		"LABEL": "0x9056",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The two of them gave us a warning in quick succession."
+	},
+	{
+		"LABEL": "0x9088",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...Still, there was no way that a submarine used for sightseeing could be subjected to any severe shaking."
+	},
+	{
+		"LABEL": "0x90E0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Looking around, I saw that most of the passengers, including me, were taking their sweet time."
+	},
+	{
+		"LABEL": "0x9120",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――However."
+	},
+	{
+		"LABEL": "0x91B2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Aaah!!」"
+	},
+	{
+		"LABEL": "0x91D4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Whoa――!」"
+	},
+	{
+		"LABEL": "0x91F0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A shock immediately made me lose my balance and fall into a crouching position."
+	},
+	{
+		"LABEL": "0x9238",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What the hell was that?"
+	},
+	{
+		"LABEL": "0x925C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Now it felt hard to believe we hadn't felt even the slightest tremor until now."
+	},
+	{
+		"LABEL": "0x929A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However, the voices I heard a moment ago weren't just from everyone falling down."
+	},
+	{
+		"LABEL": "0x92E2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Half of them were cheering because the dive had started."
+	},
+	{
+		"LABEL": "0x930A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "After all, the ship we were on was about to submerge into the sea, and most of us had never experienced such a thing in our lives."
+	},
+	{
+		"LABEL": "0x9376",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "How could they not be excited?"
+	},
+	{
+		"LABEL": "0x9398",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I could see crowds of people sticking to the windows in the large observation deck."
+	},
+	{
+		"LABEL": "0x93F0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "How did they manage to do that in the middle of all this shaking?"
+	},
+	{
+		"LABEL": "0x941A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I thought you guys were a bunch of experts."
+	},
+	{
+		"LABEL": "0x9448",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But it seemed like there were a good number of people who had never been aboard a submarine."
+	},
+	{
+		"LABEL": "0x94AC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Besides, there was a difference between a cramped research submarine and a sightseeing submarine."
+	},
+	{
+		"LABEL": "0x9508",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "This was a rare opportunity to see a diving scene through such a grand panorama."
+	},
+	{
+		"LABEL": "0x9560",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Especially for marine enthusiasts who had turned their hobby into a career..."
+	},
+	{
+		"LABEL": "0x95A2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――Well."
+	},
+	{
+		"LABEL": "0x9615",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Before I knew it, the sea's surface had reached the base of the third floor where the observation deck was located."
+	},
+	{
+		"LABEL": "0x9665",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was as if I was standing on a beach, with the floor and the surface of the sea overlapping... but that was only for a moment."
+	},
+	{
+		"LABEL": "0x96C5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The surface of the sea quickly rose, leaving us behind."
+	},
+	{
+		"LABEL": "0x9709",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Gentle waves lapped at the windows, repeatedly wiping away the splashes."
+	},
+	{
+		"LABEL": "0x9749",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Amid the constant shaking, the sky outside the window was gradually painted over by the blue of the sea..."
+	},
+	{
+		"LABEL": "0x979F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If the submarine had had only one window, it might not have looked that different from water pouring into an aquarium."
+	},
+	{
+		"LABEL": "0x9817",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Water pouring into an aquarium facing the deck――"
+	},
+	{
+		"LABEL": "0x9851",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "You could even create an illusion like that inside the comfort of this ship."
+	},
+	{
+		"LABEL": "0x9897",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In reality, however, the sea was gradually enveloping us on all sides, and the sea's blue gradually dyed the light that shone into the observation deck."
+	},
+	{
+		"LABEL": "0x9905",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The water level slowly passed over my chest and then over my head."
+	},
+	{
+		"LABEL": "0x9939",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "By then, everyone must have accepted that we were diving into the sea, regardless of individual differences."
+	},
+	{
+		"LABEL": "0x99A7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And finally, the entire submarine was completely submerged."
+	},
+	{
+		"LABEL": "0x9AF5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――Soon, the shaking stopped."
+	},
+	{
+		"LABEL": "0x9B21",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Grabbing onto something nearby, those who were crouched down as if frightened slowly stood up and made sure that the dive was complete."
+	},
+	{
+		"LABEL": "0x9B9B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And then, out of nowhere, there was applause and cheering."
+	},
+	{
+		"LABEL": "0x9BD9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I made a wry smile when I realized that I was unwittingly clapping my hands along with the others."
+	},
+	{
+		"LABEL": "0x9C2D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I would've liked to say that I was swept away by my surroundings, but I couldn't deny that I was actually quite moved."
+	},
+	{
+		"LABEL": "0x9C87",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Because of certain someone's influence, I yearned for the sea more than most people."
+	},
+	{
+		"LABEL": "0x9CD3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I was sure that everyone on this ship was of the same ilk."
+	},
+	{
+		"LABEL": "0x9D1B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I could hear the cheers of the people around me."
+	},
+	{
+		"LABEL": "0x9D51",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Surrounded by a vague sense of unity, the submarine continued diving down for a while before coming to a stop."
+	},
+	{
+		"LABEL": "0x9DA5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But since I could hardly feel the shaking in the water, I was just guessing from the scenery outside."
+	},
+	{
+		"LABEL": "0x9E18",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【Now then... We're at a depth of 30 meters where it's a bit darker than on the surface, but still fairly bright.】"
+	},
+	{
+		"LABEL": "0x9E7B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【It will be a while before we reach the deep sea, but please take your time to view the sea at this depth first!】"
+	},
+	{
+		"LABEL": "0x9F48",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It then felt like the submarine started moving horizontally."
+	},
+	{
+		"LABEL": "0x9F8A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The view outside the window drifted backward."
+	},
+	{
+		"LABEL": "0x9FC0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "This feeling was like... Yes, like the departure platform at a station."
+	},
+	{
+		"LABEL": "0x9FF0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "When a train started moving, the scenery would look like it was in motion."
+	},
+	{
+		"LABEL": "0xA03E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Outside the window was an aquarium―a world of water spreading all around us."
+	},
+	{
+		"LABEL": "0xA07E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What made it different from an aquarium was that you couldn't see \"the other side,\" and the scenery was constantly flowing from one scene to the next."
+	},
+	{
+		"LABEL": "0xA0EA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There were also fish in the sea―not as colorful as in artificially adjusted aquariums, but a variety of fish nonetheless."
+	},
+	{
+		"LABEL": "0xA168",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If I ever got the chance, it wouldn't be a bad idea to come here for some actual sightseeing."
+	},
+	{
+		"LABEL": "0xA21F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――I was reminded of it by my own thoughts."
+	},
+	{
+		"LABEL": "0xA255",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I had lost myself in the atmosphere for a moment and forgot, but I was not here just for sightseeing."
+	},
+	{
+		"LABEL": "0xA2AB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Unfortunately, I had too many other things on my mind at the moment to enjoy myself so openly."
+	},
+	{
+		"LABEL": "0xA30B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I glanced at my watch for confirmation."
+	},
+	{
+		"LABEL": "0xA339",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Almost 16:00, huh...?」"
+	},
+	{
+		"LABEL": "0xA357",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I compared my memory with the schedule I had checked before boarding the ship―the dive time was roughly on schedule."
+	},
+	{
+		"LABEL": "0xA3B7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If so, reaching the deep sea would still take some time."
+	},
+	{
+		"LABEL": "0xA4CE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Nevertheless――"
+	},
+	{
+		"LABEL": "0xA4EE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A sheet of blue filled my vision."
+	},
+	{
+		"LABEL": "0xA516",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It had been years since I'd seen the sea like this."
+	},
+	{
+		"LABEL": "0xA550",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I noticed that most passengers were sitting on the chairs or sofas."
+	},
+	{
+		"LABEL": "0xA58E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The excitement that had filled the entire observation deck at the beginning of the dive had subsided, and the calm sea had brought a sense of relaxation to the room."
+	},
+	{
+		"LABEL": "0xA610",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I wandered over to the window."
+	},
+	{
+		"LABEL": "0xA640",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I couldn't believe that on the other side of this piece of acrylic was the real sea―it was a chilling and astonishing situation."
+	},
+	{
+		"LABEL": "0xA696",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The true sea, the wild fish, the seaweed..."
+	},
+	{
+		"LABEL": "0xA73F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Hmm?」"
+	},
+	{
+		"LABEL": "0xA759",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Behind the acrylic, drifting in front of me... What the hell was that?"
+	},
+	{
+		"LABEL": "0xA7A7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A fist-sized bundle of mystery."
+	},
+	{
+		"LABEL": "0xA824",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A fish?"
+	},
+	{
+		"LABEL": "0xA838",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "You mean to tell me that was a fish?"
+	},
+	{
+		"LABEL": "0xA862",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No, no, no. That was impossible."
+	},
+	{
+		"LABEL": "0xA88C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However, I recognized these supernatural colors from somewhere..."
+	},
+	{
+		"LABEL": "0xA8CE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...What is that creepy thing?」"
+	},
+	{
+		"LABEL": "0xA905",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「That would be a nudibranch.」"
+	},
+	{
+		"LABEL": "0xA928",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「A nudibranch... Nudibranch. Ah, those nudibranchs... Can nudibranchs swim...?」"
+	},
+	{
+		"LABEL": "0xA993",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Of course they can swim. Even cows can swim, so why couldn't a sea cow swim?」"
+	},
+	{
+		"LABEL": "0xA9FC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Even cows, huh...? I guess that settles it then.」"
+	},
+	{
+		"LABEL": "0xAA43",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Incidentally, I can't swim. Even cows can swim, so it's quite pitiful.」"
+	},
+	{
+		"LABEL": "0xAAA2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's... disheartening how helpless we humans always are.」"
+	},
+	{
+		"LABEL": "0xAAED",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Absolutely.」"
+	},
+	{
+		"LABEL": "0xABA2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――Hmm?"
+	},
+	{
+		"LABEL": "0xABB8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Wasn't there something wrong with that conclusion?"
+	},
+	{
+		"LABEL": "0xABDE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Well, there was nothing conclusive about talking to oneself... Wait, was I talking to myself?"
+	},
+	{
+		"LABEL": "0xAC22",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I wasn't talking to myself, was I?"
+	},
+	{
+		"LABEL": "0xAC48",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Who interrupted my ramblings...?!"
+	},
+	{
+		"LABEL": "0xAC8A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I looked back at them, determined. "
+	},
+	{
+		"LABEL": "0xADDB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Before me was a girl%Nwearing a kimono with a somewhat distant look in her eyes."
+	},
+	{
+		"LABEL": "0xAE17",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The look in her eyes, as if she lacked awareness, made my shoulders relax."
+	},
+	{
+		"LABEL": "0xAE61",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But a kimono, huh...?"
+	},
+	{
+		"LABEL": "0xAE83",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The girl from earlier, Hikari, was very striking, but this girl was just as impressive..."
+	},
+	{
+		"LABEL": "0xAECB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A girl with a mysterious air about her."
+	},
+	{
+		"LABEL": "0xAEF7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However... This girl was..."
+	},
+	{
+		"LABEL": "0xAF19",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I wondered if she was the girl who had been frolicking near the windows for a while..."
+	},
+	{
+		"LABEL": "0xAF73",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I peered over to check her face."
+	},
+	{
+		"LABEL": "0xAFA1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hmm?」"
+	},
+	{
+		"LABEL": "0xAFBD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I felt like I knew her face from somewhere."
+	},
+	{
+		"LABEL": "0xAFEB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If I wasn't mistaken, this kimono-wearing girl was..."
+	},
+	{
+		"LABEL": "0xB08E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「\"Hey, do I know you from somewhere?\" "
+	},
+	{
+		"LABEL": "0xB12E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "is what you're going to%Nsay, right?」"
+	},
+	{
+		"LABEL": "0xB1B0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「This is what people call a \"pick-up line,\" right?」"
+	},
+	{
+		"LABEL": "0xB1FA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But it's such a typical phrase that I've only heard it in fiction.」"
+	},
+	{
+		"LABEL": "0xB24E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Rather than pushing for originality, I guess you're trying to make a reliable move, even if it's a cliche.」"
+	},
+	{
+		"LABEL": "0xB2B1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「No, no! You've got it all wrong――」"
+	},
+	{
+		"LABEL": "0xB35C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「No? Then what you want to say isn't――」"
+	},
+	{
+		"LABEL": "0xB3F6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「\"Hey, do I know you from somewhere?\""
+	},
+	{
+		"LABEL": "0xB494",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": " but,"
+	},
+	{
+		"LABEL": "0xB50E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": " \"Hey, it's me!%NCan I borrow some money?\" "
+	},
+	{
+		"LABEL": "0xB5A4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That kind of pattern, right?」"
+	},
+	{
+		"LABEL": "0xB5C2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Ah! How dare you! Your goal wasn't my mind or my body but my wealth!」"
+	},
+	{
+		"LABEL": "0xB623",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I told you that's not it!」"
+	},
+	{
+		"LABEL": "0xB6C0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Huh?」"
+	},
+	{
+		"LABEL": "0xB6DC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Then why did you talk to me if you didn't want my wealth?」"
+	},
+	{
+		"LABEL": "0xB733",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0xB74D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "You were the one who talked to me!"
+	},
+	{
+		"LABEL": "0xB77D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I didn't think I'd gain anything by saying that to her."
+	},
+	{
+		"LABEL": "0xB7B7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It seemed like a trigger I didn't want to step on."
+	},
+	{
+		"LABEL": "0xB7E5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I mean, were all the girls on this boat like this...?"
+	},
+	{
+		"LABEL": "0xB831",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I wondered if my earnest hope of going unnoticed would ever be fulfilled."
+	},
+	{
+		"LABEL": "0xB881",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Suppressing an urge to scream, I put on a smile as quickly as I could."
+	},
+	{
+		"LABEL": "0xB8C7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「No, it wasn't for any reason like that. You're Saihouji Tokiwa, right?」"
+	},
+	{
+		"LABEL": "0xB9AE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yes, I'm Saihouji Tokiwa. And you are?」"
+	},
+	{
+		"LABEL": "0xB9F1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Me? I'm... No, more than that, Saihouji――」"
+	},
+	{
+		"LABEL": "0xBA40",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Since this isn't an academic conference or anything, feel free to call me Tokiwa.」"
+	},
+	{
+		"LABEL": "0xBA8B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Well then... Tokiwa-san. I've heard a lot about you. It's a pleasure to meet you.」"
+	},
+	{
+		"LABEL": "0xBB68",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Huh. Is that so?」"
+	},
+	{
+		"LABEL": "0xBBB8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Not paying attention to my outstretched hand, Tokiwa turned her head to the window again."
+	},
+	{
+		"LABEL": "0xBC0C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And with both of her palms plastered to the window, she pushed her face closer until her forehead almost hit the glass."
+	},
+	{
+		"LABEL": "0xBC76",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She didn't care about me anymore."
+	},
+	{
+		"LABEL": "0xBCA2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "This was the girl genius everyone was talking about...?"
+	},
+	{
+		"LABEL": "0xBCCA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Scratching my head with my outstretched hand that now had nowhere else to go, I sorted out the information I had learned about her beforehand."
+	},
+	{
+		"LABEL": "0xBDAB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Saihouji Tokiwa..."
+	},
+	{
+		"LABEL": "0xBDCB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was the name of a girl genius who had once been the talk of the town and had caused a stir in various fields."
+	},
+	{
+		"LABEL": "0xBE1F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I remembered it well because it was covered in the public media."
+	},
+	{
+		"LABEL": "0xBE71",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The genius who invented the artificial photosynthesis%Ntechnology that formed the basis%Nof the <Isle of Wind>―that was Tokiwa."
+	},
+	{
+		"LABEL": "0xBECB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However, her exposure in the public media had decreased since then, and before long, I had forgotten all about her until now."
+	},
+	{
+		"LABEL": "0xBF31",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She disappeared not only from the public media but also from the academic world."
+	},
+	{
+		"LABEL": "0xBF79",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Because of the timing, there was some misguided speculation that she might have died in the Aqualine accident..."
+	},
+	{
+		"LABEL": "0xBFF1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I didn't realize she was participating in this event."
+	},
+	{
+		"LABEL": "0xC186",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If she was invited here, she must have been involved in the project's development."
+	},
+	{
+		"LABEL": "0xC1D8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As she stood there, facing the sea, she suddenly opened her mouth."
+	},
+	{
+		"LABEL": "0xC297",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Do you like sea creatures?」"
+	},
+	{
+		"LABEL": "0xC2CC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...Was she talking to herself, maybe?"
+	},
+	{
+		"LABEL": "0xC2EE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No, that was a question... I looked around and saw no one other than me nearby."
+	},
+	{
+		"LABEL": "0xC338",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "So I guess she was talking to me..."
+	},
+	{
+		"LABEL": "0xC37C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I don't know much about them, but if you asked me if I liked them or not, I'd say I do.」"
+	},
+	{
+		"LABEL": "0xC43D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Is that so...」"
+	},
+	{
+		"LABEL": "0xC459",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I love them. I love them, so I've read many books about them.」"
+	},
+	{
+		"LABEL": "0xC4A1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I've also visited aquariums and looked at data from various experiments and studies.」"
+	},
+	{
+		"LABEL": "0xC559",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But this is the first time I've seen them living freely in the open sea like this.」"
+	},
+	{
+		"LABEL": "0xC625",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Therefore, I'm feeling very excited.」"
+	},
+	{
+		"LABEL": "0xC65A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I... see...」"
+	},
+	{
+		"LABEL": "0xC74E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Sardines!」"
+	},
+	{
+		"LABEL": "0xC772",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Huh?」"
+	},
+	{
+		"LABEL": "0xC788",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa tapped the acrylic with the tip of her finger."
+	},
+	{
+		"LABEL": "0xC848",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I looked in the direction she indicated and saw a large school of sardines swimming in a circle."
+	},
+	{
+		"LABEL": "0xC890",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Oh... That sure is spectacular...」"
+	},
+	{
+		"LABEL": "0xC8C2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Each fish was small, but together they formed a huge vortex."
+	},
+	{
+		"LABEL": "0xC920",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The beauty of the formation reminded me of a story about a little fish I read in my childhood Japanese textbook."
+	},
+	{
+		"LABEL": "0xC976",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A vortex of blue and silver swirling in the sunlight."
+	},
+	{
+		"LABEL": "0xC9A8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The figure looked like a giant snake."
+	},
+	{
+		"LABEL": "0xCB77",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「A mambo!」"
+	},
+	{
+		"LABEL": "0xCB9D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Wow...」"
+	},
+	{
+		"LABEL": "0xCBB5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I was completely engrossed in my thoughts, but Tokiwa's wild scream brought me back to reality."
+	},
+	{
+		"LABEL": "0xCCF8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Whoa...」"
+	},
+	{
+		"LABEL": "0xCD10",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A mambo appeared right outside the window and quickly filled my field of vision with its body."
+	},
+	{
+		"LABEL": "0xCD74",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...It was huge."
+	},
+	{
+		"LABEL": "0xCD92",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The mambo that swam downward from the edge of the window was many times larger than I had imagined."
+	},
+	{
+		"LABEL": "0xCDEC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But, this guy... Was it alive?"
+	},
+	{
+		"LABEL": "0xCE1A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I could see its fins moving if I looked closely, but it was better described as drifting in the sea."
+	},
+	{
+		"LABEL": "0xCE88",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The mambo swam by, or rather, the submarine moved right up to it."
+	},
+	{
+		"LABEL": "0xCF3F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And those eyes..."
+	},
+	{
+		"LABEL": "0xCF5F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It had an indescribable, yet elegant, look on its face."
+	},
+	{
+		"LABEL": "0xCF8D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "To put it plainly, it was ugly――"
+	},
+	{
+		"LABEL": "0xCFC2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「How... How adorable!」"
+	},
+	{
+		"LABEL": "0xD12E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yeah...」"
+	},
+	{
+		"LABEL": "0xD148",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I looked next to me and saw Tokiwa fixed in a pose with her hands together in front of her chest."
+	},
+	{
+		"LABEL": "0xD192",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...Oh, come on. Are you kidding me?"
+	},
+	{
+		"LABEL": "0xD2B0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I spun around to face the mambo."
+	},
+	{
+		"LABEL": "0xD2DA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was true that this mambo had a somewhat charming expression―no, no, it didn't."
+	},
+	{
+		"LABEL": "0xD468",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Mambo...」"
+	},
+	{
+		"LABEL": "0xD514",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Tokiwa wandered off, holding her pose and chasing after the mambo, not paying attention to my grimacing face."
+	},
+	{
+		"LABEL": "0xD596",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hey...!」"
+	},
+	{
+		"LABEL": "0xD5B2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She wandered straight out of the observation deck."
+	},
+	{
+		"LABEL": "0xD5EE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "How far was she going to follow it...?"
+	},
+	{
+		"LABEL": "0xD66F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【I hope everyone is enjoying the underwater scenery.】"
+	},
+	{
+		"LABEL": "0xD6AF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【Now, the <SHEEP III> with everyone on board will dive even deeper.】"
+	},
+	{
+		"LABEL": "0xD706",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【We will be gradually moving farther away from the surface of the sea to where sunlight will no longer reach us.】"
+	},
+	{
+		"LABEL": "0xD752",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【The lights in the observation deck will be dimmed accordingly.】"
+	},
+	{
+		"LABEL": "0xD7A4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【Now then, please enjoy the mystery of the deep sea.】"
+	},
+	{
+		"LABEL": "0xD7D6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "According to the information I researched beforehand, the submarine's diving speed was 0.1 m/s."
+	},
+	{
+		"LABEL": "0xD819",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Ten centimeters per second. That was pretty slow."
+	},
+	{
+		"LABEL": "0xD84B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I couldn't feel any acceleration at all."
+	},
+	{
+		"LABEL": "0xD871",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I felt it during the dive earlier, but now I wasn't sure if we were actually moving."
+	},
+	{
+		"LABEL": "0xD8CD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "On the other hand, the brightness was lowering rapidly, making me sure that we were slowly but surely heading toward the deep sea."
+	},
+	{
+		"LABEL": "0xD937",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As announced, the lights in the observation deck gradually dimmed."
+	},
+	{
+		"LABEL": "0xD977",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "At the same time, the blue shine coming in from outside the window slowly turned darker."
+	},
+	{
+		"LABEL": "0xD9C3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As if in response, the voices of the people chatting inside the observation deck became more subdued."
+	},
+	{
+		"LABEL": "0xDA19",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The atmosphere was like that of a movie theater just before a screening."
+	},
+	{
+		"LABEL": "0xDA4F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The light level in the observation deck quickly diminished, and within a few minutes, it was too dark even to see our feet."
+	},
+	{
+		"LABEL": "0xDAB7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The only sound in the quiet observation deck was that of the air conditioning."
+	},
+	{
+		"LABEL": "0xDAF1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari's voice echoed in the tense air."
+	},
+	{
+		"LABEL": "0xDB4B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Ladies and gentlemen, from here on out, it's the Twilight Zone.」"
+	},
+	{
+		"LABEL": "0xDC2C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As if on cue, the remaining lights in the observation deck gradually changed color."
+	},
+	{
+		"LABEL": "0xDC78",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The electric lights imitating natural light slowly turned red..."
+	},
+	{
+		"LABEL": "0xDCAC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The amount of lighting itself remained the same, but the room was now even closer to darkness."
+	},
+	{
+		"LABEL": "0xDCF2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "This lighting wasn't very appropriate for the vivid image of the sea."
+	},
+	{
+		"LABEL": "0xDD3E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The red light was probably to simulate a twilight dusk."
+	},
+	{
+		"LABEL": "0xDD8F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「We'll continue to go over 100 meters deep, approaching 200 meters, but――」"
+	},
+	{
+		"LABEL": "0xDDD7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Before that, I'd like to give a brief introduction once again.」"
+	},
+	{
+		"LABEL": "0xDEA0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As if in response to the buzzing passengers, Yukari went up to the stage."
+	},
+	{
+		"LABEL": "0xDEEB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「So, we're finally getting close to the deep sea.」"
+	},
+	{
+		"LABEL": "0xDF25",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I mentioned earlier that the deep sea is the sea after 200 meters in depth―but why precisely that number?」"
+	},
+	{
+		"LABEL": "0xDF95",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「In fact, a depth of 200 meters is the limit at which phytoplankton can carry out photosynthesis.」"
+	},
+	{
+		"LABEL": "0xDFEB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Only 20%% of the water in the world's seas is above the depth of 200 meters, where plants can live, as the name \"surface layer\" implies.」"
+	},
+	{
+		"LABEL": "0xE06C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「In the remaining 80%% of the sea, which is the deep sea, plants can't photosynthesize... Yes――」"
+	},
+	{
+		"LABEL": "0xE0F6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――The light of the surface can't reach there.」"
+	},
+	{
+		"LABEL": "0xE129",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was like a locked room that, instead of being unable to leave, one could not enter."
+	},
+	{
+		"LABEL": "0xE175",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No light could reach it―that was the condition of the deep sea, huh?"
+	},
+	{
+		"LABEL": "0xE1B7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I looked out the window."
+	},
+	{
+		"LABEL": "0xE1D9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Even from this dark room, I could only see my own reflection in the window and nothing of the outside world."
+	},
+	{
+		"LABEL": "0xE237",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was as if it was just a mirror or a pre-show screen."
+	},
+	{
+		"LABEL": "0xE26B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "For example, if we were above the sea's surface, I'd be able to see the light of the stars... No."
+	},
+	{
+		"LABEL": "0xE2B3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I looked at my watch, and it wasn't even past 5 o'clock yet."
+	},
+	{
+		"LABEL": "0xE354",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "So――"
+	},
+	{
+		"LABEL": "0xE36E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If plants couldn't survive, the animals that feed on them couldn't survive either."
+	},
+	{
+		"LABEL": "0xE3C2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A world ruled by the Spider Queen, where the rules of our world didn't apply."
+	},
+	{
+		"LABEL": "0xE418",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That was the deep sea."
+	},
+	{
+		"LABEL": "0xE57C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The color of the deep sea, where no light can reach, is not blue, but black.」"
+	},
+	{
+		"LABEL": "0xE5B6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「At a depth of about 70 meters, 99.9%% of the incoming light is absorbed.」"
+	},
+	{
+		"LABEL": "0xE5FE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But that doesn't mean that there's no light at all in the deep sea.」"
+	},
+	{
+		"LABEL": "0xE64E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The twilight zone, the sea from 100 to 1000 meters deep...」"
+	},
+	{
+		"LABEL": "0xE689",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「There, the weak light emitted by luminous organisms can be seen, like the first stars of the evening.」"
+	},
+	{
+		"LABEL": "0xE6D1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「It's a faint, pale light...」"
+	},
+	{
+		"LABEL": "0xE703",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm sure it looks like total darkness outside the window to you.」"
+	},
+	{
+		"LABEL": "0xE745",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「But even in that darkness, life is thriving.」"
+	},
+	{
+		"LABEL": "0xE7BA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Have you noticed? We are now at a depth of 200 meters――」"
+	},
+	{
+		"LABEL": "0xE800",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――We're in the deep sea.」"
+	},
+	{
+		"LABEL": "0xE9FE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Suddenly, I heard the sound of a microphone being cut off."
+	},
+	{
+		"LABEL": "0xEA36",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was dark, and even the emergency lights were turned off."
+	},
+	{
+		"LABEL": "0xEA5E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was stifling, as if ether was filling the air, and even my hearing seemed hindered."
+	},
+	{
+		"LABEL": "0xEAC0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "My vision was a blur of black and red."
+	},
+	{
+		"LABEL": "0xEAEA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The breath of life?"
+	},
+	{
+		"LABEL": "0xEB08",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I didn't feel it in the slightest."
+	},
+	{
+		"LABEL": "0xEB34",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "This was the true nature of the sea..."
+	},
+	{
+		"LABEL": "0xEB5E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The blue waters were only a tiny part of the surface."
+	},
+	{
+		"LABEL": "0xEB96",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "While thinking about that, my eyes gradually adjusted to the darkness."
+	},
+	{
+		"LABEL": "0xEC5D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Aah...」"
+	},
+	{
+		"LABEL": "0xEC77",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I noticed a dot of light on the other side of my palm, outside the window."
+	},
+	{
+		"LABEL": "0xECC7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I couldn't hide the fact that my face was filled with excitement."
+	},
+	{
+		"LABEL": "0xED4E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was a small and feeble light... A faint light that was still too weak to compare to a firefly's."
+	},
+	{
+		"LABEL": "0xEDA4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "When I saw it, another one appeared. "
+	},
+	{
+		"LABEL": "0xEE37",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And another one..."
+	},
+	{
+		"LABEL": "0xEE5D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I found myself looking out the window and seeing flickering lights everywhere."
+	},
+	{
+		"LABEL": "0xEE99",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I couldn't see them just a moment ago, but that was just because it wasn't possible to see them."
+	},
+	{
+		"LABEL": "0xEF40",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There were hundreds of lights outside the window... It was like a starry sky."
+	},
+	{
+		"LABEL": "0xEF80",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As the room filled with quiet cheers and sighs, I forgot my objective and merely looked at the scenery before me."
+	},
+	{
+		"LABEL": "0xF0C9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I must've kept watching like that for five minutes."
+	},
+	{
+		"LABEL": "0xF0FA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I was getting used to the dim lights."
+	},
+	{
+		"LABEL": "0xF124",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I got a little closer to the window and..."
+	},
+	{
+		"LABEL": "0xF1AF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Kyah!」"
+	},
+	{
+		"LABEL": "0xF1CB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Perhaps because of my sudden movement, I collided with someone who seemed to be walking right next to me."
+	},
+	{
+		"LABEL": "0xF21F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "With a cute voice, the person I bumped into seemed to fall down on the spot."
+	},
+	{
+		"LABEL": "0xF26D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I reached my hand out into the darkness blindly."
+	},
+	{
+		"LABEL": "0xF2A1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The other person grabbed it back and stood up―or rather, I pulled them up since they were quite light."
+	},
+	{
+		"LABEL": "0xF30D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...Could this be that girl that was on the mic earlier?"
+	},
+	{
+		"LABEL": "0xF33D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If that was the case... then I didn't really want to get involved."
+	},
+	{
+		"LABEL": "0xF379",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Ow, ow, ow... I think I hit my hip.」"
+	},
+	{
+		"LABEL": "0xF3A5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Are you okay?」"
+	},
+	{
+		"LABEL": "0xF3C5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Not really, but don't worry about it.」"
+	},
+	{
+		"LABEL": "0xF3F1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Are you all right?」"
+	},
+	{
+		"LABEL": "0xF413",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Yeah, I'm fine, really.」"
+	},
+	{
+		"LABEL": "0xF43D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I see, that's a relief... Wait, that's not it.」"
+	},
+	{
+		"LABEL": "0xF48B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「? What do you mean?」"
+	},
+	{
+		"LABEL": "0xF4BF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Oh, sorry for the sudden question, but I was wondering if you know my little sister?」"
+	},
+	{
+		"LABEL": "0xF4FF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Little sister...?"
+	},
+	{
+		"LABEL": "0xF51B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Maybe she meant..."
+	},
+	{
+		"LABEL": "0xF547",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Um, what's your sister like?」"
+	},
+	{
+		"LABEL": "0xF577",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Well, she's a really sweet girl, but easily misunderstood...」"
+	},
+	{
+		"LABEL": "0xF5BD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No, that's not what I meant..."
+	},
+	{
+		"LABEL": "0xF5E5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「She's been frail since she was young, so people tend to think of her as a gloomy kid... But she's not.」"
+	},
+	{
+		"LABEL": "0xF63D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「She forgot to take an important medicine and got separated from me.」"
+	},
+	{
+		"LABEL": "0xF695",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「And I didn't see where she went in this darkness... So, do you happen to know her?」"
+	},
+	{
+		"LABEL": "0xF6E3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Frail, huh?"
+	},
+	{
+		"LABEL": "0xF705",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But still, this tone of voice..."
+	},
+	{
+		"LABEL": "0xF72B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I stared at the girl who was still trying to speak up."
+	},
+	{
+		"LABEL": "0xF827",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I was pretty sure she was the girl who was with Yukari on the stage earlier."
+	},
+	{
+		"LABEL": "0xF892",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "So, her sister would then be――"
+	},
+	{
+		"LABEL": "0xF973",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I might know her.」"
+	},
+	{
+		"LABEL": "0xFA30",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Huh?」"
+	},
+	{
+		"LABEL": "0xFA4B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I think I talked to your sister a short while ago.」"
+	},
+	{
+		"LABEL": "0xFAA2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You... Talked to her?」"
+	},
+	{
+		"LABEL": "0xFACF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The girl was wondering why."
+	},
+	{
+		"LABEL": "0xFAF1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "When I tilted my head, she opened her mouth as if to make up for it."
+	},
+	{
+		"LABEL": "0xFBAA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「She's... just a little bit weird, you know?」"
+	},
+	{
+		"LABEL": "0xFBEC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「So hearing that you talked to her was a bit surprising.」"
+	},
+	{
+		"LABEL": "0xFC29",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "\"A little bit\" weird for sure..."
+	},
+	{
+		"LABEL": "0xFC69",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The girl in front of me bowed her head."
+	},
+	{
+		"LABEL": "0xFCFD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Thank you for talking to her.」"
+	},
+	{
+		"LABEL": "0xFD43",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「No, that's...」"
+	},
+	{
+		"LABEL": "0xFD65",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I saw her leaving the observation deck a while ago.」"
+	},
+	{
+		"LABEL": "0xFDAB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If she's not back yet, then maybe she's in the front section...」"
+	},
+	{
+		"LABEL": "0xFDFA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The front section! "
+	},
+	{
+		"LABEL": "0xFE7E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Thank you!」"
+	},
+	{
+		"LABEL": "0xFEC8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I wondered if she considered her surroundings at all."
+	},
+	{
+		"LABEL": "0xFEEA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "With a cheerful whisper, she turned on her heel."
+	},
+	{
+		"LABEL": "0xFF24",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She held up her right hand as she left."
+	},
+	{
+		"LABEL": "0xFF48",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Her hand was glimmering with faint light."
+	},
+	{
+		"LABEL": "0xFF76",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hey, wait a sec!」"
+	},
+	{
+		"LABEL": "0x10013",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Eh?」"
+	},
+	{
+		"LABEL": "0x1002E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The girl stiffened reflexively when I raised my voice."
+	},
+	{
+		"LABEL": "0x1006E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It might've stopped her stealthy exit, but that couldn't be helped."
+	},
+	{
+		"LABEL": "0x100C0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But more than that..."
+	},
+	{
+		"LABEL": "0x100E6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "On the palm of the still girl's hand was a streak of――"
+	},
+	{
+		"LABEL": "0x10118",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Your hand.」"
+	},
+	{
+		"LABEL": "0x101FB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The girl tensed up and covered her injured right hand, but it was too late."
+	},
+	{
+		"LABEL": "0x10251",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The smooth streak that was burned into my eyes had been a wound."
+	},
+	{
+		"LABEL": "0x10285",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Blood was coming out of it."
+	},
+	{
+		"LABEL": "0x102AB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I wondered if she had bumped into something sharp when she fell earlier."
+	},
+	{
+		"LABEL": "0x102F9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...Ignoring this would leave a sour aftertaste in my mouth, even if it was a hassle."
+	},
+	{
+		"LABEL": "0x1033F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You can't leave an injury like that untreated.」"
+	},
+	{
+		"LABEL": "0x1037F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I believe the emergency room is――」"
+	},
+	{
+		"LABEL": "0x103CA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I recalled the map of the ship I had committed to memory before boarding."
+	},
+	{
+		"LABEL": "0x10404",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I think the emergency room was... in the front section."
+	},
+	{
+		"LABEL": "0x1042E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「If you're going to the front section, there should be an emergency room there.」"
+	},
+	{
+		"LABEL": "0x10476",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「While you're there, you might want to get that checked out.」"
+	},
+	{
+		"LABEL": "0x10525",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「This... isn't all that serious.」"
+	},
+	{
+		"LABEL": "0x10560",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Wrong!」"
+	},
+	{
+		"LABEL": "0x105E6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Even though we were in a submarine, we were still in the deep sea!"
+	},
+	{
+		"LABEL": "0x1061A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Did she have any idea how dangerous it was to leave a cut untreated in a hotbed of microbes and bacteria like this?!"
+	},
+	{
+		"LABEL": "0x10674",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...Just before I started rambling, I noticed that the girl in front of me was staring at me in wonder."
+	},
+	{
+		"LABEL": "0x106F3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The passengers around me were looking at me curiously yet again."
+	},
+	{
+		"LABEL": "0x10731",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...How uncomfortable."
+	},
+	{
+		"LABEL": "0x10757",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I'd like to just take her by the hand and walk her to the emergency room myself."
+	},
+	{
+		"LABEL": "0x107A7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No, I was responsible for her injury in the first place and should do that without being told..."
+	},
+	{
+		"LABEL": "0x107FF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There was no time."
+	},
+	{
+		"LABEL": "0x10887",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Uh... well, I think your sister also said something about going to the emergency room...」"
+	},
+	{
+		"LABEL": "0x109B9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Really?!」"
+	},
+	{
+		"LABEL": "0x109DF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Of course, that was a lie."
+	},
+	{
+		"LABEL": "0x10A57",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But the girl spun on her heel before I had a chance to continue."
+	},
+	{
+		"LABEL": "0x10AA1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "At this rate, she was sure to visit the emergency room."
+	},
+	{
+		"LABEL": "0x10AD7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Even if my lie was exposed there, the ship's doctor would not leave an injured girl alone."
+	},
+	{
+		"LABEL": "0x10B2F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "So, the matter was settled."
+	},
+	{
+		"LABEL": "0x10B53",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I smiled vaguely, relieved and exhausted."
+	},
+	{
+		"LABEL": "0x10B7F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She bowed her head and weaved her way through the crowd, and I saw off her running back."
+	},
+	{
+		"LABEL": "0x10BCB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Bam!"
+	},
+	{
+		"LABEL": "0x10BE1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Ouch!」"
+	},
+	{
+		"LABEL": "0x10C08",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Sorry!」"
+	},
+	{
+		"LABEL": "0x10C29",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "....."
+	},
+	{
+		"LABEL": "0x10C41",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As I stared at the girl's back, I saw another shadow slowly approaching."
+	},
+	{
+		"LABEL": "0x10C99",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was a familiar figure, unmistakably the girl in white."
+	},
+	{
+		"LABEL": "0x10CEB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...Wait, wait, wait!"
+	},
+	{
+		"LABEL": "0x10D0F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hey, Hikari-san.」"
+	},
+	{
+		"LABEL": "0x10D31",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "When I called out to her, Lumiere=Hikari waved and approached me."
+	},
+	{
+		"LABEL": "0x10DFA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Well, well. If it isn't the guy from earlier――」"
+	},
+	{
+		"LABEL": "0x10E23",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Your sister was looking for you just now...」"
+	},
+	{
+		"LABEL": "0x10E72",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Huh? My sister? She was looking for me?」"
+	},
+	{
+		"LABEL": "0x10EB1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...I'm pretty sure you just passed each other...」"
+	},
+	{
+		"LABEL": "0x10EEB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Pay more attention."
+	},
+	{
+		"LABEL": "0x10F03",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I muttered in a low voice."
+	},
+	{
+		"LABEL": "0x10F23",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hikari didn't seem to hear me as she excitedly held her cheeks."
+	},
+	{
+		"LABEL": "0x10F7F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She was a bit strange, after all."
+	},
+	{
+		"LABEL": "0x10FB5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I started to feel somewhat sluggish."
+	},
+	{
+		"LABEL": "0x10FD5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「She was very worried about your health――」"
+	},
+	{
+		"LABEL": "0x11030",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「So, where did she go?」"
+	},
+	{
+		"LABEL": "0x1105F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...She just waltzed out of here the same way you went.」"
+	},
+	{
+		"LABEL": "0x1109D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I pointed to the entrance leading to the front section."
+	},
+	{
+		"LABEL": "0x11148",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Thank you so much!」"
+	},
+	{
+		"LABEL": "0x111EE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Spinning around on the spot, "
+	},
+	{
+		"LABEL": "0x1126C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hikari went back in the%Ndirection she had come from."
+	},
+	{
+		"LABEL": "0x112AC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Ow!」"
+	},
+	{
+		"LABEL": "0x112D3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Sorry about that!」"
+	},
+	{
+		"LABEL": "0x112FA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "....."
+	},
+	{
+		"LABEL": "0x11333",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Sisters, huh.」"
+	},
+	{
+		"LABEL": "0x11353",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Well."
+	},
+	{
+		"LABEL": "0x11369",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It didn't matter. I glanced at my watch."
+	},
+	{
+		"LABEL": "0x113A5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Already around 17:00."
+	},
+	{
+		"LABEL": "0x113C9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I guess I'd gotten too relaxed."
+	},
+	{
+		"LABEL": "0x113F5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "This was why it was so troublesome to get involved with other people."
+	},
+	{
+		"LABEL": "0x1142B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...This was not the time for any of that."
+	},
+	{
+		"LABEL": "0x11469",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I better get started with the preparations..."
+	},
+	{
+		"LABEL": "0x114CC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【This is an emergency broadcast――】"
+	},
+	{
+		"LABEL": "0x114EE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【All passengers and crew should gather in the rear section on the third floor.】"
+	},
+	{
+		"LABEL": "0x1152C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "【I repeat. Everyone. Gather in the rear section, third floor, observation deck.】"
+	},
+	{
+		"LABEL": "0x11572",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A voice came through the speakers without warning, causing all the passengers to look up simultaneously."
+	},
+	{
+		"LABEL": "0x115C0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「POL...?」"
+	},
+	{
+		"LABEL": "0x115DB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The artificial voice that sounded somehow familiar."
+	},
+	{
+		"LABEL": "0x11609",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was unmistakably that of the artificial intelligence, POL."
+	},
+	{
+		"LABEL": "0x1163A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But..."
+	},
+	{
+		"LABEL": "0x11652",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Its tone of voice was clearly different from the previous announcements."
+	},
+	{
+		"LABEL": "0x1169C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Strange."
+	},
+	{
+		"LABEL": "0x116B4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It made an announcement to the passengers and crew with a pressuring and compelling tone."
+	},
+	{
+		"LABEL": "0x1171C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I didn't see that being an announcement made as a guide for this cruise submarine."
+	},
+	{
+		"LABEL": "0x11821",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As if to mock our confusion, the room lighting turned brighter."
+	},
+	{
+		"LABEL": "0x11863",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No warning for that, either."
+	},
+	{
+		"LABEL": "0x1188B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The bright lights made me feel slightly dizzy."
+	},
+	{
+		"LABEL": "0x118E9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――The hell?"
+	},
+	{
+		"LABEL": "0x11901",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What the hell was going on here?"
+	},
+	{
+		"LABEL": "0x11929",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "While I was standing there, more people were entering the observation deck."
+	},
+	{
+		"LABEL": "0x11971",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "People walked left and right, letting their anxiety show in their expressions."
+	},
+	{
+		"LABEL": "0x119AB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Eventually, when I regained my bearings, people were looking to the podium for the attendant's instructions."
+	},
+	{
+		"LABEL": "0x119F7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I followed suit."
+	},
+	{
+		"LABEL": "0x11A83",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The first thing I saw was Momoi Yukari."
+	},
+	{
+		"LABEL": "0x11AAB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The woman who called herself chief attendant looked around restlessly, unable to grasp the situation."
+	},
+	{
+		"LABEL": "0x11B05",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She couldn't maintain her earlier confidence and looked just like an anxious young girl."
+	},
+	{
+		"LABEL": "0x11B94",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Before long――"
+	},
+	{
+		"LABEL": "0x11BAC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In no time at all, the observation deck was filled with passengers."
+	},
+	{
+		"LABEL": "0x11BE8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "This might be everyone on board the <SHEEP III>."
+	},
+	{
+		"LABEL": "0x11C25",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In the observation deck, which was rather cramped even though it was spacious, the people assembled there looked at each other."
+	},
+	{
+		"LABEL": "0x11C85",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What on earth was happening―no one knew."
+	},
+	{
+		"LABEL": "0x11CBF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The air was so tense that it stung my skin."
+	},
+	{
+		"LABEL": "0x11CEB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Everyone was feeling rather nervous compared to before."
+	},
+	{
+		"LABEL": "0x11D8A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Everyone turned their attention to the orderly footsteps."
+	},
+	{
+		"LABEL": "0x11DB8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A group of men emerged from the bridge connecting the front section to the observation deck."
+	},
+	{
+		"LABEL": "0x11DFA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Four, no... five people."
+	},
+	{
+		"LABEL": "0x11E1A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Dressed in uniforms, they were probably crew members."
+	},
+	{
+		"LABEL": "0x11E4E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However."
+	},
+	{
+		"LABEL": "0x11E64",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No one felt relieved after seeing them."
+	},
+	{
+		"LABEL": "0x11E96",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Wha――」"
+	},
+	{
+		"LABEL": "0x11F23",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "People shuddered."
+	},
+	{
+		"LABEL": "0x11F37",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "They were not just a group of men wearing uniforms."
+	},
+	{
+		"LABEL": "0x11F79",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "They were wearing heavy masks and protective clothing."
+	},
+	{
+		"LABEL": "0x11F9F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was a strange sight."
+	},
+	{
+		"LABEL": "0x11FB7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What the hell was this all about?"
+	},
+	{
+		"LABEL": "0x11FDB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No, let's not lose our cool here."
+	},
+	{
+		"LABEL": "0x12001",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Everyone was silent."
+	},
+	{
+		"LABEL": "0x12023",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No one could move."
+	},
+	{
+		"LABEL": "0x1203B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In the frigid atmosphere, it wasn't us who made the first move, but them."
+	},
+	{
+		"LABEL": "0x1208B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Standing in the center of the room, a burly man took a step forward."
+	},
+	{
+		"LABEL": "0x120D1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "He was about 190 centimeters tall."
+	},
+	{
+		"LABEL": "0x120F8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "His face seemed familiar through the goggles of his mask."
+	},
+	{
+		"LABEL": "0x1212A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was the person who had been on the stage at the opening ceremony earlier―a ROMLES employee."
+	},
+	{
+		"LABEL": "0x12184",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "He looked around at the passengers and bowed lightly."
+	},
+	{
+		"LABEL": "0x121B4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「There's no need to worry. We're here to ensure your safety.」"
+	},
+	{
+		"LABEL": "0x12200",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Everyone, please remain where you are.」"
+	},
+	{
+		"LABEL": "0x122AF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Misasagi!」"
+	},
+	{
+		"LABEL": "0x122DE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was Yukari who jumped out of the crowd, interrupting the man."
+	},
+	{
+		"LABEL": "0x1232D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Commander Misasagi, what's――」"
+	},
+	{
+		"LABEL": "0x1235C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Momoi. I thank you for your service on this ship so far.」"
+	},
+	{
+		"LABEL": "0x12384",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「The situation has changed. There's something I need to relay to you.」"
+	},
+	{
+		"LABEL": "0x123B6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The man known as Misasagi didn't move from the entrance of the observation deck."
+	},
+	{
+		"LABEL": "0x123FE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...Wasn't Yukari the chief officer on this boat?"
+	},
+	{
+		"LABEL": "0x12438",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But no matter how you looked at it, he was the one in charge."
+	},
+	{
+		"LABEL": "0x12460",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "When Yukari rushed over to Misasagi's side, he whispered something to her ear."
+	},
+	{
+		"LABEL": "0x12515",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――Quarantine?」"
+	},
+	{
+		"LABEL": "0x12536",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A low murmur that didn't reach other people's ears."
+	},
+	{
+		"LABEL": "0x1256E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Yukari seemed to ask a question, but no answer was given."
+	},
+	{
+		"LABEL": "0x125B4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She looked at the goggles and mask handed to her in confusion."
+	},
+	{
+		"LABEL": "0x12600",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Come on, go.」"
+	},
+	{
+		"LABEL": "0x1262F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x12677",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "She stood there in silence for a while, and as if making up her mind, she disappeared into the bridge."
+	},
+	{
+		"LABEL": "0x126DF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Satisfied after seeing her off, Misasagi turned back to us."
+	},
+	{
+		"LABEL": "0x1271D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Everyone, please remain where you are.」"
+	},
+	{
+		"LABEL": "0x1274F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「We will be checking everyone's IDs now.」"
+	},
+	{
+		"LABEL": "0x12787",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Please have your boarding pass ready at hand.」"
+	},
+	{
+		"LABEL": "0x127C3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...What was this?"
+	},
+	{
+		"LABEL": "0x127E1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Just, hold on."
+	},
+	{
+		"LABEL": "0x127FD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I clutched the ID in my pocket."
+	},
+	{
+		"LABEL": "0x1282F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "My hands were sweaty, and I felt like I could drop it at any moment."
+	},
+	{
+		"LABEL": "0x12877",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...This wasn't good."
+	},
+	{
+		"LABEL": "0x12897",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Why would they be checking our IDs now... No way."
+	},
+	{
+		"LABEL": "0x128C5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It couldn't be..."
+	},
+	{
+		"LABEL": "0x128DD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Could they be..."
+	},
+	{
+		"LABEL": "0x12901",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No, it couldn't be."
+	},
+	{
+		"LABEL": "0x12927",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It just couldn't..."
+	},
+	{
+		"LABEL": "0x12945",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I tried to remain calm despite my impatience, but what was the point of all this?"
+	},
+	{
+		"LABEL": "0x1298F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "One by one, the men checked the IDs of the passengers."
+	},
+	{
+		"LABEL": "0x129C7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "None of them refused to do so."
+	},
+	{
+		"LABEL": "0x129EF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Which was natural, with how they were dressed."
+	},
+	{
+		"LABEL": "0x12A21",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Who knows what they'd do if you refused."
+	},
+	{
+		"LABEL": "0x12A59",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Everyone stayed at their spots."
+	},
+	{
+		"LABEL": "0x12A7F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That meant I couldn't move at all... That would be too suspicious."
+	},
+	{
+		"LABEL": "0x12B3E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No..."
+	},
+	{
+		"LABEL": "0x12B52",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But..."
+	},
+	{
+		"LABEL": "0x12B66",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However..."
+	},
+	{
+		"LABEL": "0x12B7C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "At this rate...!"
+	},
+	{
+		"LABEL": "0x12B9C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Sweat trickled down my forehead."
+	},
+	{
+		"LABEL": "0x12BB8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Think... Think...!"
+	},
+	{
+		"LABEL": "0x12BE0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And then――"
+	},
+	{
+		"LABEL": "0x12BF8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A shadow fell over me."
+	},
+	{
+		"LABEL": "0x12CFB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I looked up and saw a man wearing goggles and a mask."
+	},
+	{
+		"LABEL": "0x12D2D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "He reached out his hand to me."
+	},
+	{
+		"LABEL": "0x12D57",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Please show me your ID.」"
+	},
+	{
+		"LABEL": "0x12D7F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「.....」"
+	},
+	{
+		"LABEL": "0x12D99",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What's wrong? Your ID.」"
+	},
+	{
+		"LABEL": "0x12DBF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What should I do?"
+	},
+	{
+		"LABEL": "0x12DDB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There had to be a way to get through this――"
+	},
+	{
+		"LABEL": "0x12EB6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "At that moment."
+	},
+	{
+		"LABEL": "0x12ECE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――The light's went out."
+	},
+	{
+		"LABEL": "0x12EEE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What...?」"
+	},
+	{
+		"LABEL": "0x12F0A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Unlike the darkness from before, now I couldn't see even an inch ahead of me."
+	},
+	{
+		"LABEL": "0x12F56",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I couldn't see a thing."
+	},
+	{
+		"LABEL": "0x12F74",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "My vision was cut."
+	},
+	{
+		"LABEL": "0x12FAE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Like it was shut off――"
+	},
+	{
+		"LABEL": "0x13004",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hey, what is this? What's happening?!」"
+	},
+	{
+		"LABEL": "0x13038",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Can you hear me? Are you okay? Where are you?!」"
+	},
+	{
+		"LABEL": "0x1306C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I didn't know what percentage of the information we got was from sight, but..."
+	},
+	{
+		"LABEL": "0x130B6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The fact that no one could see anything certainly sent everyone into a panic."
+	},
+	{
+		"LABEL": "0x13106",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Our vision was cut off."
+	},
+	{
+		"LABEL": "0x1312E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Just that made our existence so hazy."
+	},
+	{
+		"LABEL": "0x131D1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Ow!」"
+	},
+	{
+		"LABEL": "0x131E9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "As I was thinking that, someone's elbow hit the side of my head."
+	},
+	{
+		"LABEL": "0x13229",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The confusion wasn't limited to just our minds anymore but extended to the material world."
+	},
+	{
+		"LABEL": "0x13265",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The noise of the people kept growing..."
+	},
+	{
+		"LABEL": "0x13289",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Silence!」"
+	},
+	{
+		"LABEL": "0x132A3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Try not to move, please!」"
+	},
+	{
+		"LABEL": "0x132CF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was Misasagi's voice."
+	},
+	{
+		"LABEL": "0x132E7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But his voice was quickly drowned out by the noise rising from the crowd."
+	},
+	{
+		"LABEL": "0x13345",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Does anyone have any light sources?!」"
+	},
+	{
+		"LABEL": "0x1337B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「All electronics should've been left at the port!」"
+	},
+	{
+		"LABEL": "0x133AD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Never mind that, are we sure we're safe here?!」"
+	},
+	{
+		"LABEL": "0x133E1",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The people were talking and shouting anxiously."
+	},
+	{
+		"LABEL": "0x13411",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Their anxiety transformed into anger, and the calm atmosphere from before was destroyed by their rising voices."
+	},
+	{
+		"LABEL": "0x13453",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Eventually, everyone's voices started to overlap into a single mess."
+	},
+	{
+		"LABEL": "0x13499",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Everyone, please be quiet!」"
+	},
+	{
+		"LABEL": "0x134CB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Again, a loud voice resounded."
+	},
+	{
+		"LABEL": "0x134F9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I'm getting confirmation now, so please stand by!」"
+	},
+	{
+		"LABEL": "0x1353D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「――Don't worry, everyone's going to be fine.」"
+	},
+	{
+		"LABEL": "0x1356B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "One by one, the voices stopped, and the people soon fell silent in the darkness."
+	},
+	{
+		"LABEL": "0x135B9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Silence."
+	},
+	{
+		"LABEL": "0x135CD",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "True darkness at the bottom of the sea."
+	},
+	{
+		"LABEL": "0x135F5",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There was no light coming through the windows."
+	},
+	{
+		"LABEL": "0x1361D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "You couldn't fight it. You couldn't run from it..."
+	},
+	{
+		"LABEL": "0x13651",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Still, as I got used to my faint vision, my body's senses returned."
+	},
+	{
+		"LABEL": "0x1368F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The crew was standing in front of the doorway, ready for a potential riot."
+	},
+	{
+		"LABEL": "0x136D3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But the passengers couldn't move in this darkness, even if they wanted to..."
+	},
+	{
+		"LABEL": "0x13713",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The observation deck was silent."
+	},
+	{
+		"LABEL": "0x13735",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There was an unpleasant sense of frustration swirling around me, different from the tense feeling of anticipation I had felt earlier."
+	},
+	{
+		"LABEL": "0x1379F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The anxiety stagnated and settled down."
+	},
+	{
+		"LABEL": "0x137C3",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "People could only look out the windows as if imploring the world beyond them."
+	},
+	{
+		"LABEL": "0x13807",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Behind the thick glass, micro-organisms continued to emit light, as if to mock the passengers――"
+	},
+	{
+		"LABEL": "0x138BB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "5 minutes passed, then ten."
+	},
+	{
+		"LABEL": "0x138E2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There was no change in the situation, and the power outage showed no signs of recovery."
+	},
+	{
+		"LABEL": "0x1391C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A stagnant space, as if time had stopped."
+	},
+	{
+		"LABEL": "0x1395A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "All the while, people were looking for a change in the situation."
+	},
+	{
+		"LABEL": "0x1398A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――Their mutterings echoed clearly in the darkness."
+	},
+	{
+		"LABEL": "0x139CC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hey, this submarine... "
+	},
+	{
+		"LABEL": "0x139EB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Is it sinking?」"
+	},
+	{
+		"LABEL": "0x13A0F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The words that came out of no one's mouth in particular inside the observation deck were quiet."
+	},
+	{
+		"LABEL": "0x13A61",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "While diving, there was no shaking or noise... A selling point for the <SHEEP III>."
+	},
+	{
+		"LABEL": "0x13AC6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That was true even now..."
+	},
+	{
+		"LABEL": "0x13AF8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Ah...」"
+	},
+	{
+		"LABEL": "0x13B10",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The people who were looking out the windows seemed to have noticed something."
+	},
+	{
+		"LABEL": "0x13B46",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "With a small murmur, they pointed out the window."
+	},
+	{
+		"LABEL": "0x13B7C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What their fingers were pointing at was..."
+	},
+	{
+		"LABEL": "0x13B94",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The light that had been flickering outside the windows for a while now,"
+	},
+	{
+		"LABEL": "0x13BC2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "\"Was rising upward.\""
+	},
+	{
+		"LABEL": "0x13BE8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Falling through the night sky――"
+	},
+	{
+		"LABEL": "0x13C12",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「What's the meaning of this?!」"
+	},
+	{
+		"LABEL": "0x13C38",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hey, you better explain that to us!」"
+	},
+	{
+		"LABEL": "0x13C64",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "People were leaving their seats one by one in response to the unbelievable situation."
+	},
+	{
+		"LABEL": "0x13C98",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Anxiety became fear."
+	},
+	{
+		"LABEL": "0x13CB4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Fear became anger."
+	},
+	{
+		"LABEL": "0x13CD0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Anger became hate."
+	},
+	{
+		"LABEL": "0x13CEE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hatred became distress."
+	},
+	{
+		"LABEL": "0x13D0C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The people in unbearable distress became a torrent or a wave."
+	},
+	{
+		"LABEL": "0x13D56",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In the darkness, that swirling and turbulent cascade wouldn't stop."
+	},
+	{
+		"LABEL": "0x13D88",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Please don't move! It's dangerous!」"
+	},
+	{
+		"LABEL": "0x13DB6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The crew blocking the doorway to the observation deck raised their voices."
+	},
+	{
+		"LABEL": "0x13DF2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Confused people crowded around them, struggling against each other."
+	},
+	{
+		"LABEL": "0x13E32",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The crew members struggled to control them, but their faces were also somewhat pale."
+	},
+	{
+		"LABEL": "0x13E7C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was no wonder―they were also worried about not knowing what'd happen next."
+	},
+	{
+		"LABEL": "0x13EC6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Agh!」"
+	},
+	{
+		"LABEL": "0x13EDE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "My sympathy for the crew was short-lived."
+	},
+	{
+		"LABEL": "0x13F08",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The doorway opened, and someone entered."
+	},
+	{
+		"LABEL": "0x13F3A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Eventually, the figure came right up to me, staggered, and grabbed me by the right shoulder."
+	},
+	{
+		"LABEL": "0x13F90",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Excuse me.」"
+	},
+	{
+		"LABEL": "0x13FA6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...You're...」"
+	},
+	{
+		"LABEL": "0x13FC8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was Misasagi."
+	},
+	{
+		"LABEL": "0x13FEA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What was he... doing?"
+	},
+	{
+		"LABEL": "0x14020",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "He didn't pay any attention to me though, and as soon as he regained his bearings, he let go of my shoulder and stepped into the space between the passengers."
+	},
+	{
+		"LABEL": "0x1408E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was as if he was single-mindedly searching for something."
+	},
+	{
+		"LABEL": "0x140C4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "His somewhat mysterious figure was unpleasantly eye-catching in the darkness."
+	},
+	{
+		"LABEL": "0x140FE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...I must...」"
+	},
+	{
+		"LABEL": "0x1411C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If I listened carefully, I could hear him whispering and muttering something to himself."
+	},
+	{
+		"LABEL": "0x1415C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Hurry...」"
+	},
+	{
+		"LABEL": "0x1417A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「I've got to find <Alice>...」"
+	},
+	{
+		"LABEL": "0x141AC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「<Alice>...」"
+	},
+	{
+		"LABEL": "0x141CE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...Alice?"
+	},
+	{
+		"LABEL": "0x141E8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Alice... Lewis Carroll?"
+	},
+	{
+		"LABEL": "0x14218",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A blonde girl in an apron-style dress flashed through my mind."
+	},
+	{
+		"LABEL": "0x14258",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But what's with that metaphor in the middle of the sea?"
+	},
+	{
+		"LABEL": "0x14296",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Misasagi pushed through the crowd, muttering those words in a raspy voice."
+	},
+	{
+		"LABEL": "0x142E6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...Should I go after him?"
+	},
+	{
+		"LABEL": "0x1430E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I hesitated for a moment."
+	},
+	{
+		"LABEL": "0x14328",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "However, now was not the time."
+	},
+	{
+		"LABEL": "0x14354",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Remember your true goal."
+	},
+	{
+		"LABEL": "0x1437E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――This chaos was an opportunity."
+	},
+	{
+		"LABEL": "0x143A8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I couldn't miss it."
+	},
+	{
+		"LABEL": "0x143CC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Some time has passed after the blackout, the passengers' doubts and anxieties were already reaching critical mass."
+	},
+	{
+		"LABEL": "0x14422",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Struggling, grasping, and panicking crowds."
+	},
+	{
+		"LABEL": "0x1445A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Inside the observation deck, the thoughts of the many reverberated and amplified each other, giving birth to even more chaos."
+	},
+	{
+		"LABEL": "0x144A8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was like hell."
+	},
+	{
+		"LABEL": "0x144C4",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...This is a problem.」"
+	},
+	{
+		"LABEL": "0x144E6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I took a deep breath and slowly opened my eyes as I stood at the side of the observation deck, avoiding the crowds."
+	},
+	{
+		"LABEL": "0x14670",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――Well then."
+	},
+	{
+		"LABEL": "0x14688",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It was time to get moving."
+	},
+	{
+		"LABEL": "0x146AA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "First, I had to cross over to the front section..."
+	},
+	{
+		"LABEL": "0x146E8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I looked at the two doors in the observation deck, one on each side."
+	},
+	{
+		"LABEL": "0x14722",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Both were at the center of the chaos... Well, that was understandable."
+	},
+	{
+		"LABEL": "0x14762",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "If I tried to force my way through the door now, others were bound to follow."
+	},
+	{
+		"LABEL": "0x147BE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "That would be a problem... If it turned into a riot, it would interfere with my plans."
+	},
+	{
+		"LABEL": "0x14818",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "So, what do I do now?"
+	},
+	{
+		"LABEL": "0x14840",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Hey, are the lights still not back yet?!」"
+	},
+	{
+		"LABEL": "0x1486E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Someone in the crowd near the door grabbed an attendant by his side."
+	},
+	{
+		"LABEL": "0x148C0",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「How long are you going to keep us in here?!」"
+	},
+	{
+		"LABEL": "0x148FA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「You're hiding something!」"
+	},
+	{
+		"LABEL": "0x14928",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "With his words, the commotion intensified."
+	},
+	{
+		"LABEL": "0x1495A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...I turned my attention away from the commotion and looked at a dark spot near the center of the observation deck."
+	},
+	{
+		"LABEL": "0x149B8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There was a stairway that no one seemed to have noticed in the darkness."
+	},
+	{
+		"LABEL": "0x14A04",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I looked around, made sure no one was watching, and quietly, quickly, approached the side of the stairs."
+	},
+	{
+		"LABEL": "0x14A6A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Most people were distracted by the ongoing unrest."
+	},
+	{
+		"LABEL": "0x14AB2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――Now should be a good time."
+	},
+	{
+		"LABEL": "0x14AD2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I walked down the spiral staircase leading to the lower floor."
+	},
+	{
+		"LABEL": "0x14B6C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I tried to keep my footsteps as quiet as possible while checking my footing."
+	},
+	{
+		"LABEL": "0x14BCA",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I continued through the darkness that grew deeper and deeper."
+	},
+	{
+		"LABEL": "0x14BF6",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "And so, I arrived at the bottom of the pitch-black darkness."
+	},
+	{
+		"LABEL": "0x14C28",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「...Is this all right?」"
+	},
+	{
+		"LABEL": "0x14C4A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I didn't expect a response."
+	},
+	{
+		"LABEL": "0x14C74",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I was asking myself."
+	},
+	{
+		"LABEL": "0x14C8C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "It seemed like even POL hadn't heard me."
+	},
+	{
+		"LABEL": "0x14D16",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I ran down to the second floor of the ship without hesitation."
+	},
+	{
+		"LABEL": "0x14D4A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The second floor of the rear section, which meant down here was... the floor where my room was."
+	},
+	{
+		"LABEL": "0x14E1B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Whoa!」"
+	},
+	{
+		"LABEL": "0x14E35",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There was a sudden shock."
+	},
+	{
+		"LABEL": "0x14E4F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I held onto the handrail of the spiral staircase as I lost my footing and was able to balance myself."
+	},
+	{
+		"LABEL": "0x14E9F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "But... what was that about?"
+	},
+	{
+		"LABEL": "0x14EC7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I hadn't been the least bit fazed by the darkness, but now confusion hit me."
+	},
+	{
+		"LABEL": "0x14EFF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Aaaah!!」"
+	},
+	{
+		"LABEL": "0x14F1D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There was a scream from the observation deck."
+	},
+	{
+		"LABEL": "0x14F3D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I wasn't sure what they were screaming about, but I couldn't believe it reached this far..."
+	},
+	{
+		"LABEL": "0x14F8D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A series of shouts and the voices of several crew members followed."
+	},
+	{
+		"LABEL": "0x14FCF",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The screams showed no signs of stopping."
+	},
+	{
+		"LABEL": "0x14FF9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Hey... This wasn't part of the plan."
+	},
+	{
+		"LABEL": "0x15025",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What the hell was going on?"
+	},
+	{
+		"LABEL": "0x1504B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No, that wasn't the point."
+	},
+	{
+		"LABEL": "0x1506F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「A-Anyway, I need to get to the bridge...」"
+	},
+	{
+		"LABEL": "0x150A9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "My destination was the front section."
+	},
+	{
+		"LABEL": "0x150C9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "A bridge that connected to the front section was located on the first, second, and third floors, respectively."
+	},
+	{
+		"LABEL": "0x15113",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I walked along the wall in the darkness in order to reach its entrance."
+	},
+	{
+		"LABEL": "0x151FB",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Whooaaa!」"
+	},
+	{
+		"LABEL": "0x15219",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "At that moment, the floor tilted upward like a slide."
+	},
+	{
+		"LABEL": "0x1525F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Wait, wait, wait, wait, wait, wait!"
+	},
+	{
+		"LABEL": "0x15287",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I couldn't stand, so I dropped to my knees and slid slowly across the floor."
+	},
+	{
+		"LABEL": "0x152D9",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Oh my God―what was happening?!"
+	},
+	{
+		"LABEL": "0x1530B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I didn't understand."
+	},
+	{
+		"LABEL": "0x1532B",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There was nothing I could do."
+	},
+	{
+		"LABEL": "0x1534F",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "All I could do was resign myself to this situation――"
+	},
+	{
+		"LABEL": "0x1538D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――No, doing that wouldn't solve anything."
+	},
+	{
+		"LABEL": "0x153C7",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "This wasn't the time...!"
+	},
+	{
+		"LABEL": "0x15474",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Uwaaah!」"
+	},
+	{
+		"LABEL": "0x15490",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "There was a booming and heavy sound that shook my insides."
+	},
+	{
+		"LABEL": "0x154B8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "What... What was it now?"
+	},
+	{
+		"LABEL": "0x154DE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I sat down and prepared for the possible danger."
+	},
+	{
+		"LABEL": "0x1550E",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "...Nothing was happening...?"
+	},
+	{
+		"LABEL": "0x15532",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "No, that was wrong."
+	},
+	{
+		"LABEL": "0x1554C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "After a while, the tilting of the ship gradually subsided, and the floor became closer to horizontal."
+	},
+	{
+		"LABEL": "0x15598",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Okay, good, stay just like that..."
+	},
+	{
+		"LABEL": "0x1563D",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Aaaaaaah!!!」"
+	},
+	{
+		"LABEL": "0x15667",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The <SHEEP III> was hit by a shocking sound and shaking that was incomparable to before."
+	},
+	{
+		"LABEL": "0x156AC",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I would've let out a scream, but it would've been drowned out by the sound of the impact reverberating through the ship."
+	},
+	{
+		"LABEL": "0x15702",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I lost my grip on the railing and fell down."
+	},
+	{
+		"LABEL": "0x15740",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Even my consciousness was shaken."
+	},
+	{
+		"LABEL": "0x15766",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "Where, why, and what was I doing...?!"
+	},
+	{
+		"LABEL": "0x15798",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "The constant vibrations and tremors didn't seem to stop."
+	},
+	{
+		"LABEL": "0x157EE",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I rolled up my body and tumbled into the bridge."
+	},
+	{
+		"LABEL": "0x15826",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I hit my body a few times in the darkness, and I couldn't even tell if it was the wall or the floor."
+	},
+	{
+		"LABEL": "0x15880",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "「Argh!」"
+	},
+	{
+		"LABEL": "0x1589A",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I hit my head hard against something, and suddenly all the strength drained from my body."
+	},
+	{
+		"LABEL": "0x158E8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I lay there, my vision blank."
+	},
+	{
+		"LABEL": "0x15916",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "In the stagnant darkness, I started to feel faint――"
+	},
+	{
+		"LABEL": "0x1595C",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "――Shit!"
+	},
+	{
+		"LABEL": "0x15976",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I couldn't just give up like this!"
+	},
+	{
+		"LABEL": "0x159B8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "I desperately reached out."
+	},
+	{
+		"LABEL": "0x159D8",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "My consciousness was fading."
+	},
+	{
+		"LABEL": "0x159F2",
+		"CMD": "TEXT2",
+		"TYPE": -1,
+		"STRING": "At the last moment, as I was lying there, I could hear a roaring sound approaching the floor I was on――"
+	}
+]
