@@ -41,7 +41,7 @@ atmosphere/contents/010071C00CBA4000/exefs
 Assets are available only from Release page.
 
 # Notes
-- Included differences in script between PC and Switch in ScenarioChanges.md
+- Included differences in script between PC and Switch in [ScenarioChanges.md](./ScenarioChanges.md)
     - Except in two chapters, all removed texts were reimplemented. 
     - In `chapterR1` line was added by mistake in original scenario, so there was no reason to reimplement it back. 
     - `chapterR9` had lines related to anime brand that could lead to potential copyright issues (like most deleted lines), they are not important from plot perspective at all. Because engine is not understood well enough, it was not possible to reimplement them 1:1 with all sound and animation effects.
