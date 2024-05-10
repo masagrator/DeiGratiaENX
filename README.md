@@ -11,7 +11,7 @@ Mod is compatible only with version 1.0.1 of game.
 Emulators are not supported by me, but it doesn't mean mod won't work on them.
 
 1. Download mod from Releases
-2. copy `atmosphere` folder to root of your sdcard
+2. Copy `atmosphere` folder to root of your sdcard, accepting any popup about overwriting folders
 3. Run game
 
 # Making mod manually
