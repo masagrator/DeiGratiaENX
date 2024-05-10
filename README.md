@@ -1,17 +1,17 @@
 # DeiGratiaENX
 `Dei Gratia no Rashinban` (デイグラシアの羅針盤) / `Compass of Dei Gratia` English translation mod for Nintendo Switch
 
-Translation mod is based on mod for PC release from `kalitsu` that you can find here:<br>
+This translation mod is based on PC mod from `kalitsu` that you can find here:<br>
 https://vndb.org/r107637
 
 # Installation
 
 Mod is compatible only with version 1.0.1 of game.
 
-Emulators are not supported by me, but it doesn't mean mod won't work on them.
+Emulators are not supported by me, but it doesn't mean mod won't work with them.
 
 1. Download DeiGratiaENX.zip from Releases, unpack it.
-2. Copy `atmosphere` folder to root of your sdcard, accepting any popup about overwriting folders
+2. Copy `atmosphere` folder to the root of your sdcard, accepting any popup about overwriting folders
 3. Run game
 
 # Making mod manually
