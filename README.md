@@ -58,6 +58,7 @@ Assets are available only from Release page.
     - redone all scenario textures
     - translated textures unique to Switch release
     - replaced ascii glyphs in original font with glyphs rendered with Noto Sans Mono ExtraCondensed
+- Reencoded videos are based on PC release because they are higher in both video and audio quality than Switch original videos
 
 # Thanks to
 - `kalitsu` for making translation mod (not involved with this project)
