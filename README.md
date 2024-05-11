@@ -23,7 +23,7 @@ For plugin compilation you need:
 - devkitpro (with `switch-dev` package installed)
 
 To compile plugin, just run `make` inside plugin folder.<br>
-To compile script run `Prepare.cmd` on Windows or in bash opened in root of repo enter lines:
+To compile script run `Prepare.cmd` on Windows or in bash opened in root of `sn` folder enter lines:
 ```cmd
 python3 InjectText.py 
 python3 sn_assembler_re.py
